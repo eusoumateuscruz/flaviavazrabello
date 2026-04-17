@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { Mail, ArrowRight, GraduationCap } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import { EMAIL, WHATSAPP_URL } from "@/lib/site";
+import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 
 const formation = [
   { year: "2010", title: "Bacharel em Direito", subtitle: "Universidade reconhecida — São Paulo" },
@@ -27,7 +28,7 @@ const Sobre = () => {
               style={{ background: 'transparent', overflow: 'hidden' }}
             >
               <img
-                src="/flavia_sobre_branco.png"
+                src={flaviaFoto}
                 alt="Dra. Flávia Vaz Rabello"
                 style={{
                   filter: 'none',
