@@ -340,13 +340,32 @@ const Index = () => {
         <Monogram className="absolute -left-20 -bottom-20 h-[420px] w-[420px] text-primary-foreground/[0.04]" />
         <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch">
           <div className="reveal">
-            <div className="relative h-full min-h-[560px] overflow-hidden">
+            <div
+              className="relative h-full min-h-[560px]"
+              style={{
+                background: "transparent",
+                backgroundColor: "transparent",
+                overflow: "visible",
+                display: "flex",
+                alignItems: "flex-end",
+                height: "100%",
+              }}
+            >
               <img
                 src={flaviaFoto}
                 alt="Dra. Flávia Vaz Rabello"
-                className="absolute inset-0 h-full w-full object-cover"
+                className="w-full"
                 style={{
-                  objectPosition: "50% 30%",
+                  filter: "none",
+                  mixBlendMode: "normal",
+                  opacity: 1,
+                  objectFit: "contain",
+                  objectPosition: "bottom center",
+                  width: "100%",
+                  height: "auto",
+                  maxHeight: "none",
+                  display: "block",
+                  verticalAlign: "bottom",
                 }}
               />
             </div>
