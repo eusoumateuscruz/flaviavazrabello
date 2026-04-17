@@ -17,6 +17,7 @@ import {
 import HeroBackground from "@/components/HeroBackground";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
+import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 
 const trustItems = [
@@ -339,11 +340,25 @@ const Index = () => {
         <Monogram className="absolute -left-20 -bottom-20 h-[420px] w-[420px] text-primary-foreground/[0.04]" />
         <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-center">
           <div className="reveal">
-            <div className="relative aspect-[4/5] max-w-md mx-auto lg:mx-0">
-              <div className="absolute inset-0 border border-accent/40 translate-x-4 translate-y-4" />
-              <div className="absolute inset-0 bg-gradient-to-br from-accent/30 via-primary-foreground/5 to-primary flex items-center justify-center">
-                <Monogram className="h-32 w-32 text-accent/70" />
-              </div>
+            <div
+              className="relative aspect-[4/5] max-w-md mx-auto lg:mx-0"
+              style={{ background: 'transparent', overflow: 'hidden' }}
+            >
+              <img
+                src={flaviaFoto}
+                alt="Dra. Flávia Vaz Rabello"
+                style={{
+                  filter: 'none',
+                  mixBlendMode: 'normal',
+                  opacity: 1,
+                  objectFit: 'contain',
+                  objectPosition: 'bottom center',
+                  width: '100%',
+                  height: '100%',
+                  maxHeight: '600px',
+                  display: 'block',
+                }}
+              />
             </div>
           </div>
 
