@@ -26,7 +26,7 @@ const trustItems = [
   { icon: MapPin, label: "Campinas e Região" },
 ];
 
-const areaIcons = [Users, FileText, Briefcase];
+const areaIcons = [Users, FileText, Briefcase, Scale];
 
 const differentials = [
   {
