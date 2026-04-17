@@ -93,9 +93,18 @@ const Index = () => {
   return (
     <>
       {/* HERO */}
-      <section className="relative min-h-[calc(100vh-5rem)] flex items-center">
+      <section className="relative md:min-h-[calc(100vh-5rem)] md:flex md:items-center">
         <HeroBackground />
-        <div className="container-narrow relative z-10 pt-32 md:pt-40 pb-20">
+        <div className="container-narrow relative z-10 pt-28 md:pt-40 pb-16 md:pb-20">
+          {/* Mobile photo — stacked above text */}
+          <div className="md:hidden mb-8 flex justify-center">
+            <img
+              src={flaviaHero}
+              alt="Dra. Flávia Vaz Rabello"
+              className="w-[78%] max-w-[320px] h-auto object-contain"
+              style={{ background: "transparent" }}
+            />
+          </div>
           <div className="max-w-3xl">
             <h1
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-primary leading-[1.05] animate-fade-in opacity-0"
