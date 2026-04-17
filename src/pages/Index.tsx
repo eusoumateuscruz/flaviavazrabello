@@ -341,7 +341,7 @@ const Index = () => {
         <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch">
           <div className="reveal">
             <div
-              className="relative h-full min-h-[560px]"
+              className="relative h-full"
               style={{
                 background: "transparent",
                 overflow: "hidden",
@@ -358,7 +358,7 @@ const Index = () => {
                   filter: "none",
                   mixBlendMode: "normal",
                   opacity: 1,
-                  width: "auto",
+                  width: "100%",
                   height: "100%",
                   maxHeight: "100%",
                   objectFit: "contain",
