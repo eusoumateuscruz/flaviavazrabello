@@ -121,8 +121,8 @@
 
 .flavia-sobre-img {
   object-fit: contain !important;
-  height: 100% !important;
+  height: auto !important;
   max-height: 100% !important;
-  width: auto !important;
+  width: 100% !important;
   object-position: bottom center !important;
 }

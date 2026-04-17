@@ -336,7 +336,7 @@ const Index = () => {
       </section>
 
       {/* ABOUT PREVIEW */}
-      <section className="bg-primary text-primary-foreground py-20 md:py-28 relative overflow-hidden">
+      <section className="bg-primary text-primary-foreground py-20 md:py-28 relative overflow-hidden" style={{ paddingBottom: 0 }}>
         <Monogram className="absolute -left-20 -bottom-20 h-[420px] w-[420px] text-primary-foreground/[0.04]" />
         <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch">
           <div className="reveal">
