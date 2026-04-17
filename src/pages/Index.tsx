@@ -338,11 +338,19 @@ const Index = () => {
       {/* ABOUT PREVIEW */}
       <section className="bg-primary text-primary-foreground py-20 md:py-28 relative overflow-hidden">
         <Monogram className="absolute -left-20 -bottom-20 h-[420px] w-[420px] text-primary-foreground/[0.04]" />
-        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-center">
-          <div className="reveal">
+        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch" style={{ minHeight: '600px' }}>
+          <div className="reveal" style={{ height: '100%' }}>
             <div
-              className="relative aspect-[4/5] max-w-md mx-auto lg:mx-0"
-              style={{ background: 'transparent', overflow: 'hidden' }}
+              className="relative max-w-md mx-auto lg:mx-0"
+              style={{
+                background: 'transparent',
+                overflow: 'hidden',
+                height: '100%',
+                minHeight: '500px',
+                width: '100%',
+                display: 'flex',
+                alignItems: 'flex-end',
+              }}
             >
               <img
                 src={flaviaFoto}
@@ -355,8 +363,8 @@ const Index = () => {
                   objectPosition: 'bottom center',
                   width: '100%',
                   height: '100%',
-                  maxHeight: '600px',
                   display: 'block',
+                  maxHeight: 'none',
                 }}
               />
             </div>
