@@ -347,7 +347,7 @@ const Index = () => {
                 className="absolute inset-0 h-full w-full object-cover"
                 style={{
                   objectPosition: "bottom right",
-                  transform: "scale(1.15) translateY(4%)",
+                  transform: "scale(1.08) translate(2%, 1.5%)",
                   transformOrigin: "bottom right",
                 }}
               />
