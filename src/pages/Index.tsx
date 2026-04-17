@@ -401,7 +401,7 @@ const Index = () => {
         <div className="container-narrow">
           <SectionHeader eyebrow="Depoimentos" title="O que dizem nossos clientes" />
 
-          <div className="mt-16 flex justify-center">
+          <div className="mt-6 flex justify-center">
             <TestimonialStack
               testimonials={[
                 {
