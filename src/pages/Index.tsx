@@ -95,7 +95,7 @@ const Index = () => {
         <div className="container-narrow relative z-10 py-20">
           <div className="max-w-3xl">
             <p className="label-eyebrow mb-6 animate-fade-in-slow opacity-0" style={{ animationDelay: "0.1s" }}>
-              Advocacia · Campinas / SP
+              Advocacia · Campinas / SP · OAB 262057/SP
             </p>
             <h1
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-primary leading-[1.05] animate-fade-in opacity-0"
@@ -112,7 +112,7 @@ const Index = () => {
               className="mt-8 max-w-xl text-base md:text-lg text-foreground/75 leading-relaxed animate-fade-in opacity-0"
               style={{ animationDelay: "0.5s" }}
             >
-              Advocacia especializada em Direito de Família, Bancário e Trabalhista. Atendimento humanizado em Campinas e região.
+              Cada caso carrega uma história. Aqui, ela é tratada com o rigor jurídico que merece e o cuidado humano que você precisa.
             </p>
             <div
               className="mt-10 flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0"
@@ -124,7 +124,7 @@ const Index = () => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
               >
-                Falar com a advogada
+                Agendar consulta gratuita
                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </a>
               <Link
