@@ -162,69 +162,78 @@ const Index = () => {
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-16 grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+          <div className="mt-16 mx-auto max-w-[900px] flex flex-col gap-5">
             {PRACTICE_AREAS.map((area, idx) => {
-              const Icon = areaIcons[idx];
               const isFeatured = idx === 1;
+              const number = String(idx + 1).padStart(2, "0");
+              const manyServices = area.services.length >= 4;
               return (
                 <article
                   key={area.id}
-                  className={`reveal group relative border-t-[3px] border-accent p-10 transition-all duration-300 hover:-translate-y-1 ${
+                  className={`reveal group relative overflow-hidden p-12 transition-all duration-[350ms] ease-out ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground shadow-[0_4px_24px_rgba(0,0,0,0.12)]"
-                      : "bg-card shadow-[0_4px_24px_rgba(0,0,0,0.06)]"
+                      ? "bg-primary text-primary-foreground"
+                      : "bg-card border-l-[4px] border-accent hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(0,0,0,0.08)]"
                   }`}
                 >
-                  <Icon
-                    className="h-8 w-8 text-accent"
-                    strokeWidth={1.4}
-                  />
-                  <p
-                    className="mt-6 font-serif text-[13px] tracking-[0.2em] text-accent"
-                  >
-                    {String(idx + 1).padStart(2, "0")}
-                  </p>
-                  <h3
-                    className={`mt-3 font-serif text-2xl leading-tight ${
-                      isFeatured ? "text-primary-foreground" : "text-primary"
-                    }`}
-                  >
-                    {area.title}
-                  </h3>
-                  <p
-                    className={`mt-4 text-sm leading-relaxed ${
-                      isFeatured ? "text-primary-foreground/80" : "text-foreground/75"
-                    }`}
-                  >
-                    {area.description}
-                  </p>
-
-                  <ul className="mt-6 space-y-2">
-                    {area.services.map((s) => (
-                      <li
-                        key={s}
-                        className={`flex items-start gap-2 text-sm ${
-                          isFeatured ? "text-primary-foreground/90" : "text-foreground/85"
+                  <div className="grid gap-8 md:grid-cols-[35%_1fr] md:gap-10">
+                    {/* Left column */}
+                    <div className="relative">
+                      <span
+                        className={`font-serif text-[48px] leading-none ${
+                          isFeatured ? "text-primary-foreground" : "text-primary"
+                        }`}
+                        style={{ opacity: 0.12 }}
+                      >
+                        {number}
+                      </span>
+                      <h3
+                        className={`mt-3 font-serif text-2xl leading-tight ${
+                          isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
                       >
-                        <span className="mt-2 h-px w-3 bg-accent shrink-0" />
-                        <span>{s}</span>
-                      </li>
-                    ))}
-                  </ul>
+                        {area.title}
+                      </h3>
+                      <p
+                        className={`mt-4 text-sm leading-relaxed ${
+                          isFeatured ? "text-primary-foreground/80" : "text-foreground/75"
+                        }`}
+                      >
+                        {area.description}
+                      </p>
+                      <Link
+                        to="/areas"
+                        className={`mt-6 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] ${
+                          isFeatured ? "text-accent" : "text-primary"
+                        }`}
+                      >
+                        <span className="relative">
+                          Saber mais
+                          <span className="absolute left-0 -bottom-1 h-px w-0 bg-current transition-all duration-300 group-hover:w-full" />
+                        </span>
+                        <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-1" />
+                      </Link>
+                    </div>
 
-                  <Link
-                    to="/areas"
-                    className={`mt-8 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] transition-all ${
-                      isFeatured ? "text-accent" : "text-primary"
-                    } [&>span.line]:bg-current relative`}
-                  >
-                    <span className="relative">
-                      Saber mais
-                      <span className="absolute left-0 -bottom-1 h-px w-0 bg-current transition-all duration-300 group-hover:w-full" />
-                    </span>
-                    <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-1" />
-                  </Link>
+                    {/* Right column */}
+                    <ul
+                      className={`grid content-start gap-y-2 gap-x-6 ${
+                        manyServices ? "sm:grid-cols-2" : "grid-cols-1"
+                      }`}
+                    >
+                      {area.services.map((s) => (
+                        <li
+                          key={s}
+                          className={`flex items-start gap-3 text-sm ${
+                            isFeatured ? "text-primary-foreground/90" : "text-foreground/85"
+                          }`}
+                        >
+                          <span className="mt-2 h-px w-3 bg-accent shrink-0" />
+                          <span>{s}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 </article>
               );
             })}

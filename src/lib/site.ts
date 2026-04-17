@@ -47,10 +47,10 @@ export const PRACTICE_AREAS = [
     description:
       "Acompanhamento jurídico preventivo e contínuo para pessoas e empresas, evitando litígios e garantindo segurança nas decisões.",
     services: [
-      "Assessoria Preventiva",
-      "Consultoria Contínua",
-      "Análise de Contratos",
-      "Suporte Jurídico Empresarial",
+      "Consultoria Preventiva",
+      "Acompanhamento Contínuo",
+      "Análise de Contratos em Geral",
+      "Suporte Jurídico para Pessoas e Empresas",
     ],
   },
 ];
