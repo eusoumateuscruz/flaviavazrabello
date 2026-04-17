@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
-import { Monogram } from "./Logo";
 import { NAV_LINKS, WHATSAPP_URL } from "@/lib/site";
 import { cn } from "@/lib/utils";
+import frSymbol from "@/assets/fr-symbol.jpg";
 
 const LEFT_LINKS = NAV_LINKS.slice(0, 3);
 const RIGHT_LINKS = NAV_LINKS.slice(3);
