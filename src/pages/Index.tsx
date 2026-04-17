@@ -341,7 +341,7 @@ const Index = () => {
         <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch" style={{ minHeight: '600px' }}>
           <div className="reveal" style={{ height: '100%' }}>
             <div
-              className="relative max-w-md mx-auto lg:mx-0"
+              className="relative h-full w-full mx-auto lg:mx-0"
               style={{
                 background: 'transparent',
                 overflow: 'hidden',
