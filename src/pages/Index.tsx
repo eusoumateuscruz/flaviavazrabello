@@ -346,9 +346,7 @@ const Index = () => {
                 alt="Dra. Flávia Vaz Rabello"
                 className="absolute inset-0 h-full w-full object-cover"
                 style={{
-                  objectPosition: "bottom right",
-                  transform: "scale(1.08) translate(2%, 1.5%)",
-                  transformOrigin: "bottom right",
+                  objectPosition: "50% 30%",
                 }}
               />
             </div>
