@@ -19,6 +19,7 @@ import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
+import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 
 const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
