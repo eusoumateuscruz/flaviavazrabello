@@ -3,7 +3,7 @@ import { Link, NavLink, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { NAV_LINKS, WHATSAPP_URL } from "@/lib/site";
 import { cn } from "@/lib/utils";
-import frSymbol from "@/assets/fr-symbol.jpg";
+import frSymbol from "@/assets/fr-symbol.png";
 
 const LEFT_LINKS = NAV_LINKS.slice(0, 3);
 const RIGHT_LINKS = NAV_LINKS.slice(3);
@@ -52,12 +52,13 @@ const Header = () => {
             aria-label="Flávia Vaz Rabello Advocacia — Início"
             className="group flex shrink-0 items-center justify-center"
           >
-            <img
-              src={frSymbol}
-              alt="Flávia Vaz Rabello — monograma FR"
-              className="h-10 w-auto transition-transform group-hover:scale-105"
-              style={{ mixBlendMode: "multiply" }}
-            />
+            <span className="flex h-16 w-16 items-center justify-center rounded-full border border-accent/70 transition-transform group-hover:scale-105">
+              <img
+                src={frSymbol}
+                alt="Flávia Vaz Rabello — monograma FR"
+                className="h-10 w-auto"
+              />
+            </span>
           </Link>
 
           <nav className="flex items-center gap-7" aria-label="Navegação direita">
@@ -89,12 +90,13 @@ const Header = () => {
           }}
         >
           <Link to="/" aria-label="Início" className="flex items-center">
-            <img
-              src={frSymbol}
-              alt="Flávia Vaz Rabello — monograma FR"
-              className="h-9 w-auto"
-              style={{ mixBlendMode: "multiply" }}
-            />
+            <span className="flex h-12 w-12 items-center justify-center rounded-full border border-accent/70">
+              <img
+                src={frSymbol}
+                alt="Flávia Vaz Rabello — monograma FR"
+                className="h-7 w-auto"
+              />
+            </span>
           </Link>
           <button
             className="p-2 text-primary"
