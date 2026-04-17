@@ -154,35 +154,61 @@ const Index = () => {
       </section>
 
       {/* PRACTICE AREAS */}
-      <section className="py-20 md:py-28">
-        <div className="container-narrow">
+      <section className="relative py-24 md:py-32 overflow-hidden">
+        {/* Subtle depth gradient overlay */}
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute inset-0"
+          style={{
+            background:
+              "radial-gradient(ellipse at top, hsl(var(--accent) / 0.05), transparent 60%), linear-gradient(to bottom, transparent, hsl(var(--secondary) / 0.3))",
+          }}
+        />
+
+        <div className="container-narrow relative">
           <SectionHeader
             eyebrow="O que fazemos"
             title="Áreas de Atuação"
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-16 mx-auto max-w-[900px] flex flex-col gap-3">
+          <div className="mt-20 mx-auto max-w-[960px] flex flex-col gap-7">
             {PRACTICE_AREAS.map((area, idx) => {
               const Icon = areaIcons[idx];
               const isFeatured = idx === 1;
               const number = String(idx + 1).padStart(2, "0");
               const manyServices = area.services.length >= 4;
+              // Editorial rhythm: subtle horizontal offsets per index
+              const offsetClass = isFeatured
+                ? "md:mx-0 md:w-full"
+                : idx === 0
+                ? "md:ml-0 md:mr-auto md:w-[94%]"
+                : idx === 2
+                ? "md:ml-auto md:mr-0 md:w-[94%]"
+                : "md:ml-6 md:mr-auto md:w-[92%]";
+
               return (
                 <article
                   key={area.id}
                   style={
                     isFeatured
-                      ? undefined
+                      ? {
+                          background:
+                            "linear-gradient(135deg, hsl(92 22% 26%) 0%, hsl(92 22% 20%) 100%)",
+                          boxShadow:
+                            "0 24px 60px -20px hsl(92 22% 15% / 0.45), 0 2px 6px rgba(0,0,0,0.08)",
+                          border: "1px solid hsl(var(--accent) / 0.25)",
+                        }
                       : {
+                          boxShadow: "0 10px 30px rgba(0,0,0,0.04)",
+                          border: "1px solid rgba(0,0,0,0.05)",
                           borderLeft: "3px solid #A66219",
-                          boxShadow: "0 1px 12px rgba(0,0,0,0.05)",
                         }
                   }
-                  className={`reveal group relative overflow-hidden p-12 transition-all duration-300 ease-out ${
+                  className={`reveal group relative overflow-hidden rounded-[14px] transition-all duration-300 ease-out ${offsetClass} ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground"
-                      : "bg-card hover:-translate-y-[3px] hover:shadow-[0_8px_32px_rgba(0,0,0,0.10)]"
+                      ? "bg-primary text-primary-foreground p-12 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_32px_70px_-20px_hsl(92_22%_15%/0.55)]"
+                      : "bg-card p-10 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_20px_50px_rgba(0,0,0,0.09)]"
                   }`}
                 >
                   {/* Editorial number watermark */}
@@ -190,47 +216,60 @@ const Index = () => {
                     aria-hidden="true"
                     className="pointer-events-none absolute font-serif select-none"
                     style={{
-                      top: "24px",
-                      left: "40px",
-                      fontSize: "96px",
+                      top: isFeatured ? "20px" : "16px",
+                      right: "32px",
+                      fontSize: isFeatured ? "140px" : "120px",
                       fontWeight: 300,
                       lineHeight: 1,
                       zIndex: 0,
                       color: isFeatured ? "#F3F2ED" : "#3B4A2F",
-                      opacity: isFeatured ? 0.18 : 0.07,
+                      opacity: isFeatured ? 0.12 : 0.05,
+                      letterSpacing: "-0.02em",
                     }}
                   >
                     {number}
                   </span>
 
-                  <div className="relative z-[1] grid gap-8 md:grid-cols-[40%_1fr] md:gap-10">
+                  <div className="relative z-[1] grid gap-10 md:grid-cols-[40%_1fr] md:gap-14">
                     {/* Left column */}
                     <div>
                       <Icon
-                        className="mb-6"
-                        style={{ width: 28, height: 28, color: "#A66219" }}
+                        className="mb-7"
+                        style={{ width: 30, height: 30, color: "#A66219" }}
                         strokeWidth={1.4}
                       />
+                      <p
+                        className="font-serif mb-3"
+                        style={{
+                          fontSize: "12px",
+                          letterSpacing: "0.28em",
+                          color: isFeatured ? "#A66219" : "#A66219",
+                          textTransform: "uppercase",
+                          fontWeight: 500,
+                        }}
+                      >
+                        {number} — Área
+                      </p>
                       <h3
-                        className={`font-serif leading-tight ${
+                        className={`font-serif leading-[1.15] ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
-                        style={{ fontSize: "22px" }}
+                        style={{ fontSize: isFeatured ? "28px" : "26px" }}
                       >
                         {area.title}
                       </h3>
                       <p
-                        className={`${isFeatured ? "text-primary-foreground/80" : "text-foreground/75"}`}
-                        style={{ fontSize: "14px", lineHeight: 1.7, marginTop: "12px" }}
+                        className={isFeatured ? "text-primary-foreground/90" : "text-foreground/85"}
+                        style={{ fontSize: "15px", lineHeight: 1.75, marginTop: "20px" }}
                       >
                         {area.description}
                       </p>
                       <Link
                         to="/areas"
-                        className="mt-6 inline-flex items-center gap-2 uppercase"
+                        className="mt-8 inline-flex items-center gap-2 uppercase"
                         style={{
                           fontSize: "12px",
-                          letterSpacing: "0.15em",
+                          letterSpacing: "0.18em",
                           fontWeight: 600,
                           color: isFeatured ? "#A66219" : "#3B4A2F",
                         }}
@@ -239,31 +278,45 @@ const Index = () => {
                           Saber mais
                           <span
                             className="absolute left-0 -bottom-1 h-px w-0 transition-all duration-300 group-hover:w-full"
-                            style={{ backgroundColor: isFeatured ? "#A66219" : "#A66219" }}
+                            style={{ backgroundColor: "#A66219" }}
                           />
                         </span>
-                        <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-1" />
+                        <ArrowRight className="h-3.5 w-3.5 transition-all duration-300 group-hover:translate-x-1.5" />
                       </Link>
                     </div>
 
                     {/* Right column */}
-                    <ul
-                      className={`grid content-start gap-y-2 gap-x-6 ${
-                        manyServices ? "sm:grid-cols-2" : "grid-cols-1"
-                      }`}
-                    >
-                      {area.services.map((s) => (
-                        <li
-                          key={s}
-                          className={`flex items-start gap-3 text-sm ${
-                            isFeatured ? "text-primary-foreground/90" : "text-foreground/85"
-                          }`}
-                        >
-                          <span className="mt-2 h-px w-3 shrink-0" style={{ backgroundColor: "#A66219" }} />
-                          <span>{s}</span>
-                        </li>
-                      ))}
-                    </ul>
+                    <div>
+                      <p
+                        className={`mb-5 uppercase ${
+                          isFeatured ? "text-primary-foreground/55" : "text-foreground/45"
+                        }`}
+                        style={{ fontSize: "11px", letterSpacing: "0.22em", fontWeight: 500 }}
+                      >
+                        Serviços
+                      </p>
+                      <ul
+                        className={`grid content-start gap-y-3.5 gap-x-8 ${
+                          manyServices ? "sm:grid-cols-2" : "grid-cols-1"
+                        }`}
+                      >
+                        {area.services.map((s) => (
+                          <li
+                            key={s}
+                            className={`flex items-start gap-3 ${
+                              isFeatured ? "text-primary-foreground/95" : "text-foreground/90"
+                            }`}
+                            style={{ fontSize: "14.5px", lineHeight: 1.5 }}
+                          >
+                            <span
+                              className="mt-2.5 h-px w-3.5 shrink-0"
+                              style={{ backgroundColor: "#A66219" }}
+                            />
+                            <span>{s}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
                   </div>
                 </article>
               );
