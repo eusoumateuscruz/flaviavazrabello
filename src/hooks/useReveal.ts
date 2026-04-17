@@ -1,6 +1,8 @@
 import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 
 export function useReveal() {
+  const { pathname } = useLocation();
   useEffect(() => {
     const els = document.querySelectorAll<HTMLElement>(".reveal");
     if (!("IntersectionObserver" in window)) {
@@ -20,5 +22,5 @@ export function useReveal() {
     );
     els.forEach((el) => io.observe(el));
     return () => io.disconnect();
-  }, []);
+  }, [pathname]);
 }
