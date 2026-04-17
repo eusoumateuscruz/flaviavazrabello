@@ -32,8 +32,3 @@ const HeroBackground = () => {
 };
 
 export default HeroBackground;
-    </div>
-  );
-};
-
-export default HeroBackground;
