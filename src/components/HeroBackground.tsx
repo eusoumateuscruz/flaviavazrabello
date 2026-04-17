@@ -10,13 +10,7 @@ const HeroBackground = () => {
       {/* Soft gradient wash */}
       <div className="absolute inset-0 bg-gradient-to-br from-background via-background to-secondary/60" />
 
-      {/* Advogada portrait — mobile (top, subtle) + desktop (bottom-right) */}
-      <img
-        src={flaviaHero}
-        alt=""
-        className="md:hidden absolute right-0 top-0 h-[55%] w-[70%] object-contain object-top opacity-25 select-none !bg-transparent"
-        style={{ filter: "none", mixBlendMode: "normal", background: "transparent", backgroundColor: "transparent" }}
-      />
+      {/* Advogada portrait — desktop only (mobile usa imagem inline na seção) */}
       <img
         src={flaviaHero}
         alt=""
