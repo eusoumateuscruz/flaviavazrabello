@@ -102,8 +102,8 @@ const Blog = () => {
             <div className="grid gap-6 sm:grid-cols-2">
               {filtered.map((p) => (
                 <article key={p.title} className="group bg-card border border-border overflow-hidden">
-                  <div className="aspect-[16/10] bg-gradient-to-br from-primary/15 to-accent/15 flex items-center justify-center">
-                    <Monogram className="h-14 w-14 text-accent/40" />
+                  <div className="aspect-[16/10] flex items-center justify-center" style={{ backgroundColor: "#EDE8E0" }}>
+                    <Monogram className="h-12 w-12 text-accent" />
                   </div>
                   <div className="p-6">
                     <div className="flex items-center justify-between text-xs uppercase tracking-[0.2em]">
