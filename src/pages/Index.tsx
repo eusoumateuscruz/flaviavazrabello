@@ -353,16 +353,11 @@ const Index = () => {
               <img
                 src={flaviaFoto}
                 alt="Dra. Flávia Vaz Rabello"
-                className="w-full"
+                className="flavia-sobre-img"
                 style={{
                   filter: "none",
                   mixBlendMode: "normal",
                   opacity: 1,
-                  width: "100%",
-                  height: "100%",
-                  maxHeight: "100%",
-                  objectFit: "contain",
-                  objectPosition: "bottom center",
                   display: "block",
                 }}
               />
