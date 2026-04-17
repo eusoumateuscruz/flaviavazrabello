@@ -10,7 +10,6 @@ const HeroBackground = () => {
         viewBox="0 0 64 64"
         fill="none"
       >
-        <rect x="1" y="1" width="62" height="62" stroke="currentColor" strokeWidth="0.4" />
         <path
           d="M18 46 V20 H40 M18 32 H34 M34 32 L46 46 M34 32 C40 32 44 28 44 24 C44 20 40 18 36 18"
           stroke="currentColor"
