@@ -404,36 +404,36 @@ const Index = () => {
           <div className="mt-6 flex justify-center">
             <TestimonialStack
               testimonials={[
-                {
-                  initials: "MS",
-                  name: "Mariana S.",
-                  role: "Cliente — Direito de Família",
-                  quote:
-                    "A Dra. Flávia conduziu meu processo de divórcio com sensibilidade e firmeza. Me senti acolhida do início ao fim.",
-                  tag: "Direito de Família",
-                  featured: true,
-                  avatarGradient: "linear-gradient(135deg, #A66219, #D17C1F)",
-                },
-                {
-                  initials: "RA",
-                  name: "Ricardo A.",
-                  role: "Cliente — Direito Bancário",
-                  quote:
-                    "Resolveu uma questão de juros abusivos que arrastava há anos. Profissional excepcional e clara em cada explicação.",
-                  tag: "Direito Bancário",
-                  featured: true,
-                  avatarGradient: "linear-gradient(135deg, #3B4A2F, #5E5F35)",
-                },
-                {
-                  initials: "JM",
-                  name: "Juliana M.",
-                  role: "Cliente — Trabalhista",
-                  quote:
-                    "Atendimento humano e técnico. Recomendo a todos que precisam de uma advogada de confiança em Campinas.",
-                  tag: "Trabalhista",
-                  featured: true,
-                  avatarGradient: "linear-gradient(135deg, #A66219, #3B4A2F)",
-                },
+                { initials: "MS", name: "Mariana S.", role: "Cliente — Direito de Família", quote: "A Dra. Flávia conduziu meu processo de divórcio com sensibilidade e firmeza. Me senti acolhida do início ao fim.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #D17C1F)" },
+                { initials: "RA", name: "Ricardo A.", role: "Cliente — Direito Bancário", quote: "Resolveu uma questão de juros abusivos que arrastava há anos. Profissional excepcional e clara em cada explicação.", tag: "Direito Bancário", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #5E5F35)" },
+                { initials: "JM", name: "Juliana M.", role: "Cliente — Trabalhista", quote: "Atendimento humano e técnico. Recomendo a todos que precisam de uma advogada de confiança em Campinas.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #3B4A2F)" },
+                { initials: "PC", name: "Patrícia C.", role: "Cliente — Direito de Família", quote: "Conduziu a guarda dos meus filhos com extrema delicadeza. Sempre disponível para tirar dúvidas.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #D17C1F, #A66219)" },
+                { initials: "LF", name: "Lucas F.", role: "Cliente — Direito Civil", quote: "Ganhei minha causa em primeira instância. Estratégia jurídica impecável.", tag: "Direito Civil", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #A66219)" },
+                { initials: "CB", name: "Camila B.", role: "Cliente — Trabalhista", quote: "Recebi todas as verbas devidas após anos sem reconhecimento. Gratidão eterna pela dedicação.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #5E5F35)" },
+                { initials: "FO", name: "Fernando O.", role: "Cliente — Direito Bancário", quote: "Conseguiu reverter cobranças indevidas do meu financiamento. Atendimento de altíssimo nível.", tag: "Direito Bancário", featured: true, avatarGradient: "linear-gradient(135deg, #5E5F35, #D17C1F)" },
+                { initials: "BV", name: "Beatriz V.", role: "Cliente — Direito de Família", quote: "Processo de inventário resolvido sem desgaste familiar. A Dra. Flávia faz toda a diferença.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #3B4A2F)" },
+                { initials: "GT", name: "Gustavo T.", role: "Cliente — Direito Civil", quote: "Excelente assessoria contratual. Evitou problemas que eu nem sabia que existiam.", tag: "Direito Civil", featured: true, avatarGradient: "linear-gradient(135deg, #D17C1F, #3B4A2F)" },
+                { initials: "AL", name: "Amanda L.", role: "Cliente — Trabalhista", quote: "Reconhecimento de vínculo após 8 anos de luta. Profissional que realmente abraça a causa.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #D17C1F)" },
+                { initials: "RC", name: "Roberto C.", role: "Cliente — Direito Bancário", quote: "Renegociação de dívidas que pareciam impossíveis. Mudou minha vida financeira.", tag: "Direito Bancário", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #D17C1F)" },
+                { initials: "SN", name: "Sandra N.", role: "Cliente — Direito de Família", quote: "Adoção concluída com todo o suporte jurídico e emocional necessário.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #5E5F35, #A66219)" },
+                { initials: "EP", name: "Eduardo P.", role: "Cliente — Direito Civil", quote: "Ação indenizatória vencida com valor acima do esperado. Recomendo de olhos fechados.", tag: "Direito Civil", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #5E5F35)" },
+                { initials: "TM", name: "Tatiana M.", role: "Cliente — Trabalhista", quote: "Assédio moral comprovado em juízo. Nunca me senti tão respeitada por uma profissional.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #D17C1F, #5E5F35)" },
+                { initials: "HD", name: "Henrique D.", role: "Cliente — Direito Bancário", quote: "Revisão de contrato que rendeu reembolso significativo. Trabalho minucioso e ético.", tag: "Direito Bancário", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #3B4A2F)" },
+                { initials: "VR", name: "Vanessa R.", role: "Cliente — Direito de Família", quote: "Pensão alimentícia revisada com justiça. Sempre transparente sobre prazos e expectativas.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #A66219)" },
+                { initials: "MO", name: "Marcelo O.", role: "Cliente — Direito Civil", quote: "Disputa imobiliária resolvida em tempo recorde. Conhecimento técnico admirável.", tag: "Direito Civil", featured: true, avatarGradient: "linear-gradient(135deg, #D17C1F, #A66219)" },
+                { initials: "IS", name: "Isabela S.", role: "Cliente — Trabalhista", quote: "Demissão revertida em acordo justo. A Dra. Flávia luta verdadeiramente pelo cliente.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #5E5F35, #3B4A2F)" },
+                { initials: "PA", name: "Paulo A.", role: "Cliente — Direito Bancário", quote: "Suspensão de cobranças abusivas em poucos dias. Agilidade e competência.", tag: "Direito Bancário", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #5E5F35)" },
+                { initials: "KL", name: "Karina L.", role: "Cliente — Direito de Família", quote: "Reconhecimento de união estável feito com toda segurança jurídica. Excelente orientação.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #D17C1F)" },
+                { initials: "DF", name: "Daniel F.", role: "Cliente — Direito Civil", quote: "Resolveu litígio com vizinho que durava anos. Diplomacia e firmeza na medida certa.", tag: "Direito Civil", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #D17C1F)" },
+                { initials: "LC", name: "Letícia C.", role: "Cliente — Trabalhista", quote: "Horas extras reconhecidas integralmente. Atendimento próximo e humano do começo ao fim.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #D17C1F, #3B4A2F)" },
+                { initials: "AR", name: "André R.", role: "Cliente — Direito Bancário", quote: "Excluiu meu nome de cadastros indevidos rapidamente. Profissional dedicada e ágil.", tag: "Direito Bancário", featured: true, avatarGradient: "linear-gradient(135deg, #5E5F35, #D17C1F)" },
+                { initials: "NF", name: "Nathalia F.", role: "Cliente — Direito de Família", quote: "Partilha de bens sem brigas, com diálogo e estratégia. Faria tudo de novo com ela.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #5E5F35)" },
+                { initials: "BG", name: "Bruno G.", role: "Cliente — Direito Civil", quote: "Cobrança judicial bem-sucedida após meses de tentativas frustradas com outros escritórios.", tag: "Direito Civil", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #3B4A2F)" },
+                { initials: "RS", name: "Renata S.", role: "Cliente — Trabalhista", quote: "Acidente de trabalho indenizado com justiça. Senti que minha história foi ouvida de verdade.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #D17C1F, #5E5F35)" },
+                { initials: "JC", name: "João C.", role: "Cliente — Direito Bancário", quote: "Renegociação de empréstimo com economia enorme. Domina o tema como poucos.", tag: "Direito Bancário", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #A66219)" },
+                { initials: "CM", name: "Carla M.", role: "Cliente — Direito de Família", quote: "Divórcio consensual rápido e sem dor de cabeça. Recomendo para qualquer mulher.", tag: "Direito de Família", featured: true, avatarGradient: "linear-gradient(135deg, #5E5F35, #A66219)" },
+                { initials: "VT", name: "Vitor T.", role: "Cliente — Direito Civil", quote: "Defesa em ação injusta resultou em arquivamento total. Excelente argumentação.", tag: "Direito Civil", featured: true, avatarGradient: "linear-gradient(135deg, #A66219, #D17C1F)" },
+                { initials: "PS", name: "Priscila S.", role: "Cliente — Trabalhista", quote: "Equiparação salarial conquistada após anos de injustiça. Gratidão pela coragem.", tag: "Trabalhista", featured: true, avatarGradient: "linear-gradient(135deg, #3B4A2F, #D17C1F)" },
               ]}
             />
           </div>
