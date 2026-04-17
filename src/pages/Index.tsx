@@ -399,7 +399,11 @@ const Index = () => {
       {/* TESTIMONIALS */}
       <section className="py-20 md:py-28">
         <div className="container-narrow">
-          <SectionHeader eyebrow="Depoimentos" title="O que dizem nossos clientes" />
+          <SectionHeader
+            eyebrow="Depoimentos"
+            title="O que dizem nossos clientes"
+            subtitle="Avaliações reais publicadas por clientes diretamente no Google, refletindo a confiança construída em cada atendimento."
+          />
 
           <div className="mt-6 flex justify-center">
             <TestimonialStack
