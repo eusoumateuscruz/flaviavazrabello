@@ -1,4 +1,4 @@
-import flaviaHero from "@/assets/flavia-hero.png";
+import flaviaHero from "@/assets/flavia_hero_final_v3-2.png";
 
 const HeroBackground = () => {
   return (
