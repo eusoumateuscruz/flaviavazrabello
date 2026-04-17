@@ -136,7 +136,6 @@ const Index = () => {
             <p className="label-eyebrow mt-8 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
               Advocacia · Campinas / SP · OAB 262057/SP
             </p>
-            </div>
           </div>
         </div>
       </section>
