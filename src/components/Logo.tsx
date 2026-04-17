@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import frSymbol from "@/assets/fr-symbol.png";
 
 interface LogoProps {
   variant?: "dark" | "light";
@@ -6,22 +7,12 @@ interface LogoProps {
 }
 
 export const Monogram = ({ className = "" }: { className?: string }) => (
-  <svg
-    viewBox="0 0 64 64"
+  <img
+    src={frSymbol}
+    alt="Flávia Vaz Rabello — monograma FR"
     className={className}
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    aria-hidden="true"
-  >
-    <rect x="1" y="1" width="62" height="62" stroke="currentColor" strokeWidth="1" />
-    <path
-      d="M18 46 V20 H40 M18 32 H34 M34 32 L46 46 M34 32 C40 32 44 28 44 24 C44 20 40 18 36 18"
-      stroke="currentColor"
-      strokeWidth="1.4"
-      strokeLinecap="square"
-      fill="none"
-    />
-  </svg>
+    style={{ objectFit: "contain" }}
+  />
 );
 
 const Logo = ({ variant = "dark", compact = false }: LogoProps) => {
