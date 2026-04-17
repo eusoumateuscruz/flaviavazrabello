@@ -1,6 +1,7 @@
 export const WHATSAPP_URL = "https://wa.me/5516999999999";
 export const EMAIL = "flaviarabello@adv.oabsp.org.br";
-export const LOCATION = "Ribeirão Preto, SP";
+export const LOCATION = "Campinas, SP";
+export const OAB = "OAB 262057/SP";
 export const FIRM_NAME = "Flávia Vaz Rabello Advocacia";
 
 export const NAV_LINKS = [

@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <Logo variant="light" />
             <p className="mt-6 text-sm leading-relaxed text-primary-foreground/70 max-w-xs">
-              Advocacia com propósito, ética e dedicação. Atendimento humanizado em Ribeirão Preto e região.
+              Advocacia com propósito, ética e dedicação. Atendimento humanizado em Campinas e região.
             </p>
           </div>
 
@@ -69,7 +69,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-14 pt-8 border-t border-primary-foreground/15 flex flex-col md:flex-row gap-4 items-center justify-between text-xs text-primary-foreground/60">
-          <p>OAB/SP — {EMAIL}</p>
+          <p>OAB 262057/SP — {EMAIL}</p>
           <p>© {new Date().getFullYear()} Flávia Vaz Rabello Advocacia. Todos os direitos reservados.</p>
           <Link to="/privacidade" className="hover:text-accent transition-colors">Política de Privacidade (LGPD)</Link>
         </div>
