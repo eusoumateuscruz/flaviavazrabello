@@ -338,7 +338,7 @@ const Index = () => {
       {/* ABOUT PREVIEW */}
       <section className="bg-primary text-primary-foreground py-20 md:py-28 relative overflow-hidden" style={{ paddingBottom: 0 }}>
         <Monogram className="absolute -left-20 -bottom-20 h-[420px] w-[420px] text-primary-foreground/[0.04]" />
-        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch">
+        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-center">
           <div className="reveal">
             <div
               className="relative h-full"
@@ -346,7 +346,7 @@ const Index = () => {
                 background: "transparent",
                 overflow: "hidden",
                 display: "flex",
-                alignItems: "flex-end",
+                alignItems: "flex-start",
                 height: "100%",
               }}
             >
@@ -364,7 +364,7 @@ const Index = () => {
             </div>
           </div>
 
-          <div className="reveal">
+          <div className="reveal flex flex-col h-full justify-center">
             <p className="label-eyebrow mb-4">Sobre a advogada</p>
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl leading-[1.1]">
               Advocacia com propósito e comprometimento
