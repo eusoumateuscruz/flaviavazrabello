@@ -36,12 +36,21 @@ export const PRACTICE_AREAS = [
   },
   {
     id: "trabalhista",
-    title: "Direito Trabalhista & Assessoria",
+    title: "Direito Trabalhista",
     description:
       "Orientação e defesa nas relações de trabalho, com foco em resultados concretos.",
+    services: ["Reclamações Trabalhistas", "Verbas Rescisórias", "Acordos e Negociações"],
+  },
+  {
+    id: "assessoria",
+    title: "Assessoria Jurídica",
+    description:
+      "Acompanhamento jurídico preventivo e contínuo para pessoas e empresas, evitando litígios e garantindo segurança nas decisões.",
     services: [
-      "Reclamações Trabalhistas",
-      "Assessoria Jurídica Preventiva e Contínua",
+      "Assessoria Preventiva",
+      "Consultoria Contínua",
+      "Análise de Contratos",
+      "Suporte Jurídico Empresarial",
     ],
   },
 ];

@@ -7,6 +7,7 @@ import {
   Users,
   FileText,
   Briefcase,
+  Scale,
   MessageSquare,
   Sparkles,
   Eye,
@@ -25,7 +26,7 @@ const trustItems = [
   { icon: MapPin, label: "Campinas e Região" },
 ];
 
-const areaIcons = [Users, FileText, Briefcase];
+const areaIcons = [Users, FileText, Briefcase, Scale];
 
 const differentials = [
   {
@@ -161,7 +162,7 @@ const Index = () => {
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-16 grid gap-6 md:grid-cols-3">
+          <div className="mt-16 grid gap-6 md:grid-cols-2 lg:grid-cols-4">
             {PRACTICE_AREAS.map((area, idx) => {
               const Icon = areaIcons[idx];
               const isFeatured = idx === 1;
