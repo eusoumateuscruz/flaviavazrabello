@@ -6,7 +6,7 @@ import { EMAIL, WHATSAPP_URL } from "@/lib/site";
 
 const formation = [
   { year: "2010", title: "Bacharel em Direito", subtitle: "Universidade reconhecida — São Paulo" },
-  { year: "2011", title: "Inscrição na OAB/SP", subtitle: "Início da atuação profissional" },
+  { year: "2011", title: "Inscrição na OAB 262057/SP", subtitle: "Início da atuação profissional" },
   { year: "2014", title: "Especialização em Direito de Família", subtitle: "Pós-graduação lato sensu" },
   { year: "2018", title: "Especialização em Direito Bancário", subtitle: "Atuação consultiva e contenciosa" },
 ];
@@ -17,7 +17,7 @@ const Sobre = () => {
       <PageHero
         eyebrow="Conheça"
         title="Flávia Vaz Rabello"
-        subtitle="Advogada inscrita na OAB/SP, dedicada à advocacia humanizada e estratégica."
+        subtitle="Advogada inscrita na OAB 262057/SP, dedicada à advocacia humanizada e estratégica."
       />
 
       <section className="py-20 md:py-28">
@@ -32,7 +32,7 @@ const Sobre = () => {
 
             <div className="mt-10 border-l-2 border-accent pl-5">
               <p className="label-eyebrow mb-2">Credenciais</p>
-              <p className="font-serif text-xl text-primary">OAB/SP</p>
+              <p className="font-serif text-xl text-primary">OAB 262057/SP</p>
               <a href={`mailto:${EMAIL}`} className="text-sm text-foreground/75 hover:text-accent transition-colors break-all">
                 {EMAIL}
               </a>

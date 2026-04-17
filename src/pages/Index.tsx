@@ -19,10 +19,10 @@ import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 
 const trustItems = [
-  { icon: Award, label: "OAB/SP Inscrita" },
+  { icon: Award, label: "OAB 262057/SP" },
   { icon: Heart, label: "Atendimento Humanizado" },
   { icon: ShieldCheck, label: "Sigilo e Ética Profissional" },
-  { icon: MapPin, label: "Ribeirão Preto e Região" },
+  { icon: MapPin, label: "Campinas e Região" },
 ];
 
 const areaIcons = [Users, FileText, Briefcase];
@@ -64,7 +64,7 @@ const testimonials = [
   {
     name: "Juliana M.",
     role: "Cliente — Trabalhista",
-    text: "Atendimento humano e técnico. Recomendo a todos que precisam de uma advogada de confiança em Ribeirão Preto.",
+    text: "Atendimento humano e técnico. Recomendo a todos que precisam de uma advogada de confiança em Campinas.",
   },
 ];
 
@@ -95,7 +95,7 @@ const Index = () => {
         <div className="container-narrow relative z-10 py-20">
           <div className="max-w-3xl">
             <p className="label-eyebrow mb-6 animate-fade-in-slow opacity-0" style={{ animationDelay: "0.1s" }}>
-              Advocacia · Ribeirão Preto / SP
+              Advocacia · Campinas / SP
             </p>
             <h1
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-primary leading-[1.05] animate-fade-in opacity-0"
@@ -112,7 +112,7 @@ const Index = () => {
               className="mt-8 max-w-xl text-base md:text-lg text-foreground/75 leading-relaxed animate-fade-in opacity-0"
               style={{ animationDelay: "0.5s" }}
             >
-              Advocacia especializada em Direito de Família, Bancário e Trabalhista. Atendimento humanizado em Ribeirão Preto e região.
+              Advocacia especializada em Direito de Família, Bancário e Trabalhista. Atendimento humanizado em Campinas e região.
             </p>
             <div
               className="mt-10 flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0"
@@ -238,7 +238,7 @@ const Index = () => {
             <div className="mt-6 h-px w-16 bg-accent" />
             <div className="mt-8 space-y-4 text-primary-foreground/80 leading-relaxed">
               <p>
-                Flávia Vaz Rabello é advogada inscrita na OAB/SP, com atuação dedicada às áreas de Direito de Família,
+                Flávia Vaz Rabello é advogada inscrita na OAB 262057/SP, com atuação dedicada às áreas de Direito de Família,
                 Direito Bancário e do Consumidor, e Direito Trabalhista.
               </p>
               <p>
@@ -246,7 +246,7 @@ const Index = () => {
                 busca incansável por soluções que respeitem a integridade e os direitos de cada cliente.
               </p>
               <p>
-                Com escritório em Ribeirão Preto e atendimento em toda a região, oferece assessoria jurídica
+                Com escritório em Campinas e atendimento em toda a região, oferece assessoria jurídica
                 personalizada, com transparência em cada etapa do processo.
               </p>
             </div>
