@@ -7,7 +7,7 @@ interface PageHeroProps {
 const PageHero = ({ eyebrow, title, subtitle }: PageHeroProps) => {
   return (
     <section className="relative bg-secondary/40 border-b border-border">
-      <div className="container-narrow py-20 md:py-28 text-center">
+      <div className="container-narrow pt-36 md:pt-44 pb-20 md:pb-28 text-center">
         {eyebrow && <p className="label-eyebrow mb-4">{eyebrow}</p>}
         <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl text-primary leading-[1.05]">
           {title}
