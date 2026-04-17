@@ -158,26 +158,54 @@ const Index = () => {
           <SectionHeader
             eyebrow="O que fazemos"
             title="Áreas de Atuação"
-            subtitle="Atuação técnica e estratégica nas áreas em que você mais precisa de proteção e orientação jurídica."
+            subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
           <div className="mt-16 grid gap-6 md:grid-cols-3">
             {PRACTICE_AREAS.map((area, idx) => {
               const Icon = areaIcons[idx];
+              const isFeatured = idx === 1;
               return (
                 <article
                   key={area.id}
-                  className="reveal group relative bg-card border-t-2 border-accent p-8 transition-all duration-500 hover:-translate-y-1 hover:shadow-[0_20px_40px_-15px_hsl(var(--primary)/0.2)]"
+                  className={`reveal group relative border-t-[3px] border-accent p-10 transition-all duration-300 hover:-translate-y-1 ${
+                    isFeatured
+                      ? "bg-primary text-primary-foreground shadow-[0_4px_24px_rgba(0,0,0,0.12)]"
+                      : "bg-card shadow-[0_4px_24px_rgba(0,0,0,0.06)]"
+                  }`}
                 >
-                  <div className="mb-6 inline-flex h-12 w-12 items-center justify-center border border-accent/30 text-accent">
-                    <Icon className="h-5 w-5" />
-                  </div>
-                  <h3 className="font-serif text-2xl text-primary leading-tight">{area.title}</h3>
-                  <p className="mt-4 text-sm text-foreground/75 leading-relaxed">{area.description}</p>
+                  <Icon
+                    className="h-8 w-8 text-accent"
+                    strokeWidth={1.4}
+                  />
+                  <p
+                    className="mt-6 font-serif text-[13px] tracking-[0.2em] text-accent"
+                  >
+                    {String(idx + 1).padStart(2, "0")}
+                  </p>
+                  <h3
+                    className={`mt-3 font-serif text-2xl leading-tight ${
+                      isFeatured ? "text-primary-foreground" : "text-primary"
+                    }`}
+                  >
+                    {area.title}
+                  </h3>
+                  <p
+                    className={`mt-4 text-sm leading-relaxed ${
+                      isFeatured ? "text-primary-foreground/80" : "text-foreground/75"
+                    }`}
+                  >
+                    {area.description}
+                  </p>
 
                   <ul className="mt-6 space-y-2">
                     {area.services.map((s) => (
-                      <li key={s} className="flex items-start gap-2 text-sm text-foreground/85">
+                      <li
+                        key={s}
+                        className={`flex items-start gap-2 text-sm ${
+                          isFeatured ? "text-primary-foreground/90" : "text-foreground/85"
+                        }`}
+                      >
                         <span className="mt-2 h-px w-3 bg-accent shrink-0" />
                         <span>{s}</span>
                       </li>
@@ -186,9 +214,15 @@ const Index = () => {
 
                   <Link
                     to="/areas"
-                    className="mt-8 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-accent hover:gap-3 transition-all"
+                    className={`mt-8 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] transition-all ${
+                      isFeatured ? "text-accent" : "text-primary"
+                    } [&>span.line]:bg-current relative`}
                   >
-                    Saber mais <ArrowRight className="h-3 w-3" />
+                    <span className="relative">
+                      Saber mais
+                      <span className="absolute left-0 -bottom-1 h-px w-0 bg-current transition-all duration-300 group-hover:w-full" />
+                    </span>
+                    <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-1" />
                   </Link>
                 </article>
               );
