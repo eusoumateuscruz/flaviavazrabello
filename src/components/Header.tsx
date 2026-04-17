@@ -89,9 +89,12 @@ const Header = () => {
           }}
         >
           <Link to="/" aria-label="Início" className="flex items-center">
-            <span className="flex h-10 w-10 items-center justify-center rounded-full border border-accent/70">
-              <Monogram className="h-6 w-6 text-accent" />
-            </span>
+            <img
+              src={frSymbol}
+              alt="Flávia Vaz Rabello — monograma FR"
+              className="h-9 w-auto"
+              style={{ mixBlendMode: "multiply" }}
+            />
           </Link>
           <button
             className="p-2 text-primary"
