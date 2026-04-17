@@ -172,19 +172,12 @@ const Index = () => {
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-20 mx-auto max-w-[1040px] flex flex-col gap-10 md:gap-12">
+          <div className="mt-20 mx-auto max-w-[1040px] flex flex-col gap-8">
             {PRACTICE_AREAS.map((area, idx) => {
               const Icon = areaIcons[idx];
               const isFeatured = idx === 1;
               const number = String(idx + 1).padStart(2, "0");
               const manyServices = area.services.length >= 4;
-              const offsetClass = isFeatured
-                ? "md:mx-auto md:w-full"
-                : idx === 0
-                ? "md:ml-0 md:mr-auto md:w-[82%]"
-                : idx === 2
-                ? "md:ml-auto md:mr-0 md:w-[78%]"
-                : "md:ml-[12%] md:mr-auto md:w-[80%]";
 
               return (
                 <article
@@ -195,7 +188,7 @@ const Index = () => {
                           background:
                             "linear-gradient(135deg, hsl(92 22% 28%) 0%, hsl(92 22% 18%) 100%)",
                           boxShadow:
-                            "0 40px 90px -25px hsl(92 22% 12% / 0.55), 0 8px 20px rgba(0,0,0,0.12)",
+                            "0 40px 90px -25px hsl(92 22% 12% / 0.6), 0 12px 28px rgba(0,0,0,0.14)",
                           border: "1px solid hsl(var(--accent) / 0.3)",
                         }
                       : {
@@ -204,10 +197,10 @@ const Index = () => {
                           borderLeft: "3px solid #A66219",
                         }
                   }
-                  className={`reveal group relative overflow-hidden rounded-[14px] transition-all duration-300 ease-out ${offsetClass} ${
+                  className={`reveal group relative overflow-hidden rounded-[14px] w-full transition-all duration-300 ease-out ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground p-14 md:p-20 md:scale-[1.04] hover:-translate-y-2 hover:shadow-[0_50px_100px_-25px_hsl(92_22%_12%/0.65)]"
-                      : "bg-card p-10 md:p-16 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
+                      ? "bg-primary text-primary-foreground p-12 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
+                      : "bg-card p-10 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
                   }`}
                 >
                   {/* Number watermark — very subtle, very large */}
