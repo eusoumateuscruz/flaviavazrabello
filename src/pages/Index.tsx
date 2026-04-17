@@ -94,7 +94,7 @@ const Index = () => {
       {/* HERO */}
       <section className="relative min-h-[calc(100vh-5rem)] flex items-center">
         <HeroBackground />
-        <div className="container-narrow relative z-10 py-20">
+        <div className="container-narrow relative z-10 pt-32 md:pt-40 pb-20">
           <div className="max-w-3xl">
             <h1
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-primary leading-[1.05] animate-fade-in opacity-0"
