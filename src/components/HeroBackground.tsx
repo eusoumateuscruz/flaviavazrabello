@@ -2,7 +2,11 @@ import flaviaHero from "@/assets/flavia-hero.png";
 
 const HeroBackground = () => {
   return (
-    <div className="absolute inset-0 overflow-hidden pointer-events-none" aria-hidden="true">
+    <div
+      className="absolute inset-0 overflow-hidden pointer-events-none"
+      style={{ background: "transparent", backgroundColor: "transparent" }}
+      aria-hidden="true"
+    >
       {/* Soft gradient wash */}
       <div className="absolute inset-0 bg-gradient-to-br from-background via-background to-secondary/60" />
 
@@ -11,6 +15,7 @@ const HeroBackground = () => {
         src={flaviaHero}
         alt=""
         className="hidden md:block absolute bottom-0 right-0 h-[95%] w-[50%] object-contain object-bottom-right select-none"
+        style={{ filter: "none", mixBlendMode: "normal", opacity: 1 }}
       />
 
       {/* Thin gold lines */}
