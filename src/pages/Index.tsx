@@ -7,6 +7,7 @@ import {
   Users,
   FileText,
   Briefcase,
+  Scale,
   MessageSquare,
   Sparkles,
   Eye,
