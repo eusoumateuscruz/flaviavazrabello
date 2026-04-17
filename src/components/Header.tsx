@@ -27,16 +27,20 @@ const Header = () => {
 
   return (
     <header className="fixed top-5 left-0 right-0 z-50 px-4 pointer-events-none">
-      <div className="mx-auto w-full max-w-[900px] pointer-events-auto">
+      <div
+        className="pointer-events-auto relative"
+        style={{ width: "90%", maxWidth: "1200px", margin: "0 auto", overflow: "visible" }}
+      >
         {/* Glass bar */}
         <div
-          className="hidden lg:flex items-center justify-between gap-6 px-8 py-2 rounded-full border"
+          className="hidden lg:flex relative items-center justify-between gap-6 px-8 py-2 rounded-full border"
           style={{
             background: "rgba(243, 242, 237, 0.6)",
             backdropFilter: "blur(16px) saturate(180%)",
             WebkitBackdropFilter: "blur(16px) saturate(180%)",
             borderColor: "rgba(166, 98, 25, 0.2)",
             boxShadow: "0 4px 24px rgba(0,0,0,0.06)",
+            overflow: "visible",
           }}
         >
           <nav className="flex items-center gap-7" aria-label="Navegação esquerda">
@@ -50,13 +54,20 @@ const Header = () => {
           <Link
             to="/"
             aria-label="Flávia Vaz Rabello Advocacia — Início"
-            className="group flex shrink-0 items-center justify-center"
+            className="group absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 flex shrink-0 items-center justify-center"
           >
-            <span className="flex h-9 w-9 items-center justify-center rounded-full border border-accent/70 transition-transform group-hover:scale-105">
+            <span
+              className="flex h-[60px] w-[60px] items-center justify-center rounded-full transition-transform group-hover:scale-105"
+              style={{
+                background: "#F3F2ED",
+                border: "1px solid #A66219",
+                boxShadow: "0 4px 16px rgba(0,0,0,0.10)",
+              }}
+            >
               <img
                 src={frSymbol}
                 alt="Flávia Vaz Rabello — monograma FR"
-                className="h-6 w-auto"
+                className="h-8 w-auto"
               />
             </span>
           </Link>
