@@ -162,8 +162,9 @@ const Index = () => {
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-16 mx-auto max-w-[900px] flex flex-col gap-4">
+          <div className="mt-16 mx-auto max-w-[900px] flex flex-col gap-3">
             {PRACTICE_AREAS.map((area, idx) => {
+              const Icon = areaIcons[idx];
               const isFeatured = idx === 1;
               const number = String(idx + 1).padStart(2, "0");
               const manyServices = area.services.length >= 4;
@@ -174,54 +175,72 @@ const Index = () => {
                     isFeatured
                       ? undefined
                       : {
-                          borderLeft: "4px solid #A66219",
-                          boxShadow: "0 2px 20px rgba(0,0,0,0.07)",
+                          borderLeft: "3px solid #A66219",
+                          boxShadow: "0 1px 12px rgba(0,0,0,0.05)",
                         }
                   }
-                  className={`reveal group relative overflow-hidden p-[52px] transition-all duration-[350ms] ease-out ${
+                  className={`reveal group relative overflow-hidden p-12 transition-all duration-300 ease-out ${
                     isFeatured
                       ? "bg-primary text-primary-foreground"
-                      : "bg-card hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(0,0,0,0.12)]"
+                      : "bg-card hover:-translate-y-[3px] hover:shadow-[0_8px_32px_rgba(0,0,0,0.10)]"
                   }`}
                 >
-                  <div className="grid gap-8 md:grid-cols-[35%_1fr] md:gap-10">
+                  {/* Editorial number watermark */}
+                  <span
+                    aria-hidden="true"
+                    className="pointer-events-none absolute font-serif select-none"
+                    style={{
+                      top: "24px",
+                      left: "40px",
+                      fontSize: "96px",
+                      fontWeight: 300,
+                      lineHeight: 1,
+                      zIndex: 0,
+                      color: isFeatured ? "#F3F2ED" : "#3B4A2F",
+                      opacity: isFeatured ? 0.18 : 0.07,
+                    }}
+                  >
+                    {number}
+                  </span>
+
+                  <div className="relative z-[1] grid gap-8 md:grid-cols-[40%_1fr] md:gap-10">
                     {/* Left column */}
-                    <div className="relative">
-                      <span
-                        className={`block font-serif leading-none ${
-                          isFeatured ? "text-primary-foreground" : "text-primary"
-                        }`}
-                        style={{
-                          fontSize: "72px",
-                          fontWeight: 300,
-                          opacity: isFeatured ? 0.15 : 0.08,
-                        }}
-                      >
-                        {number}
-                      </span>
+                    <div>
+                      <Icon
+                        className="mb-6"
+                        style={{ width: 28, height: 28, color: "#A66219" }}
+                        strokeWidth={1.4}
+                      />
                       <h3
-                        className={`mt-2 font-serif text-2xl leading-tight ${
+                        className={`font-serif leading-tight ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
+                        style={{ fontSize: "22px" }}
                       >
                         {area.title}
                       </h3>
                       <p
-                        className={`mt-4 text-sm leading-relaxed ${
-                          isFeatured ? "text-primary-foreground/80" : "text-foreground/75"
-                        }`}
+                        className={`${isFeatured ? "text-primary-foreground/80" : "text-foreground/75"}`}
+                        style={{ fontSize: "14px", lineHeight: 1.7, marginTop: "12px" }}
                       >
                         {area.description}
                       </p>
                       <Link
                         to="/areas"
-                        className={`mt-6 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] ${
-                          isFeatured ? "text-accent" : "text-primary"
-                        }`}
+                        className="mt-6 inline-flex items-center gap-2 uppercase"
+                        style={{
+                          fontSize: "12px",
+                          letterSpacing: "0.15em",
+                          fontWeight: 600,
+                          color: isFeatured ? "#A66219" : "#3B4A2F",
+                        }}
                       >
                         <span className="relative">
                           Saber mais
-                          <span className="absolute left-0 -bottom-1 h-px w-0 bg-current transition-all duration-300 group-hover:w-full" />
+                          <span
+                            className="absolute left-0 -bottom-1 h-px w-0 transition-all duration-300 group-hover:w-full"
+                            style={{ backgroundColor: isFeatured ? "#A66219" : "#A66219" }}
+                          />
                         </span>
                         <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-1" />
                       </Link>
@@ -240,7 +259,7 @@ const Index = () => {
                             isFeatured ? "text-primary-foreground/90" : "text-foreground/85"
                           }`}
                         >
-                          <span className="mt-2 h-px w-3 bg-accent shrink-0" />
+                          <span className="mt-2 h-px w-3 shrink-0" style={{ backgroundColor: "#A66219" }} />
                           <span>{s}</span>
                         </li>
                       ))}
