@@ -10,7 +10,7 @@ const HeroBackground = () => {
       <img
         src={flaviaHero}
         alt=""
-        className="hidden md:block absolute bottom-0 right-0 h-full w-[45%] object-contain object-bottom-right select-none"
+        className="hidden md:block absolute bottom-0 right-0 h-[88%] w-[40%] object-contain object-bottom-right select-none"
       />
 
       {/* Thin gold lines */}
