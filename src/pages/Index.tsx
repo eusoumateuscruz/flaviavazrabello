@@ -24,7 +24,7 @@ const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
   { icon: Heart, label: "Atendimento Humanizado" },
   { icon: ShieldCheck, label: "Sigilo e Ética Profissional" },
-  { icon: MapPin, label: "Campinas e Região" },
+  { icon: MapPin, label: "Indaiatuba e Região" },
 ];
 
 const areaIcons = [Users, FileText, Briefcase, Scale];
@@ -66,7 +66,7 @@ const testimonials = [
   {
     name: "Juliana M.",
     role: "Cliente — Trabalhista",
-    text: "Atendimento humano e técnico. Recomendo a todos que precisam de uma advogada de confiança em Campinas.",
+    text: "Atendimento humano e técnico. Recomendo a todos que precisam de uma advogada de confiança em Indaiatuba.",
   },
 ];
 
@@ -97,7 +97,7 @@ const Index = () => {
         <div className="container-narrow relative z-10 py-20">
           <div className="max-w-3xl">
             <p className="label-eyebrow mb-6 animate-fade-in-slow opacity-0" style={{ animationDelay: "0.1s" }}>
-              Advocacia · Campinas / SP · OAB 262057/SP
+              Advocacia · Indaiatuba / SP · OAB 262057/SP
             </p>
             <h1
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-primary leading-[1.05] animate-fade-in opacity-0"
@@ -380,7 +380,7 @@ const Index = () => {
                 busca incansável por soluções que respeitem a integridade e os direitos de cada cliente.
               </p>
               <p>
-                Com escritório em Campinas e atendimento em toda a região, oferece assessoria jurídica
+                Com escritório em Indaiatuba e atendimento em toda a região, oferece assessoria jurídica
                 personalizada, com transparência em cada etapa do processo.
               </p>
             </div>

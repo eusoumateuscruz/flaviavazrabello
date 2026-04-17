@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <Logo variant="light" />
             <p className="mt-6 text-sm leading-relaxed text-primary-foreground/70 max-w-xs">
-              Advocacia com propósito, ética e dedicação. Atendimento humanizado em Campinas e região.
+              Advocacia com propósito, ética e dedicação. Atendimento humanizado em Indaiatuba e região.
             </p>
           </div>
 
