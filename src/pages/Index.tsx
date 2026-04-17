@@ -162,7 +162,7 @@ const Index = () => {
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-16 mx-auto max-w-[900px] flex flex-col gap-5">
+          <div className="mt-16 mx-auto max-w-[900px] flex flex-col gap-4">
             {PRACTICE_AREAS.map((area, idx) => {
               const isFeatured = idx === 1;
               const number = String(idx + 1).padStart(2, "0");
@@ -170,25 +170,37 @@ const Index = () => {
               return (
                 <article
                   key={area.id}
-                  className={`reveal group relative overflow-hidden p-12 transition-all duration-[350ms] ease-out ${
+                  style={
+                    isFeatured
+                      ? undefined
+                      : {
+                          borderLeft: "4px solid #A66219",
+                          boxShadow: "0 2px 20px rgba(0,0,0,0.07)",
+                        }
+                  }
+                  className={`reveal group relative overflow-hidden p-[52px] transition-all duration-[350ms] ease-out ${
                     isFeatured
                       ? "bg-primary text-primary-foreground"
-                      : "bg-card border-l-[4px] border-accent hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(0,0,0,0.08)]"
+                      : "bg-card hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(0,0,0,0.12)]"
                   }`}
                 >
                   <div className="grid gap-8 md:grid-cols-[35%_1fr] md:gap-10">
                     {/* Left column */}
                     <div className="relative">
                       <span
-                        className={`font-serif text-[48px] leading-none ${
+                        className={`block font-serif leading-none ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
-                        style={{ opacity: 0.12 }}
+                        style={{
+                          fontSize: "72px",
+                          fontWeight: 300,
+                          opacity: isFeatured ? 0.15 : 0.08,
+                        }}
                       >
                         {number}
                       </span>
                       <h3
-                        className={`mt-3 font-serif text-2xl leading-tight ${
+                        className={`mt-2 font-serif text-2xl leading-tight ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
                       >
