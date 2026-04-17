@@ -52,9 +52,12 @@ const Header = () => {
             aria-label="Flávia Vaz Rabello Advocacia — Início"
             className="group flex shrink-0 items-center justify-center"
           >
-            <span className="flex h-12 w-12 items-center justify-center rounded-full border border-accent/70 transition-transform group-hover:scale-105">
-              <Monogram className="h-7 w-7 text-accent" />
-            </span>
+            <img
+              src={frSymbol}
+              alt="Flávia Vaz Rabello — monograma FR"
+              className="h-10 w-auto transition-transform group-hover:scale-105"
+              style={{ mixBlendMode: "multiply" }}
+            />
           </Link>
 
           <nav className="flex items-center gap-7" aria-label="Navegação direita">
