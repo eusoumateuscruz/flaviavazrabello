@@ -3,7 +3,7 @@ import flaviaHero from "@/assets/flavia-hero.png";
 const HeroBackground = () => {
   return (
     <div
-      className="absolute inset-0 overflow-hidden pointer-events-none"
+      className="absolute inset-0 overflow-hidden pointer-events-none !bg-transparent"
       style={{ background: "transparent", backgroundColor: "transparent" }}
       aria-hidden="true"
     >
@@ -14,8 +14,8 @@ const HeroBackground = () => {
       <img
         src={flaviaHero}
         alt=""
-        className="hidden md:block absolute bottom-0 right-0 h-[95%] w-[50%] object-contain object-bottom-right select-none"
-        style={{ filter: "none", mixBlendMode: "normal", opacity: 1 }}
+        className="hidden md:block absolute bottom-0 right-0 h-[95%] w-[50%] object-contain object-bottom-right select-none !bg-transparent"
+        style={{ filter: "none", mixBlendMode: "normal", opacity: 1, background: "transparent", backgroundColor: "transparent" }}
       />
 
       {/* Thin gold lines */}
