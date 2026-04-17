@@ -18,6 +18,7 @@ import HeroBackground from "@/components/HeroBackground";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
+import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 
 const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
@@ -337,13 +338,14 @@ const Index = () => {
       {/* ABOUT PREVIEW */}
       <section className="bg-primary text-primary-foreground py-20 md:py-28 relative overflow-hidden">
         <Monogram className="absolute -left-20 -bottom-20 h-[420px] w-[420px] text-primary-foreground/[0.04]" />
-        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-center">
+        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch">
           <div className="reveal">
-            <div className="relative aspect-[4/5] max-w-md mx-auto lg:mx-0">
-              <div className="absolute inset-0 border border-accent/40 translate-x-4 translate-y-4" />
-              <div className="absolute inset-0 bg-gradient-to-br from-accent/30 via-primary-foreground/5 to-primary flex items-center justify-center">
-                <Monogram className="h-32 w-32 text-accent/70" />
-              </div>
+            <div className="relative h-full min-h-[520px] overflow-hidden">
+              <img
+                src={flaviaFoto}
+                alt="Dra. Flávia Vaz Rabello"
+                className="h-full w-full object-cover object-center"
+              />
             </div>
           </div>
 
