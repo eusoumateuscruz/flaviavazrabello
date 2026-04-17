@@ -19,6 +19,7 @@ import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
+import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 
 const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
@@ -400,22 +401,41 @@ const Index = () => {
         <div className="container-narrow">
           <SectionHeader eyebrow="Depoimentos" title="O que dizem nossos clientes" />
 
-          <div className="mt-16 grid gap-6 md:grid-cols-3">
-            {testimonials.map((t) => (
-              <figure
-                key={t.name}
-                className="reveal bg-card border border-border p-8 flex flex-col"
-              >
-                <Quote className="h-7 w-7 text-accent" />
-                <blockquote className="mt-5 flex-1 font-serif text-lg italic text-foreground/85 leading-relaxed">
-                  "{t.text}"
-                </blockquote>
-                <figcaption className="mt-6 pt-6 border-t border-border">
-                  <div className="text-sm font-medium text-primary">{t.name}</div>
-                  <div className="text-xs uppercase tracking-[0.18em] text-foreground/60 mt-1">{t.role}</div>
-                </figcaption>
-              </figure>
-            ))}
+          <div className="mt-16 flex justify-center">
+            <TestimonialStack
+              testimonials={[
+                {
+                  initials: "MS",
+                  name: "Mariana S.",
+                  role: "Cliente — Direito de Família",
+                  quote:
+                    "A Dra. Flávia conduziu meu processo de divórcio com sensibilidade e firmeza. Me senti acolhida do início ao fim.",
+                  tag: "Direito de Família",
+                  featured: true,
+                  avatarGradient: "linear-gradient(135deg, #A66219, #D17C1F)",
+                },
+                {
+                  initials: "RA",
+                  name: "Ricardo A.",
+                  role: "Cliente — Direito Bancário",
+                  quote:
+                    "Resolveu uma questão de juros abusivos que arrastava há anos. Profissional excepcional e clara em cada explicação.",
+                  tag: "Direito Bancário",
+                  featured: true,
+                  avatarGradient: "linear-gradient(135deg, #3B4A2F, #5E5F35)",
+                },
+                {
+                  initials: "JM",
+                  name: "Juliana M.",
+                  role: "Cliente — Trabalhista",
+                  quote:
+                    "Atendimento humano e técnico. Recomendo a todos que precisam de uma advogada de confiança em Campinas.",
+                  tag: "Trabalhista",
+                  featured: true,
+                  avatarGradient: "linear-gradient(135deg, #A66219, #3B4A2F)",
+                },
+              ]}
+            />
           </div>
         </div>
       </section>
