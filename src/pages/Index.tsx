@@ -175,7 +175,7 @@ const Index = () => {
           <div className="mt-20 mx-auto max-w-[1040px] flex flex-col gap-8">
             {PRACTICE_AREAS.map((area, idx) => {
               const Icon = areaIcons[idx];
-              const isFeatured = idx === 1;
+              const isFeatured = idx === 1 || idx === 3;
               const number = String(idx + 1).padStart(2, "0");
               const manyServices = area.services.length >= 4;
 
