@@ -80,7 +80,7 @@ export const TestimonialStack: React.FC<Props> = ({ testimonials }) => {
           return (
             <div
               key={i}
-              className={`testimonial-card p-8 md:p-10 ${isTop && isDragging ? "is-dragging" : ""}`}
+              className={`testimonial-card ${isTop && isDragging ? "is-dragging" : ""}`}
               style={{
                 transform: `translate(${translateX}px, ${translateY}px) scale(${scale}) rotate(${rotate}deg)`,
                 opacity: visible ? opacity : 0,
@@ -92,34 +92,37 @@ export const TestimonialStack: React.FC<Props> = ({ testimonials }) => {
               onPointerUp={isTop ? onPointerUp : undefined}
               onPointerCancel={isTop ? onPointerUp : undefined}
             >
-              <div className="flex items-center gap-4">
+              <div className="flex items-start gap-4 flex-wrap sm:flex-nowrap">
                 <div
-                  className="h-14 w-14 rounded-full flex items-center justify-center text-white font-serif text-lg shrink-0"
+                  className="h-12 w-12 sm:h-14 sm:w-14 rounded-full flex items-center justify-center text-white font-serif text-base sm:text-lg shrink-0"
                   style={{ background: t.avatarGradient }}
                 >
                   {t.initials}
                 </div>
                 <div className="flex-1 min-w-0">
-                  <div className="font-serif text-lg" style={{ color: "#3B4A2F" }}>
+                  <div className="font-serif text-base sm:text-lg truncate" style={{ color: "#3B4A2F" }}>
                     {t.name}
                   </div>
-                  <div className="text-xs uppercase tracking-[0.18em]" style={{ color: "#6B6B5A" }}>
+                  <div
+                    className="text-[11px] sm:text-xs uppercase tracking-[0.14em] sm:tracking-[0.18em] mt-1"
+                    style={{ color: "#6B6B5A" }}
+                  >
                     {t.role}
                   </div>
+                  <span
+                    className="mt-2 inline-block text-[11px] sm:text-xs px-2.5 py-1 rounded-full font-medium whitespace-nowrap"
+                    style={
+                      t.featured
+                        ? { background: "#A66219", color: "#fff" }
+                        : { background: "rgba(166,98,25,0.1)", color: "#A66219" }
+                    }
+                  >
+                    {t.tag}
+                  </span>
                 </div>
-                <span
-                  className="text-xs px-3 py-1 rounded-full font-medium whitespace-nowrap"
-                  style={
-                    t.featured
-                      ? { background: "#A66219", color: "#fff" }
-                      : { background: "rgba(166,98,25,0.1)", color: "#A66219" }
-                  }
-                >
-                  {t.tag}
-                </span>
               </div>
               <blockquote
-                className="mt-6 font-serif text-base md:text-lg italic leading-relaxed"
+                className="mt-5 sm:mt-6 font-serif text-sm sm:text-base md:text-lg italic leading-relaxed"
                 style={{ color: "#3B4A2F" }}
               >
                 "{t.quote}"
