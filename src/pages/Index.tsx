@@ -338,18 +338,13 @@ const Index = () => {
       {/* ABOUT PREVIEW */}
       <section className="bg-primary text-primary-foreground py-20 md:py-28 relative overflow-hidden">
         <Monogram className="absolute -left-20 -bottom-20 h-[420px] w-[420px] text-primary-foreground/[0.04]" />
-        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch" style={{ minHeight: '600px' }}>
-          <div className="reveal" style={{ height: '100%' }}>
+        <div className="container-narrow relative grid gap-12 lg:grid-cols-2 lg:gap-20 items-stretch">
+          <div className="reveal h-full">
             <div
               className="relative h-full w-full mx-auto lg:mx-0"
               style={{
                 background: 'transparent',
                 overflow: 'hidden',
-                height: '100%',
-                minHeight: '500px',
-                width: '100%',
-                display: 'flex',
-                alignItems: 'flex-end',
               }}
             >
               <img
@@ -359,12 +354,11 @@ const Index = () => {
                   filter: 'none',
                   mixBlendMode: 'normal',
                   opacity: 1,
-                  objectFit: 'contain',
-                  objectPosition: 'bottom center',
+                  objectFit: 'cover',
+                  objectPosition: 'center bottom',
                   width: '100%',
                   height: '100%',
                   display: 'block',
-                  maxHeight: 'none',
                 }}
               />
             </div>
