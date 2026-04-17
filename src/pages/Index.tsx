@@ -96,9 +96,6 @@ const Index = () => {
         <HeroBackground />
         <div className="container-narrow relative z-10 py-20">
           <div className="max-w-3xl">
-            <p className="label-eyebrow mb-6 animate-fade-in-slow opacity-0" style={{ animationDelay: "0.1s" }}>
-              Advocacia · Indaiatuba / SP · OAB 262057/SP
-            </p>
             <h1
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-primary leading-[1.05] animate-fade-in opacity-0"
               style={{ animationDelay: "0.2s" }}
@@ -136,6 +133,9 @@ const Index = () => {
                 Conhecer as áreas
               </Link>
             </div>
+            <p className="label-eyebrow mt-8 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
+              Advocacia · Campinas / SP · OAB 262057/SP
+            </p>
           </div>
         </div>
       </section>
