@@ -10,7 +10,13 @@ const HeroBackground = () => {
       {/* Soft gradient wash */}
       <div className="absolute inset-0 bg-gradient-to-br from-background via-background to-secondary/60" />
 
-      {/* Advogada portrait — desktop only, anchored bottom-right */}
+      {/* Advogada portrait — mobile (top, subtle) + desktop (bottom-right) */}
+      <img
+        src={flaviaHero}
+        alt=""
+        className="md:hidden absolute right-0 top-0 h-[55%] w-[70%] object-contain object-top opacity-25 select-none !bg-transparent"
+        style={{ filter: "none", mixBlendMode: "normal", background: "transparent", backgroundColor: "transparent" }}
+      />
       <img
         src={flaviaHero}
         alt=""
@@ -21,6 +27,11 @@ const HeroBackground = () => {
       {/* Thin gold lines */}
       <div className="absolute left-0 right-0 top-24 h-px bg-accent/20" />
       <div className="absolute left-10 top-24 bottom-24 w-px bg-accent/15 hidden md:block" />
+    </div>
+  );
+};
+
+export default HeroBackground;
     </div>
   );
 };
