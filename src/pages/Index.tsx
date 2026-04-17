@@ -17,6 +17,7 @@ import {
 import HeroBackground from "@/components/HeroBackground";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
+import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 
 const trustItems = [
