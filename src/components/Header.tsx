@@ -18,7 +18,7 @@ const Header = () => {
 
   const navLinkClass = ({ isActive }: { isActive: boolean }) =>
     cn(
-      "relative text-sm tracking-wide transition-colors py-1 whitespace-nowrap",
+      "relative text-[13px] tracking-wide transition-colors py-1 whitespace-nowrap",
       "after:absolute after:left-0 after:bottom-0 after:h-px after:bg-accent after:transition-all after:duration-300",
       isActive
         ? "text-accent after:w-full"
@@ -30,7 +30,7 @@ const Header = () => {
       <div className="mx-auto w-full max-w-[900px] pointer-events-auto">
         {/* Glass bar */}
         <div
-          className="hidden lg:flex items-center justify-between gap-6 px-8 py-3 rounded-full border"
+          className="hidden lg:flex items-center justify-between gap-6 px-8 py-2 rounded-full border"
           style={{
             background: "rgba(243, 242, 237, 0.6)",
             backdropFilter: "blur(16px) saturate(180%)",
@@ -52,11 +52,11 @@ const Header = () => {
             aria-label="Flávia Vaz Rabello Advocacia — Início"
             className="group flex shrink-0 items-center justify-center"
           >
-            <span className="flex h-16 w-16 items-center justify-center rounded-full border border-accent/70 transition-transform group-hover:scale-105">
+            <span className="flex h-9 w-9 items-center justify-center rounded-full border border-accent/70 transition-transform group-hover:scale-105">
               <img
                 src={frSymbol}
                 alt="Flávia Vaz Rabello — monograma FR"
-                className="h-10 w-auto"
+                className="h-6 w-auto"
               />
             </span>
           </Link>
@@ -71,7 +71,7 @@ const Header = () => {
               href={WHATSAPP_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="relative text-sm tracking-wide py-1 whitespace-nowrap text-accent hover:text-accent/80 after:absolute after:left-0 after:bottom-0 after:h-px after:w-full after:bg-accent"
+              className="relative text-[13px] tracking-wide py-1 whitespace-nowrap text-accent hover:text-accent/80 after:absolute after:left-0 after:bottom-0 after:h-px after:w-full after:bg-accent"
             >
               Agendar Consulta
             </a>
