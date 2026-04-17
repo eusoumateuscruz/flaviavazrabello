@@ -344,8 +344,7 @@ const Index = () => {
               className="relative h-full min-h-[560px]"
               style={{
                 background: "transparent",
-                backgroundColor: "transparent",
-                overflow: "visible",
+                overflow: "hidden",
                 display: "flex",
                 alignItems: "flex-end",
                 height: "100%",
@@ -359,13 +358,12 @@ const Index = () => {
                   filter: "none",
                   mixBlendMode: "normal",
                   opacity: 1,
+                  width: "auto",
+                  height: "100%",
+                  maxHeight: "100%",
                   objectFit: "contain",
                   objectPosition: "bottom center",
-                  width: "100%",
-                  height: "auto",
-                  maxHeight: "none",
                   display: "block",
-                  verticalAlign: "bottom",
                 }}
               />
             </div>
