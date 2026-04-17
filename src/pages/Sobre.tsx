@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { Mail, ArrowRight, GraduationCap } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import { EMAIL, WHATSAPP_URL } from "@/lib/site";
-import flaviaSobre from "@/assets/flavia_sobre_branco.png";
 
 const formation = [
   { year: "2010", title: "Bacharel em Direito", subtitle: "Universidade reconhecida — São Paulo" },
@@ -25,16 +24,11 @@ const Sobre = () => {
           <div className="reveal">
             <div
               className="relative aspect-[4/5] max-w-md mx-auto lg:mx-0"
-              style={{
-                background: 'transparent',
-                backgroundColor: 'transparent',
-                position: 'relative',
-                overflow: 'hidden',
-              }}
+              style={{ background: 'transparent', overflow: 'hidden' }}
             >
               <img
-                src={flaviaSobre}
-                alt="Flávia Vaz Rabello, advogada OAB 262057/SP"
+                src="/flavia_sobre_branco.png"
+                alt="Dra. Flávia Vaz Rabello"
                 style={{
                   filter: 'none',
                   mixBlendMode: 'normal',
@@ -44,7 +38,7 @@ const Sobre = () => {
                   width: '100%',
                   height: '100%',
                   maxHeight: '600px',
-                  display: 'block',
+                  display: 'block'
                 }}
               />
             </div>
@@ -99,7 +93,6 @@ const Sobre = () => {
         </div>
       </section>
 
-      {/* Formation timeline */}
       <section className="py-20 md:py-28 bg-card border-y border-border">
         <div className="container-narrow">
           <div className="reveal text-center max-w-xl mx-auto">
@@ -129,7 +122,6 @@ const Sobre = () => {
         </div>
       </section>
 
-      {/* CTA */}
       <section className="py-20 bg-primary text-primary-foreground">
         <div className="container-narrow text-center">
           <h2 className="font-serif text-3xl md:text-4xl">Vamos conversar sobre o seu caso?</h2>
