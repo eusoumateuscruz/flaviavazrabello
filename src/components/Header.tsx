@@ -18,7 +18,7 @@ const Header = () => {
 
   const navLinkClass = ({ isActive }: { isActive: boolean }) =>
     cn(
-      "relative text-[13px] tracking-wide transition-colors py-1 whitespace-nowrap",
+      "relative transition-colors py-1 px-4 whitespace-nowrap",
       "after:absolute after:left-0 after:bottom-0 after:h-px after:bg-accent after:transition-all after:duration-300",
       isActive
         ? "text-accent after:w-full"
@@ -33,7 +33,7 @@ const Header = () => {
       >
         {/* Glass bar */}
         <div
-          className="hidden lg:flex relative items-center justify-between gap-6 px-8 py-2 rounded-full border"
+          className="hidden lg:flex relative items-center justify-between px-8 rounded-full border"
           style={{
             background: "rgba(243, 242, 237, 0.6)",
             backdropFilter: "blur(16px) saturate(180%)",
@@ -41,9 +41,16 @@ const Header = () => {
             borderColor: "rgba(166, 98, 25, 0.2)",
             boxShadow: "0 4px 24px rgba(0,0,0,0.06)",
             overflow: "visible",
+            height: "56px",
+            fontSize: "14px",
+            letterSpacing: "0.04em",
           }}
         >
-          <nav className="flex items-center gap-7" aria-label="Navegação esquerda">
+          <nav
+            className="flex items-center"
+            style={{ flex: 1, justifyContent: "flex-end", paddingRight: "48px" }}
+            aria-label="Navegação esquerda"
+          >
             {LEFT_LINKS.map((link) => (
               <NavLink key={link.to} to={link.to} end={link.to === "/"} className={navLinkClass}>
                 {link.label}
@@ -72,7 +79,11 @@ const Header = () => {
             </span>
           </Link>
 
-          <nav className="flex items-center gap-7" aria-label="Navegação direita">
+          <nav
+            className="flex items-center"
+            style={{ flex: 1, justifyContent: "flex-start", paddingLeft: "48px" }}
+            aria-label="Navegação direita"
+          >
             {RIGHT_LINKS.map((link) => (
               <NavLink key={link.to} to={link.to} className={navLinkClass}>
                 {link.label}
@@ -82,7 +93,7 @@ const Header = () => {
               href={WHATSAPP_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="relative text-[13px] tracking-wide py-1 whitespace-nowrap text-accent hover:text-accent/80 after:absolute after:left-0 after:bottom-0 after:h-px after:w-full after:bg-accent"
+              className="relative py-1 px-4 whitespace-nowrap text-accent hover:text-accent/80 after:absolute after:left-4 after:right-4 after:bottom-0 after:h-px after:bg-accent"
             >
               Agendar Consulta
             </a>
