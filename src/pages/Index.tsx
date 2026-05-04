@@ -102,11 +102,11 @@ const Index = () => {
         <HeroBackground />
         <div className="container-narrow relative z-10 pt-28 md:pt-40 pb-16 md:pb-20">
           {/* Mobile photo — stacked above text */}
-          <div className="md:hidden mb-8 flex justify-center">
+          <div className="md:hidden mb-8 flex justify-center -mx-4">
             <img
               src={flaviaHero}
               alt="Dra. Flávia Vaz Rabello"
-              className="w-[78%] max-w-[320px] h-auto object-contain"
+              className="w-[90%] max-w-[380px] h-auto object-contain"
               style={{ background: "transparent" }}
             />
           </div>
