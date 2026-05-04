@@ -12,9 +12,10 @@ import {
   Sparkles,
   Eye,
   Quote,
-   ArrowRight,
-   Clock,
-   Phone,
+  ArrowRight,
+  Clock,
+  Phone,
+  Gavel,
 } from "lucide-react";
 import HeroBackground from "@/components/HeroBackground";
 import flaviaHero from "@/assets/flavia_hero_final_v3-2.png";
@@ -31,7 +32,7 @@ const trustItems = [
   { icon: MapPin, label: "ATENDIMENTO PRESENCIAL E ON LINE EM TODO O BRASIL" },
 ];
 
-const areaIcons = [Users, FileText, Briefcase, Scale];
+const areaIcons = [Users, FileText, Briefcase, Scale, Gavel];
 
 const differentials = [
   {
