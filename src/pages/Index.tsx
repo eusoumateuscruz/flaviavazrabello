@@ -347,16 +347,18 @@ const Index = () => {
         
         <div className="container-narrow relative grid gap-12 lg:grid-cols-[1.25fr_1fr] lg:gap-20 items-center">
           <div className="reveal">
-            <div className="relative w-full flex justify-center lg:justify-start pt-8">
-              <div className="relative">
-                {/* Moldura elegante com borda dourada fina */}
-                <div className="absolute -inset-4 border border-accent/30 rounded-2xl -z-10" />
-                <div className="absolute -inset-2 border border-accent/10 rounded-2xl -z-10" />
+            <div className="relative w-full flex justify-center lg:justify-start pt-12 pb-12">
+              <div className="relative p-6 sm:p-8">
+                {/* Moldura principal que envolve toda a imagem, incluindo as bordas da foto */}
+                <div className="absolute inset-0 border border-accent/40 rounded-3xl -z-10 bg-white/5 backdrop-blur-sm" />
+                
+                {/* Segunda borda externa para efeito de camada */}
+                <div className="absolute -inset-3 border border-accent/10 rounded-[40px] -z-20" />
                 
                 <img
                   src={flaviaFoto}
                   alt="Dra. Flávia Vaz Rabello"
-                  className="relative z-10 w-full max-w-[480px] h-auto object-contain block drop-shadow-2xl"
+                  className="relative z-10 w-full max-w-[480px] h-auto object-contain block drop-shadow-xl"
                   style={{
                     filter: "none",
                     mixBlendMode: "normal",
@@ -364,8 +366,12 @@ const Index = () => {
                   }}
                 />
                 
-                {/* Brilho sutil no canto para destacar a silhueta */}
-                <div className="absolute top-0 right-0 w-32 h-32 bg-accent/10 blur-[80px] rounded-full -z-10" />
+                {/* Detalhe dourado nos cantos para "abraçar" a imagem */}
+                <div className="absolute top-0 left-0 w-12 h-12 border-t-2 border-l-2 border-accent rounded-tl-3xl z-20" />
+                <div className="absolute bottom-0 right-0 w-12 h-12 border-b-2 border-r-2 border-accent rounded-br-3xl z-20" />
+                
+                {/* Brilho sutil de fundo */}
+                <div className="absolute inset-0 bg-gradient-to-br from-accent/5 to-transparent rounded-3xl -z-10" />
               </div>
             </div>
           </div>
