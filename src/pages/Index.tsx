@@ -347,11 +347,15 @@ const Index = () => {
         
         <div className="container-narrow relative grid gap-12 lg:grid-cols-[1.25fr_1fr] lg:gap-20 items-center">
           <div className="reveal">
-            <div className="relative w-full flex justify-center lg:justify-start items-end h-full">
+            <div className="relative w-full flex justify-center lg:justify-start items-end h-full group">
+              {/* Efeito de profundidade no fundo (Glow sutil) */}
+              <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-accent/5 blur-[100px] rounded-full pointer-events-none -z-10 opacity-60" />
+              <div className="absolute left-1/2 bottom-0 -translate-x-1/2 w-[80%] h-[60%] bg-gradient-to-t from-black/20 to-transparent blur-[60px] pointer-events-none -z-10" />
+
               <img
                 src={flaviaFoto}
                 alt="Dra. Flávia Vaz Rabello"
-                className="w-full max-w-[520px] h-auto object-contain block"
+                className="w-full max-w-[520px] h-auto object-contain block relative z-10 drop-shadow-[0_20px_50px_rgba(0,0,0,0.4)] transition-transform duration-500 group-hover:scale-[1.01]"
                 style={{
                   filter: "none",
                   mixBlendMode: "normal",
