@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Mail, MapPin, Clock, MessageCircle } from "lucide-react";
+ import { Mail, MapPin, Clock, MessageCircle, Phone } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
