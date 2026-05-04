@@ -18,7 +18,7 @@ import {
   Gavel,
 } from "lucide-react";
 import HeroBackground from "@/components/HeroBackground";
-import flaviaHero from "@/assets/flavia_hero_final_v3-2.png";
+import flaviaHero from "@/assets/flavia_hero_v4.png";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
