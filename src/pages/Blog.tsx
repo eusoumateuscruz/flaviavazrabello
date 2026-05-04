@@ -11,38 +11,32 @@ const POSTS = [
     category: "Família",
     title: "Divórcio consensual: o que você precisa saber antes de iniciar",
     excerpt: "Entenda as etapas, documentos necessários e como o processo pode ser conduzido de forma rápida e amigável.",
-    date: "10 Mar 2025",
-  },
-  {
-    category: "Bancário",
-    title: "Como identificar juros abusivos no seu contrato",
-    excerpt: "Saiba reconhecer cláusulas indevidas e como buscar a revisão judicial do seu financiamento.",
-    date: "02 Mar 2025",
-  },
-  {
-    category: "Trabalhista",
-    title: "Seus direitos em caso de demissão sem justa causa",
-    excerpt: "Verbas rescisórias, FGTS, aviso prévio e seguro-desemprego: o que a lei garante ao trabalhador.",
-    date: "20 Fev 2025",
-  },
-  {
-    category: "Família",
-    title: "Guarda compartilhada: mitos e verdades",
-    excerpt: "Esclareça as principais dúvidas sobre o regime de guarda mais comum nos tribunais brasileiros.",
-    date: "12 Fev 2025",
-  },
-  {
-    category: "Bancário",
-    title: "Golpe do Pix: como agir se você foi vítima",
-    excerpt: "Passo a passo jurídico para tentar reaver o valor e responsabilizar quem deve responder pelo dano.",
-    date: "30 Jan 2025",
-  },
-  {
-    category: "Geral",
-    title: "Quando vale a pena buscar um advogado preventivo",
-    excerpt: "Antecipar problemas jurídicos pode evitar custos altos e proteger seus interesses no longo prazo.",
-    date: "18 Jan 2025",
-  },
+   },
+   {
+     category: "Bancário",
+     title: "Como identificar juros abusivos no seu contrato",
+     excerpt: "Saiba reconhecer cláusulas indevidas e como buscar a revisão judicial do seu financiamento.",
+   },
+   {
+     category: "Trabalhista",
+     title: "Seus direitos em caso de demissão sem justa causa",
+     excerpt: "Verbas rescisórias, FGTS, aviso prévio e seguro-desemprego: o que a lei garante ao trabalhador.",
+   },
+   {
+     category: "Família",
+     title: "Guarda compartilhada: mitos e verdades",
+     excerpt: "Esclareça as principais dúvidas sobre o regime de guarda mais comum nos tribunais brasileiros.",
+   },
+   {
+     category: "Bancário",
+     title: "Golpe do Pix: como agir se você foi vítima",
+     excerpt: "Passo a passo jurídico para tentar reaver o valor e responsabilizar quem deve responder pelo dano.",
+   },
+   {
+     category: "Geral",
+     title: "Quando vale a pena buscar um advogado preventivo",
+     excerpt: "Antecipar problemas jurídicos pode evitar custos altos e proteger seus interesses no longo prazo.",
+   },
 ];
 
 const Blog = () => {

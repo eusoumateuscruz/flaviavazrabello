@@ -12,7 +12,9 @@ import {
   Sparkles,
   Eye,
   Quote,
-  ArrowRight,
+   ArrowRight,
+   Clock,
+   Phone,
 } from "lucide-react";
 import HeroBackground from "@/components/HeroBackground";
 import flaviaHero from "@/assets/flavia_hero_final_v3-2.png";
@@ -129,15 +131,15 @@ const Index = () => {
               className="mt-10 flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0"
               style={{ animationDelay: "0.65s" }}
             >
-              <a
-                href={WHATSAPP_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
-              >
-                Agendar consulta
-                <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-              </a>
+               <a
+                 href={WHATSAPP_URL}
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
+               >
+                 Agendar consulta
+                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+               </a>
               <Link
                 to="/areas"
                 className="inline-flex items-center justify-center gap-2 border border-primary px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-primary transition-all hover:bg-primary hover:text-primary-foreground"
@@ -145,26 +147,26 @@ const Index = () => {
                 Conhecer as áreas
               </Link>
             </div>
-            <p className="label-eyebrow mt-10 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
-              ADVOCACIA · INDAIATUBA / SP · OAB 262057/SP
-            </p>
+             <p className="label-eyebrow mt-10 animate-fade-in opacity-0 uppercase" style={{ animationDelay: "0.75s" }}>
+               ADVOCACIA · Atendimento Presencial e Online em todo o Brasil · OAB 262057/SP
+             </p>
           </div>
         </div>
       </section>
 
-      {/* TRUST BAR */}
-      <section className="bg-primary text-primary-foreground border-y border-accent/20">
-        <div className="container-narrow py-6">
-          <ul className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-4">
-            {trustItems.map(({ icon: Icon, label }) => (
-              <li key={label} className="flex items-center gap-3 justify-center md:justify-start">
-                <Icon className="h-4 w-4 text-accent shrink-0" />
-                <span className="text-xs uppercase tracking-[0.18em] text-primary-foreground/85">{label}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
+       {/* TRUST BAR */}
+       <section className="bg-primary text-primary-foreground border-y border-accent/20">
+         <div className="container-narrow py-6">
+           <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 md:gap-4 text-center sm:text-left">
+             {trustItems.map(({ icon: Icon, label }) => (
+               <li key={label} className="flex items-center gap-3 justify-center md:justify-start">
+                 <Icon className="h-4 w-4 text-accent shrink-0" />
+                 <span className="text-[10px] md:text-xs uppercase tracking-[0.18em] text-primary-foreground/85">{label}</span>
+               </li>
+             ))}
+           </ul>
+         </div>
+       </section>
 
       {/* PRACTICE AREAS */}
       <section className="relative py-24 md:py-32 overflow-hidden">
@@ -319,25 +321,33 @@ const Index = () => {
         </div>
       </section>
 
-      {/* DIFFERENTIALS */}
-      <section className="py-20 md:py-28 bg-card border-y border-border">
-        <div className="container-narrow">
-          <SectionHeader
-            eyebrow="Diferenciais"
-            title="Por que escolher a Flávia Vaz Rabello Advocacia?"
-          />
-
-          <div className="mt-16 grid gap-px bg-border sm:grid-cols-2 border border-border">
-            {differentials.map(({ icon: Icon, title, text }) => (
-              <div key={title} className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
-                <Icon className="h-6 w-6 text-accent" strokeWidth={1.4} />
-                <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">{title}</h3>
-                <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{text}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+       {/* DIFFERENTIALS */}
+       <section className="py-20 md:py-28 bg-card border-y border-border">
+         <div className="container-narrow">
+           <SectionHeader
+             eyebrow="Diferenciais"
+             title="Por que escolher a Flávia Vaz Rabello Advocacia?"
+           />
+ 
+           <div className="mt-16 grid gap-px bg-border sm:grid-cols-2 lg:grid-cols-3 border border-border">
+             <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
+               <Sparkles className="h-6 w-6 text-accent" strokeWidth={1.4} />
+               <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Atendimento Individualizado</h3>
+               <p className="mt-3 text-sm text-foreground/75 leading-relaxed">Soluções alinhadas às suas necessidades específicas com atenção total ao seu caso.</p>
+             </div>
+             <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
+               <ShieldCheck className="h-6 w-6 text-accent" strokeWidth={1.4} />
+               <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Advocacia Personalizada</h3>
+               <p className="mt-3 text-sm text-foreground/75 leading-relaxed">Atuação sigilosa e estratégica, garantindo segurança e discrição em todos os processos.</p>
+             </div>
+             <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
+               <Award className="h-6 w-6 text-accent" strokeWidth={1.4} />
+               <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Experiência Consolidada</h3>
+               <p className="mt-3 text-sm text-foreground/75 leading-relaxed">Mais de 20 anos de atuação no mercado jurídico com equipe altamente qualificada.</p>
+             </div>
+           </div>
+         </div>
+       </section>
 
       {/* ABOUT PREVIEW */}
       <section className="bg-primary text-primary-foreground pt-2 md:pt-3 relative overflow-hidden" style={{ paddingBottom: 0 }}>
@@ -374,32 +384,111 @@ const Index = () => {
               Advocacia com propósito e comprometimento
             </h2>
             <div className="mt-6 h-px w-16 bg-accent" />
-            <div className="mt-8 space-y-4 text-primary-foreground/80 leading-relaxed">
-              <p>
-                Flávia Vaz Rabello é advogada inscrita na OAB 262057/SP, com atuação dedicada às áreas de Direito de Família,
-                Direito Bancário e do Consumidor, e Direito Trabalhista.
-              </p>
-              <p>
-                Ao longo de sua trajetória, construiu uma prática jurídica pautada pela ética, pela escuta atenta e pela
-                busca incansável por soluções que respeitem a integridade e os direitos de cada cliente.
-              </p>
-              <p>
-                Com escritório em Indaiatuba e atendimento em toda a região, oferece assessoria jurídica
-                personalizada, com transparência em cada etapa do processo.
-              </p>
-            </div>
+             <div className="mt-8 space-y-4 text-primary-foreground/80 leading-relaxed">
+               <p>
+                 Há mais de 20 anos no mercado jurídico, a Dra. Flávia Vaz Rabello preza por um atendimento com excelência e serviços jurídicos de qualidade.
+               </p>
+               <p>
+                 Sua atuação criteriosa na defesa dos interesses de seus clientes é pautada por soluções ágeis e resoluções plenas, com alto nível de satisfação e eficiência.
+               </p>
+               <p>
+                 Com atendimento personalizado em todo o Brasil, oferece assessoria jurídica qualificada, mantendo uma relação de total transparência e confiança.
+               </p>
+             </div>
             <Link
               to="/sobre"
               className="mt-8 inline-flex items-center gap-2 border border-accent text-accent px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-accent hover:text-accent-foreground transition-colors group"
             >
-              Saiba mais sobre a Flávia
-              <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      {/* TESTIMONIALS */}
+               Saiba mais sobre a Flávia
+               <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+             </Link>
+           </div>
+         </div>
+       </section>
+ 
+       {/* LOCATION & MAP */}
+       <section id="localizacao" className="py-24 md:py-32 bg-secondary/30 border-y border-border">
+         <div className="container-narrow">
+           <SectionHeader
+             eyebrow="Onde Estamos"
+             title="Nossa Localização"
+             subtitle="Ambiente preparado para oferecer conforto e sigilo no seu atendimento presencial."
+           />
+ 
+           <div className="mt-16 grid gap-12 lg:grid-cols-[1fr_1.5fr] items-start">
+             <div className="reveal space-y-8">
+               <div className="bg-card border border-border p-8 space-y-8">
+                 <div className="flex items-start gap-4">
+                   <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
+                     <MapPin className="h-5 w-5 text-accent" />
+                   </div>
+                   <div>
+                     <h4 className="font-serif text-lg text-primary">Endereço</h4>
+                     <p className="mt-2 text-sm text-foreground/75 leading-relaxed">
+                       Avenida Coronel Antonio Estanislau do Amaral, 635<br />
+                       Sala 10 - Itaici Office - Itaici<br />
+                       CEP 13.340-480 - Indaiatuba/SP
+                     </p>
+                     <p className="mt-4 text-[10px] font-bold text-accent uppercase tracking-wider">
+                       Estacionamento próprio e elevador
+                     </p>
+                   </div>
+                 </div>
+ 
+                 <div className="flex items-start gap-4">
+                   <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
+                     <Clock className="h-5 w-5 text-accent" />
+                   </div>
+                   <div>
+                     <h4 className="font-serif text-lg text-primary">Atendimento</h4>
+                     <p className="mt-2 text-sm text-foreground/75">
+                       Segunda à Sexta: 09h00 às 18h30<br />
+                       Sábado: Mediante agendamento
+                     </p>
+                   </div>
+                 </div>
+ 
+                 <div className="flex items-start gap-4">
+                   <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
+                     <Phone className="h-5 w-5 text-accent" />
+                   </div>
+                   <div>
+                     <h4 className="font-serif text-lg text-primary">Contato</h4>
+                     <p className="mt-2 text-sm text-foreground/75">
+                       (19) 9 9743-9157<br />
+                       (19) 3016-2688
+                     </p>
+                   </div>
+                 </div>
+               </div>
+ 
+               <a
+                 href="https://www.google.com/maps/dir//Avenida+Coronel+Antonio+Estanislau+do+Amaral,+635+-+Itaici+Office+-+Indaiatuba+-+SP"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="w-full inline-flex items-center justify-center gap-2 bg-primary px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-primary-foreground transition-all hover:bg-primary/90"
+               >
+                 Como chegar pelo Google Maps
+               </a>
+             </div>
+ 
+             <div className="reveal h-[450px] w-full border border-border overflow-hidden rounded-[14px] shadow-lg grayscale hover:grayscale-0 transition-all duration-700">
+               <iframe
+                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.328330768913!2d-47.17482342468494!3d-23.139912079092825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf51cf15222687%3A0x868c68c6a0c5c4e8!2sAv.%20Cel.%20Ant%C3%B4nio+Estanislau+do+Amaral%2C+635+-+Itaici%2C+Indaiatuba+-+SP%2C+13340-480!5e0!3m2!1spt-BR!2sbr!4v1715432000000"
+                 width="100%"
+                 height="100%"
+                 style={{ border: 0 }}
+                 allowFullScreen
+                 loading="lazy"
+                 referrerPolicy="no-referrer-when-downgrade"
+                 title="Localização do Escritório"
+               ></iframe>
+             </div>
+           </div>
+         </div>
+       </section>
+ 
+       {/* TESTIMONIALS */}
       <section className="py-20 md:py-28">
         <div className="container-narrow">
           <SectionHeader

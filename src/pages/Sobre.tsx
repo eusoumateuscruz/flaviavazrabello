@@ -4,12 +4,14 @@ import PageHero from "@/components/PageHero";
 import { EMAIL, WHATSAPP_URL } from "@/lib/site";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 
-const formation = [
-  { year: "2010", title: "Bacharel em Direito", subtitle: "Universidade reconhecida — São Paulo" },
-  { year: "2011", title: "Inscrição na OAB 262057/SP", subtitle: "Início da atuação profissional" },
-  { year: "2014", title: "Especialização em Direito de Família", subtitle: "Pós-graduação lato sensu" },
-  { year: "2018", title: "Especialização em Direito Bancário", subtitle: "Atuação consultiva e contenciosa" },
-];
+ const formation = [
+   { year: "OAB/SP 262057", title: "Graduada em Direito", subtitle: "FADITU" },
+   { year: "Pós-Graduação", title: "Direito do Trabalho e Processo do Trabalho", subtitle: "Especialista" },
+   { year: "Pós-Graduação", title: "Direito Previdenciário", subtitle: "Especialista" },
+   { year: "Pós-Graduação", title: "Direito Processual Civil", subtitle: "Especialista" },
+   { year: "Especialidade", title: "Direito Bancário", subtitle: "Especialista" },
+   { year: "Especialidade", title: "Direito de Família, Divórcio e Inventário", subtitle: "Especialista" },
+ ];
 
 const Sobre = () => {
   return (
@@ -60,21 +62,20 @@ const Sobre = () => {
             </h2>
             <div className="mt-6 h-px w-16 bg-accent" />
 
-            <div className="mt-8 space-y-5 text-foreground/80 leading-relaxed">
-              <p>
-                Flávia Vaz Rabello é advogada com formação sólida e atuação focada nas áreas de Direito de Família,
-                Direito Bancário e do Consumidor, e Direito Trabalhista. Sua trajetória é marcada pelo compromisso com a
-                excelência técnica e pelo cuidado com cada cliente que confia a ela suas questões mais delicadas.
-              </p>
-              <p>
-                Acredita que o exercício do Direito vai além da técnica jurídica: envolve sensibilidade para
-                compreender o contexto humano de cada caso e clareza para conduzir os processos com transparência.
-              </p>
-              <p>
-                Em seu escritório, você encontra uma advocacia personalizada, que prioriza a comunicação direta, o
-                sigilo absoluto e a busca por soluções que efetivamente protejam seus direitos e seu patrimônio.
-              </p>
-            </div>
+             <div className="mt-8 space-y-5 text-foreground/80 leading-relaxed">
+               <p>
+                 Há mais de 20 anos no mercado jurídico, a Dra. Flávia Vaz Rabello preza por um atendimento com excelência e serviços jurídicos de qualidade, atuando de forma criteriosa na defesa de seus clientes.
+               </p>
+               <p>
+                 Sua prática é orientada pela busca de soluções ágeis e resoluções plenas para os desafios propostos, com alto nível de satisfação, celeridade e eficiência. O atendimento humanizado e a praticidade são pilares fundamentais de seu trabalho.
+               </p>
+               <p>
+                 Com o compromisso de prestar serviços jurídicos de alta qualidade, a Dra. Flávia zela pelo atendimento personalíssimo e por uma relação de total transparência e confiança com cada cliente.
+               </p>
+               <p>
+                 Nosso objetivo, além de solucionar questões jurídicas, é atender com excelência em todo o país, oferecendo um serviço qualificado para a obtenção dos melhores resultados.
+               </p>
+             </div>
 
             <div className="mt-10 grid gap-6 sm:grid-cols-2">
               <div className="border border-border bg-card p-6">
@@ -102,24 +103,16 @@ const Sobre = () => {
             <div className="gold-rule mt-6" />
           </div>
 
-          <ol className="mt-16 max-w-3xl mx-auto relative">
-            <div className="absolute left-[7.5rem] top-0 bottom-0 w-px bg-border hidden md:block" />
-            {formation.map((f) => (
-              <li key={f.year} className="reveal relative grid md:grid-cols-[7rem_1fr] gap-4 md:gap-8 pb-10 last:pb-0">
-                <div className="font-serif text-2xl text-accent md:text-right">{f.year}</div>
-                <div className="md:pl-8 relative">
-                  <div className="hidden md:block absolute -left-[5px] top-3 h-2.5 w-2.5 rounded-full bg-accent" />
-                  <div className="flex items-start gap-3">
-                    <GraduationCap className="h-5 w-5 text-accent mt-1 shrink-0 md:hidden" />
-                    <div>
-                      <h3 className="font-serif text-xl text-primary">{f.title}</h3>
-                      <p className="text-sm text-foreground/70 mt-1">{f.subtitle}</p>
-                    </div>
-                  </div>
-                </div>
-              </li>
-            ))}
-          </ol>
+           <div className="mt-16 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+             {formation.map((f, idx) => (
+               <div key={idx} className="reveal bg-background border border-border p-8 transition-all hover:border-accent group">
+                 <GraduationCap className="h-6 w-6 text-accent mb-4 transition-transform group-hover:scale-110" />
+                 <p className="text-[10px] uppercase tracking-[0.2em] text-accent font-bold mb-2">{f.year}</p>
+                 <h3 className="font-serif text-xl text-primary leading-tight">{f.title}</h3>
+                 <p className="text-sm text-foreground/60 mt-2">{f.subtitle}</p>
+               </div>
+             ))}
+           </div>
         </div>
       </section>
 

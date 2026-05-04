@@ -1,11 +1,11 @@
 import { useState } from "react";
-import { Mail, MapPin, Clock, MessageCircle } from "lucide-react";
+ import { Mail, MapPin, Clock, MessageCircle, Phone } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Monogram } from "@/components/Logo";
-import { EMAIL, LOCATION, WHATSAPP_URL } from "@/lib/site";
+ import { EMAIL, LOCATION, WHATSAPP_URL, PHONES, HOURS } from "@/lib/site";
 import { toast } from "@/hooks/use-toast";
 
 const Contato = () => {
@@ -144,28 +144,37 @@ const Contato = () => {
                   <p className="mt-1 font-serif text-lg text-primary">{LOCATION}</p>
                 </div>
               </div>
-              <div className="flex items-start gap-4">
-                <Clock className="h-5 w-5 text-accent mt-1 shrink-0" />
-                <div>
-                  <p className="label-eyebrow">Atendimento</p>
-                  <p className="mt-1 text-sm text-foreground/80">Seg. a Sex. — 09h às 18h</p>
-                  <p className="text-sm text-foreground/70">Demais horários sob agendamento</p>
-                </div>
-              </div>
-            </div>
-
-            <div className="aspect-[16/9] w-full overflow-hidden border border-border">
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58852.123456789!2d-47.21!3d-23.19!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf500000000000%3A0x0!2zSW5kYWlhdHViYSwgU1A!5e0!3m2!1spt-BR!2sbr!4v1234567890"
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="Localização"
-              ></iframe>
-            </div>
+               <div className="flex items-start gap-4">
+                 <Phone className="h-5 w-5 text-accent mt-1 shrink-0" />
+                 <div>
+                   <p className="label-eyebrow">Telefones</p>
+                   {PHONES.map(phone => (
+                     <p key={phone} className="mt-1 font-serif text-lg text-primary">{phone}</p>
+                   ))}
+                 </div>
+               </div>
+               <div className="flex items-start gap-4">
+                 <Clock className="h-5 w-5 text-accent mt-1 shrink-0" />
+                 <div>
+                   <p className="label-eyebrow">Atendimento</p>
+                   <p className="mt-1 text-sm text-foreground/80">Seg. a Sex. — {HOURS.weekdays}</p>
+                   <p className="text-sm text-foreground/70">Sábados — {HOURS.saturday}</p>
+                 </div>
+               </div>
+             </div>
+ 
+             <div className="aspect-[16/9] w-full overflow-hidden border border-border rounded-lg grayscale hover:grayscale-0 transition-all duration-700">
+               <iframe
+                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.328330768913!2d-47.17482342468494!3d-23.139912079092825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf51cf15222687%3A0x868c68c6a0c5c4e8!2sAv.%20Cel.%20Ant%C3%B4nio+Estanislau+do+Amaral%2C+635+-+Itaici%2C+Indaiatuba+-+SP%2C+13340-480!5e0!3m2!1spt-BR!2sbr!4v1715432000000"
+                 width="100%"
+                 height="100%"
+                 style={{ border: 0 }}
+                 allowFullScreen
+                 loading="lazy"
+                 referrerPolicy="no-referrer-when-downgrade"
+                 title="Localização"
+               ></iframe>
+             </div>
           </aside>
         </div>
       </section>

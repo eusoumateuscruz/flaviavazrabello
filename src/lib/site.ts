@@ -1,6 +1,11 @@
-export const WHATSAPP_URL = "https://wa.me/5519999999999"; // Exemplo, mantendo o padrão do projeto
-export const EMAIL = "flaviarabello@adv.oabsp.org.br";
-export const LOCATION = "Indaiatuba, SP";
+ export const WHATSAPP_URL = "https://wa.me/5519997439157";
+ export const EMAIL = "advogada@flaviavazrabello.com.br";
+ export const LOCATION = "Avenida Coronel Antonio Estanislau do Amaral, 635 - sala 10 - Itaici Office - Itaici - CEP 13.340-480 - Indaiatuba/SP";
+ export const PHONES = ["19 9 9743-9157", "19 3016-2688"];
+ export const HOURS = {
+   weekdays: "09h00 às 18h30",
+   saturday: "Mediante agendamento"
+ };
 export const OAB = "OAB 262057/SP";
 export const FIRM_NAME = "Flávia Vaz Rabello Advocacia";
 
@@ -13,44 +18,53 @@ export const NAV_LINKS = [
 ];
 
 export const PRACTICE_AREAS = [
-  {
-    id: "familia",
-    title: "Direito de Família",
-    description:
-      "Suporte jurídico em momentos delicados da vida, com sensibilidade e rigor técnico.",
-    services: ["Divórcio", "Inventário", "Guarda e Modificação de Guarda"],
-  },
-  {
-    id: "bancario",
-    title: "Direito Bancário e do Consumidor",
-    description:
-      "Proteção dos seus direitos frente a cobranças indevidas, contratos abusivos e fraudes financeiras.",
-    services: [
-      "Revisão de Contratos",
-      "Juros Abusivos",
-      "Busca e Apreensão",
-      "Golpe do Pix",
-      "Revisão de Contrato de Veículo e Financiamento",
-      "Defesa do Consumidor",
-    ],
-  },
-  {
-    id: "trabalhista",
-    title: "Direito Trabalhista",
-    description:
-      "Orientação e defesa nas relações de trabalho, com foco em resultados concretos.",
-    services: ["Reclamações Trabalhistas", "Verbas Rescisórias", "Acordos e Negociações"],
-  },
-  {
-    id: "assessoria",
-    title: "Assessoria Jurídica",
-    description:
-      "Acompanhamento jurídico preventivo e contínuo para pessoas e empresas, evitando litígios e garantindo segurança nas decisões.",
-    services: [
-      "Consultoria Preventiva",
-      "Acompanhamento Contínuo",
-      "Análise de Contratos em Geral",
-      "Suporte Jurídico para Pessoas e Empresas",
-    ],
-  },
+   {
+     id: "familia",
+     title: "Direito de Família e Sucessões",
+     description:
+       "Atuação humanizada em momentos decisivos, buscando a proteção dos laços familiares e do patrimônio.",
+     services: ["Divórcio e União Estável", "Guarda, Alimentos e Visitas", "Inventário e Partilha", "Interdição, Tutela e Curatela", "Alienação Parental", "Abandono Afetivo"],
+   },
+   {
+     id: "bancario",
+     title: "Direito Bancário",
+     description:
+       "Defesa contra abusos financeiros e proteção do seu patrimônio frente a instituições bancárias.",
+     services: [
+       "Revisão de Contratos",
+       "Juros Abusivos",
+       "Revisão de Financiamento de Veículos",
+       "Busca e Apreensão",
+     ],
+   },
+   {
+     id: "consumidor",
+     title: "Direito do Consumidor",
+     description:
+       "Garantia de que seus direitos sejam respeitados em relações de consumo e transações digitais.",
+     services: [
+       "Indenizações por Danos Morais e Materiais",
+       "Proteção contra Golpes e Fraudes",
+       "Práticas Abusivas",
+     ],
+   },
+   {
+     id: "trabalhista",
+     title: "Direito do Trabalho",
+     description:
+       "Defesa dos direitos do trabalhador com foco em justiça e reparação de danos nas relações laborais.",
+     services: ["Reclamações Trabalhistas", "Assédio Moral e Sexual", "Danos Morais e Materiais", "Verbas Rescisórias"],
+   },
+   {
+     id: "extrajudicial",
+     title: "Assessoria Jurídica Extrajudicial e Judicial",
+     description:
+       "Consultoria preventiva para evitar litígios e atuação contenciosa estratégica quando necessária.",
+     services: [
+       "Consultoria Preventiva (Extrajudicial)",
+       "Atuação Contenciosa (Judicial)",
+       "Regularização de Imóveis",
+       "Direito Civil e Contratos",
+     ],
+   },
 ];
