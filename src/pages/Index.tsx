@@ -347,17 +347,26 @@ const Index = () => {
         
         <div className="container-narrow relative grid gap-12 lg:grid-cols-[1.25fr_1fr] lg:gap-20 items-center">
           <div className="reveal">
-            <div className="relative w-full flex justify-center lg:justify-start">
-              <img
-                src={flaviaFoto}
-                alt="Dra. Flávia Vaz Rabello"
-                className="w-full max-w-[500px] h-auto object-contain block"
-                style={{
-                  filter: "none",
-                  mixBlendMode: "normal",
-                  opacity: 1,
-                }}
-              />
+            <div className="relative w-full flex justify-center lg:justify-start pt-8">
+              <div className="relative">
+                {/* Moldura elegante com borda dourada fina */}
+                <div className="absolute -inset-4 border border-accent/30 rounded-2xl -z-10" />
+                <div className="absolute -inset-2 border border-accent/10 rounded-2xl -z-10" />
+                
+                <img
+                  src={flaviaFoto}
+                  alt="Dra. Flávia Vaz Rabello"
+                  className="relative z-10 w-full max-w-[480px] h-auto object-contain block drop-shadow-2xl"
+                  style={{
+                    filter: "none",
+                    mixBlendMode: "normal",
+                    opacity: 1,
+                  }}
+                />
+                
+                {/* Brilho sutil no canto para destacar a silhueta */}
+                <div className="absolute top-0 right-0 w-32 h-32 bg-accent/10 blur-[80px] rounded-full -z-10" />
+              </div>
             </div>
           </div>
 
