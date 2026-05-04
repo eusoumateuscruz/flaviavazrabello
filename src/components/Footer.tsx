@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <Logo variant="light" />
             <p className="mt-6 text-sm leading-relaxed text-primary-foreground/70 max-w-xs">
-              Advocacia com propósito, ética e dedicação. Atendimento humanizado em Indaiatuba e região.
+               Advocacia com propósito, ética e dedicação. Atendimento presencial e online em todo o Brasil.
             </p>
           </div>
 
@@ -48,10 +48,10 @@ const Footer = () => {
                 <Mail className="h-4 w-4 mt-0.5 text-accent shrink-0" />
                 <a href={`mailto:${EMAIL}`} className="hover:text-accent break-all">{EMAIL}</a>
               </li>
-              <li className="flex items-start gap-2">
-                <MapPin className="h-4 w-4 mt-0.5 text-accent shrink-0" />
-                <span>{LOCATION}</span>
-              </li>
+               <li className="flex items-start gap-2">
+                 <MapPin className="h-4 w-4 mt-0.5 text-accent shrink-0" />
+                 <span className="text-xs leading-relaxed">{LOCATION}</span>
+               </li>
             </ul>
 
             <div className="mt-6 flex items-center gap-3">
