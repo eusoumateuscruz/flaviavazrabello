@@ -145,8 +145,8 @@ const Index = () => {
                 Conhecer as áreas
               </Link>
             </div>
-            <p className="label-eyebrow mt-8 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
-              Advocacia · Indaiatuba / SP · OAB 262057/SP
+            <p className="label-eyebrow mt-10 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
+              ADVOCACIA · INDAIATUBA / SP · OAB 262057/SP
             </p>
           </div>
         </div>
