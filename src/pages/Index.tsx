@@ -179,7 +179,7 @@ const Index = () => {
 
         <div className="container-narrow relative">
           <SectionHeader
-            eyebrow="O que fazemos"
+            eyebrow="Nossas áreas de atuação"
             title="Áreas de Atuação"
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
@@ -288,14 +288,6 @@ const Index = () => {
                     </div>
 
                     <div>
-                      <p
-                        className={`mb-6 uppercase ${
-                          isFeatured ? "text-primary-foreground/55" : "text-foreground/45"
-                        }`}
-                        style={{ fontSize: "11px", letterSpacing: "0.22em", fontWeight: 500 }}
-                      >
-                        Serviços
-                      </p>
                       <ul
                         className={`grid content-start gap-y-4 gap-x-8 ${
                           manyServices ? "sm:grid-cols-2" : "grid-cols-1"
