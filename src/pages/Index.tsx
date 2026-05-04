@@ -347,15 +347,16 @@ const Index = () => {
         
         <div className="container-narrow relative grid gap-12 lg:grid-cols-[1.25fr_1fr] lg:gap-20 items-center">
           <div className="reveal">
-            <div className="relative w-full flex justify-center py-8">
+            <div className="relative w-full flex justify-center lg:justify-start items-end h-full">
               <img
                 src={flaviaFoto}
                 alt="Dra. Flávia Vaz Rabello"
-                className="w-full max-w-[500px] h-auto object-contain block mx-auto"
+                className="w-full max-w-[520px] h-auto object-contain block"
                 style={{
                   filter: "none",
                   mixBlendMode: "normal",
                   opacity: 1,
+                  marginBottom: "-4px"
                 }}
               />
             </div>
