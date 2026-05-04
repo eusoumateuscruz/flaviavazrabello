@@ -9,6 +9,12 @@
 export const OAB = "OAB 262057/SP";
 export const FIRM_NAME = "Flávia Vaz Rabello Advocacia";
 
+export const SOCIAL_LINKS = {
+  facebook: "https://www.facebook.com/advogadarabello/",
+  instagram: "https://www.instagram.com/flaviavazrabello.adv/",
+  tiktok: "https://www.tiktok.com/@flaviavazrabello.adv",
+};
+
 export const NAV_LINKS = [
   { label: "Início", to: "/" },
   { label: "Sobre", to: "/sobre" },
