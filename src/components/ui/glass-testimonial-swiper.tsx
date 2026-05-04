@@ -132,16 +132,6 @@ export const TestimonialStack: React.FC<Props> = ({ testimonials }) => {
         })}
       </div>
 
-      <div className="mt-8 flex items-center gap-2">
-        {testimonials.map((_, i) => (
-          <button
-            key={i}
-            aria-label={`Ir para depoimento ${i + 1}`}
-            className={`pagination-dot ${i === active ? "active" : ""}`}
-            onClick={() => setActive(i)}
-          />
-        ))}
-      </div>
     </div>
   );
 };

@@ -108,7 +108,6 @@ const Blog = () => {
                   <div className="p-6">
                     <div className="flex items-center justify-between text-xs uppercase tracking-[0.2em]">
                       <span className="text-accent">{p.category}</span>
-                      <span className="text-foreground/50">{p.date}</span>
                     </div>
                     <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
                       {p.title}

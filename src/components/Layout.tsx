@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { Outlet, useLocation } from "react-router-dom";
 import Header from "./Header";
 import Footer from "./Footer";
+import WhatsAppButton from "./ui/whatsapp-button";
 import { useReveal } from "@/hooks/useReveal";
 
 const Layout = () => {
@@ -19,6 +20,7 @@ const Layout = () => {
         <Outlet />
       </main>
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 };

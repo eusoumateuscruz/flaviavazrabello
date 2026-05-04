@@ -26,7 +26,7 @@ const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
   { icon: Heart, label: "Atendimento Humanizado" },
   { icon: ShieldCheck, label: "Sigilo e Ética Profissional" },
-  { icon: MapPin, label: "Indaiatuba e Região" },
+  { icon: MapPin, label: "ATENDIMENTO PRESENCIAL E ON LINE EM TODO O BRASIL" },
 ];
 
 const areaIcons = [Users, FileText, Briefcase, Scale];
@@ -54,6 +54,24 @@ const differentials = [
   },
 ];
 
+const blogPosts = [
+  {
+    category: "Família",
+    title: "Divórcio consensual: o que você precisa saber antes de iniciar",
+    excerpt: "Entenda as etapas, documentos necessários e como o processo pode ser conduzido de forma rápida e amigável.",
+  },
+  {
+    category: "Bancário",
+    title: "Como identificar juros abusivos no seu contrato",
+    excerpt: "Saiba reconhecer cláusulas indevidas e como buscar a revisão judicial do seu financiamento.",
+  },
+  {
+    category: "Trabalhista",
+    title: "Seus direitos em caso de demissão sem justa causa",
+    excerpt: "Verbas rescisórias, FGTS, aviso prévio e seguro-desemprego: o que a lei garante ao trabalhador.",
+  },
+];
+
 const testimonials = [
   {
     name: "Mariana S.",
@@ -72,23 +90,6 @@ const testimonials = [
   },
 ];
 
-const blogPosts = [
-  {
-    category: "Família",
-    title: "Divórcio consensual: o que você precisa saber antes de iniciar",
-    excerpt: "Entenda as etapas, documentos necessários e como o processo pode ser conduzido de forma rápida e amigável.",
-  },
-  {
-    category: "Bancário",
-    title: "Como identificar juros abusivos no seu contrato",
-    excerpt: "Saiba reconhecer cláusulas indevidas e como buscar a revisão judicial do seu financiamento.",
-  },
-  {
-    category: "Trabalhista",
-    title: "Seus direitos em caso de demissão sem justa causa",
-    excerpt: "Verbas rescisórias, FGTS, aviso prévio e seguro-desemprego: o que a lei garante ao trabalhador.",
-  },
-];
 
 const Index = () => {
   return (
@@ -134,7 +135,7 @@ const Index = () => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
               >
-                Agendar consulta gratuita
+                Agendar consulta
                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </a>
               <Link
@@ -144,8 +145,8 @@ const Index = () => {
                 Conhecer as áreas
               </Link>
             </div>
-            <p className="label-eyebrow mt-8 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
-              Advocacia · Campinas / SP · OAB 262057/SP
+            <p className="label-eyebrow mt-10 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
+              ADVOCACIA · INDAIATUBA / SP · OAB 262057/SP
             </p>
           </div>
         </div>
@@ -179,7 +180,7 @@ const Index = () => {
 
         <div className="container-narrow relative">
           <SectionHeader
-            eyebrow="O que fazemos"
+            eyebrow="Nossas áreas de atuação"
             title="Áreas de Atuação"
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
@@ -288,14 +289,6 @@ const Index = () => {
                     </div>
 
                     <div>
-                      <p
-                        className={`mb-6 uppercase ${
-                          isFeatured ? "text-primary-foreground/55" : "text-foreground/45"
-                        }`}
-                        style={{ fontSize: "11px", letterSpacing: "0.22em", fontWeight: 500 }}
-                      >
-                        Serviços
-                      </p>
                       <ul
                         className={`grid content-start gap-y-4 gap-x-8 ${
                           manyServices ? "sm:grid-cols-2" : "grid-cols-1"
