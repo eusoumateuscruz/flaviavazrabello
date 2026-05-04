@@ -54,6 +54,24 @@ const differentials = [
   },
 ];
 
+const blogPosts = [
+  {
+    category: "Família",
+    title: "Divórcio consensual: o que você precisa saber antes de iniciar",
+    excerpt: "Entenda as etapas, documentos necessários e como o processo pode ser conduzido de forma rápida e amigável.",
+  },
+  {
+    category: "Bancário",
+    title: "Como identificar juros abusivos no seu contrato",
+    excerpt: "Saiba reconhecer cláusulas indevidas e como buscar a revisão judicial do seu financiamento.",
+  },
+  {
+    category: "Trabalhista",
+    title: "Seus direitos em caso de demissão sem justa causa",
+    excerpt: "Verbas rescisórias, FGTS, aviso prévio e seguro-desemprego: o que a lei garante ao trabalhador.",
+  },
+];
+
 const testimonials = [
   {
     name: "Mariana S.",
