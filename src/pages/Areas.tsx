@@ -65,7 +65,7 @@ const Areas = () => {
                   <div className="mt-10 p-6 border border-border bg-background flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
                     <p className="font-serif text-lg text-primary">Precisa de ajuda nessa área?</p>
                     <a
-                      href={WHATSAPP_URL}
+                      href={`${WHATSAPP_URL}&text=${encodeURIComponent(`Olá Dra. Flávia, gostaria de ajuda na área de ${area.title}.`)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 bg-accent px-6 py-3 text-xs uppercase tracking-[0.2em] text-accent-foreground hover:bg-accent/90 transition-colors group"
