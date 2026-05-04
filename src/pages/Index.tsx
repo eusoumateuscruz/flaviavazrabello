@@ -26,7 +26,7 @@ const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
   { icon: Heart, label: "Atendimento Humanizado" },
   { icon: ShieldCheck, label: "Sigilo e Ética Profissional" },
-  { icon: MapPin, label: "Indaiatuba e Região" },
+  { icon: MapPin, label: "ATENDIMENTO PRESENCIAL E ON LINE EM TODO O BRASIL" },
 ];
 
 const areaIcons = [Users, FileText, Briefcase, Scale];
@@ -134,7 +134,7 @@ const Index = () => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
               >
-                Agendar consulta gratuita
+                Agendar consulta
                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </a>
               <Link
@@ -145,7 +145,7 @@ const Index = () => {
               </Link>
             </div>
             <p className="label-eyebrow mt-8 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
-              Advocacia · Campinas / SP · OAB 262057/SP
+              Advocacia · Indaiatuba / SP · OAB 262057/SP
             </p>
           </div>
         </div>
