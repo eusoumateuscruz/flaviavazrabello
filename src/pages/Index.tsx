@@ -251,15 +251,7 @@ const Index = () => {
                         }`}
                         style={{ fontSize: isFeatured ? "32px" : "28px" }}
                       >
-                        <span
-                          className="font-serif mr-3 align-baseline"
-                          style={{
-                            fontSize: "0.6em",
-                            color: "#A66219",
-                            fontWeight: 400,
-                            letterSpacing: "0.02em",
-                          }}
-                        >
+                        <span className="font-serif mr-3 align-baseline text-[0.6em] text-accent font-normal tracking-wider">
                           {number}
                         </span>
                         {area.title}
