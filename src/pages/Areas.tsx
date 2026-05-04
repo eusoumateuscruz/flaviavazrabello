@@ -1,8 +1,8 @@
-import { ArrowRight, Users, FileText, Briefcase, Scale } from "lucide-react";
+import { ArrowRight, Users, FileText, Briefcase, Scale, Gavel } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 
-const icons = [Users, FileText, Briefcase, Scale];
+const icons = [Users, FileText, Briefcase, Scale, Gavel];
 
 const longDescriptions: Record<string, string> = {
   familia:
@@ -11,7 +11,7 @@ const longDescriptions: Record<string, string> = {
     "Atuamos na defesa do consumidor frente a instituições financeiras, contratos com cláusulas abusivas, cobranças indevidas e fraudes digitais como o golpe do Pix. Avaliamos cada contrato com rigor técnico para identificar irregularidades e buscar a reparação devida.",
   trabalhista:
     "Atendemos trabalhadores em demandas individuais, com análise estratégica de cada situação, buscando a justa reparação dos direitos violados nas relações de trabalho.",
-  assessoria:
+  extrajudicial:
     "Oferecemos assessoria jurídica preventiva e contínua para pessoas físicas e empresas, com acompanhamento próximo, análise de contratos e orientação estratégica para evitar litígios e dar segurança às decisões do dia a dia.",
 };
 
