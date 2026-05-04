@@ -422,9 +422,6 @@ const Index = () => {
                        Sala 10 - Itaici Office - Itaici<br />
                        CEP 13.340-480 - Indaiatuba/SP
                      </p>
-                     <p className="mt-4 text-[10px] font-bold text-accent uppercase tracking-wider">
-                       Estacionamento próprio e elevador
-                     </p>
                    </div>
                  </div>
  
