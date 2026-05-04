@@ -397,14 +397,96 @@ const Index = () => {
               to="/sobre"
               className="mt-8 inline-flex items-center gap-2 border border-accent text-accent px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-accent hover:text-accent-foreground transition-colors group"
             >
-              Saiba mais sobre a Flávia
-              <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      {/* TESTIMONIALS */}
+               Saiba mais sobre a Flávia
+               <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+             </Link>
+           </div>
+         </div>
+       </section>
+ 
+       {/* LOCATION & MAP */}
+       <section id="localizacao" className="py-24 md:py-32 bg-secondary/30 border-y border-border">
+         <div className="container-narrow">
+           <SectionHeader
+             eyebrow="Onde Estamos"
+             title="Nossa Localização"
+             subtitle="Ambiente preparado para oferecer conforto e sigilo no seu atendimento presencial."
+           />
+ 
+           <div className="mt-16 grid gap-12 lg:grid-cols-[1fr_1.5fr] items-start">
+             <div className="reveal space-y-8">
+               <div className="bg-card border border-border p-8 space-y-8">
+                 <div className="flex items-start gap-4">
+                   <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
+                     <MapPin className="h-5 w-5 text-accent" />
+                   </div>
+                   <div>
+                     <h4 className="font-serif text-lg text-primary">Endereço</h4>
+                     <p className="mt-2 text-sm text-foreground/75 leading-relaxed">
+                       Avenida Coronel Antonio Estanislau do Amaral, 635<br />
+                       Sala 10 - Itaici Office - Itaici<br />
+                       CEP 13.340-480 - Indaiatuba/SP
+                     </p>
+                     <p className="mt-4 text-[10px] font-bold text-accent uppercase tracking-wider">
+                       Estacionamento próprio e elevador
+                     </p>
+                   </div>
+                 </div>
+ 
+                 <div className="flex items-start gap-4">
+                   <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
+                     <Clock className="h-5 w-5 text-accent" />
+                   </div>
+                   <div>
+                     <h4 className="font-serif text-lg text-primary">Atendimento</h4>
+                     <p className="mt-2 text-sm text-foreground/75">
+                       Segunda à Sexta: 09h00 às 18h30<br />
+                       Sábado: Mediante agendamento
+                     </p>
+                   </div>
+                 </div>
+ 
+                 <div className="flex items-start gap-4">
+                   <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
+                     <Phone className="h-5 w-5 text-accent" />
+                   </div>
+                   <div>
+                     <h4 className="font-serif text-lg text-primary">Contato</h4>
+                     <p className="mt-2 text-sm text-foreground/75">
+                       (19) 9 9743-9157<br />
+                       (19) 3016-2688
+                     </p>
+                   </div>
+                 </div>
+               </div>
+ 
+               <a
+                 href="https://www.google.com/maps/dir//Avenida+Coronel+Antonio+Estanislau+do+Amaral,+635+-+Itaici+Office+-+Indaiatuba+-+SP"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="w-full inline-flex items-center justify-center gap-2 bg-primary px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-primary-foreground transition-all hover:bg-primary/90"
+               >
+                 Como chegar pelo Google Maps
+               </a>
+             </div>
+ 
+             <div className="reveal h-[450px] w-full border border-border overflow-hidden rounded-[14px] shadow-lg grayscale hover:grayscale-0 transition-all duration-700">
+               <iframe
+                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.328330768913!2d-47.17482342468494!3d-23.139912079092825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf51cf15222687%3A0x868c68c6a0c5c4e8!2sAv.%20Cel.%20Ant%C3%B4nio+Estanislau+do+Amaral%2C+635+-+Itaici%2C+Indaiatuba+-+SP%2C+13340-480!5e0!3m2!1spt-BR!2sbr!4v1715432000000"
+                 width="100%"
+                 height="100%"
+                 style={{ border: 0 }}
+                 allowFullScreen
+                 loading="lazy"
+                 referrerPolicy="no-referrer-when-downgrade"
+                 title="Localização do Escritório"
+               ></iframe>
+             </div>
+           </div>
+         </div>
+       </section>
+ 
+       {/* TESTIMONIALS */}
       <section className="py-20 md:py-28">
         <div className="container-narrow">
           <SectionHeader
