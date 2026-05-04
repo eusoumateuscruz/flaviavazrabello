@@ -1,3 +1,5 @@
+import LandingExtrajudicial from "./pages/LandingExtrajudicial";
+            <Route path="/assessoria-juridica" element={<LandingExtrajudicial />} />
 import LandingFamilia from "./pages/LandingFamilia";
             <Route path="/direito-de-familia" element={<LandingFamilia />} />
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
