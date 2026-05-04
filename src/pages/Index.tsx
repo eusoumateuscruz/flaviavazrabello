@@ -383,13 +383,15 @@ const Index = () => {
                  Com atendimento personalizado em todo o Brasil, oferece assessoria jurídica qualificada, mantendo uma relação de total transparência e confiança.
                </p>
              </div>
-            <Link
-              to="/sobre"
-              className="mt-8 inline-flex items-center gap-2 border border-accent text-accent px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-accent hover:text-accent-foreground transition-colors group"
-            >
-               Saiba mais sobre a Flávia
-               <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-             </Link>
+            <div className="mt-8 mb-12 lg:mb-0">
+              <Link
+                to="/sobre"
+                className="inline-flex items-center gap-2 border border-accent text-accent px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-accent hover:text-accent-foreground transition-colors group"
+              >
+                Saiba mais sobre a Flávia
+                <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+              </Link>
+            </div>
            </div>
          </div>
        </section>
