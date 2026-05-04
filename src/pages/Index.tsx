@@ -129,15 +129,15 @@ const Index = () => {
               className="mt-10 flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0"
               style={{ animationDelay: "0.65s" }}
             >
-              <a
-                href={WHATSAPP_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
-              >
-                Agendar consulta
-                <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-              </a>
+               <a
+                 href={WHATSAPP_URL}
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
+               >
+                 Agendar consulta
+                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+               </a>
               <Link
                 to="/areas"
                 className="inline-flex items-center justify-center gap-2 border border-primary px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-primary transition-all hover:bg-primary hover:text-primary-foreground"
@@ -145,26 +145,26 @@ const Index = () => {
                 Conhecer as áreas
               </Link>
             </div>
-            <p className="label-eyebrow mt-10 animate-fade-in opacity-0" style={{ animationDelay: "0.75s" }}>
-              ADVOCACIA · INDAIATUBA / SP · OAB 262057/SP
-            </p>
+             <p className="label-eyebrow mt-10 animate-fade-in opacity-0 uppercase" style={{ animationDelay: "0.75s" }}>
+               ADVOCACIA · Atendimento Presencial e Online em todo o Brasil · OAB 262057/SP
+             </p>
           </div>
         </div>
       </section>
 
-      {/* TRUST BAR */}
-      <section className="bg-primary text-primary-foreground border-y border-accent/20">
-        <div className="container-narrow py-6">
-          <ul className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-4">
-            {trustItems.map(({ icon: Icon, label }) => (
-              <li key={label} className="flex items-center gap-3 justify-center md:justify-start">
-                <Icon className="h-4 w-4 text-accent shrink-0" />
-                <span className="text-xs uppercase tracking-[0.18em] text-primary-foreground/85">{label}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
+       {/* TRUST BAR */}
+       <section className="bg-primary text-primary-foreground border-y border-accent/20">
+         <div className="container-narrow py-6">
+           <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 md:gap-4 text-center sm:text-left">
+             {trustItems.map(({ icon: Icon, label }) => (
+               <li key={label} className="flex items-center gap-3 justify-center md:justify-start">
+                 <Icon className="h-4 w-4 text-accent shrink-0" />
+                 <span className="text-[10px] md:text-xs uppercase tracking-[0.18em] text-primary-foreground/85">{label}</span>
+               </li>
+             ))}
+           </ul>
+         </div>
+       </section>
 
       {/* PRACTICE AREAS */}
       <section className="relative py-24 md:py-32 overflow-hidden">
@@ -319,25 +319,33 @@ const Index = () => {
         </div>
       </section>
 
-      {/* DIFFERENTIALS */}
-      <section className="py-20 md:py-28 bg-card border-y border-border">
-        <div className="container-narrow">
-          <SectionHeader
-            eyebrow="Diferenciais"
-            title="Por que escolher a Flávia Vaz Rabello Advocacia?"
-          />
-
-          <div className="mt-16 grid gap-px bg-border sm:grid-cols-2 border border-border">
-            {differentials.map(({ icon: Icon, title, text }) => (
-              <div key={title} className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
-                <Icon className="h-6 w-6 text-accent" strokeWidth={1.4} />
-                <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">{title}</h3>
-                <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{text}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+       {/* DIFFERENTIALS */}
+       <section className="py-20 md:py-28 bg-card border-y border-border">
+         <div className="container-narrow">
+           <SectionHeader
+             eyebrow="Diferenciais"
+             title="Por que escolher a Flávia Vaz Rabello Advocacia?"
+           />
+ 
+           <div className="mt-16 grid gap-px bg-border sm:grid-cols-2 lg:grid-cols-3 border border-border">
+             <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
+               <Sparkles className="h-6 w-6 text-accent" strokeWidth={1.4} />
+               <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Atendimento Individualizado</h3>
+               <p className="mt-3 text-sm text-foreground/75 leading-relaxed">Soluções alinhadas às suas necessidades específicas com atenção total ao seu caso.</p>
+             </div>
+             <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
+               <ShieldCheck className="h-6 w-6 text-accent" strokeWidth={1.4} />
+               <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Advocacia Personalizada</h3>
+               <p className="mt-3 text-sm text-foreground/75 leading-relaxed">Atuação sigilosa e estratégica, garantindo segurança e discrição em todos os processos.</p>
+             </div>
+             <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
+               <Award className="h-6 w-6 text-accent" strokeWidth={1.4} />
+               <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Experiência Consolidada</h3>
+               <p className="mt-3 text-sm text-foreground/75 leading-relaxed">Mais de 20 anos de atuação no mercado jurídico com equipe altamente qualificada.</p>
+             </div>
+           </div>
+         </div>
+       </section>
 
       {/* ABOUT PREVIEW */}
       <section className="bg-primary text-primary-foreground pt-2 md:pt-3 relative overflow-hidden" style={{ paddingBottom: 0 }}>
@@ -374,20 +382,17 @@ const Index = () => {
               Advocacia com propósito e comprometimento
             </h2>
             <div className="mt-6 h-px w-16 bg-accent" />
-            <div className="mt-8 space-y-4 text-primary-foreground/80 leading-relaxed">
-              <p>
-                Flávia Vaz Rabello é advogada inscrita na OAB 262057/SP, com atuação dedicada às áreas de Direito de Família,
-                Direito Bancário e do Consumidor, e Direito Trabalhista.
-              </p>
-              <p>
-                Ao longo de sua trajetória, construiu uma prática jurídica pautada pela ética, pela escuta atenta e pela
-                busca incansável por soluções que respeitem a integridade e os direitos de cada cliente.
-              </p>
-              <p>
-                Com escritório em Indaiatuba e atendimento em toda a região, oferece assessoria jurídica
-                personalizada, com transparência em cada etapa do processo.
-              </p>
-            </div>
+             <div className="mt-8 space-y-4 text-primary-foreground/80 leading-relaxed">
+               <p>
+                 Há mais de 20 anos no mercado jurídico, a Dra. Flávia Vaz Rabello preza por um atendimento com excelência e serviços jurídicos de qualidade.
+               </p>
+               <p>
+                 Sua atuação criteriosa na defesa dos interesses de seus clientes é pautada por soluções ágeis e resoluções plenas, com alto nível de satisfação e eficiência.
+               </p>
+               <p>
+                 Com atendimento personalizado em todo o Brasil, oferece assessoria jurídica qualificada, mantendo uma relação de total transparência e confiança.
+               </p>
+             </div>
             <Link
               to="/sobre"
               className="mt-8 inline-flex items-center gap-2 border border-accent text-accent px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-accent hover:text-accent-foreground transition-colors group"
