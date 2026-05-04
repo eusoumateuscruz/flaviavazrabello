@@ -62,20 +62,20 @@ const Sobre = () => {
             </h2>
             <div className="mt-6 h-px w-16 bg-accent" />
 
-             <div className="mt-8 space-y-5 text-foreground/80 leading-relaxed">
-               <p>
-                 Há mais de 20 anos no mercado jurídico, a Dra. Flávia Vaz Rabello preza por um atendimento com excelência e serviços jurídicos de qualidade, atuando de forma criteriosa na defesa de seus clientes.
-               </p>
-               <p>
-                 Sua prática é orientada pela busca de soluções ágeis e resoluções plenas para os desafios propostos, com alto nível de satisfação, celeridade e eficiência. O atendimento humanizado e a praticidade são pilares fundamentais de seu trabalho.
-               </p>
-               <p>
-                 Com o compromisso de prestar serviços jurídicos de alta qualidade, a Dra. Flávia zela pelo atendimento personalíssimo e por uma relação de total transparência e confiança com cada cliente.
-               </p>
-               <p>
-                 Nosso objetivo, além de solucionar questões jurídicas, é atender com excelência em todo o país, oferecendo um serviço qualificado para a obtenção dos melhores resultados.
-               </p>
-             </div>
+            <div className="mt-8 space-y-5 text-foreground/80 leading-relaxed text-justify">
+              <p>
+                Há mais de 20 anos no mercado jurídico, atuante em várias áreas, a advogada preza por atendimento com excelência e serviços jurídicos de qualidade, atuando de forma criteriosa na defesa de seus clientes.
+              </p>
+              <p>
+                Apresentando soluções momentâneas e resolução plena dos problemas e desafios propostos, com alto nível de satisfação, celeridade, eficiência, atendimento humanizado, praticidade, confiança e qualificação.
+              </p>
+              <p>
+                Compromisso de prestar serviços jurídicos de alta qualidade, zelando pelo atendimento personalíssimo e relação transparente com os clientes. Oferecendo serviço qualificado na obtenção dos melhores resultados para nossos clientes.
+              </p>
+              <p>
+                Nosso objetivo além de solucionar questões jurídicas é atender com excelência. A técnica jurídica aliada ao conhecimento sobre o ramo que nossos clientes estão inseridos, fazem toda a diferença na defesa dos interesses de modo prático e com resultados efetivos. O compromisso é com o resultado, a melhor solução técnica e prática ao cliente.
+              </p>
+            </div>
 
             <div className="mt-10 grid gap-6 sm:grid-cols-2">
               <div className="border border-border bg-card p-6">
