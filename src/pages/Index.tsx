@@ -347,8 +347,6 @@ const Index = () => {
         
         <div className="container-narrow relative grid gap-12 lg:grid-cols-[1.25fr_1fr] lg:gap-20 items-center">
           <div className="reveal">
-            <div
-              className="relative h-full"
             <div className="relative group perspective-1000">
               <div className="relative overflow-visible">
                 {/* Decorative background element for depth */}
