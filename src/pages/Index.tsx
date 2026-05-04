@@ -347,27 +347,26 @@ const Index = () => {
         
         <div className="container-narrow relative grid gap-12 lg:grid-cols-[1.25fr_1fr] lg:gap-20 items-center">
           <div className="reveal">
-            <div
-              className="relative h-full"
-              style={{
-                background: "transparent",
-                overflow: "hidden",
-                display: "flex",
-                alignItems: "flex-start",
-                height: "100%",
-              }}
-            >
-              <img
-                src={flaviaFoto}
-                alt="Dra. Flávia Vaz Rabello"
-                className="flavia-sobre-img"
-                style={{
-                  filter: "none",
-                  mixBlendMode: "normal",
-                  opacity: 1,
-                  display: "block",
-                }}
-              />
+            <div className="relative group perspective-1000">
+              <div className="relative overflow-visible">
+                {/* Decorative background element for depth */}
+                <div className="absolute -inset-4 bg-accent/5 rounded-full blur-3xl -z-10 group-hover:bg-accent/10 transition-colors duration-500" />
+                
+                <img
+                  src={flaviaFoto}
+                  alt="Dra. Flávia Vaz Rabello"
+                  className="relative z-10 w-full h-auto object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.3)] transition-transform duration-500 group-hover:scale-[1.02]"
+                  style={{
+                    filter: "none",
+                    mixBlendMode: "normal",
+                    opacity: 1,
+                    display: "block",
+                  }}
+                />
+                
+                {/* Subtle light effect */}
+                <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 via-transparent to-white/10 opacity-30 pointer-events-none rounded-2xl z-20" />
+              </div>
             </div>
           </div>
 
