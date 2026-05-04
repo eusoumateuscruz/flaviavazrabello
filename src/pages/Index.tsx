@@ -230,8 +230,8 @@ const Index = () => {
                       fontWeight: 300,
                       lineHeight: 1,
                       zIndex: 0,
-                      color: isFeatured ? "#F3F2ED" : "#3B4A2F",
-                      opacity: isFeatured ? 0.07 : 0.035,
+                       color: isFeatured ? "#F3F2ED" : "#A66219",
+                       opacity: isFeatured ? 0.07 : 0.08,
                       letterSpacing: "-0.04em",
                     }}
                   >
