@@ -22,7 +22,7 @@ import flaviaHero from "@/assets/flavia_hero_v4.png";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
-import flaviaFoto from "@/assets/flavia_sobre_branco.png";
+import flaviaFoto from "@/assets/flavia_sobre_v2.png";
 import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 
 const trustItems = [
