@@ -1,4 +1,4 @@
-export const WHATSAPP_URL = "https://wa.me/5516999999999";
+export const WHATSAPP_URL = "https://wa.me/5519999999999"; // Exemplo, mantendo o padrão do projeto
 export const EMAIL = "flaviarabello@adv.oabsp.org.br";
 export const LOCATION = "Indaiatuba, SP";
 export const OAB = "OAB 262057/SP";
