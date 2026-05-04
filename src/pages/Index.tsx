@@ -12,7 +12,9 @@ import {
   Sparkles,
   Eye,
   Quote,
-  ArrowRight,
+   ArrowRight,
+   Clock,
+   Phone,
 } from "lucide-react";
 import HeroBackground from "@/components/HeroBackground";
 import flaviaHero from "@/assets/flavia_hero_final_v3-2.png";
