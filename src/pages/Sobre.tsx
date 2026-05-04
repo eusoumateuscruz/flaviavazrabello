@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { Mail, ArrowRight, GraduationCap } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import { EMAIL, WHATSAPP_URL } from "@/lib/site";
-import flaviaFoto from "@/assets/flavia_sobre_branco.png";
+import flaviaFoto from "@/assets/flavia_sobre_v2.png";
 
  const formation = [
    { year: "OAB/SP 262057", title: "Graduada em Direito", subtitle: "FADITU" },
