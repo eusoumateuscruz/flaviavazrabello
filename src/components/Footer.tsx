@@ -58,12 +58,12 @@ const Footer = () => {
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="p-2 border border-primary-foreground/20 hover:border-accent hover:text-accent transition-colors">
                 <Instagram className="h-4 w-4" />
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="p-2 border border-primary-foreground/20 hover:border-accent hover:text-accent transition-colors">
-                <svg className="h-4 w-4 fill-current" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
-              </a>
-              <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer" aria-label="TikTok" className="p-2 border border-primary-foreground/20 hover:border-accent hover:text-accent transition-colors">
-                <svg className="h-4 w-4 fill-current" viewBox="0 0 24 24"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.17-2.89-.6-4.13-1.47V18c0 1.25-.33 2.48-1 3.52-1.29 2.13-3.74 3.48-6.22 3.32-2.52-.16-4.83-1.87-5.74-4.25-.92-2.4-.33-5.26 1.45-7.14 1.48-1.57 3.63-2.34 5.76-2.05v4.03c-1.12-.17-2.3.09-3.15.85-.85.76-1.11 1.95-.73 3.03.38 1.08 1.48 1.79 2.61 1.73 1.13-.06 2.09-.94 2.19-2.07l.03-14.15z"/></svg>
-              </a>
+               <a href="https://www.facebook.com/flavia.rabello.94" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="p-2 border border-primary-foreground/20 hover:border-accent hover:text-accent transition-colors">
+                 <svg className="h-4 w-4 fill-current" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+               </a>
+               <a href="https://www.tiktok.com/@flaviarabello_adv" target="_blank" rel="noopener noreferrer" aria-label="TikTok" className="p-2 border border-primary-foreground/20 hover:border-accent hover:text-accent transition-colors">
+                 <svg className="h-4 w-4 fill-current" viewBox="0 0 24 24"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.17-2.89-.6-4.13-1.47V18c0 1.25-.33 2.48-1 3.52-1.29 2.13-3.74 3.48-6.22 3.32-2.52-.16-4.83-1.87-5.74-4.25-.92-2.4-.33-5.26 1.45-7.14 1.48-1.57 3.63-2.34 5.76-2.05v4.03c-1.12-.17-2.3.09-3.15.85-.85.76-1.11 1.95-.73 3.03.38 1.08 1.48 1.79 2.61 1.73 1.13-.06 2.09-.94 2.19-2.07l.03-14.15z"/></svg>
+               </a>
               <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" className="p-2 border border-primary-foreground/20 hover:border-accent hover:text-accent transition-colors">
                 <MessageCircle className="h-4 w-4" />
               </a>
