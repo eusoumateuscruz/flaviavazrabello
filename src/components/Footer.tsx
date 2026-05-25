@@ -33,7 +33,7 @@ const Footer = () => {
             <ul className="mt-5 space-y-3">
               {PRACTICE_AREAS.map((a) => (
                 <li key={a.id}>
-                  <Link to="/areas" className="text-sm text-primary-foreground/80 hover:text-accent transition-colors">
+                  <Link to={`/servicos/${a.id}`} className="text-sm text-primary-foreground/80 hover:text-accent transition-colors">
                     {a.title}
                   </Link>
                 </li>

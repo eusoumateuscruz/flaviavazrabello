@@ -263,7 +263,7 @@ const Index = () => {
                         {area.description}
                       </p>
                       <Link
-                        to="/areas"
+                        to={`/servicos/${area.id}`}
                         className="mt-10 inline-flex items-center gap-2 uppercase"
                         style={{
                           fontSize: "12px",
