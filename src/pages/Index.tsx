@@ -21,7 +21,7 @@ import heroBanner from "@/assets/hero-banner.png.asset.json";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
-import flaviaFoto from "@/assets/flavia_sobre_v2.png";
+import sobreAsset from "@/assets/sobre-advogada.png.asset.json";
 import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 import Seo from "@/components/Seo";
 
@@ -336,58 +336,13 @@ const Index = () => {
        </section>
 
       {/* ABOUT PREVIEW */}
-      <section className="bg-primary text-primary-foreground pt-2 md:pt-3 relative overflow-hidden" style={{ paddingBottom: 0 }}>
-        
-        <div className="container-narrow relative grid gap-12 lg:grid-cols-[1.25fr_1fr] lg:gap-20 items-center">
-          <div className="reveal">
-            <div className="relative w-full flex justify-center lg:justify-start items-end h-full group">
-              {/* Efeito de profundidade no fundo (Glow sutil) */}
-              <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-accent/5 blur-[100px] rounded-full pointer-events-none -z-10 opacity-60" />
-              <div className="absolute left-1/2 bottom-0 -translate-x-1/2 w-[80%] h-[60%] bg-gradient-to-t from-black/20 to-transparent blur-[60px] pointer-events-none -z-10" />
-
-              <img
-                src={flaviaFoto}
-                alt="Dra. Flávia Vaz Rabello"
-                className="w-full max-w-[520px] h-auto object-contain block relative z-10 drop-shadow-[0_20px_50px_rgba(0,0,0,0.4)] transition-transform duration-500 group-hover:scale-[1.01]"
-                style={{
-                  filter: "none",
-                  mixBlendMode: "normal",
-                  opacity: 1,
-                  marginBottom: "-4px"
-                }}
-              />
-            </div>
-          </div>
-
-          <div className="reveal flex flex-col h-full justify-center">
-            <p className="label-eyebrow mb-4">Sobre a advogada</p>
-            <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl leading-[1.1]">
-              Advocacia com propósito e comprometimento
-            </h2>
-            <div className="mt-6 h-px w-16 bg-accent" />
-             <div className="mt-8 space-y-4 text-primary-foreground/80 leading-relaxed">
-               <p>
-                 Há mais de 20 anos no mercado jurídico, a Dra. Flávia Vaz Rabello preza por um atendimento com excelência e serviços jurídicos de qualidade.
-               </p>
-               <p>
-                 Sua atuação criteriosa na defesa dos interesses de seus clientes é pautada por soluções ágeis e resoluções plenas, com alto nível de satisfação e eficiência.
-               </p>
-               <p>
-                 Com atendimento personalizado em todo o Brasil, oferece assessoria jurídica qualificada, mantendo uma relação de total transparência e confiança.
-               </p>
-             </div>
-            <div className="mt-8 mb-12 lg:mb-0">
-              <Link
-                to="/sobre"
-                className="inline-flex items-center gap-2 border border-accent text-accent px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-accent hover:text-accent-foreground transition-colors group"
-              >
-                Saiba mais sobre a Flávia
-                <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-              </Link>
-            </div>
-           </div>
-         </div>
-       </section>
+      <section className="relative w-full">
+        <img
+          src={sobreAsset.url}
+          alt="Sobre a Dra. Flávia Vaz Rabello"
+          className="w-full h-auto object-cover block"
+        />
+      </section>
  
        {/* LOCATION & MAP */}
        <section id="localizacao" className="py-24 md:py-32 bg-secondary/30 border-y border-border">
