@@ -18,7 +18,7 @@ import {
   Gavel,
 } from "lucide-react";
 import heroBanner from "@/assets/hero-banner-new.jpeg.asset.json";
-import heroFlaviaMobile from "@/assets/hero-flavia-mobile.jpeg.asset.json";
+import flaviaHeroDesktop from "@/assets/flavia_hero_v4.png";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
@@ -137,9 +137,9 @@ const Index = () => {
         {/* HERO MOBILE — imagem no topo, conteúdo abaixo em coluna única */}
         <div className="md:hidden bg-secondary">
           <img
-            src={heroFlaviaMobile.url}
+            src={flaviaHeroDesktop}
             alt="Dra. Flávia Vaz Rabello"
-            className="block w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] object-cover object-[88%_center]"
+            className="block w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] object-cover object-[60%_20%] scale-[1.15] origin-top"
           />
           <div
             className="px-5 pt-9 pb-11 flex flex-col"
