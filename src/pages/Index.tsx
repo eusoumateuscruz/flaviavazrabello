@@ -18,6 +18,7 @@ import {
   Gavel,
 } from "lucide-react";
 import heroBanner from "@/assets/hero-banner-new.jpeg.asset.json";
+import heroFlaviaMobile from "@/assets/hero-flavia-mobile.jpeg.asset.json";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
@@ -133,31 +134,38 @@ const Index = () => {
       />
       {/* HERO */}
       <section className="relative w-full md:block">
-        <div className="md:hidden relative min-h-[calc(100svh-88px)] overflow-hidden bg-primary">
+        {/* HERO MOBILE — imagem no topo, conteúdo abaixo em coluna única */}
+        <div className="md:hidden bg-background">
           <img
-            src={heroBanner.url}
-            alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
-            className="absolute inset-0 h-full w-full object-cover object-[78%_center]"
+            src={heroFlaviaMobile.url}
+            alt="Dra. Flávia Vaz Rabello"
+            className="block w-full h-auto object-cover"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-primary/10 via-primary/25 to-primary/90" />
-          <div className="absolute inset-0 bg-gradient-to-r from-primary/82 via-primary/38 to-transparent" />
-          <div className="relative z-[1] flex min-h-[calc(100svh-88px)] flex-col justify-end px-5 pb-9 pt-12">
-            <p className="text-[11px] font-medium uppercase tracking-[0.2em] text-accent">OAB 262057/SP</p>
-            <h1 className="mt-4 max-w-[12ch] font-serif text-[38px] leading-[1] text-primary-foreground min-[390px]:text-[42px]">
+          <div className="px-5 pt-8 pb-10 flex flex-col">
+            <h1 className="font-serif text-[34px] leading-[1.05] text-primary min-[390px]:text-[38px]">
               Seu direito defendido com experiência, estratégia e dedicação.
             </h1>
-            <p className="mt-5 max-w-[30ch] text-[16px] leading-relaxed text-primary-foreground">
+            <p className="mt-5 text-[16px] leading-relaxed text-foreground/80">
               Atendimento presencial e online em todo o Brasil.
             </p>
             <a
               href={WHATSAPP_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-7 inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-4 text-center text-[11px] font-semibold uppercase tracking-[0.14em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90 min-[390px]:text-[12px]"
+              className="mt-7 inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-4 text-center text-[12px] font-semibold uppercase tracking-[0.16em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
             >
               Falar com a Dra. Flávia
               <ArrowRight className="h-4 w-4 shrink-0" />
             </a>
+            <div className="mt-6 inline-flex self-start items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-4 py-2">
+              <span className="h-1.5 w-1.5 rounded-full bg-accent" />
+              <span className="text-[11px] font-medium uppercase tracking-[0.18em] text-primary">
+                Atendimentos presenciais e on-line
+              </span>
+            </div>
+            <p className="mt-4 text-[11px] font-medium uppercase tracking-[0.22em] text-foreground/60">
+              OAB 262057/SP
+            </p>
           </div>
         </div>
         <img
@@ -175,18 +183,6 @@ const Index = () => {
           Quero falar com a Dra. Flávia
           <ArrowRight className="h-3.5 w-3.5 shrink-0" />
         </a>
-        {/* CTA mobile — abaixo da imagem, tamanho confortável para toque */}
-        <div className="hidden px-5 -mt-2 pb-8 justify-center">
-          <a
-            href={WHATSAPP_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex min-h-[52px] w-full max-w-sm items-center justify-center gap-2 rounded-sm border border-primary bg-primary px-6 text-[13px] font-semibold uppercase tracking-[0.18em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
-          >
-            Falar com a Dra. Flávia
-            <ArrowRight className="h-4 w-4 shrink-0" />
-          </a>
-        </div>
       </section>
 
        {/* TRUST BAR */}
