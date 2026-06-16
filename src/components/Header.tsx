@@ -26,7 +26,7 @@ const Header = () => {
     );
 
   return (
-    <header className="fixed top-5 left-0 right-0 z-50 px-4 pointer-events-none">
+    <header className="sticky top-0 lg:fixed lg:top-5 left-0 right-0 z-50 px-5 py-3 lg:px-4 lg:py-0 pointer-events-none">
       <div
         className="pointer-events-auto relative"
         style={{ width: "90%", maxWidth: "1200px", margin: "0 auto", overflow: "visible" }}
@@ -102,7 +102,7 @@ const Header = () => {
 
         {/* Mobile glass bar */}
         <div
-          className="lg:hidden flex items-center justify-between gap-4 px-5 py-2.5 rounded-full border"
+          className="lg:hidden flex min-h-[64px] items-center justify-between gap-4 px-4 py-2 rounded-full border"
           style={{
             background: "rgba(243, 242, 237, 0.6)",
             backdropFilter: "blur(16px) saturate(180%)",
@@ -121,7 +121,7 @@ const Header = () => {
             </span>
           </Link>
           <button
-            className="p-2 text-primary"
+            className="flex h-11 w-11 items-center justify-center text-primary"
             onClick={() => setOpen((v) => !v)}
             aria-label={open ? "Fechar menu" : "Abrir menu"}
             aria-expanded={open}
@@ -133,7 +133,7 @@ const Header = () => {
         {/* Mobile menu panel */}
         <div
           className={cn(
-            "lg:hidden mt-3 overflow-hidden transition-[max-height] duration-300 ease-out rounded-3xl border",
+            "lg:hidden mt-3 overflow-hidden transition-[max-height] duration-300 ease-out rounded-[18px] border",
             open ? "max-h-[480px]" : "max-h-0 border-transparent"
           )}
           style={
