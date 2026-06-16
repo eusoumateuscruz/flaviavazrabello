@@ -1,4 +1,7 @@
- export const WHATSAPP_URL = "https://wa.me/5519997439157";
+export const WHATSAPP_NUMBER = "5519997439157";
+export const WHATSAPP_DEFAULT_MESSAGE = "Olá, vim pelo site e gostaria de mais informações...";
+export const WHATSAPP_BASE_URL = `https://wa.me/${WHATSAPP_NUMBER}`;
+export const WHATSAPP_URL = `${WHATSAPP_BASE_URL}?text=${encodeURIComponent(WHATSAPP_DEFAULT_MESSAGE)}`;
  export const EMAIL = "advogada@flaviavazrabello.com.br";
  export const LOCATION = "Avenida Coronel Antonio Estanislau do Amaral, 635 - sala 10 - Itaici Office - Itaici - CEP 13.340-480 - Indaiatuba/SP";
  export const PHONES = ["19 9 9743-9157", "19 3016-2688"];
