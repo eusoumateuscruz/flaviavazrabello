@@ -17,7 +17,7 @@ import {
   Phone,
   Gavel,
 } from "lucide-react";
-import heroBanner from "@/assets/hero-banner.png.asset.json";
+import heroBanner from "@/assets/hero-banner-new.jpeg.asset.json";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
