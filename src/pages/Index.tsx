@@ -232,10 +232,10 @@ const Index = () => {
                     {number}
                   </span>
 
-                  <div className="relative z-[1] grid gap-12 md:grid-cols-[40%_1fr] md:gap-16">
+                  <div className="relative z-[1] grid gap-8 md:grid-cols-[40%_1fr] md:gap-16">
                     <div>
                       <Icon
-                        className="mb-8"
+                        className="mb-6 md:mb-8"
                         style={{ width: 32, height: 32, color: "#A66219" }}
                         strokeWidth={1.4}
                       />
@@ -243,7 +243,7 @@ const Index = () => {
                         className={`font-serif leading-[1.15] ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
-                        style={{ fontSize: isFeatured ? "32px" : "28px" }}
+                        style={{ fontSize: `clamp(22px, 5.5vw, ${isFeatured ? "32px" : "28px"})` }}
                       >
                         <span className="font-serif mr-3 align-baseline text-[0.6em] text-accent font-normal tracking-wider">
                           {number}
