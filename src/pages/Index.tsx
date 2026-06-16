@@ -18,7 +18,6 @@ import {
   Gavel,
 } from "lucide-react";
 import heroBanner from "@/assets/hero-banner-new.jpeg.asset.json";
-import flaviaHeroDesktop from "@/assets/flavia_hero_v4.png";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
@@ -138,9 +137,9 @@ const Index = () => {
         <div className="md:hidden bg-secondary">
           <div className="w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] overflow-hidden">
             <img
-              src={flaviaHeroDesktop}
+              src={heroBanner.url}
               alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[50%_12%]"
+              className="block w-full h-full object-cover object-[78%_28%]"
             />
           </div>
           <div
