@@ -252,13 +252,13 @@ const Index = () => {
                       </h3>
                       <p
                         className={isFeatured ? "text-primary-foreground/90" : "text-foreground/85"}
-                        style={{ fontSize: "15px", lineHeight: 1.8, marginTop: "24px" }}
+                        style={{ fontSize: "clamp(14px, 3.6vw, 15px)", lineHeight: 1.8, marginTop: "20px" }}
                       >
                         {area.description}
                       </p>
                       <Link
                         to={`/servicos/${area.id}`}
-                        className="mt-10 inline-flex items-center gap-2 uppercase"
+                        className="mt-8 inline-flex items-center gap-2 uppercase"
                         style={{
                           fontSize: "12px",
                           letterSpacing: "0.18em",
