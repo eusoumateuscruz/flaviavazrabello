@@ -94,6 +94,15 @@
 
   h1, h2, h3, h4, h5, h6 {
     @apply font-serif;
+    overflow-wrap: break-word;
+    word-break: normal;
+    hyphens: none;
+  }
+
+  /* Prevent words from being split in the middle inside buttons, badges and uppercase labels */
+  button, a, .btn, [class*="uppercase"] {
+    word-break: normal;
+    overflow-wrap: normal;
   }
 }
 

@@ -138,7 +138,7 @@ const Contato = () => {
                 <Mail className="h-5 w-5 text-accent mt-1 shrink-0" />
                 <div>
                   <p className="label-eyebrow">E-mail</p>
-                  <a href={`mailto:${EMAIL}`} className="mt-1 block font-serif text-lg text-primary hover:text-accent transition-colors break-all">
+                  <a href={`mailto:${EMAIL}`} className="mt-1 block font-serif text-lg text-primary hover:text-accent transition-colors break-words">
                     {EMAIL}
                   </a>
                 </div>

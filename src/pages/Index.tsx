@@ -165,10 +165,10 @@ const Index = () => {
               Falar com a Dra. Flávia
               <ArrowRight className="h-4 w-4 shrink-0" />
             </a>
-            <div className="mt-7 inline-flex self-start items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-4 py-2">
-              <span className="h-1.5 w-1.5 rounded-full bg-accent" />
-              <span className="text-[10.5px] font-medium uppercase tracking-[0.22em] text-primary">
-                Atendimentos presenciais e on-line
+            <div className="mt-7 inline-flex self-start items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-4 py-2 max-w-full">
+              <span className="h-1.5 w-1.5 rounded-full bg-accent shrink-0" />
+              <span className="whitespace-nowrap text-[9px] min-[360px]:text-[10px] min-[480px]:text-[10.5px] font-medium uppercase tracking-[0.14em] min-[480px]:tracking-[0.22em] text-primary">
+                Atendimentos presenciais e on&#8209;line
               </span>
             </div>
           </div>
