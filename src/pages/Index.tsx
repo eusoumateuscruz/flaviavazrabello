@@ -626,10 +626,10 @@ const Index = () => {
         <div className="container-narrow relative text-center">
           <p className="label-eyebrow mb-4">Atendimento</p>
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl leading-tight max-w-3xl mx-auto">
-            Tem dúvidas sobre seu caso? <span className="italic text-accent">Fale comigo agora.</span>
+            Está enfrentando um <span className="italic text-accent">problema jurídico?</span>
           </h2>
-          <p className="mt-6 text-primary-foreground/75 max-w-xl mx-auto">
-            Atendimento ágil, sigiloso e humanizado.
+          <p className="mt-6 text-primary-foreground/75 max-w-2xl mx-auto">
+            Receba orientação jurídica especializada e entenda quais são os próximos passos para proteger seus direitos. Você não precisa enfrentar isso sozinho(a).
           </p>
           <a
             href={WHATSAPP_URL}
@@ -638,7 +638,7 @@ const Index = () => {
             className="mt-10 inline-flex items-center justify-center gap-2 bg-accent px-8 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground hover:bg-accent/90 transition-colors group"
           >
             <MessageSquare className="h-4 w-4" />
-            Iniciar Conversa no WhatsApp
+            Fale comigo agora
             <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
           </a>
         </div>
