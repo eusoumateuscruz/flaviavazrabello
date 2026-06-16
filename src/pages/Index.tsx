@@ -142,7 +142,7 @@ const Index = () => {
           href={WHATSAPP_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex items-center gap-3 rounded-sm bg-primary/80 backdrop-blur-sm px-5 py-2.5 md:px-7 md:py-4 text-[10px] md:text-[11px] uppercase tracking-[0.22em] text-accent hover:bg-primary transition-colors"
+          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex items-center gap-3 rounded-sm bg-primary px-5 py-2.5 md:px-7 md:py-4 text-[10px] md:text-[11px] font-semibold uppercase tracking-[0.22em] text-accent border border-accent/40 hover:bg-primary/90 transition-colors"
         >
           Quero falar com a Dra. Flávia
           <ArrowRight className="h-3.5 w-3.5" />
