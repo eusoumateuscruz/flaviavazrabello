@@ -209,8 +209,8 @@ const Index = () => {
                   }
                   className={`reveal group relative overflow-hidden rounded-[14px] w-full transition-all duration-300 ease-out ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground p-12 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
-                      : "bg-card p-10 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
+                      ? "bg-primary text-primary-foreground p-6 sm:p-10 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
+                      : "bg-card p-6 sm:p-8 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
                   }`}
                 >
                   {/* Number watermark — very subtle, very large */}
