@@ -1,7 +1,7 @@
 import { ArrowRight, Users, FileText, Briefcase, Scale, Gavel } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
-import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
+import { PRACTICE_AREAS, WHATSAPP_BASE_URL } from "@/lib/site";
 
 const icons = [Users, FileText, Briefcase, Scale, Gavel];
 
@@ -71,7 +71,7 @@ const Areas = () => {
                   <div className="mt-10 p-6 border border-border bg-background flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
                     <p className="font-serif text-lg text-primary">Precisa de ajuda nessa área?</p>
                     <a
-                      href={`${WHATSAPP_URL}&text=${encodeURIComponent(`Olá Dra. Flávia, gostaria de ajuda na área de ${area.title}.`)}`}
+                      href={`${WHATSAPP_BASE_URL}?text=${encodeURIComponent(`Olá Dra. Flávia, gostaria de ajuda na área de ${area.title}.`)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 bg-accent px-6 py-3 text-xs uppercase tracking-[0.2em] text-accent-foreground hover:bg-accent/90 transition-colors group"
