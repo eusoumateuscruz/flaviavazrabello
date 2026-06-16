@@ -252,8 +252,8 @@ export const BLOG_POSTS: BlogPost[] = [
           <p className="text-foreground/85 leading-relaxed">
             Está passando por uma separação e tem dúvidas sobre a guarda dos seus filhos? A Dra.
             Flávia Vaz Rabello atua com sensibilidade e estratégia para proteger o melhor
-            interesse do menor e garantir seus direitos como genitor(a). Agende sua consulta em
-            Indaiatuba ou online.
+            interesse do menor e garantir seus direitos como genitor(a). Agende sua consulta
+            online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
@@ -367,8 +367,8 @@ export const BLOG_POSTS: BlogPost[] = [
         <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
           <p className="text-foreground/85 leading-relaxed">
             Foi demitido e tem dúvidas sobre seus direitos? A Dra. Flávia Vaz Rabello analisa sua
-            rescisão e garante que você receba tudo o que tem direito. Atendimento em Indaiatuba
-            e online em todo o Brasil.
+            rescisão e garante que você receba tudo o que tem direito. Atendimento online em
+            todo o Brasil e presencial em Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
@@ -482,7 +482,8 @@ export const BLOG_POSTS: BlogPost[] = [
           <p className="text-foreground/85 leading-relaxed">
             Suspeita que está pagando juros abusivos no seu financiamento, cartão ou empréstimo?
             A Dra. Flávia Vaz Rabello analisa o seu contrato e orienta os melhores passos para
-            proteger seus direitos. Atendimento em Indaiatuba e online em todo o Brasil.
+            proteger seus direitos. Atendimento online em todo o Brasil e presencial em
+            Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
