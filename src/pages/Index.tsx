@@ -134,10 +134,10 @@ const Index = () => {
         }}
       />
       {/* HERO */}
-      <section className="relative w-full md:block">
-        {/* HERO MOBILE — imagem no topo, conteúdo abaixo em coluna única */}
-        <div className="md:hidden bg-secondary">
-          <div className="w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] overflow-hidden">
+      <section className="relative w-full">
+        {/* HERO MOBILE + TABLET — imagem no topo, conteúdo abaixo em coluna única (até 1180px) */}
+        <div className="min-[1181px]:hidden bg-secondary">
+          <div className="w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] min-[768px]:h-[620px] min-[1024px]:h-[680px] overflow-hidden">
             <img
               src={heroMobileClean.url}
               alt="Dra. Flávia Vaz Rabello"
@@ -145,13 +145,13 @@ const Index = () => {
             />
           </div>
           <div
-            className="px-6 pt-9 pb-11 flex flex-col"
+            className="px-6 pt-9 pb-11 min-[768px]:px-12 min-[768px]:pt-14 min-[768px]:pb-16 min-[1024px]:px-20 flex flex-col min-[768px]:max-w-[760px] min-[768px]:mx-auto"
             style={{
               background:
                 "linear-gradient(180deg, hsl(36 24% 90%) 0%, hsl(36 22% 86%) 100%), radial-gradient(ellipse at top, hsl(24 58% 40% / 0.06), transparent 60%)",
             }}
           >
-            <h1 className="font-serif font-light text-[40px] leading-[1.08] tracking-[-0.01em] text-primary min-[390px]:text-[44px] min-[480px]:text-[48px]">
+            <h1 className="font-serif font-light text-[40px] leading-[1.08] tracking-[-0.01em] text-primary min-[390px]:text-[44px] min-[480px]:text-[48px] min-[768px]:text-[60px] min-[1024px]:text-[68px]">
               Seu direito defendido{" "}
               <em className="font-serif italic font-normal text-accent">com experiência</em>
               , estratégia e dedicação.
@@ -160,7 +160,7 @@ const Index = () => {
               href={WHATSAPP_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-7 inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-4 text-center text-[12px] font-semibold uppercase tracking-[0.16em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
+              className="mt-7 inline-flex min-h-[56px] min-[768px]:min-h-[64px] w-full min-[768px]:w-auto min-[768px]:self-start items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-4 min-[768px]:px-12 text-center text-[12px] min-[768px]:text-[13px] font-semibold uppercase tracking-[0.16em] min-[768px]:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
             >
               Falar com a Dra. Flávia
               <ArrowRight className="h-4 w-4 shrink-0" />
@@ -176,14 +176,14 @@ const Index = () => {
         <img
           src={heroBanner.url}
           alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
-          className="hidden md:block w-full h-auto"
+          className="hidden min-[1181px]:block w-full h-auto"
         />
         {/* CTA desktop — posicionado sobre a imagem */}
         <a
           href={WHATSAPP_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="hidden md:inline-flex absolute left-[15.5%] bottom-[26%] min-h-[48px] w-fit items-center gap-3 rounded-sm border border-primary bg-primary px-10 py-0 text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
+          className="hidden min-[1181px]:inline-flex absolute left-[15.5%] bottom-[26%] min-h-[48px] w-fit items-center gap-3 rounded-sm border border-primary bg-primary px-10 py-0 text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
         >
           Quero falar com a Dra. Flávia
           <ArrowRight className="h-3.5 w-3.5 shrink-0" />
