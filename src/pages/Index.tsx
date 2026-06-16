@@ -139,7 +139,7 @@ const Index = () => {
             <img
               src={heroBanner.url}
               alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[78%_28%]"
+              className="block w-full h-full object-cover object-[100%_28%] scale-[1.12] origin-right"
             />
           </div>
           <div
