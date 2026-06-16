@@ -1,44 +1,20 @@
 import { useMemo, useState } from "react";
 import { Search, ArrowRight } from "lucide-react";
+import { Link } from "react-router-dom";
 import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
 import { Monogram } from "@/components/Logo";
 import { Input } from "@/components/ui/input";
+import { BLOG_POSTS } from "@/data/blogPosts";
 
 const CATEGORIES = ["Todos", "Família", "Bancário", "Trabalhista", "Geral"] as const;
 
-const POSTS = [
-  {
-    category: "Família",
-    title: "Divórcio consensual: o que você precisa saber antes de iniciar",
-    excerpt: "Entenda as etapas, documentos necessários e como o processo pode ser conduzido de forma rápida e amigável.",
-   },
-   {
-     category: "Bancário",
-     title: "Como identificar juros abusivos no seu contrato",
-     excerpt: "Saiba reconhecer cláusulas indevidas e como buscar a revisão judicial do seu financiamento.",
-   },
-   {
-     category: "Trabalhista",
-     title: "Seus direitos em caso de demissão sem justa causa",
-     excerpt: "Verbas rescisórias, FGTS, aviso prévio e seguro-desemprego: o que a lei garante ao trabalhador.",
-   },
-   {
-     category: "Família",
-     title: "Guarda compartilhada: mitos e verdades",
-     excerpt: "Esclareça as principais dúvidas sobre o regime de guarda mais comum nos tribunais brasileiros.",
-   },
-   {
-     category: "Bancário",
-     title: "Golpe do Pix: como agir se você foi vítima",
-     excerpt: "Passo a passo jurídico para tentar reaver o valor e responsabilizar quem deve responder pelo dano.",
-   },
-   {
-     category: "Geral",
-     title: "Quando vale a pena buscar um advogado preventivo",
-     excerpt: "Antecipar problemas jurídicos pode evitar custos altos e proteger seus interesses no longo prazo.",
-   },
-];
+const POSTS = BLOG_POSTS.map((p) => ({
+  slug: p.slug,
+  category: p.category,
+  title: p.title,
+  excerpt: p.excerpt,
+}));
 
 const Blog = () => {
   const [category, setCategory] = useState<(typeof CATEGORIES)[number]>("Todos");
@@ -101,7 +77,7 @@ const Blog = () => {
 
             <div className="grid gap-6 sm:grid-cols-2">
               {filtered.map((p) => (
-                <article key={p.title} className="group bg-card border border-border overflow-hidden">
+                <article key={p.slug} className="group bg-card border border-border overflow-hidden">
                   <div className="aspect-[16/10] flex items-center justify-center" style={{ backgroundColor: "#EDE8E0" }}>
                     <Monogram className="h-12 w-12 text-accent" />
                   </div>
@@ -109,13 +85,18 @@ const Blog = () => {
                     <div className="flex items-center justify-between text-xs uppercase tracking-[0.2em]">
                       <span className="text-accent">{p.category}</span>
                     </div>
-                    <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
-                      {p.title}
-                    </h3>
+                    <Link to={`/blog/${p.slug}`} className="block">
+                      <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
+                        {p.title}
+                      </h3>
+                    </Link>
                     <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{p.excerpt}</p>
-                    <button className="mt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary hover:text-accent transition-colors">
+                    <Link
+                      to={`/blog/${p.slug}`}
+                      className="mt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary hover:text-accent transition-colors"
+                    >
                       Ler mais <ArrowRight className="h-3 w-3" />
-                    </button>
+                    </Link>
                   </div>
                 </article>
               ))}
@@ -133,11 +114,11 @@ const Blog = () => {
               <h3 className="label-eyebrow mb-4">Posts recentes</h3>
               <ul className="space-y-4">
                 {POSTS.slice(0, 4).map((p) => (
-                  <li key={p.title} className="border-b border-border pb-4 last:border-0">
+                  <li key={p.slug} className="border-b border-border pb-4 last:border-0">
                     <div className="text-[0.65rem] uppercase tracking-[0.2em] text-accent mb-1">{p.category}</div>
-                    <a href="#" className="font-serif text-base text-primary hover:text-accent transition-colors leading-snug block">
+                    <Link to={`/blog/${p.slug}`} className="font-serif text-base text-primary hover:text-accent transition-colors leading-snug block">
                       {p.title}
-                    </a>
+                    </Link>
                   </li>
                 ))}
               </ul>
