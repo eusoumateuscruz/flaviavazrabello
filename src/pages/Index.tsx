@@ -24,6 +24,7 @@ import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 import flaviaFoto from "@/assets/flavia_sobre_v2.png";
 import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
+import Seo from "@/components/Seo";
 
 const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
@@ -97,6 +98,41 @@ const testimonials = [
 const Index = () => {
   return (
     <>
+      <Seo
+        title="Advogada em Indaiatuba | Dra. Flávia Vaz Rabello — Família, Bancário e Trabalhista"
+        description="Advogada em Indaiatuba SP com mais de 20 anos de experiência em Direito de Família, Bancário, Consumidor e Trabalhista. Atendimento presencial e online em todo o Brasil."
+        canonical="https://www.flaviavazrabello.com.br/"
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            {
+              "@type": "Question",
+              name: "Como agendar uma consulta com a Dra. Flávia Vaz Rabello?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Você pode agendar sua consulta pelo WhatsApp (19) 99743-9157 ou pelo formulário de contato do site. O atendimento é presencial em Indaiatuba SP ou online para todo o Brasil.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "Quais áreas de atuação a Dra. Flávia Vaz Rabello atende?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Direito de Família e Sucessões, Direito Bancário, Direito do Consumidor, Direito do Trabalho e Assessoria Jurídica Extrajudicial e Judicial.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "A Dra. Flávia atende fora de Indaiatuba?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Sim. Além do atendimento presencial em Indaiatuba SP, a Dra. Flávia realiza atendimento online para clientes em todo o Brasil. OAB 262057/SP.",
+              },
+            },
+          ],
+        }}
+      />
       {/* HERO */}
       <section className="relative md:min-h-[calc(100vh-5rem)] md:flex md:items-center">
         <HeroBackground />
