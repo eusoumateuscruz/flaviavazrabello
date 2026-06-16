@@ -142,10 +142,10 @@ const Index = () => {
           href={WHATSAPP_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 rounded-sm border border-primary bg-primary px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
+          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex min-h-[28px] sm:min-h-[36px] md:min-h-[48px] w-fit items-center gap-1.5 sm:gap-2 md:gap-3 rounded-sm border border-primary bg-primary px-2.5 sm:px-5 md:px-10 py-0 text-[7px] sm:text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.18em] md:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
         >
           Quero falar com a Dra. Flávia
-          <ArrowRight className="h-3.5 w-3.5 shrink-0" />
+          <ArrowRight className="h-2.5 w-2.5 sm:h-3 sm:w-3 md:h-3.5 md:w-3.5 shrink-0" />
         </a>
       </section>
 
@@ -348,10 +348,10 @@ const Index = () => {
           <div className="flex h-full flex-col justify-end pb-[8%] md:pb-[9%]">
             <Link
               to="/sobre"
-              className="pointer-events-auto mt-7 inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 self-start rounded-sm border border-primary bg-primary px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
+              className="pointer-events-auto inline-flex min-h-[28px] sm:min-h-[36px] md:min-h-[48px] w-fit items-center gap-1.5 sm:gap-2 md:gap-3 self-start rounded-sm border border-primary bg-primary px-2.5 sm:px-5 md:px-10 py-0 text-[7px] sm:text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.18em] md:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
             >
               Saiba mais sobre a Flávia
-              <ArrowRight className="h-3.5 w-3.5 shrink-0" />
+              <ArrowRight className="h-2.5 w-2.5 sm:h-3 sm:w-3 md:h-3.5 md:w-3.5 shrink-0" />
             </Link>
           </div>
         </div>
