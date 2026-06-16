@@ -5,9 +5,18 @@ import { WHATSAPP_URL, PRACTICE_AREAS } from "@/lib/site";
 import SectionHeader from "@/components/SectionHeader";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 
+const SLUG_TO_ID: Record<string, string> = {
+  "direito-de-familia": "familia",
+  "direito-bancario": "bancario",
+  "direito-do-consumidor": "consumidor",
+  "direito-do-trabalho": "trabalhista",
+  "assessoria-juridica": "extrajudicial",
+};
+
 const ServicePage = () => {
-  const { id } = useParams();
-  const service = PRACTICE_AREAS.find((area) => area.id === id);
+  const { id, slug } = useParams();
+  const lookupId = id || (slug ? SLUG_TO_ID[slug] : undefined);
+  const service = PRACTICE_AREAS.find((area) => area.id === lookupId);
 
   if (!service) {
     return (
