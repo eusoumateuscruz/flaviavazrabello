@@ -430,7 +430,7 @@ const Index = () => {
       </section>
  
        {/* LOCATION & MAP */}
-       <section id="localizacao" className="py-24 md:py-32 bg-secondary/30 border-y border-border">
+       <section id="localizacao" className="py-16 md:py-32 bg-secondary/30 border-y border-border">
          <div className="container-narrow">
            <SectionHeader
              eyebrow="Onde Estamos"
@@ -438,9 +438,9 @@ const Index = () => {
              subtitle="Ambiente preparado para oferecer conforto e sigilo no seu atendimento presencial."
            />
  
-           <div className="mt-16 grid gap-12 lg:grid-cols-[1fr_1.5fr] items-start">
+            <div className="mt-10 md:mt-16 grid gap-8 md:gap-12 lg:grid-cols-[1fr_1.5fr] items-start">
              <div className="reveal space-y-8">
-               <div className="bg-card border border-border p-8 space-y-8">
+                <div className="bg-card border border-border p-6 md:p-8 space-y-7 md:space-y-8">
                  <div className="flex items-start gap-4">
                    <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
                      <MapPin className="h-5 w-5 text-accent" />
@@ -486,13 +486,13 @@ const Index = () => {
                  href="https://www.google.com/maps/dir//Avenida+Coronel+Antonio+Estanislau+do+Amaral,+635+-+Itaici+Office+-+Indaiatuba+-+SP"
                  target="_blank"
                  rel="noopener noreferrer"
-                 className="w-full inline-flex items-center justify-center gap-2 bg-primary px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-primary-foreground transition-all hover:bg-primary/90"
+                  className="w-full min-h-[56px] inline-flex items-center justify-center gap-2 bg-primary px-5 md:px-7 py-4 text-[11px] md:text-xs font-medium uppercase tracking-[0.14em] md:tracking-[0.22em] text-primary-foreground transition-all hover:bg-primary/90 text-center"
                >
                  Como chegar pelo Google Maps
                </a>
              </div>
  
-             <div className="reveal h-[450px] w-full border border-border overflow-hidden rounded-[14px] shadow-lg grayscale hover:grayscale-0 transition-all duration-700">
+              <div className="reveal h-[320px] md:h-[450px] w-full border border-border overflow-hidden rounded-[14px] shadow-lg grayscale hover:grayscale-0 transition-all duration-700">
                <iframe
                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.328330768913!2d-47.17482342468494!3d-23.139912079092825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf51cf15222687%3A0x868c68c6a0c5c4e8!2sAv.%20Cel.%20Ant%C3%B4nio+Estanislau+do+Amaral%2C+635+-+Itaici%2C+Indaiatuba+-+SP%2C+13340-480!5e0!3m2!1spt-BR!2sbr!4v1715432000000"
                  width="100%"
@@ -510,7 +510,7 @@ const Index = () => {
  
        {/* TESTIMONIALS */}
         {/* HOW IT WORKS */}
-        <section className="py-20 md:py-28 bg-secondary/30 border-y border-border">
+         <section className="py-16 md:py-28 bg-secondary/30 border-y border-border">
           <div className="container-narrow">
             <SectionHeader
               eyebrow="Atendimento"
@@ -518,7 +518,7 @@ const Index = () => {
               subtitle="Um processo claro, do primeiro contato ao acompanhamento do seu caso."
             />
 
-            <div className="mt-16 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="mt-10 md:mt-16 grid gap-5 md:gap-8 md:grid-cols-2 lg:grid-cols-4">
               {[
                 {
                   n: "01",
