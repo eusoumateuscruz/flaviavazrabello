@@ -119,14 +119,14 @@ const Index = () => {
               <br />
               <span className="italic text-accent">defendido</span> com
               <br />
-              expertise e dedicação.
+              experiência, estratégia e dedicação.
             </h1>
             <div className="mt-8 h-px w-24 bg-accent animate-fade-in opacity-0" style={{ animationDelay: "0.4s" }} />
             <p
               className="mt-8 max-w-xl text-base md:text-lg text-foreground/75 leading-relaxed animate-fade-in opacity-0"
               style={{ animationDelay: "0.5s" }}
             >
-              Cada caso carrega uma história. Aqui, ela é tratada com o rigor jurídico que merece e o cuidado humano que você precisa.
+              Estamos à disposição para ouvir o seu caso com atenção e sigilo. Cada situação é única e merece uma solução jurídica personalizada.
             </p>
             <div
               className="mt-10 flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0"
