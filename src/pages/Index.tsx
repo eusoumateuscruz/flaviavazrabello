@@ -136,11 +136,13 @@ const Index = () => {
       <section className="relative w-full md:block">
         {/* HERO MOBILE — imagem no topo, conteúdo abaixo em coluna única */}
         <div className="md:hidden bg-secondary">
-          <img
-            src={heroBanner.url}
-            alt="Dra. Flávia Vaz Rabello"
-            className="block w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] object-cover object-[78%_30%] scale-[1.35] origin-[78%_30%]"
-          />
+          <div className="w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] overflow-hidden">
+            <img
+              src={heroBanner.url}
+              alt="Dra. Flávia Vaz Rabello"
+              className="block w-full h-full object-cover object-[100%_30%] scale-[1.45] origin-[100%_30%]"
+            />
+          </div>
           <div
             className="px-5 pt-9 pb-11 flex flex-col"
             style={{
