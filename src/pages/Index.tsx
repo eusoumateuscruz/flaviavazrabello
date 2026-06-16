@@ -144,13 +144,13 @@ const Index = () => {
             />
           </div>
           <div
-            className="px-5 pt-9 pb-11 flex flex-col"
+            className="px-6 pt-9 pb-11 flex flex-col"
             style={{
               background:
                 "linear-gradient(180deg, hsl(36 24% 90%) 0%, hsl(36 22% 86%) 100%), radial-gradient(ellipse at top, hsl(24 58% 40% / 0.06), transparent 60%)",
             }}
           >
-            <h1 className="font-serif font-light text-[34px] leading-[1.12] text-primary min-[390px]:text-[38px] min-[480px]:text-[42px]">
+            <h1 className="font-serif font-light text-[40px] leading-[1.08] tracking-[-0.01em] text-primary min-[390px]:text-[44px] min-[480px]:text-[48px]">
               Seu direito defendido{" "}
               <em className="font-serif italic font-normal text-accent">com experiência</em>
               , estratégia e dedicação.
@@ -170,9 +170,6 @@ const Index = () => {
                 Atendimentos presenciais e on-line
               </span>
             </div>
-            <p className="mt-4 text-[10.5px] font-medium uppercase tracking-[0.28em] text-accent">
-              OAB 262057/SP
-            </p>
           </div>
         </div>
         <img
