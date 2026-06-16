@@ -35,6 +35,120 @@ const Cta = () => (
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "demissao-sem-justa-causa-direitos",
+    category: "Trabalhista",
+    title: "Fui Demitido Sem Justa Causa: Quais São Meus Direitos?",
+    h1: "Fui Demitido Sem Justa Causa: Quais São Meus Direitos?",
+    excerpt:
+      "FGTS, aviso prévio, 13º, seguro-desemprego e multa de 40%: entenda todas as verbas devidas e os prazos para reclamar na Justiça.",
+    metaTitle: "Demissão Sem Justa Causa: Seus Direitos | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Saiba quais são todos os seus direitos na demissão sem justa causa: FGTS, aviso prévio, 13º salário, seguro-desemprego e multa de 40%. Entenda os prazos e como agir.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/demissao-sem-justa-causa-direitos",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: [
+        { "@type": "Question", name: "Quais são meus direitos na demissão sem justa causa?", acceptedAnswer: { "@type": "Answer", text: "Saldo de salário, aviso prévio, 13º proporcional, férias proporcionais com 1/3, multa de 40% do FGTS, saque do FGTS e seguro-desemprego (se tiver direito)." } },
+        { "@type": "Question", name: "Qual o prazo para entrar com reclamação trabalhista?", acceptedAnswer: { "@type": "Answer", text: "2 anos após o término do contrato de trabalho. Porém, só é possível cobrar verbas dos últimos 5 anos anteriores à ação." } },
+        { "@type": "Question", name: "O que é rescisão indireta?", acceptedAnswer: { "@type": "Answer", text: "É quando a empresa comete falta grave — como não pagar salário ou praticar assédio — e o empregado pode encerrar o contrato recebendo todas as verbas da demissão sem justa causa." } },
+        { "@type": "Question", name: "Quem tem doença pode ser demitido sem justa causa?", acceptedAnswer: { "@type": "Answer", text: "Em geral sim, mas empregados com doenças estigmatizantes como HIV, câncer ou dependência química têm estabilidade reconhecida pelos tribunais. Cada caso deve ser avaliado individualmente." } },
+      ],
+    },
+    content: (
+      <>
+        <h2>O que é demissão sem justa causa?</h2>
+        <p>
+          É quando a empresa encerra o contrato de trabalho sem que o empregado tenha cometido
+          nenhuma falta grave. É diferente da demissão por justa causa, onde o empregado praticou
+          alguma infração prevista na CLT. Na demissão sem justa causa, o trabalhador tem direito
+          a um conjunto de verbas rescisórias.
+        </p>
+
+        <h2>Quais são meus direitos na demissão sem justa causa?</h2>
+        <p>Quando demitido sem justa causa, você tem direito a:</p>
+        <ul>
+          <li>Saldo de salário dos dias trabalhados no mês</li>
+          <li>Aviso prévio (trabalhado ou indenizado)</li>
+          <li>13º salário proporcional</li>
+          <li>Férias proporcionais + 1/3 constitucional</li>
+          <li>Multa de 40% sobre o saldo do FGTS</li>
+          <li>Saque do FGTS</li>
+          <li>Seguro-desemprego (se tiver direito pelo tempo de serviço)</li>
+        </ul>
+
+        <h2>Qual o valor da multa por demissão sem justa causa?</h2>
+        <p>
+          A multa é de 40% sobre o saldo total do FGTS acumulado durante o contrato. Além disso,
+          a empresa deve depositar mais 10% do FGTS para a União (contribuição social). Esse
+          valor é calculado sobre todo o período trabalhado, não apenas sobre o saldo atual.
+        </p>
+
+        <h2>Como calcular a rescisão sem justa causa?</h2>
+        <p>
+          O cálculo leva em conta: salário, tempo de serviço, aviso prévio proporcional ao tempo
+          de casa (mínimo 30 dias, acrescido de 3 dias por ano trabalhado, até 90 dias), férias e
+          13º proporcionais. Para garantir que o cálculo está correto, consulte uma advogada
+          trabalhista antes de assinar a rescisão.
+        </p>
+
+        <h2>Quais são os 3 tipos de demissão?</h2>
+        <ol>
+          <li><strong>Sem justa causa:</strong> pela empresa, sem falta do empregado — assegura todas as verbas rescisórias.</li>
+          <li><strong>Por justa causa:</strong> pelo empregado que cometeu falta grave — perde multa do FGTS, aviso prévio e seguro-desemprego.</li>
+          <li><strong>Rescisão indireta:</strong> quando a empresa comete falta grave — empregado tem os mesmos direitos da demissão sem justa causa.</li>
+        </ol>
+
+        <h2>O que é rescisão indireta e quando posso pedir?</h2>
+        <p>
+          A rescisão indireta é a "justa causa do empregador". Você pode solicitá-la quando a
+          empresa comete faltas graves como: não pagar salário em dia, exigir tarefas
+          humilhantes, não cumprir obrigações legais ou praticar assédio moral. Nesse caso, você
+          pede demissão mas recebe todas as verbas como se tivesse sido demitido sem justa causa.
+        </p>
+
+        <h2>Tenho prazo para reclamar meus direitos trabalhistas?</h2>
+        <p>
+          Sim. O prazo é de 2 anos após o término do contrato de trabalho para ingressar na
+          Justiça do Trabalho. Porém, só é possível cobrar verbas dos últimos 5 anos anteriores
+          ao ajuizamento da ação. Por isso, não deixe passar tempo demais antes de buscar
+          orientação jurídica.
+        </p>
+
+        <h2>Quem tem doença crônica pode ser demitido sem justa causa?</h2>
+        <p>
+          Em geral, sim — a empresa pode demitir sem justa causa mesmo que o empregado tenha
+          doença. Mas há exceções importantes: empregados com doenças que geram estigma ou
+          preconceito (como HIV, câncer ou dependência química) têm estabilidade reconhecida
+          pelos tribunais. Consulte uma advogada para avaliar seu caso específico.
+        </p>
+
+        <h2>Como sacar o FGTS após demissão sem justa causa?</h2>
+        <p>
+          Após a demissão, você recebe o Termo de Rescisão e pode sacar o FGTS diretamente pelo
+          aplicativo FGTS, agências da Caixa Econômica Federal ou canais digitais. O prazo para
+          a empresa depositar a multa de 40% é de 10 dias após o término do contrato.
+        </p>
+
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+          <p className="text-foreground/85 leading-relaxed">
+            Foi demitido e tem dúvidas sobre seus direitos? A Dra. Flávia Vaz Rabello analisa sua
+            rescisão e garante que você receba tudo o que tem direito. Atendimento em Indaiatuba
+            e online em todo o Brasil.
+          </p>
+          <a
+            href="https://wa.me/5519997439157"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors"
+          >
+            Consultar Advogada
+          </a>
+        </div>
+      </>
+    ),
+  },
+  {
     slug: "como-identificar-juros-abusivos",
     category: "Bancário",
     title: "Como Identificar Juros Abusivos no Seu Contrato e o Que Fazer",
