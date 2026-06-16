@@ -137,9 +137,9 @@ const Index = () => {
         {/* HERO MOBILE — imagem no topo, conteúdo abaixo em coluna única */}
         <div className="md:hidden bg-secondary">
           <img
-            src={flaviaHeroDesktop}
+            src={heroBanner.url}
             alt="Dra. Flávia Vaz Rabello"
-            className="block w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] object-cover object-[60%_20%] scale-[1.15] origin-top"
+            className="block w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] object-cover object-[78%_30%] scale-[1.35] origin-[78%_30%]"
           />
           <div
             className="px-5 pt-9 pb-11 flex flex-col"
