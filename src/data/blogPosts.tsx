@@ -1,4 +1,9 @@
 import type { ReactNode } from "react";
+import blogGolpePix from "@/assets/blog-golpe-pix.jpg";
+import blogGuardaCompartilhada from "@/assets/blog-guarda-compartilhada.jpg";
+import blogDemissao from "@/assets/blog-demissao.jpg";
+import blogJurosAbusivos from "@/assets/blog-juros-abusivos.jpg";
+import blogDivorcioConsensual from "@/assets/blog-divorcio-consensual.jpg";
 
 export type BlogPost = {
   slug: string;
@@ -6,6 +11,7 @@ export type BlogPost = {
   title: string;
   h1: string;
   excerpt: string;
+  cover: string;
   metaTitle: string;
   metaDescription: string;
   canonical: string;
@@ -19,8 +25,9 @@ const Cta = () => (
   <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
     <p className="text-foreground/85 leading-relaxed">
       Você não precisa enfrentar esse momento sozinha(o). A Dra. Flávia Vaz Rabello
-      atende em Indaiatuba e em todo o Brasil de forma online. Agende sua consulta
-      agora e dê o primeiro passo com segurança jurídica e acolhimento.
+      atende clientes em todo o Brasil de forma online, com escritório em
+      Indaiatuba/SP para atendimento presencial. Agende sua consulta agora e dê o
+      primeiro passo com segurança jurídica e acolhimento.
     </p>
     <a
       href={WHATSAPP}
