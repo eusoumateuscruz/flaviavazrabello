@@ -140,7 +140,7 @@ const Index = () => {
             <img
               src={heroMobileClean.url}
               alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[55%_45%]"
+              className="block w-full h-full object-cover object-[60%_center]"
             />
           </div>
           <div
