@@ -343,13 +343,18 @@ const Index = () => {
           alt="Sobre a Dra. Flávia Vaz Rabello"
           className="w-full h-auto object-cover block"
         />
-        <Link
-          to="/sobre"
-          className="absolute left-[60%] bottom-[10%] md:bottom-[12%] inline-flex items-center gap-3 rounded-sm bg-primary/80 backdrop-blur-sm px-5 py-2.5 md:px-7 md:py-4 text-[10px] md:text-[11px] uppercase tracking-[0.22em] text-accent hover:bg-primary transition-colors"
-        >
-          Saiba mais sobre a Flávia
-          <ArrowRight className="h-3.5 w-3.5" />
-        </Link>
+        <div className="pointer-events-none absolute inset-0 grid grid-cols-[56%_1fr] md:grid-cols-[56%_1fr]">
+          <div aria-hidden="true" />
+          <div className="flex h-full flex-col justify-end pb-[8%] md:pb-[9%]">
+            <Link
+              to="/sobre"
+              className="pointer-events-auto mt-7 inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 self-start rounded-sm border border-accent/45 bg-primary px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.32)] transition-colors hover:bg-primary/90"
+            >
+              Saiba mais sobre a Flávia
+              <ArrowRight className="h-3.5 w-3.5 shrink-0" />
+            </Link>
+          </div>
+        </div>
       </section>
  
        {/* LOCATION & MAP */}
