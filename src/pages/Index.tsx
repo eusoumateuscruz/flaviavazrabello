@@ -137,16 +137,16 @@ const Index = () => {
           <img
             src={heroBanner.url}
             alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
-            className="absolute inset-0 h-full w-full object-cover object-[66%_center]"
+            className="absolute inset-0 h-full w-full object-cover object-[78%_center]"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-primary/10 via-primary/25 to-primary/90" />
-          <div className="absolute inset-0 bg-gradient-to-r from-primary/70 via-primary/30 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-r from-primary/82 via-primary/38 to-transparent" />
           <div className="relative z-[1] flex min-h-[calc(100svh-88px)] flex-col justify-end px-5 pb-9 pt-12">
             <p className="text-[11px] font-medium uppercase tracking-[0.2em] text-accent">OAB 262057/SP</p>
             <h1 className="mt-4 max-w-[12ch] font-serif text-[38px] leading-[1] text-primary-foreground min-[390px]:text-[42px]">
               Seu direito defendido com experiência, estratégia e dedicação.
             </h1>
-            <p className="mt-5 max-w-[30ch] text-[16px] leading-relaxed text-primary-foreground/88">
+            <p className="mt-5 max-w-[30ch] text-[16px] leading-relaxed text-primary-foreground">
               Atendimento presencial e online em todo o Brasil.
             </p>
             <a
