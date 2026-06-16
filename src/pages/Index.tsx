@@ -17,8 +17,7 @@ import {
   Phone,
   Gavel,
 } from "lucide-react";
-import HeroBackground from "@/components/HeroBackground";
-import flaviaHero from "@/assets/flavia_hero_v4.png";
+import heroBanner from "@/assets/hero-banner.png.asset.json";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
@@ -134,61 +133,12 @@ const Index = () => {
         }}
       />
       {/* HERO */}
-      <section className="relative md:min-h-[calc(100vh-5rem)] md:flex md:items-center">
-        <HeroBackground />
-        <div className="container-narrow relative z-10 pt-28 md:pt-40 pb-16 md:pb-20">
-          {/* Mobile photo — stacked above text */}
-          <div className="md:hidden mb-8 flex justify-center -mx-4">
-            <img
-              src={flaviaHero}
-              alt="Dra. Flávia Vaz Rabello, advogada especializada em Direito de Família em Indaiatuba SP"
-              className="w-[90%] max-w-[380px] h-auto object-contain"
-              style={{ background: "transparent" }}
-            />
-          </div>
-          <div className="max-w-3xl">
-            <h1
-              className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-primary leading-[1.05] animate-fade-in opacity-0"
-              style={{ animationDelay: "0.2s" }}
-            >
-              Seu direito,
-              <br />
-              <span className="italic text-accent">defendido</span> com
-              <br />
-              experiência, estratégia e dedicação.
-            </h1>
-            <div className="mt-8 h-px w-24 bg-accent animate-fade-in opacity-0" style={{ animationDelay: "0.4s" }} />
-            <p
-              className="mt-8 max-w-xl text-base md:text-lg text-foreground/75 leading-relaxed animate-fade-in opacity-0"
-              style={{ animationDelay: "0.5s" }}
-            >
-              Estamos à disposição para ouvir o seu caso com atenção e sigilo. Cada situação é única e merece uma solução jurídica personalizada.
-            </p>
-            <div
-              className="mt-10 flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0"
-              style={{ animationDelay: "0.65s" }}
-            >
-               <a
-                 href={WHATSAPP_URL}
-                 target="_blank"
-                 rel="noopener noreferrer"
-                 className="inline-flex items-center justify-center gap-2 bg-accent px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
-               >
-                 Agendar consulta
-                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-               </a>
-              <Link
-                to="/areas"
-                className="inline-flex items-center justify-center gap-2 border border-primary px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-primary transition-all hover:bg-primary hover:text-primary-foreground"
-              >
-                Conhecer as áreas
-              </Link>
-            </div>
-             <p className="label-eyebrow mt-10 animate-fade-in opacity-0 uppercase" style={{ animationDelay: "0.75s" }}>
-               ADVOCACIA · Atendimento Presencial e Online em todo o Brasil · OAB 262057/SP
-             </p>
-          </div>
-        </div>
+      <section className="relative w-full">
+        <img
+          src={heroBanner.url}
+          alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
+          className="w-full h-auto block"
+        />
       </section>
 
        {/* TRUST BAR */}
