@@ -139,6 +139,14 @@ const Index = () => {
           alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
           className="w-full h-auto block"
         />
+        <a
+          href={WHATSAPP_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="absolute left-1/2 -translate-x-1/2 bottom-[18%] md:bottom-[22%] inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 md:px-8 md:py-4 text-xs md:text-sm font-semibold uppercase tracking-[0.18em] text-accent-foreground shadow-lg hover:bg-accent/90 transition-colors"
+        >
+          Quero falar com a Dra. Flávia
+        </a>
       </section>
 
        {/* TRUST BAR */}
