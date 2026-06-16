@@ -279,7 +279,7 @@ const Index = () => {
 
                     <div>
                       <ul
-                        className={`grid content-start gap-y-4 gap-x-8 ${
+                        className={`grid content-start gap-y-3 gap-x-6 sm:gap-x-8 ${
                           manyServices ? "sm:grid-cols-2" : "grid-cols-1"
                         }`}
                       >
@@ -289,7 +289,7 @@ const Index = () => {
                             className={`flex items-start gap-3 ${
                               isFeatured ? "text-primary-foreground/95" : "text-foreground/90"
                             }`}
-                            style={{ fontSize: "14.5px", lineHeight: 1.5 }}
+                            style={{ fontSize: "clamp(13.5px, 3.4vw, 14.5px)", lineHeight: 1.5 }}
                           >
                             <span
                               className="mt-2.5 h-px w-3.5 shrink-0"
