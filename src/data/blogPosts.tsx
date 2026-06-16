@@ -48,6 +48,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Caí no Golpe do Pix: O Que Fazer Agora?",
     excerpt:
       "Passo a passo para tentar recuperar o dinheiro via MED, denunciar o golpista e avaliar a responsabilidade do banco.",
+    cover: blogGolpePix,
     metaTitle: "Golpe do Pix: O Que Fazer se Você For Vítima | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Saiba o que fazer imediatamente se cair no golpe do Pix, como tentar recuperar o dinheiro, onde denunciar e quais são seus direitos como vítima. Orientação jurídica especializada.",
@@ -137,8 +138,8 @@ export const BLOG_POSTS: BlogPost[] = [
         <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
           <p className="text-foreground/85 leading-relaxed">
             Se você foi vítima de golpe do Pix e quer saber se pode recuperar o dinheiro ou
-            responsabilizar o banco, a Dra. Flávia Vaz Rabello pode orientar você. Atendimento em
-            Indaiatuba e em todo o Brasil de forma online.
+            responsabilizar o banco, a Dra. Flávia Vaz Rabello pode orientar você. Atendimento
+            online em todo o Brasil e presencial em Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
