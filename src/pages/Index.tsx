@@ -139,7 +139,7 @@ const Index = () => {
           <img
             src={heroFlaviaMobile.url}
             alt="Dra. Flávia Vaz Rabello"
-            className="block w-full h-auto object-cover"
+            className="block w-full h-[380px] min-[390px]:h-[420px] min-[480px]:h-[480px] object-cover object-[70%_center]"
           />
           <div className="px-5 pt-8 pb-10 flex flex-col">
             <h1 className="font-serif text-[34px] leading-[1.05] text-primary min-[390px]:text-[38px]">
