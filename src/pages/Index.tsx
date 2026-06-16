@@ -132,11 +132,38 @@ const Index = () => {
         }}
       />
       {/* HERO */}
-      <section className="relative w-full">
+      <section className="relative w-full md:block">
+        <div className="md:hidden relative min-h-[calc(100svh-88px)] overflow-hidden bg-primary">
+          <img
+            src={heroBanner.url}
+            alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
+            className="absolute inset-0 h-full w-full object-cover object-[66%_center]"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-primary/10 via-primary/25 to-primary/90" />
+          <div className="absolute inset-0 bg-gradient-to-r from-primary/70 via-primary/30 to-transparent" />
+          <div className="relative z-[1] flex min-h-[calc(100svh-88px)] flex-col justify-end px-5 pb-9 pt-12">
+            <p className="text-[11px] font-medium uppercase tracking-[0.2em] text-accent">OAB 262057/SP</p>
+            <h1 className="mt-4 max-w-[11ch] font-serif text-[42px] leading-[0.98] text-primary-foreground">
+              Seu direito defendido com experiência, estratégia e dedicação.
+            </h1>
+            <p className="mt-5 max-w-[30ch] text-[16px] leading-relaxed text-primary-foreground/88">
+              Atendimento presencial e online em todo o Brasil.
+            </p>
+            <a
+              href={WHATSAPP_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-7 inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-5 text-[12px] font-semibold uppercase tracking-[0.16em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
+            >
+              Falar com a Dra. Flávia
+              <ArrowRight className="h-4 w-4 shrink-0" />
+            </a>
+          </div>
+        </div>
         <img
           src={heroBanner.url}
           alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
-          className="w-full h-auto block"
+          className="hidden md:block w-full h-auto"
         />
         {/* CTA desktop — posicionado sobre a imagem */}
         <a
@@ -149,7 +176,7 @@ const Index = () => {
           <ArrowRight className="h-3.5 w-3.5 shrink-0" />
         </a>
         {/* CTA mobile — abaixo da imagem, tamanho confortável para toque */}
-        <div className="md:hidden px-5 -mt-2 pb-8 flex justify-center">
+        <div className="hidden px-5 -mt-2 pb-8 justify-center">
           <a
             href={WHATSAPP_URL}
             target="_blank"
