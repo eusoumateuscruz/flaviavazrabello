@@ -380,11 +380,11 @@ const Index = () => {
       {/* ABOUT PREVIEW */}
       <section className="relative w-full bg-background">
         <div className="md:hidden">
-          <div className="w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] overflow-hidden">
+          <div className="w-full h-[420px] overflow-hidden">
             <img
               src={sobreMobileClean.url}
               alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[32%_center]"
+              className="block w-full h-full object-cover object-[28%_center]"
             />
           </div>
           <div className="px-5 py-12 bg-card border-y border-border">
