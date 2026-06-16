@@ -142,10 +142,10 @@ const Index = () => {
           href={WHATSAPP_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 rounded-sm border border-primary bg-primary px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
+          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex min-h-[28px] sm:min-h-[36px] md:min-h-[48px] w-fit items-center gap-1.5 sm:gap-2 md:gap-3 rounded-sm border border-primary bg-primary px-2.5 sm:px-5 md:px-10 py-0 text-[7px] sm:text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.18em] md:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
         >
           Quero falar com a Dra. Flávia
-          <ArrowRight className="h-3.5 w-3.5 shrink-0" />
+          <ArrowRight className="h-2.5 w-2.5 sm:h-3 sm:w-3 md:h-3.5 md:w-3.5 shrink-0" />
         </a>
       </section>
 
@@ -209,8 +209,8 @@ const Index = () => {
                   }
                   className={`reveal group relative overflow-hidden rounded-[14px] w-full transition-all duration-300 ease-out ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground p-12 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
-                      : "bg-card p-10 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
+                      ? "bg-primary text-primary-foreground p-6 sm:p-10 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
+                      : "bg-card p-6 sm:p-8 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
                   }`}
                 >
                   {/* Number watermark — very subtle, very large */}
@@ -220,7 +220,7 @@ const Index = () => {
                     style={{
                       bottom: "-40px",
                       right: "-10px",
-                      fontSize: isFeatured ? "260px" : "220px",
+                      fontSize: `clamp(140px, 28vw, ${isFeatured ? "260px" : "220px"})`,
                       fontWeight: 300,
                       lineHeight: 1,
                       zIndex: 0,
@@ -232,10 +232,10 @@ const Index = () => {
                     {number}
                   </span>
 
-                  <div className="relative z-[1] grid gap-12 md:grid-cols-[40%_1fr] md:gap-16">
+                  <div className="relative z-[1] grid gap-8 md:grid-cols-[40%_1fr] md:gap-16">
                     <div>
                       <Icon
-                        className="mb-8"
+                        className="mb-6 md:mb-8"
                         style={{ width: 32, height: 32, color: "#A66219" }}
                         strokeWidth={1.4}
                       />
@@ -243,7 +243,7 @@ const Index = () => {
                         className={`font-serif leading-[1.15] ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
-                        style={{ fontSize: isFeatured ? "32px" : "28px" }}
+                        style={{ fontSize: `clamp(22px, 5.5vw, ${isFeatured ? "32px" : "28px"})` }}
                       >
                         <span className="font-serif mr-3 align-baseline text-[0.6em] text-accent font-normal tracking-wider">
                           {number}
@@ -252,13 +252,13 @@ const Index = () => {
                       </h3>
                       <p
                         className={isFeatured ? "text-primary-foreground/90" : "text-foreground/85"}
-                        style={{ fontSize: "15px", lineHeight: 1.8, marginTop: "24px" }}
+                        style={{ fontSize: "clamp(14px, 3.6vw, 15px)", lineHeight: 1.8, marginTop: "20px" }}
                       >
                         {area.description}
                       </p>
                       <Link
                         to={`/servicos/${area.id}`}
-                        className="mt-10 inline-flex items-center gap-2 uppercase"
+                        className="mt-8 inline-flex items-center gap-2 uppercase"
                         style={{
                           fontSize: "12px",
                           letterSpacing: "0.18em",
@@ -279,7 +279,7 @@ const Index = () => {
 
                     <div>
                       <ul
-                        className={`grid content-start gap-y-4 gap-x-8 ${
+                        className={`grid content-start gap-y-3 gap-x-6 sm:gap-x-8 ${
                           manyServices ? "sm:grid-cols-2" : "grid-cols-1"
                         }`}
                       >
@@ -289,7 +289,7 @@ const Index = () => {
                             className={`flex items-start gap-3 ${
                               isFeatured ? "text-primary-foreground/95" : "text-foreground/90"
                             }`}
-                            style={{ fontSize: "14.5px", lineHeight: 1.5 }}
+                            style={{ fontSize: "clamp(13.5px, 3.4vw, 14.5px)", lineHeight: 1.5 }}
                           >
                             <span
                               className="mt-2.5 h-px w-3.5 shrink-0"
@@ -348,10 +348,10 @@ const Index = () => {
           <div className="flex h-full flex-col justify-end pb-[8%] md:pb-[9%]">
             <Link
               to="/sobre"
-              className="pointer-events-auto mt-7 inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 self-start rounded-sm border border-primary bg-primary px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
+              className="pointer-events-auto inline-flex min-h-[28px] sm:min-h-[36px] md:min-h-[48px] w-fit items-center gap-1.5 sm:gap-2 md:gap-3 self-start rounded-sm border border-primary bg-primary px-2.5 sm:px-5 md:px-10 py-0 text-[7px] sm:text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.18em] md:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
             >
               Saiba mais sobre a Flávia
-              <ArrowRight className="h-3.5 w-3.5 shrink-0" />
+              <ArrowRight className="h-2.5 w-2.5 sm:h-3 sm:w-3 md:h-3.5 md:w-3.5 shrink-0" />
             </Link>
           </div>
         </div>
