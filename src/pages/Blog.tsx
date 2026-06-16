@@ -3,7 +3,6 @@ import { Search, ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
-import { Monogram } from "@/components/Logo";
 import { Input } from "@/components/ui/input";
 import { BLOG_POSTS } from "@/data/blogPosts";
 
@@ -14,6 +13,7 @@ const POSTS = BLOG_POSTS.map((p) => ({
   category: p.category,
   title: p.title,
   excerpt: p.excerpt,
+  cover: p.cover,
 }));
 
 const Blog = () => {
@@ -77,11 +77,18 @@ const Blog = () => {
 
             <div className="grid gap-6 sm:grid-cols-2">
               {filtered.map((p) => (
-                <article key={p.slug} className="group bg-card border border-border overflow-hidden">
-                  <div className="aspect-[16/10] flex items-center justify-center" style={{ backgroundColor: "#EDE8E0" }}>
-                    <Monogram className="h-12 w-12 text-accent" />
-                  </div>
-                  <div className="p-6">
+                <article key={p.slug} className="group flex flex-col bg-card border border-border overflow-hidden transition-shadow hover:shadow-[0_18px_40px_rgba(0,0,0,0.08)]">
+                  <Link to={`/blog/${p.slug}`} className="block aspect-[16/10] overflow-hidden bg-secondary/40">
+                    <img
+                      src={p.cover}
+                      alt={p.title}
+                      loading="lazy"
+                      width={1280}
+                      height={800}
+                      className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                    />
+                  </Link>
+                  <div className="flex flex-1 flex-col p-6">
                     <div className="flex items-center justify-between text-xs uppercase tracking-[0.2em]">
                       <span className="text-accent">{p.category}</span>
                     </div>
@@ -93,7 +100,7 @@ const Blog = () => {
                     <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{p.excerpt}</p>
                     <Link
                       to={`/blog/${p.slug}`}
-                      className="mt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary hover:text-accent transition-colors"
+                      className="mt-auto pt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary hover:text-accent transition-colors self-start"
                     >
                       Ler mais <ArrowRight className="h-3 w-3" />
                     </Link>

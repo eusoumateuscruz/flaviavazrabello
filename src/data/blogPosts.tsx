@@ -1,4 +1,9 @@
 import type { ReactNode } from "react";
+import blogGolpePix from "@/assets/blog-golpe-pix.jpg";
+import blogGuardaCompartilhada from "@/assets/blog-guarda-compartilhada.jpg";
+import blogDemissao from "@/assets/blog-demissao.jpg";
+import blogJurosAbusivos from "@/assets/blog-juros-abusivos.jpg";
+import blogDivorcioConsensual from "@/assets/blog-divorcio-consensual.jpg";
 
 export type BlogPost = {
   slug: string;
@@ -6,6 +11,7 @@ export type BlogPost = {
   title: string;
   h1: string;
   excerpt: string;
+  cover: string;
   metaTitle: string;
   metaDescription: string;
   canonical: string;
@@ -19,8 +25,9 @@ const Cta = () => (
   <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
     <p className="text-foreground/85 leading-relaxed">
       Você não precisa enfrentar esse momento sozinha(o). A Dra. Flávia Vaz Rabello
-      atende em Indaiatuba e em todo o Brasil de forma online. Agende sua consulta
-      agora e dê o primeiro passo com segurança jurídica e acolhimento.
+      atende clientes em todo o Brasil de forma online, com escritório em
+      Indaiatuba/SP para atendimento presencial. Agende sua consulta agora e dê o
+      primeiro passo com segurança jurídica e acolhimento.
     </p>
     <a
       href={WHATSAPP}
@@ -41,6 +48,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Caí no Golpe do Pix: O Que Fazer Agora?",
     excerpt:
       "Passo a passo para tentar recuperar o dinheiro via MED, denunciar o golpista e avaliar a responsabilidade do banco.",
+    cover: blogGolpePix,
     metaTitle: "Golpe do Pix: O Que Fazer se Você For Vítima | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Saiba o que fazer imediatamente se cair no golpe do Pix, como tentar recuperar o dinheiro, onde denunciar e quais são seus direitos como vítima. Orientação jurídica especializada.",
@@ -130,8 +138,8 @@ export const BLOG_POSTS: BlogPost[] = [
         <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
           <p className="text-foreground/85 leading-relaxed">
             Se você foi vítima de golpe do Pix e quer saber se pode recuperar o dinheiro ou
-            responsabilizar o banco, a Dra. Flávia Vaz Rabello pode orientar você. Atendimento em
-            Indaiatuba e em todo o Brasil de forma online.
+            responsabilizar o banco, a Dra. Flávia Vaz Rabello pode orientar você. Atendimento
+            online em todo o Brasil e presencial em Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
@@ -152,6 +160,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Guarda Compartilhada: Como Funciona, Direitos e Mitos",
     excerpt:
       "Entenda o modelo padrão de guarda no Brasil, quem paga pensão, os 3 tipos de guarda e quando a mãe pode (ou não) recusar.",
+    cover: blogGuardaCompartilhada,
     metaTitle: "Guarda Compartilhada: Como Funciona e Seus Direitos | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Entenda o que é guarda compartilhada, como funciona na prática, quem paga pensão, quais são os 3 tipos de guarda e quando a mãe pode negar. Tire suas dúvidas com advogada especializada.",
@@ -243,8 +252,8 @@ export const BLOG_POSTS: BlogPost[] = [
           <p className="text-foreground/85 leading-relaxed">
             Está passando por uma separação e tem dúvidas sobre a guarda dos seus filhos? A Dra.
             Flávia Vaz Rabello atua com sensibilidade e estratégia para proteger o melhor
-            interesse do menor e garantir seus direitos como genitor(a). Agende sua consulta em
-            Indaiatuba ou online.
+            interesse do menor e garantir seus direitos como genitor(a). Agende sua consulta
+            online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
@@ -265,6 +274,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Fui Demitido Sem Justa Causa: Quais São Meus Direitos?",
     excerpt:
       "FGTS, aviso prévio, 13º, seguro-desemprego e multa de 40%: entenda todas as verbas devidas e os prazos para reclamar na Justiça.",
+    cover: blogDemissao,
     metaTitle: "Demissão Sem Justa Causa: Seus Direitos | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Saiba quais são todos os seus direitos na demissão sem justa causa: FGTS, aviso prévio, 13º salário, seguro-desemprego e multa de 40%. Entenda os prazos e como agir.",
@@ -357,8 +367,8 @@ export const BLOG_POSTS: BlogPost[] = [
         <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
           <p className="text-foreground/85 leading-relaxed">
             Foi demitido e tem dúvidas sobre seus direitos? A Dra. Flávia Vaz Rabello analisa sua
-            rescisão e garante que você receba tudo o que tem direito. Atendimento em Indaiatuba
-            e online em todo o Brasil.
+            rescisão e garante que você receba tudo o que tem direito. Atendimento online em
+            todo o Brasil e presencial em Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
@@ -379,6 +389,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Como Identificar Juros Abusivos no Seu Contrato e o Que Fazer",
     excerpt:
       "Saiba como comparar a taxa do seu contrato com a média do Banco Central, identificar cobranças ilegais e buscar a revisão judicial.",
+    cover: blogJurosAbusivos,
     metaTitle: "Como Identificar Juros Abusivos no Contrato | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Saiba como calcular se está pagando juros abusivos no financiamento, cartão de crédito ou empréstimo. Entenda seus direitos e como recorrer com apoio jurídico especializado.",
@@ -471,7 +482,8 @@ export const BLOG_POSTS: BlogPost[] = [
           <p className="text-foreground/85 leading-relaxed">
             Suspeita que está pagando juros abusivos no seu financiamento, cartão ou empréstimo?
             A Dra. Flávia Vaz Rabello analisa o seu contrato e orienta os melhores passos para
-            proteger seus direitos. Atendimento em Indaiatuba e online em todo o Brasil.
+            proteger seus direitos. Atendimento online em todo o Brasil e presencial em
+            Indaiatuba/SP.
           </p>
           <a
             href="https://wa.me/5519997439157"
@@ -488,13 +500,14 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     slug: "divorcio-consensual-indaiatuba",
     category: "Família",
-    title: "Divórcio Consensual em Indaiatuba: o que você precisa saber antes de começar",
-    h1: "Divórcio Consensual em Indaiatuba: o que você precisa saber antes de começar",
+    title: "Divórcio Consensual: o que você precisa saber antes de começar",
+    h1: "Divórcio Consensual: o que você precisa saber antes de começar",
     excerpt:
       "Entenda como funciona o divórcio consensual, documentos necessários, prazos e quando a presença da advogada é obrigatória.",
-    metaTitle: "Divórcio Consensual em Indaiatuba | Advogada Flávia Vaz Rabello",
+    cover: blogDivorcioConsensual,
+    metaTitle: "Divórcio Consensual: Guia Completo | Advogada Flávia Vaz Rabello",
     metaDescription:
-      "Entenda como funciona o divórcio consensual em Indaiatuba, quais são os documentos necessários, quanto tempo leva e quando é obrigatório ter advogada. Tire suas dúvidas agora.",
+      "Entenda como funciona o divórcio consensual no Brasil, quais documentos são necessários, quanto tempo leva e quando a advogada é obrigatória. Atendimento online em todo o país.",
     canonical: "https://www.flaviavazrabello.com.br/blog/divorcio-consensual-indaiatuba",
     jsonLd: {
       "@context": "https://schema.org",
@@ -504,7 +517,7 @@ export const BLOG_POSTS: BlogPost[] = [
         { "@type": "Question", name: "Quando um dos cônjuges não quer assinar o divórcio, o que fazer?", acceptedAnswer: { "@type": "Answer", text: "Desde 2010, o divórcio é um direito de qualquer cônjuge. Se um não quiser assinar, é possível entrar com divórcio unilateral na Justiça sem o consentimento do outro." } },
         { "@type": "Question", name: "Preciso de advogada para o divórcio consensual em cartório?", acceptedAnswer: { "@type": "Answer", text: "Sim. A presença de advogada é obrigatória em todos os tipos de divórcio, inclusive no extrajudicial em cartório." } },
         { "@type": "Question", name: "Quais são os 3 tipos de divórcio?", acceptedAnswer: { "@type": "Answer", text: "Consensual extrajudicial (cartório), consensual judicial (com filhos menores) e litigioso (sem acordo entre as partes)." } },
-        { "@type": "Question", name: "Quanto tempo demora o divórcio consensual em Indaiatuba?", acceptedAnswer: { "@type": "Answer", text: "O divórcio extrajudicial em cartório pode ser concluído em poucos dias. O judicial consensual leva em média 2 a 6 meses." } },
+        { "@type": "Question", name: "Quanto tempo demora o divórcio consensual?", acceptedAnswer: { "@type": "Answer", text: "O divórcio extrajudicial em cartório pode ser concluído em poucos dias. O judicial consensual leva em média 2 a 6 meses." } },
       ],
     },
     content: (
@@ -571,7 +584,7 @@ export const BLOG_POSTS: BlogPost[] = [
           outros bens. Um acordo bem elaborado evita disputas futuras.
         </p>
 
-        <h2>Quanto custa o divórcio em Indaiatuba?</h2>
+        <h2>Quanto custa o divórcio?</h2>
         <p>
           O custo varia conforme o tipo de divórcio. O extrajudicial em cartório tem taxas menores. O
           judicial pode envolver custas processuais e honorários advocatícios. Consulte a Dra. Flávia
@@ -586,7 +599,7 @@ export const BLOG_POSTS: BlogPost[] = [
           especialmente em relação à guarda dos filhos e à partilha de bens.
         </p>
 
-        <h2>Como dar entrada no divórcio em Indaiatuba?</h2>
+        <h2>Como dar entrada no divórcio?</h2>
         <p>
           O primeiro passo é agendar uma consulta com uma advogada especializada em Direito de
           Família. Na consulta, você apresenta sua situação, os documentos disponíveis e recebe
