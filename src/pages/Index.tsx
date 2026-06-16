@@ -138,15 +138,28 @@ const Index = () => {
           alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
           className="w-full h-auto block"
         />
+        {/* CTA desktop — posicionado sobre a imagem */}
         <a
           href={WHATSAPP_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex min-h-[28px] sm:min-h-[36px] md:min-h-[48px] w-fit items-center gap-1.5 sm:gap-2 md:gap-3 rounded-sm border border-primary bg-primary px-2.5 sm:px-5 md:px-10 py-0 text-[7px] sm:text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.18em] md:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
+          className="hidden md:inline-flex absolute left-[15.5%] bottom-[26%] min-h-[48px] w-fit items-center gap-3 rounded-sm border border-primary bg-primary px-10 py-0 text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
         >
           Quero falar com a Dra. Flávia
-          <ArrowRight className="h-2.5 w-2.5 sm:h-3 sm:w-3 md:h-3.5 md:w-3.5 shrink-0" />
+          <ArrowRight className="h-3.5 w-3.5 shrink-0" />
         </a>
+        {/* CTA mobile — abaixo da imagem, tamanho confortável para toque */}
+        <div className="md:hidden px-5 -mt-2 pb-8 flex justify-center">
+          <a
+            href={WHATSAPP_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex min-h-[52px] w-full max-w-sm items-center justify-center gap-2 rounded-sm border border-primary bg-primary px-6 text-[13px] font-semibold uppercase tracking-[0.18em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
+          >
+            Falar com a Dra. Flávia
+            <ArrowRight className="h-4 w-4 shrink-0" />
+          </a>
+        </div>
       </section>
 
        {/* TRUST BAR */}
@@ -343,17 +356,28 @@ const Index = () => {
           alt="Sobre a Dra. Flávia Vaz Rabello"
           className="w-full h-auto object-cover block"
         />
-        <div className="pointer-events-none absolute inset-0 grid grid-cols-[56%_1fr] md:grid-cols-[56%_1fr]">
+        {/* CTA desktop sobreposto */}
+        <div className="hidden md:grid pointer-events-none absolute inset-0 grid-cols-[56%_1fr]">
           <div aria-hidden="true" />
-          <div className="flex h-full flex-col justify-end pb-[8%] md:pb-[9%]">
+          <div className="flex h-full flex-col justify-end pb-[9%]">
             <Link
               to="/sobre"
-              className="pointer-events-auto inline-flex min-h-[28px] sm:min-h-[36px] md:min-h-[48px] w-fit items-center gap-1.5 sm:gap-2 md:gap-3 self-start rounded-sm border border-primary bg-primary px-2.5 sm:px-5 md:px-10 py-0 text-[7px] sm:text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.18em] md:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
+              className="pointer-events-auto inline-flex min-h-[48px] w-fit items-center gap-3 self-start rounded-sm border border-primary bg-primary px-10 py-0 text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
             >
               Saiba mais sobre a Flávia
-              <ArrowRight className="h-2.5 w-2.5 sm:h-3 sm:w-3 md:h-3.5 md:w-3.5 shrink-0" />
+              <ArrowRight className="h-3.5 w-3.5 shrink-0" />
             </Link>
           </div>
+        </div>
+        {/* CTA mobile abaixo da imagem */}
+        <div className="md:hidden px-5 -mt-2 pb-8 flex justify-center">
+          <Link
+            to="/sobre"
+            className="inline-flex min-h-[52px] w-full max-w-sm items-center justify-center gap-2 rounded-sm border border-primary bg-primary px-6 text-[13px] font-semibold uppercase tracking-[0.18em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
+          >
+            Saiba mais sobre a Flávia
+            <ArrowRight className="h-4 w-4 shrink-0" />
+          </Link>
         </div>
       </section>
  
