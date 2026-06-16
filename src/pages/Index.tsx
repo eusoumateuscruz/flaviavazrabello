@@ -384,7 +384,7 @@ const Index = () => {
             <img
               src={sobreMobileClean.url}
               alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[40%_center]"
+              className="block w-full h-full object-cover object-[48%_center]"
             />
           </div>
           <div className="px-5 py-12 bg-card border-y border-border">
