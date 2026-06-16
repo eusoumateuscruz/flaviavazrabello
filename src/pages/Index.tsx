@@ -135,17 +135,25 @@ const Index = () => {
       {/* HERO */}
       <section className="relative w-full md:block">
         {/* HERO MOBILE — imagem no topo, conteúdo abaixo em coluna única */}
-        <div className="md:hidden bg-background">
+        <div className="md:hidden bg-secondary">
           <img
             src={heroFlaviaMobile.url}
             alt="Dra. Flávia Vaz Rabello"
             className="block w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] object-cover object-[88%_center]"
           />
-          <div className="px-5 pt-8 pb-10 flex flex-col">
+          <div
+            className="px-5 pt-9 pb-11 flex flex-col"
+            style={{
+              background:
+                "linear-gradient(180deg, hsl(36 24% 90%) 0%, hsl(36 22% 86%) 100%), radial-gradient(ellipse at top, hsl(24 58% 40% / 0.06), transparent 60%)",
+            }}
+          >
             <h1 className="font-serif font-light text-[36px] leading-[1.08] tracking-[-0.01em] text-primary min-[390px]:text-[40px] min-[480px]:text-[44px]">
-              Seu direito defendido com experiência, estratégia e dedicação.
+              Seu direito defendido{" "}
+              <em className="font-serif italic font-normal text-accent">com experiência</em>
+              , estratégia e dedicação.
             </h1>
-            <p className="mt-5 font-serif italic text-[17px] leading-[1.55] text-foreground/75 min-[390px]:text-[18px]">
+            <p className="mt-5 font-serif italic text-[17px] leading-[1.55] text-primary/75 min-[390px]:text-[18px]">
               Atendimento presencial e online em todo o Brasil.
             </p>
             <a
