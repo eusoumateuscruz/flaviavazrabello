@@ -83,6 +83,7 @@
   html {
     scroll-behavior: smooth;
     overflow-x: hidden;
+    scroll-padding-top: 96px;
   }
 
   body {
@@ -160,11 +161,21 @@
 
 .testimonials-stack {
   position: relative;
-  min-height: 340px;
+  min-height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0 8px;
+}
+
+@media (max-width: 767px) {
+  .label-eyebrow {
+    letter-spacing: 0.2em;
+  }
+
+  .testimonial-card {
+    max-width: calc(100vw - 40px);
+  }
 }
 
 @media (min-width: 640px) {

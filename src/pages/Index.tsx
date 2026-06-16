@@ -132,11 +132,38 @@ const Index = () => {
         }}
       />
       {/* HERO */}
-      <section className="relative w-full">
+      <section className="relative w-full md:block">
+        <div className="md:hidden relative min-h-[calc(100svh-88px)] overflow-hidden bg-primary">
+          <img
+            src={heroBanner.url}
+            alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
+            className="absolute inset-0 h-full w-full object-cover object-[78%_center]"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-primary/10 via-primary/25 to-primary/90" />
+          <div className="absolute inset-0 bg-gradient-to-r from-primary/82 via-primary/38 to-transparent" />
+          <div className="relative z-[1] flex min-h-[calc(100svh-88px)] flex-col justify-end px-5 pb-9 pt-12">
+            <p className="text-[11px] font-medium uppercase tracking-[0.2em] text-accent">OAB 262057/SP</p>
+            <h1 className="mt-4 max-w-[12ch] font-serif text-[38px] leading-[1] text-primary-foreground min-[390px]:text-[42px]">
+              Seu direito defendido com experiência, estratégia e dedicação.
+            </h1>
+            <p className="mt-5 max-w-[30ch] text-[16px] leading-relaxed text-primary-foreground">
+              Atendimento presencial e online em todo o Brasil.
+            </p>
+            <a
+              href={WHATSAPP_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-7 inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-4 text-center text-[11px] font-semibold uppercase tracking-[0.14em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90 min-[390px]:text-[12px]"
+            >
+              Falar com a Dra. Flávia
+              <ArrowRight className="h-4 w-4 shrink-0" />
+            </a>
+          </div>
+        </div>
         <img
           src={heroBanner.url}
           alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
-          className="w-full h-auto block"
+          className="hidden md:block w-full h-auto"
         />
         {/* CTA desktop — posicionado sobre a imagem */}
         <a
@@ -149,7 +176,7 @@ const Index = () => {
           <ArrowRight className="h-3.5 w-3.5 shrink-0" />
         </a>
         {/* CTA mobile — abaixo da imagem, tamanho confortável para toque */}
-        <div className="md:hidden px-5 -mt-2 pb-8 flex justify-center">
+        <div className="hidden px-5 -mt-2 pb-8 justify-center">
           <a
             href={WHATSAPP_URL}
             target="_blank"
@@ -164,7 +191,7 @@ const Index = () => {
 
        {/* TRUST BAR */}
        <section className="bg-primary text-primary-foreground border-y border-accent/20">
-         <div className="container-narrow py-6">
+         <div className="container-narrow py-7 md:py-6">
            <ul className="flex flex-col md:flex-row items-center md:justify-around gap-6 md:gap-4 text-center">
              {trustItems.map(({ icon: Icon, label }) => (
                <li key={label} className="flex items-center gap-3 justify-center">
@@ -177,7 +204,7 @@ const Index = () => {
        </section>
 
       {/* PRACTICE AREAS */}
-      <section className="relative py-24 md:py-32 overflow-hidden">
+       <section className="relative py-16 md:py-32 overflow-hidden">
         {/* Subtle depth gradient overlay */}
         <div
           aria-hidden="true"
@@ -195,7 +222,7 @@ const Index = () => {
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-20 mx-auto max-w-[1040px] flex flex-col gap-8">
+           <div className="mt-12 md:mt-20 mx-auto max-w-[1040px] flex flex-col gap-6 md:gap-8">
             {PRACTICE_AREAS.map((area, idx) => {
               const Icon = areaIcons[idx];
               const isFeatured = idx === 1 || idx === 3;
@@ -222,7 +249,7 @@ const Index = () => {
                   }
                   className={`reveal group relative overflow-hidden rounded-[14px] w-full transition-all duration-300 ease-out ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground p-6 sm:p-10 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
+                      ? "bg-primary text-primary-foreground p-6 sm:p-8 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
                       : "bg-card p-6 sm:p-8 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
                   }`}
                 >
@@ -256,7 +283,7 @@ const Index = () => {
                         className={`font-serif leading-[1.15] ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
-                        style={{ fontSize: `clamp(22px, 5.5vw, ${isFeatured ? "32px" : "28px"})` }}
+                        style={{ fontSize: `clamp(26px, 7vw, ${isFeatured ? "32px" : "28px"})` }}
                       >
                         <span className="font-serif mr-3 align-baseline text-[0.6em] text-accent font-normal tracking-wider">
                           {number}
@@ -265,7 +292,7 @@ const Index = () => {
                       </h3>
                       <p
                         className={isFeatured ? "text-primary-foreground/90" : "text-foreground/85"}
-                        style={{ fontSize: "clamp(14px, 3.6vw, 15px)", lineHeight: 1.8, marginTop: "20px" }}
+                        style={{ fontSize: "clamp(15px, 4vw, 15px)", lineHeight: 1.75, marginTop: "18px" }}
                       >
                         {area.description}
                       </p>
@@ -293,7 +320,7 @@ const Index = () => {
                     <div>
                       <ul
                         className={`grid content-start gap-y-3 gap-x-6 sm:gap-x-8 ${
-                          manyServices ? "sm:grid-cols-2" : "grid-cols-1"
+                          manyServices ? "md:grid-cols-2" : "grid-cols-1"
                         }`}
                       >
                         {area.services.map((s) => (
@@ -322,14 +349,14 @@ const Index = () => {
       </section>
 
        {/* DIFFERENTIALS */}
-       <section className="py-20 md:py-28 bg-card border-y border-border">
+       <section className="py-16 md:py-28 bg-card border-y border-border">
          <div className="container-narrow">
            <SectionHeader
              eyebrow="Diferenciais"
              title="Por que escolher a Flávia Vaz Rabello Advocacia?"
            />
  
-           <div className="mt-16 grid gap-px bg-border sm:grid-cols-2 lg:grid-cols-3 border border-border">
+            <div className="mt-10 md:mt-16 grid gap-px bg-border md:grid-cols-2 lg:grid-cols-3 border border-border">
              <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
                <Sparkles className="h-6 w-6 text-accent" strokeWidth={1.4} />
                <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Atendimento Individualizado</h3>
@@ -350,11 +377,32 @@ const Index = () => {
        </section>
 
       {/* ABOUT PREVIEW */}
-      <section className="relative w-full">
+      <section className="relative w-full bg-background">
+        <div className="md:hidden px-5 py-14">
+          <div className="overflow-hidden rounded-[18px] border border-border bg-card shadow-[0_20px_50px_rgba(59,74,47,0.12)]">
+            <div className="relative aspect-[4/5] overflow-hidden bg-secondary">
+              <img
+                src={sobreAsset.url}
+                alt="Sobre a Dra. Flávia Vaz Rabello"
+                className="absolute inset-0 h-full w-full object-cover object-[43%_center]"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-primary/35 via-transparent to-transparent" />
+            </div>
+            <div className="p-5 pt-6">
+              <Link
+                to="/sobre"
+                className="inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-5 text-[12px] font-semibold uppercase tracking-[0.16em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
+              >
+                Saiba mais sobre a Flávia
+                <ArrowRight className="h-4 w-4 shrink-0" />
+              </Link>
+            </div>
+          </div>
+        </div>
         <img
           src={sobreAsset.url}
           alt="Sobre a Dra. Flávia Vaz Rabello"
-          className="w-full h-auto object-cover block"
+          className="hidden md:block w-full h-auto object-cover"
         />
         {/* CTA desktop sobreposto */}
         <div className="hidden md:grid pointer-events-none absolute inset-0 grid-cols-[56%_1fr]">
@@ -370,7 +418,7 @@ const Index = () => {
           </div>
         </div>
         {/* CTA mobile abaixo da imagem */}
-        <div className="md:hidden px-5 -mt-2 pb-8 flex justify-center">
+        <div className="hidden px-5 -mt-2 pb-8 justify-center">
           <Link
             to="/sobre"
             className="inline-flex min-h-[52px] w-full max-w-sm items-center justify-center gap-2 rounded-sm border border-primary bg-primary px-6 text-[13px] font-semibold uppercase tracking-[0.18em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
@@ -382,7 +430,7 @@ const Index = () => {
       </section>
  
        {/* LOCATION & MAP */}
-       <section id="localizacao" className="py-24 md:py-32 bg-secondary/30 border-y border-border">
+       <section id="localizacao" className="py-16 md:py-32 bg-secondary/30 border-y border-border">
          <div className="container-narrow">
            <SectionHeader
              eyebrow="Onde Estamos"
@@ -390,9 +438,9 @@ const Index = () => {
              subtitle="Ambiente preparado para oferecer conforto e sigilo no seu atendimento presencial."
            />
  
-           <div className="mt-16 grid gap-12 lg:grid-cols-[1fr_1.5fr] items-start">
+            <div className="mt-10 md:mt-16 grid gap-8 md:gap-12 lg:grid-cols-[1fr_1.5fr] items-start">
              <div className="reveal space-y-8">
-               <div className="bg-card border border-border p-8 space-y-8">
+                <div className="bg-card border border-border p-6 md:p-8 space-y-7 md:space-y-8">
                  <div className="flex items-start gap-4">
                    <div className="h-10 w-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0">
                      <MapPin className="h-5 w-5 text-accent" />
@@ -438,13 +486,13 @@ const Index = () => {
                  href="https://www.google.com/maps/dir//Avenida+Coronel+Antonio+Estanislau+do+Amaral,+635+-+Itaici+Office+-+Indaiatuba+-+SP"
                  target="_blank"
                  rel="noopener noreferrer"
-                 className="w-full inline-flex items-center justify-center gap-2 bg-primary px-7 py-4 text-xs font-medium uppercase tracking-[0.22em] text-primary-foreground transition-all hover:bg-primary/90"
+                  className="w-full min-h-[56px] inline-flex items-center justify-center gap-2 bg-primary px-5 md:px-7 py-4 text-[11px] md:text-xs font-medium uppercase tracking-[0.14em] md:tracking-[0.22em] text-primary-foreground transition-all hover:bg-primary/90 text-center"
                >
                  Como chegar pelo Google Maps
                </a>
              </div>
  
-             <div className="reveal h-[450px] w-full border border-border overflow-hidden rounded-[14px] shadow-lg grayscale hover:grayscale-0 transition-all duration-700">
+              <div className="reveal h-[320px] md:h-[450px] w-full border border-border overflow-hidden rounded-[14px] shadow-lg grayscale hover:grayscale-0 transition-all duration-700">
                <iframe
                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.328330768913!2d-47.17482342468494!3d-23.139912079092825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf51cf15222687%3A0x868c68c6a0c5c4e8!2sAv.%20Cel.%20Ant%C3%B4nio+Estanislau+do+Amaral%2C+635+-+Itaici%2C+Indaiatuba+-+SP%2C+13340-480!5e0!3m2!1spt-BR!2sbr!4v1715432000000"
                  width="100%"
@@ -462,7 +510,7 @@ const Index = () => {
  
        {/* TESTIMONIALS */}
         {/* HOW IT WORKS */}
-        <section className="py-20 md:py-28 bg-secondary/30 border-y border-border">
+         <section className="py-16 md:py-28 bg-secondary/30 border-y border-border">
           <div className="container-narrow">
             <SectionHeader
               eyebrow="Atendimento"
@@ -470,7 +518,7 @@ const Index = () => {
               subtitle="Um processo claro, do primeiro contato ao acompanhamento do seu caso."
             />
 
-            <div className="mt-16 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="mt-10 md:mt-16 grid gap-5 md:gap-8 md:grid-cols-2 lg:grid-cols-4">
               {[
                 {
                   n: "01",
@@ -514,7 +562,7 @@ const Index = () => {
         </section>
 
         {/* TESTIMONIALS */}
-      <section className="py-20 md:py-28">
+      <section className="py-16 md:py-28">
         <div className="container-narrow">
           <SectionHeader
             eyebrow="Depoimentos"
@@ -562,7 +610,7 @@ const Index = () => {
       </section>
 
       {/* BLOG PREVIEW */}
-      <section className="py-20 md:py-28 bg-secondary/40 border-y border-border">
+      <section className="py-16 md:py-28 bg-secondary/40 border-y border-border">
         <div className="container-narrow">
           <SectionHeader
             eyebrow="Conteúdo"
@@ -570,13 +618,13 @@ const Index = () => {
             subtitle="Conteúdos para você compreender melhor seus direitos e tomar decisões informadas."
           />
 
-          <div className="mt-16 grid gap-6 md:grid-cols-3">
+          <div className="mt-10 md:mt-16 grid gap-5 md:gap-6 md:grid-cols-3">
             {blogPosts.map((p) => (
               <article key={p.title} className="reveal group bg-card border border-border overflow-hidden">
                 <div className="aspect-[16/10] flex items-center justify-center" style={{ backgroundColor: "#EDE8E0" }}>
                   <Monogram className="h-12 w-12 text-accent" />
                 </div>
-                <div className="p-7">
+                <div className="p-6 md:p-7">
                   <span className="text-xs uppercase tracking-[0.2em] text-accent">{p.category}</span>
                   <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
                     {p.title}
@@ -596,7 +644,7 @@ const Index = () => {
           <div className="mt-12 text-center">
             <Link
               to="/blog"
-              className="inline-flex items-center gap-2 border border-primary text-primary px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-primary hover:text-primary-foreground transition-colors"
+              className="inline-flex min-h-[52px] w-full max-w-sm items-center justify-center gap-2 border border-primary text-primary px-5 py-3 text-[11px] md:text-xs uppercase tracking-[0.16em] md:tracking-[0.2em] hover:bg-primary hover:text-primary-foreground transition-colors"
             >
               Ver todos os artigos
             </Link>
@@ -605,7 +653,7 @@ const Index = () => {
       </section>
 
       {/* CONTACT CTA */}
-      <section className="bg-primary text-primary-foreground py-20 md:py-24 relative overflow-hidden">
+      <section className="bg-primary text-primary-foreground py-16 md:py-24 relative overflow-hidden">
         <div className="absolute inset-x-0 top-0 h-px bg-accent/40" />
         <div className="absolute inset-x-0 bottom-0 h-px bg-accent/40" />
         <div className="container-narrow relative text-center">
@@ -620,7 +668,7 @@ const Index = () => {
             href={WHATSAPP_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-10 inline-flex items-center justify-center gap-2 bg-accent px-8 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground hover:bg-accent/90 transition-colors group"
+            className="mt-10 inline-flex min-h-[56px] w-full max-w-sm items-center justify-center gap-2 bg-accent px-5 md:px-8 py-4 text-[11px] md:text-xs font-medium uppercase tracking-[0.14em] md:tracking-[0.22em] text-accent-foreground hover:bg-accent/90 transition-colors group"
           >
             <MessageSquare className="h-4 w-4" />
             Fale comigo agora

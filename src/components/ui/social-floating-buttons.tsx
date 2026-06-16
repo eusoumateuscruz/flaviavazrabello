@@ -3,13 +3,13 @@ import { WHATSAPP_URL, SOCIAL_LINKS } from "@/lib/site";
 
 const SocialFloatingButtons = () => {
   return (
-    <div className="fixed bottom-4 right-4 md:bottom-6 md:right-6 z-40 flex flex-col gap-3 md:gap-4">
+    <div className="hidden md:fixed md:bottom-6 md:right-6 md:z-40 md:flex md:flex-col md:gap-4">
       {/* Instagram Button */}
       <a
         href={SOCIAL_LINKS.instagram}
         target="_blank"
         rel="noopener noreferrer"
-        className="flex h-11 w-11 md:h-14 md:w-14 items-center justify-center rounded-full bg-gradient-to-tr from-[#F58529] via-[#DD2A7B] to-[#8134AF] text-white shadow-lg transition-transform hover:scale-110 active:scale-95"
+        className="flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-tr from-[#F58529] via-[#DD2A7B] to-[#8134AF] text-white shadow-lg transition-transform hover:scale-110 active:scale-95"
         aria-label="Siga-nos no Instagram"
       >
         <Instagram className="h-5 w-5 md:h-7 md:w-7" />
@@ -20,7 +20,7 @@ const SocialFloatingButtons = () => {
         href={WHATSAPP_URL}
         target="_blank"
         rel="noopener noreferrer"
-        className="flex h-11 w-11 md:h-14 md:w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform hover:scale-110 active:scale-95"
+        className="flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform hover:scale-110 active:scale-95"
         aria-label="Falar no WhatsApp"
       >
         <svg
