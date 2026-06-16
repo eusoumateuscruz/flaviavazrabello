@@ -349,14 +349,14 @@ const Index = () => {
       </section>
 
        {/* DIFFERENTIALS */}
-       <section className="py-20 md:py-28 bg-card border-y border-border">
+       <section className="py-16 md:py-28 bg-card border-y border-border">
          <div className="container-narrow">
            <SectionHeader
              eyebrow="Diferenciais"
              title="Por que escolher a Flávia Vaz Rabello Advocacia?"
            />
  
-           <div className="mt-16 grid gap-px bg-border sm:grid-cols-2 lg:grid-cols-3 border border-border">
+            <div className="mt-10 md:mt-16 grid gap-px bg-border md:grid-cols-2 lg:grid-cols-3 border border-border">
              <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
                <Sparkles className="h-6 w-6 text-accent" strokeWidth={1.4} />
                <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Atendimento Individualizado</h3>
@@ -377,11 +377,32 @@ const Index = () => {
        </section>
 
       {/* ABOUT PREVIEW */}
-      <section className="relative w-full">
+      <section className="relative w-full bg-background">
+        <div className="md:hidden px-5 py-14">
+          <div className="overflow-hidden rounded-[18px] border border-border bg-card shadow-[0_20px_50px_rgba(59,74,47,0.12)]">
+            <div className="relative aspect-[4/5] overflow-hidden bg-secondary">
+              <img
+                src={sobreAsset.url}
+                alt="Sobre a Dra. Flávia Vaz Rabello"
+                className="absolute inset-0 h-full w-full object-cover object-[43%_center]"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-primary/35 via-transparent to-transparent" />
+            </div>
+            <div className="p-5 pt-6">
+              <Link
+                to="/sobre"
+                className="inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-5 text-[12px] font-semibold uppercase tracking-[0.16em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
+              >
+                Saiba mais sobre a Flávia
+                <ArrowRight className="h-4 w-4 shrink-0" />
+              </Link>
+            </div>
+          </div>
+        </div>
         <img
           src={sobreAsset.url}
           alt="Sobre a Dra. Flávia Vaz Rabello"
-          className="w-full h-auto object-cover block"
+          className="hidden md:block w-full h-auto object-cover"
         />
         {/* CTA desktop sobreposto */}
         <div className="hidden md:grid pointer-events-none absolute inset-0 grid-cols-[56%_1fr]">
@@ -397,7 +418,7 @@ const Index = () => {
           </div>
         </div>
         {/* CTA mobile abaixo da imagem */}
-        <div className="md:hidden px-5 -mt-2 pb-8 flex justify-center">
+        <div className="hidden px-5 -mt-2 pb-8 justify-center">
           <Link
             to="/sobre"
             className="inline-flex min-h-[52px] w-full max-w-sm items-center justify-center gap-2 rounded-sm border border-primary bg-primary px-6 text-[13px] font-semibold uppercase tracking-[0.18em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
