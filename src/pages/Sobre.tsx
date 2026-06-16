@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { Mail, ArrowRight, GraduationCap } from "lucide-react";
 import PageHero from "@/components/PageHero";
+import Seo from "@/components/Seo";
 import { EMAIL, WHATSAPP_URL } from "@/lib/site";
 import flaviaFoto from "@/assets/flavia_sobre_v2.png";
 
@@ -16,6 +17,11 @@ import flaviaFoto from "@/assets/flavia_sobre_v2.png";
 const Sobre = () => {
   return (
     <>
+      <Seo
+        title="Sobre a Dra. Flávia Vaz Rabello | Advogada em Indaiatuba"
+        description="Conheça a Dra. Flávia Vaz Rabello, advogada OAB 262057/SP especializada em Direito de Família, Bancário e Trabalhista em Indaiatuba e região."
+        canonical="https://www.flaviavazrabello.com.br/sobre"
+      />
       <PageHero
         eyebrow="Conheça"
         title="Flávia Vaz Rabello"

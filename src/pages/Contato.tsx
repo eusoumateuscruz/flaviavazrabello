@@ -1,6 +1,7 @@
 import { useState } from "react";
  import { Mail, MapPin, Clock, MessageCircle, Phone } from "lucide-react";
 import PageHero from "@/components/PageHero";
+import Seo from "@/components/Seo";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
@@ -26,6 +27,11 @@ const Contato = () => {
 
   return (
     <>
+      <Seo
+        title="Contato | Agende sua Consulta — Advogada Flávia Vaz Rabello Indaiatuba"
+        description="Entre em contato com a Dra. Flávia Vaz Rabello. Atendimento presencial em Indaiatuba SP e online em todo o Brasil. Agende sua consulta agora."
+        canonical="https://www.flaviavazrabello.com.br/contato"
+      />
       <PageHero
         eyebrow="Fale conosco"
         title="Contato"

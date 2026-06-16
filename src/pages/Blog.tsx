@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { Search, ArrowRight } from "lucide-react";
 import PageHero from "@/components/PageHero";
+import Seo from "@/components/Seo";
 import { Monogram } from "@/components/Logo";
 import { Input } from "@/components/ui/input";
 
