@@ -35,6 +35,119 @@ const Cta = () => (
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "como-identificar-juros-abusivos",
+    category: "Bancário",
+    title: "Como Identificar Juros Abusivos no Seu Contrato e o Que Fazer",
+    h1: "Como Identificar Juros Abusivos no Seu Contrato e o Que Fazer",
+    excerpt:
+      "Saiba como comparar a taxa do seu contrato com a média do Banco Central, identificar cobranças ilegais e buscar a revisão judicial.",
+    metaTitle: "Como Identificar Juros Abusivos no Contrato | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Saiba como calcular se está pagando juros abusivos no financiamento, cartão de crédito ou empréstimo. Entenda seus direitos e como recorrer com apoio jurídico especializado.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/como-identificar-juros-abusivos",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: [
+        { "@type": "Question", name: "O que são juros abusivos?", acceptedAnswer: { "@type": "Answer", text: "São taxas de juros que superam significativamente a média de mercado do Banco Central, configurando cobrança desproporcional protegida pelo Código de Defesa do Consumidor." } },
+        { "@type": "Question", name: "Como saber se os juros do meu contrato são abusivos?", acceptedAnswer: { "@type": "Answer", text: "Compare a taxa do seu contrato com a taxa média de mercado divulgada pelo Banco Central para aquela modalidade de crédito. Diferenças significativas podem caracterizar abusividade." } },
+        { "@type": "Question", name: "É possível revisar um contrato bancário já assinado?", acceptedAnswer: { "@type": "Answer", text: "Sim. Mesmo após assinar o contrato, é possível ingressar com ação revisional para questionar cláusulas abusivas e reduzir os juros cobrados." } },
+        { "@type": "Question", name: "O banco pode me negativar se eu contestar a dívida?", acceptedAnswer: { "@type": "Answer", text: "Enquanto a dívida está sendo questionada judicialmente, é possível pedir tutela de urgência para suspender ou cancelar a negativação. Se indevida, cabe indenização por danos morais." } },
+      ],
+    },
+    content: (
+      <>
+        <h2>O que são juros abusivos?</h2>
+        <p>
+          Juros abusivos são taxas de juros que excedem significativamente a média de mercado
+          praticada pelo sistema financeiro, configurando cobrança desproporcional e ilegal. O
+          Código de Defesa do Consumidor e o entendimento dos tribunais protegem o consumidor
+          contra esse tipo de prática.
+        </p>
+
+        <h2>Qual taxa de juros é considerada abusiva?</h2>
+        <p>
+          Não existe um percentual fixo definido em lei para configurar abusividade. O parâmetro
+          utilizado pelos tribunais é a taxa média de mercado divulgada mensalmente pelo Banco
+          Central do Brasil. Se a taxa cobrada no seu contrato for significativamente superior à
+          média do mercado para aquele tipo de crédito, pode ser considerada abusiva.
+        </p>
+
+        <h2>Como calcular se estou pagando juros abusivos?</h2>
+        <ol>
+          <li>Acesse o site do Banco Central (bcb.gov.br) e consulte as taxas médias de juros por modalidade de crédito.</li>
+          <li>Compare com a taxa descrita no seu contrato.</li>
+          <li>Se a diferença for expressiva, procure uma advogada especializada para análise do contrato.</li>
+        </ol>
+        <p>
+          Aplicativos de simulação financeira também podem ajudar, mas a análise jurídica é
+          indispensável para embasar uma ação revisional.
+        </p>
+
+        <h2>Juros abusivos em financiamento de carro: o que fazer?</h2>
+        <p>
+          O financiamento de veículos é uma das modalidades com mais reclamações de juros
+          abusivos. Se você perceber que a taxa está muito acima da média do mercado, é possível
+          ingressar com ação revisional para reduzir os juros e até obter restituição dos valores
+          pagos a mais. A Dra. Flávia Vaz Rabello tem experiência nesse tipo de demanda.
+        </p>
+
+        <h2>E no cartão de crédito e empréstimo pessoal?</h2>
+        <p>
+          Cartão de crédito rotativo e empréstimos pessoais também são alvos frequentes de
+          cobrança abusiva. Mesmo que você já tenha assinado o contrato, é possível questionar
+          judicialmente cláusulas abusivas e pedir revisão dos valores.
+        </p>
+
+        <h2>É crime cobrar juros abusivos?</h2>
+        <p>
+          Sim. A cobrança de juros abusivos pode configurar crime de usura (Lei 1.521/51), além
+          de violar o Código de Defesa do Consumidor. O consumidor prejudicado pode buscar tanto
+          a revisão dos valores quanto indenização por danos.
+        </p>
+
+        <h2>O que fazer em caso de juros abusivos?</h2>
+        <ol>
+          <li>Guarde todos os documentos do contrato.</li>
+          <li>Solicite o extrato completo das cobranças.</li>
+          <li>Consulte uma advogada especializada em Direito Bancário.</li>
+          <li>Avalie se cabe ação revisional ou acordo extrajudicial.</li>
+          <li>Registre reclamação no Banco Central, Procon ou consumidor.gov.br.</li>
+        </ol>
+
+        <h2>Vale a pena entrar com ação revisional de juros?</h2>
+        <p>
+          Em muitos casos, sim. A ação revisional pode reduzir o saldo devedor, diminuir as
+          parcelas e gerar restituição de valores pagos a mais. Uma análise prévia com advogada
+          especializada permite saber se o seu caso tem viabilidade antes de qualquer decisão.
+        </p>
+
+        <h2>Onde reclamar de juros abusivos?</h2>
+        <p>
+          Além da via judicial, você pode registrar reclamações no Banco Central (bacen.gov.br),
+          Procon do seu município ou na plataforma consumidor.gov.br. Para casos mais complexos
+          ou que envolvam valores maiores, a via judicial tende a ser mais eficaz.
+        </p>
+
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+          <p className="text-foreground/85 leading-relaxed">
+            Suspeita que está pagando juros abusivos no seu financiamento, cartão ou empréstimo?
+            A Dra. Flávia Vaz Rabello analisa o seu contrato e orienta os melhores passos para
+            proteger seus direitos. Atendimento em Indaiatuba e online em todo o Brasil.
+          </p>
+          <a
+            href="https://wa.me/5519997439157"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors"
+          >
+            Falar com a Advogada
+          </a>
+        </div>
+      </>
+    ),
+  },
+  {
     slug: "divorcio-consensual-indaiatuba",
     category: "Família",
     title: "Divórcio Consensual em Indaiatuba: o que você precisa saber antes de começar",
