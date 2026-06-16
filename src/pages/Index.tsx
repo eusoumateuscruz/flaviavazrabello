@@ -357,7 +357,7 @@ const Index = () => {
              title="Por que escolher a Flávia Vaz Rabello Advocacia?"
            />
  
-            <div className="mt-10 md:mt-16 grid gap-px bg-border md:grid-cols-2 lg:grid-cols-3 border border-border">
+            <div className="mt-10 md:mt-16 grid gap-px bg-border md:grid-cols-3 border border-border">
              <div className="reveal bg-card p-8 md:p-10 transition-colors hover:bg-secondary/40">
                <Sparkles className="h-6 w-6 text-accent" strokeWidth={1.4} />
                <h3 className="mt-5 font-serif text-xl md:text-2xl text-primary">Atendimento Individualizado</h3>
@@ -379,31 +379,31 @@ const Index = () => {
 
       {/* ABOUT PREVIEW */}
       <section className="relative w-full bg-background">
-        <div className="md:hidden">
-          <div className="w-full h-[420px] overflow-hidden">
+        <div className="min-[1181px]:hidden">
+          <div className="w-full h-[420px] min-[768px]:h-[560px] min-[1024px]:h-[640px] overflow-hidden">
             <img
               src={sobreMobileClean.url}
               alt="Dra. Flávia Vaz Rabello"
               className="block w-full h-full object-cover object-[18%_center]"
             />
           </div>
-          <div className="px-5 py-12 bg-card border-y border-border">
+          <div className="px-5 py-12 min-[768px]:px-12 min-[768px]:py-16 min-[1024px]:px-20 min-[1024px]:py-20 bg-card border-y border-border min-[768px]:max-w-[760px] min-[768px]:mx-auto">
             <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-accent">
               Sobre a advogada
             </p>
-            <h2 className="mt-4 font-serif text-[28px] min-[390px]:text-[32px] leading-[1.15] tracking-[-0.01em] text-primary">
+            <h2 className="mt-4 font-serif text-[28px] min-[390px]:text-[32px] min-[768px]:text-[44px] min-[1024px]:text-[52px] leading-[1.15] tracking-[-0.01em] text-primary">
               Advocacia com propósito e comprometimento
             </h2>
             <div className="mt-5 h-px w-16 bg-accent" />
-            <p className="mt-6 text-[15px] leading-[1.75] text-foreground/85">
+            <p className="mt-6 text-[15px] min-[768px]:text-[17px] leading-[1.75] text-foreground/85">
               Há mais de 20 anos no mercado jurídico, a Dra. Flávia Vaz Rabello preza por um atendimento com excelência e serviços jurídicos de qualidade. Sua atuação criteriosa na defesa dos interesses de seus clientes é pautada por soluções ágeis e resoluções plenas, com alto nível de satisfação e eficiência.
             </p>
-            <p className="mt-4 text-[15px] leading-[1.75] text-foreground/85">
+            <p className="mt-4 text-[15px] min-[768px]:text-[17px] leading-[1.75] text-foreground/85">
               Com atendimento personalizado em todo o Brasil, oferece assessoria jurídica qualificada, mantendo uma relação de total transparência e confiança.
             </p>
             <Link
               to="/sobre"
-              className="mt-8 inline-flex min-h-[56px] w-full items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-5 text-[12px] font-semibold uppercase tracking-[0.16em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
+              className="mt-8 inline-flex min-h-[56px] min-[768px]:min-h-[64px] w-full min-[768px]:w-auto items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-5 min-[768px]:px-12 text-[12px] min-[768px]:text-[13px] font-semibold uppercase tracking-[0.16em] min-[768px]:tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] hover:bg-primary/90"
             >
               SAIBA MAIS SOBRE A FLÁVIA
               <ArrowRight className="h-4 w-4 shrink-0" />
@@ -413,10 +413,10 @@ const Index = () => {
         <img
           src={sobreAsset.url}
           alt="Sobre a Dra. Flávia Vaz Rabello"
-          className="hidden md:block w-full h-auto object-cover"
+          className="hidden min-[1181px]:block w-full h-auto object-cover"
         />
         {/* CTA desktop sobreposto */}
-        <div className="hidden md:grid pointer-events-none absolute inset-0 grid-cols-[56%_1fr]">
+        <div className="hidden min-[1181px]:grid pointer-events-none absolute inset-0 grid-cols-[56%_1fr]">
           <div aria-hidden="true" />
           <div className="flex h-full flex-col justify-end pb-[9%]">
             <Link
