@@ -1,9 +1,8 @@
 import { Link } from "react-router-dom";
 import { Mail, ArrowRight, GraduationCap } from "lucide-react";
-import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
 import { EMAIL, WHATSAPP_URL } from "@/lib/site";
-import flaviaFoto from "@/assets/flavia_sobre_v2.png";
+import sobreAsset from "@/assets/sobre-advogada.png.asset.json";
 
  const formation = [
    { year: "OAB/SP 262057", title: "Graduada em Direito", subtitle: "FADITU" },
@@ -62,86 +61,12 @@ const Sobre = () => {
           },
         }}
       />
-      <PageHero
-        eyebrow="Conheça"
-        title="Flávia Vaz Rabello"
-        subtitle="Advogada inscrita na OAB 262057/SP, dedicada à advocacia humanizada e estratégica."
-      />
-
-      <section className="py-20 md:py-28">
-        <div className="container-narrow grid gap-12 lg:grid-cols-[1fr_1.4fr] lg:gap-16 items-start">
-          <div className="reveal">
-            <div
-              className="relative aspect-[4/5] max-w-md mx-auto lg:mx-0"
-              style={{ background: 'transparent', overflow: 'hidden' }}
-            >
-              <img
-                src={flaviaFoto}
-                alt="Dra. Flávia Vaz Rabello"
-                style={{
-                  filter: 'none',
-                  mixBlendMode: 'normal',
-                  opacity: 1,
-                  objectFit: 'contain',
-                  objectPosition: 'bottom center',
-                  width: '100%',
-                  height: '100%',
-                  maxHeight: '600px',
-                  display: 'block'
-                }}
-              />
-            </div>
-
-            <div className="mt-10 border-l-2 border-accent pl-5">
-              <p className="label-eyebrow mb-2">Credenciais</p>
-              <p className="font-serif text-xl text-primary">OAB 262057/SP</p>
-              <a href={`mailto:${EMAIL}`} className="text-sm text-foreground/75 hover:text-accent transition-colors break-all">
-                {EMAIL}
-              </a>
-            </div>
-          </div>
-
-          <div className="reveal">
-            <p className="label-eyebrow mb-4">Trajetória</p>
-            <h2 className="font-serif text-3xl md:text-4xl text-primary leading-[1.1]">
-              Uma advocacia construída com escuta, ética e estratégia.
-            </h2>
-            <div className="mt-6 h-px w-16 bg-accent" />
-
-            <div className="mt-8 space-y-5 text-foreground/80 leading-relaxed text-justify">
-              <p>
-                Há mais de 20 anos no mercado jurídico, atuante em várias áreas, a advogada preza por atendimento com excelência e serviços jurídicos de qualidade, atuando de forma criteriosa na defesa de seus clientes.
-              </p>
-              <p className="border-l-2 border-accent pl-5 italic text-foreground/90">
-                Mais de 20 anos de atuação jurídica, com experiência na condução de demandas familiares, patrimoniais, bancárias e trabalhistas. Sempre pautada pela ética, transparência e defesa firme dos interesses de seus clientes — com o acolhimento que momentos difíceis exigem.
-              </p>
-              <p>
-                Apresentando soluções momentâneas e resolução plena dos problemas e desafios propostos, com alto nível de satisfação, celeridade, eficiência, atendimento humanizado, praticidade, confiança e qualificação.
-              </p>
-              <p>
-                Compromisso de prestar serviços jurídicos de alta qualidade, zelando pelo atendimento personalíssimo e relação transparente com os clientes. Oferecendo serviço qualificado na obtenção dos melhores resultados para nossos clientes.
-              </p>
-              <p>
-                Nosso objetivo além de solucionar questões jurídicas é atender com excelência. A técnica jurídica aliada ao conhecimento sobre o ramo que nossos clientes estão inseridos, fazem toda a diferença na defesa dos interesses de modo prático e com resultados efetivos. O compromisso é com o resultado, a melhor solução técnica e prática ao cliente.
-              </p>
-            </div>
-
-            <div className="mt-10 grid gap-6 sm:grid-cols-2">
-              <div className="border border-border bg-card p-6">
-                <p className="label-eyebrow mb-2">Missão</p>
-                <p className="font-serif text-lg text-primary leading-snug">
-                  Defender direitos com rigor técnico e respeito humano.
-                </p>
-              </div>
-              <div className="border border-border bg-card p-6">
-                <p className="label-eyebrow mb-2">Valores</p>
-                <p className="font-serif text-lg text-primary leading-snug">
-                  Ética, transparência, sigilo e dedicação.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
+      <section className="relative w-full">
+        <img
+          src={sobreAsset.url}
+          alt="Sobre a Dra. Flávia Vaz Rabello — Advocacia com propósito e comprometimento"
+          className="w-full h-auto object-cover block"
+        />
       </section>
 
       <section className="py-20 md:py-28 bg-card border-y border-border">
