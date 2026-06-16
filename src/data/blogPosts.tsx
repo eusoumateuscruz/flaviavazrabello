@@ -499,13 +499,14 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     slug: "divorcio-consensual-indaiatuba",
     category: "Família",
-    title: "Divórcio Consensual em Indaiatuba: o que você precisa saber antes de começar",
-    h1: "Divórcio Consensual em Indaiatuba: o que você precisa saber antes de começar",
+    title: "Divórcio Consensual: o que você precisa saber antes de começar",
+    h1: "Divórcio Consensual: o que você precisa saber antes de começar",
     excerpt:
       "Entenda como funciona o divórcio consensual, documentos necessários, prazos e quando a presença da advogada é obrigatória.",
-    metaTitle: "Divórcio Consensual em Indaiatuba | Advogada Flávia Vaz Rabello",
+    cover: blogDivorcioConsensual,
+    metaTitle: "Divórcio Consensual: Guia Completo | Advogada Flávia Vaz Rabello",
     metaDescription:
-      "Entenda como funciona o divórcio consensual em Indaiatuba, quais são os documentos necessários, quanto tempo leva e quando é obrigatório ter advogada. Tire suas dúvidas agora.",
+      "Entenda como funciona o divórcio consensual no Brasil, quais documentos são necessários, quanto tempo leva e quando a advogada é obrigatória. Atendimento online em todo o país.",
     canonical: "https://www.flaviavazrabello.com.br/blog/divorcio-consensual-indaiatuba",
     jsonLd: {
       "@context": "https://schema.org",
@@ -515,7 +516,7 @@ export const BLOG_POSTS: BlogPost[] = [
         { "@type": "Question", name: "Quando um dos cônjuges não quer assinar o divórcio, o que fazer?", acceptedAnswer: { "@type": "Answer", text: "Desde 2010, o divórcio é um direito de qualquer cônjuge. Se um não quiser assinar, é possível entrar com divórcio unilateral na Justiça sem o consentimento do outro." } },
         { "@type": "Question", name: "Preciso de advogada para o divórcio consensual em cartório?", acceptedAnswer: { "@type": "Answer", text: "Sim. A presença de advogada é obrigatória em todos os tipos de divórcio, inclusive no extrajudicial em cartório." } },
         { "@type": "Question", name: "Quais são os 3 tipos de divórcio?", acceptedAnswer: { "@type": "Answer", text: "Consensual extrajudicial (cartório), consensual judicial (com filhos menores) e litigioso (sem acordo entre as partes)." } },
-        { "@type": "Question", name: "Quanto tempo demora o divórcio consensual em Indaiatuba?", acceptedAnswer: { "@type": "Answer", text: "O divórcio extrajudicial em cartório pode ser concluído em poucos dias. O judicial consensual leva em média 2 a 6 meses." } },
+        { "@type": "Question", name: "Quanto tempo demora o divórcio consensual?", acceptedAnswer: { "@type": "Answer", text: "O divórcio extrajudicial em cartório pode ser concluído em poucos dias. O judicial consensual leva em média 2 a 6 meses." } },
       ],
     },
     content: (
