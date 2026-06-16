@@ -142,7 +142,7 @@ const Index = () => {
           href={WHATSAPP_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 rounded-sm border border-[#6B8E23]/60 bg-[#6B8E23] px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-white shadow-[0_14px_32px_rgba(107,142,35,0.35)] transition-colors hover:bg-[#5d7a1f]"
+          className="absolute left-[14%] md:left-[15.5%] bottom-[22%] md:bottom-[26%] inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 rounded-sm border border-primary bg-primary px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
         >
           Quero falar com a Dra. Flávia
           <ArrowRight className="h-3.5 w-3.5 shrink-0" />
@@ -348,7 +348,7 @@ const Index = () => {
           <div className="flex h-full flex-col justify-end pb-[8%] md:pb-[9%]">
             <Link
               to="/sobre"
-              className="pointer-events-auto mt-7 inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 self-start rounded-sm border border-[#6B8E23]/60 bg-[#6B8E23] px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-white shadow-[0_14px_32px_rgba(107,142,35,0.35)] transition-colors hover:bg-[#5d7a1f]"
+              className="pointer-events-auto mt-7 inline-flex min-h-[44px] md:min-h-[48px] w-fit items-center gap-3 self-start rounded-sm border border-primary bg-primary px-7 py-0 md:px-10 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.22em] text-primary-foreground shadow-[0_14px_32px_hsl(var(--primary)/0.35)] transition-colors hover:bg-primary/90"
             >
               Saiba mais sobre a Flávia
               <ArrowRight className="h-3.5 w-3.5 shrink-0" />
