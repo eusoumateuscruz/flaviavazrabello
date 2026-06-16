@@ -151,9 +151,9 @@ const Index = () => {
        {/* TRUST BAR */}
        <section className="bg-primary text-primary-foreground border-y border-accent/20">
          <div className="container-narrow py-6">
-           <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 md:gap-4 text-center sm:text-left">
+           <ul className="flex flex-col md:flex-row items-center md:justify-around gap-6 md:gap-4 text-center">
              {trustItems.map(({ icon: Icon, label }) => (
-               <li key={label} className="flex items-center gap-3 justify-center md:justify-start">
+               <li key={label} className="flex items-center gap-3 justify-center">
                  <Icon className="h-4 w-4 text-accent shrink-0" />
                  <span className="text-[10px] md:text-xs uppercase tracking-[0.18em] text-primary-foreground/85">{label}</span>
                </li>
