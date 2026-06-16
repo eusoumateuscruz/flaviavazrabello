@@ -23,6 +23,7 @@ import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 import sobreAsset from "@/assets/sobre-advogada-v4.jpeg.asset.json";
+import sobreMobileClean from "@/assets/sobre-flavia-mobile-clean.jpeg.asset.json";
 import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 import Seo from "@/components/Seo";
 
