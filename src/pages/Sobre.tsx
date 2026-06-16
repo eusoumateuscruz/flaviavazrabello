@@ -112,6 +112,9 @@ const Sobre = () => {
               <p>
                 Há mais de 20 anos no mercado jurídico, atuante em várias áreas, a advogada preza por atendimento com excelência e serviços jurídicos de qualidade, atuando de forma criteriosa na defesa de seus clientes.
               </p>
+              <p className="border-l-2 border-accent pl-5 italic text-foreground/90">
+                Mais de 20 anos de atuação jurídica, com experiência na condução de demandas familiares, patrimoniais, bancárias e trabalhistas. Sempre pautada pela ética, transparência e defesa firme dos interesses de seus clientes — com o acolhimento que momentos difíceis exigem.
+              </p>
               <p>
                 Apresentando soluções momentâneas e resolução plena dos problemas e desafios propostos, com alto nível de satisfação, celeridade, eficiência, atendimento humanizado, praticidade, confiança e qualificação.
               </p>
