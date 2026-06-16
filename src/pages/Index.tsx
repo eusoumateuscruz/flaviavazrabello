@@ -21,7 +21,7 @@ import heroBanner from "@/assets/hero-banner.png.asset.json";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
-import sobreAsset from "@/assets/sobre-advogada-v3.png.asset.json";
+import sobreAsset from "@/assets/sobre-advogada-v4.jpeg.asset.json";
 import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 import Seo from "@/components/Seo";
 
