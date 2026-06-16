@@ -191,7 +191,7 @@ const Index = () => {
 
        {/* TRUST BAR */}
        <section className="bg-primary text-primary-foreground border-y border-accent/20">
-         <div className="container-narrow py-6">
+         <div className="container-narrow py-7 md:py-6">
            <ul className="flex flex-col md:flex-row items-center md:justify-around gap-6 md:gap-4 text-center">
              {trustItems.map(({ icon: Icon, label }) => (
                <li key={label} className="flex items-center gap-3 justify-center">
@@ -204,7 +204,7 @@ const Index = () => {
        </section>
 
       {/* PRACTICE AREAS */}
-      <section className="relative py-24 md:py-32 overflow-hidden">
+       <section className="relative py-16 md:py-32 overflow-hidden">
         {/* Subtle depth gradient overlay */}
         <div
           aria-hidden="true"
@@ -222,7 +222,7 @@ const Index = () => {
             subtitle="Cada área de atuação reflete um compromisso real com quem precisa de amparo jurídico sério e humanizado."
           />
 
-          <div className="mt-20 mx-auto max-w-[1040px] flex flex-col gap-8">
+           <div className="mt-12 md:mt-20 mx-auto max-w-[1040px] flex flex-col gap-6 md:gap-8">
             {PRACTICE_AREAS.map((area, idx) => {
               const Icon = areaIcons[idx];
               const isFeatured = idx === 1 || idx === 3;
@@ -249,7 +249,7 @@ const Index = () => {
                   }
                   className={`reveal group relative overflow-hidden rounded-[14px] w-full transition-all duration-300 ease-out ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground p-6 sm:p-10 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
+                      ? "bg-primary text-primary-foreground p-6 sm:p-8 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
                       : "bg-card p-6 sm:p-8 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
                   }`}
                 >
@@ -283,7 +283,7 @@ const Index = () => {
                         className={`font-serif leading-[1.15] ${
                           isFeatured ? "text-primary-foreground" : "text-primary"
                         }`}
-                        style={{ fontSize: `clamp(22px, 5.5vw, ${isFeatured ? "32px" : "28px"})` }}
+                        style={{ fontSize: `clamp(26px, 7vw, ${isFeatured ? "32px" : "28px"})` }}
                       >
                         <span className="font-serif mr-3 align-baseline text-[0.6em] text-accent font-normal tracking-wider">
                           {number}
@@ -292,7 +292,7 @@ const Index = () => {
                       </h3>
                       <p
                         className={isFeatured ? "text-primary-foreground/90" : "text-foreground/85"}
-                        style={{ fontSize: "clamp(14px, 3.6vw, 15px)", lineHeight: 1.8, marginTop: "20px" }}
+                        style={{ fontSize: "clamp(15px, 4vw, 15px)", lineHeight: 1.75, marginTop: "18px" }}
                       >
                         {area.description}
                       </p>
@@ -320,7 +320,7 @@ const Index = () => {
                     <div>
                       <ul
                         className={`grid content-start gap-y-3 gap-x-6 sm:gap-x-8 ${
-                          manyServices ? "sm:grid-cols-2" : "grid-cols-1"
+                          manyServices ? "md:grid-cols-2" : "grid-cols-1"
                         }`}
                       >
                         {area.services.map((s) => (
