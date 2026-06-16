@@ -138,9 +138,9 @@ const Index = () => {
         <div className="md:hidden bg-secondary">
           <div className="w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] overflow-hidden">
             <img
-              src={heroBanner.url}
+              src={flaviaHeroDesktop}
               alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[100%_30%] scale-[1.45] origin-[100%_30%]"
+              className="block w-full h-full object-cover object-[50%_12%]"
             />
           </div>
           <div
@@ -150,7 +150,7 @@ const Index = () => {
                 "linear-gradient(180deg, hsl(36 24% 90%) 0%, hsl(36 22% 86%) 100%), radial-gradient(ellipse at top, hsl(24 58% 40% / 0.06), transparent 60%)",
             }}
           >
-            <h1 className="font-serif font-light text-[36px] leading-[1.08] tracking-[-0.01em] text-primary min-[390px]:text-[40px] min-[480px]:text-[44px]">
+            <h1 className="font-serif font-light text-[34px] leading-[1.12] text-primary min-[390px]:text-[38px] min-[480px]:text-[42px]">
               Seu direito defendido{" "}
               <em className="font-serif italic font-normal text-accent">com experiência</em>
               , estratégia e dedicação.
