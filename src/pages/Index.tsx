@@ -220,7 +220,7 @@ const Index = () => {
                     style={{
                       bottom: "-40px",
                       right: "-10px",
-                      fontSize: isFeatured ? "260px" : "220px",
+                      fontSize: `clamp(140px, 28vw, ${isFeatured ? "260px" : "220px"})`,
                       fontWeight: 300,
                       lineHeight: 1,
                       zIndex: 0,
