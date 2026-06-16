@@ -148,9 +148,14 @@ const Contato = () => {
                  <Phone className="h-5 w-5 text-accent mt-1 shrink-0" />
                  <div>
                    <p className="label-eyebrow">Telefones</p>
-                   {PHONES.map(phone => (
-                     <p key={phone} className="mt-1 font-serif text-lg text-primary">{phone}</p>
-                   ))}
+                   {PHONES.map(phone => {
+                     const tel = `+55${phone.replace(/\D/g, "")}`;
+                     return (
+                       <p key={phone} className="mt-1 font-serif text-lg text-primary">
+                         <a href={`tel:${tel}`} className="hover:text-accent transition-colors">{phone}</a>
+                       </p>
+                     );
+                   })}
                  </div>
                </div>
                <div className="flex items-start gap-4">
