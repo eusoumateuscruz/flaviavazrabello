@@ -250,8 +250,8 @@ const Index = () => {
                   }
                   className={`reveal group relative overflow-hidden rounded-[14px] w-full transition-all duration-300 ease-out ${
                     isFeatured
-                      ? "bg-primary text-primary-foreground p-6 sm:p-8 md:p-16 md:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
-                      : "bg-card p-6 sm:p-8 md:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
+                      ? "bg-primary text-primary-foreground p-6 sm:p-8 md:p-12 lg:p-16 lg:scale-[1.02] hover:-translate-y-2 hover:shadow-[0_50px_110px_-25px_hsl(92_22%_12%/0.7)]"
+                      : "bg-card p-6 sm:p-8 md:p-10 lg:p-14 hover:-translate-y-1.5 hover:shadow-[0_22px_55px_rgba(0,0,0,0.10)]"
                   }`}
                 >
                   {/* Number watermark — very subtle, very large */}
@@ -273,7 +273,7 @@ const Index = () => {
                     {number}
                   </span>
 
-                  <div className="relative z-[1] grid gap-8 md:grid-cols-[40%_1fr] md:gap-16">
+                  <div className="relative z-[1] grid gap-8 lg:grid-cols-[40%_1fr] lg:gap-16">
                     <div>
                       <Icon
                         className="mb-6 md:mb-8"
@@ -321,7 +321,7 @@ const Index = () => {
                     <div>
                       <ul
                         className={`grid content-start gap-y-3 gap-x-6 sm:gap-x-8 ${
-                          manyServices ? "md:grid-cols-2" : "grid-cols-1"
+                          manyServices ? "sm:grid-cols-2 lg:grid-cols-2" : "grid-cols-1"
                         }`}
                       >
                         {area.services.map((s) => (
