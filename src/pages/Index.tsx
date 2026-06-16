@@ -384,11 +384,14 @@ const Index = () => {
             <img
               src={sobreMobileClean.url}
               alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-center"
+              className="block w-full h-full object-cover object-[center_top]"
             />
           </div>
           <div className="px-5 py-12 bg-card border-y border-border">
-            <h2 className="font-serif text-[28px] min-[390px]:text-[32px] leading-[1.15] tracking-[-0.01em] text-primary">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-accent">
+              Sobre a advogada
+            </p>
+            <h2 className="mt-4 font-serif text-[28px] min-[390px]:text-[32px] leading-[1.15] tracking-[-0.01em] text-primary">
               Advocacia com propósito e comprometimento
             </h2>
             <div className="mt-5 h-px w-16 bg-accent" />
