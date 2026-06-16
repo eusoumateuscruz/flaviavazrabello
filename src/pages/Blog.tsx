@@ -77,8 +77,13 @@ const Blog = () => {
 
             <div className="grid gap-6 sm:grid-cols-2">
               {filtered.map((p) => (
-                <article key={p.slug} className="group flex flex-col bg-card border border-border overflow-hidden transition-shadow hover:shadow-[0_18px_40px_rgba(0,0,0,0.08)]">
-                  <Link to={`/blog/${p.slug}`} className="block aspect-[16/10] overflow-hidden bg-secondary/40">
+                <Link
+                  key={p.slug}
+                  to={`/blog/${p.slug}`}
+                  aria-label={p.title}
+                  className="group flex flex-col bg-card border border-border overflow-hidden transition-shadow hover:shadow-[0_18px_40px_rgba(0,0,0,0.08)] focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+                >
+                  <div className="aspect-[16/10] overflow-hidden bg-secondary/40">
                     <img
                       src={p.cover}
                       alt={p.title}
@@ -87,25 +92,18 @@ const Blog = () => {
                       height={800}
                       className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
                     />
-                  </Link>
-                  <div className="flex flex-1 flex-col p-6">
-                    <div className="flex items-center justify-between text-xs uppercase tracking-[0.2em]">
-                      <span className="text-accent">{p.category}</span>
-                    </div>
-                    <Link to={`/blog/${p.slug}`} className="block">
-                      <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
-                        {p.title}
-                      </h3>
-                    </Link>
-                    <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{p.excerpt}</p>
-                    <Link
-                      to={`/blog/${p.slug}`}
-                      className="mt-auto pt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary hover:text-accent transition-colors self-start"
-                    >
-                      Ler mais <ArrowRight className="h-3 w-3" />
-                    </Link>
                   </div>
-                </article>
+                  <div className="flex flex-1 flex-col p-6">
+                    <span className="text-xs uppercase tracking-[0.2em] text-accent">{p.category}</span>
+                    <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
+                      {p.title}
+                    </h3>
+                    <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{p.excerpt}</p>
+                    <span className="mt-auto pt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary group-hover:text-accent transition-colors self-start">
+                      Ler mais <ArrowRight className="h-3 w-3" />
+                    </span>
+                  </div>
+                </Link>
               ))}
               {filtered.length === 0 && (
                 <p className="col-span-full py-16 text-center text-foreground/60 italic">

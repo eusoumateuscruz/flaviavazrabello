@@ -30,6 +30,18 @@ const BlogPost = () => {
             <ArrowLeft className="h-3 w-3" /> Voltar ao blog
           </Link>
 
+          {post.cover && (
+            <div className="mb-10 aspect-[16/10] overflow-hidden bg-secondary/40 border border-border">
+              <img
+                src={post.cover}
+                alt={post.title}
+                width={1280}
+                height={800}
+                className="h-full w-full object-cover"
+              />
+            </div>
+          )}
+
           <article
             className="prose prose-neutral max-w-none
               prose-headings:font-serif prose-headings:text-primary
