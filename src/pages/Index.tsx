@@ -155,9 +155,6 @@ const Index = () => {
               <em className="font-serif italic font-normal text-accent">com experiência</em>
               , estratégia e dedicação.
             </h1>
-            <p className="mt-5 font-serif italic text-[17px] leading-[1.55] text-primary/75 min-[390px]:text-[18px]">
-              Atendimento presencial e online em todo o Brasil.
-            </p>
             <a
               href={WHATSAPP_URL}
               target="_blank"
