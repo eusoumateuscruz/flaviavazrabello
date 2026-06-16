@@ -562,7 +562,7 @@ const Index = () => {
         </section>
 
         {/* TESTIMONIALS */}
-      <section className="py-20 md:py-28">
+      <section className="py-16 md:py-28">
         <div className="container-narrow">
           <SectionHeader
             eyebrow="Depoimentos"
@@ -610,7 +610,7 @@ const Index = () => {
       </section>
 
       {/* BLOG PREVIEW */}
-      <section className="py-20 md:py-28 bg-secondary/40 border-y border-border">
+      <section className="py-16 md:py-28 bg-secondary/40 border-y border-border">
         <div className="container-narrow">
           <SectionHeader
             eyebrow="Conteúdo"
@@ -618,13 +618,13 @@ const Index = () => {
             subtitle="Conteúdos para você compreender melhor seus direitos e tomar decisões informadas."
           />
 
-          <div className="mt-16 grid gap-6 md:grid-cols-3">
+          <div className="mt-10 md:mt-16 grid gap-5 md:gap-6 md:grid-cols-3">
             {blogPosts.map((p) => (
               <article key={p.title} className="reveal group bg-card border border-border overflow-hidden">
                 <div className="aspect-[16/10] flex items-center justify-center" style={{ backgroundColor: "#EDE8E0" }}>
                   <Monogram className="h-12 w-12 text-accent" />
                 </div>
-                <div className="p-7">
+                <div className="p-6 md:p-7">
                   <span className="text-xs uppercase tracking-[0.2em] text-accent">{p.category}</span>
                   <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
                     {p.title}
@@ -644,7 +644,7 @@ const Index = () => {
           <div className="mt-12 text-center">
             <Link
               to="/blog"
-              className="inline-flex items-center gap-2 border border-primary text-primary px-6 py-3 text-xs uppercase tracking-[0.2em] hover:bg-primary hover:text-primary-foreground transition-colors"
+              className="inline-flex min-h-[52px] w-full max-w-sm items-center justify-center gap-2 border border-primary text-primary px-5 py-3 text-[11px] md:text-xs uppercase tracking-[0.16em] md:tracking-[0.2em] hover:bg-primary hover:text-primary-foreground transition-colors"
             >
               Ver todos os artigos
             </Link>
@@ -653,7 +653,7 @@ const Index = () => {
       </section>
 
       {/* CONTACT CTA */}
-      <section className="bg-primary text-primary-foreground py-20 md:py-24 relative overflow-hidden">
+      <section className="bg-primary text-primary-foreground py-16 md:py-24 relative overflow-hidden">
         <div className="absolute inset-x-0 top-0 h-px bg-accent/40" />
         <div className="absolute inset-x-0 bottom-0 h-px bg-accent/40" />
         <div className="container-narrow relative text-center">
@@ -668,7 +668,7 @@ const Index = () => {
             href={WHATSAPP_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-10 inline-flex items-center justify-center gap-2 bg-accent px-8 py-4 text-xs font-medium uppercase tracking-[0.22em] text-accent-foreground hover:bg-accent/90 transition-colors group"
+            className="mt-10 inline-flex min-h-[56px] w-full max-w-sm items-center justify-center gap-2 bg-accent px-5 md:px-8 py-4 text-[11px] md:text-xs font-medium uppercase tracking-[0.14em] md:tracking-[0.22em] text-accent-foreground hover:bg-accent/90 transition-colors group"
           >
             <MessageSquare className="h-4 w-4" />
             Fale comigo agora
