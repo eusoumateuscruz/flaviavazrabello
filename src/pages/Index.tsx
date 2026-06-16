@@ -476,6 +476,59 @@ const Index = () => {
        </section>
  
        {/* TESTIMONIALS */}
+        {/* HOW IT WORKS */}
+        <section className="py-20 md:py-28 bg-secondary/30 border-y border-border">
+          <div className="container-narrow">
+            <SectionHeader
+              eyebrow="Atendimento"
+              title="Como Funciona o Atendimento?"
+              subtitle="Um processo claro, do primeiro contato ao acompanhamento do seu caso."
+            />
+
+            <div className="mt-16 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+              {[
+                {
+                  n: "01",
+                  title: "Agendamento da Consulta",
+                  desc: "Análise inicial do seu caso de forma presencial em Indaiatuba ou online para todo o Brasil.",
+                },
+                {
+                  n: "02",
+                  title: "Avaliação Jurídica",
+                  desc: "Estudo detalhado da sua situação e apresentação clara das possibilidades jurídicas disponíveis.",
+                },
+                {
+                  n: "03",
+                  title: "Definição da Estratégia",
+                  desc: "Construção da melhor solução jurídica para proteção dos seus direitos e interesses.",
+                },
+                {
+                  n: "04",
+                  title: "Acompanhamento Contínuo",
+                  desc: "Você recebe orientações e atualizações durante todo o processo, com transparência e proximidade.",
+                },
+              ].map((step) => (
+                <div
+                  key={step.n}
+                  className="reveal relative bg-card border border-border p-8 h-full"
+                >
+                  <span className="font-serif text-5xl text-accent/80 leading-none">
+                    {step.n}
+                  </span>
+                  <div className="mt-4 h-px w-10 bg-accent" />
+                  <h3 className="mt-5 font-serif text-xl text-primary leading-snug">
+                    {step.title}
+                  </h3>
+                  <p className="mt-3 text-sm text-foreground/75 leading-relaxed">
+                    {step.desc}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* TESTIMONIALS */}
       <section className="py-20 md:py-28">
         <div className="container-narrow">
           <SectionHeader
