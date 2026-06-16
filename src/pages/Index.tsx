@@ -105,7 +105,7 @@ const Index = () => {
           <div className="md:hidden mb-8 flex justify-center -mx-4">
             <img
               src={flaviaHero}
-              alt="Dra. Flávia Vaz Rabello"
+              alt="Dra. Flávia Vaz Rabello, advogada especializada em Direito de Família em Indaiatuba SP"
               className="w-[90%] max-w-[380px] h-auto object-contain"
               style={{ background: "transparent" }}
             />
@@ -442,8 +442,8 @@ const Index = () => {
                    <div>
                      <h4 className="font-serif text-lg text-primary">Contato</h4>
                      <p className="mt-2 text-sm text-foreground/75">
-                       (19) 9 9743-9157<br />
-                       (19) 3016-2688
+                       <a href="tel:+5519997439157" className="hover:text-accent transition-colors">(19) 9 9743-9157</a><br />
+                       <a href="tel:+551930162688" className="hover:text-accent transition-colors">(19) 3016-2688</a>
                      </p>
                    </div>
                  </div>

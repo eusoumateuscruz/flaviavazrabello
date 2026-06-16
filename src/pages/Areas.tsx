@@ -1,5 +1,6 @@
 import { ArrowRight, Users, FileText, Briefcase, Scale, Gavel } from "lucide-react";
 import PageHero from "@/components/PageHero";
+import Seo from "@/components/Seo";
 import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
 
 const icons = [Users, FileText, Briefcase, Scale, Gavel];
@@ -18,6 +19,11 @@ const longDescriptions: Record<string, string> = {
 const Areas = () => {
   return (
     <>
+      <Seo
+        title="Áreas de Atuação | Advogada Flávia Vaz Rabello — Indaiatuba"
+        description="Direito de Família, Direito Bancário, Direito do Consumidor e Direito do Trabalho. Advocacia especializada em Indaiatuba SP. Agende sua consulta."
+        canonical="https://www.flaviavazrabello.com.br/areas-de-atuacao"
+      />
       <PageHero
         eyebrow="Especialidades"
         title="Áreas de Atuação"

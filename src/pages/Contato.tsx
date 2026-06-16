@@ -1,6 +1,7 @@
 import { useState } from "react";
  import { Mail, MapPin, Clock, MessageCircle, Phone } from "lucide-react";
 import PageHero from "@/components/PageHero";
+import Seo from "@/components/Seo";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
@@ -26,6 +27,11 @@ const Contato = () => {
 
   return (
     <>
+      <Seo
+        title="Contato | Agende sua Consulta — Advogada Flávia Vaz Rabello Indaiatuba"
+        description="Entre em contato com a Dra. Flávia Vaz Rabello. Atendimento presencial em Indaiatuba SP e online em todo o Brasil. Agende sua consulta agora."
+        canonical="https://www.flaviavazrabello.com.br/contato"
+      />
       <PageHero
         eyebrow="Fale conosco"
         title="Contato"
@@ -148,9 +154,14 @@ const Contato = () => {
                  <Phone className="h-5 w-5 text-accent mt-1 shrink-0" />
                  <div>
                    <p className="label-eyebrow">Telefones</p>
-                   {PHONES.map(phone => (
-                     <p key={phone} className="mt-1 font-serif text-lg text-primary">{phone}</p>
-                   ))}
+                   {PHONES.map(phone => {
+                     const tel = `+55${phone.replace(/\D/g, "")}`;
+                     return (
+                       <p key={phone} className="mt-1 font-serif text-lg text-primary">
+                         <a href={`tel:${tel}`} className="hover:text-accent transition-colors">{phone}</a>
+                       </p>
+                     );
+                   })}
                  </div>
                </div>
                <div className="flex items-start gap-4">

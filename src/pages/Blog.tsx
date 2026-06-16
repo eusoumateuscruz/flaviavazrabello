@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { Search, ArrowRight } from "lucide-react";
 import PageHero from "@/components/PageHero";
+import Seo from "@/components/Seo";
 import { Monogram } from "@/components/Logo";
 import { Input } from "@/components/ui/input";
 
@@ -56,6 +57,11 @@ const Blog = () => {
 
   return (
     <>
+      <Seo
+        title="Blog Jurídico | Dicas de Direito — Flávia Vaz Rabello Advocacia"
+        description="Artigos e orientações jurídicas sobre Direito de Família, Bancário e Trabalhista. Conteúdo acessível da Dra. Flávia Vaz Rabello para você conhecer seus direitos."
+        canonical="https://www.flaviavazrabello.com.br/blog"
+      />
       <PageHero
         eyebrow="Conteúdo jurídico"
         title="Blog"
