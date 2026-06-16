@@ -35,6 +35,119 @@ const Cta = () => (
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "guarda-compartilhada-como-funciona",
+    category: "Família",
+    title: "Guarda Compartilhada: Como Funciona, Direitos e Mitos",
+    h1: "Guarda Compartilhada: Como Funciona, Direitos e Mitos",
+    excerpt:
+      "Entenda o modelo padrão de guarda no Brasil, quem paga pensão, os 3 tipos de guarda e quando a mãe pode (ou não) recusar.",
+    metaTitle: "Guarda Compartilhada: Como Funciona e Seus Direitos | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Entenda o que é guarda compartilhada, como funciona na prática, quem paga pensão, quais são os 3 tipos de guarda e quando a mãe pode negar. Tire suas dúvidas com advogada especializada.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/guarda-compartilhada-como-funciona",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: [
+        { "@type": "Question", name: "O que é guarda compartilhada?", acceptedAnswer: { "@type": "Answer", text: "É o modelo em que ambos os pais dividem a responsabilidade legal sobre os filhos. É o modelo preferencial da lei brasileira desde 2014." } },
+        { "@type": "Question", name: "Quem tem guarda compartilhada paga pensão alimentícia?", acceptedAnswer: { "@type": "Answer", text: "Depende da diferença de renda entre os pais. Se houver desequilíbrio financeiro significativo, o pai de maior renda pode ser obrigado a pagar pensão mesmo na guarda compartilhada." } },
+        { "@type": "Question", name: "A mãe pode recusar a guarda compartilhada?", acceptedAnswer: { "@type": "Answer", text: "Não unilateralmente. A guarda compartilhada é o padrão legal e cabe ao juiz decidir. A guarda unilateral só é aplicada quando a compartilhada for inviável ou prejudicial à criança." } },
+        { "@type": "Question", name: "Quais são os 3 tipos de guarda?", acceptedAnswer: { "@type": "Answer", text: "Guarda compartilhada (ambos os pais têm responsabilidade conjunta), guarda unilateral (apenas um dos pais) e guarda alternada (a criança alterna períodos com cada genitor)." } },
+      ],
+    },
+    content: (
+      <>
+        <h2>O que é guarda compartilhada?</h2>
+        <p>
+          Guarda compartilhada é o modelo em que ambos os pais dividem as responsabilidades legais
+          sobre os filhos — decisões sobre saúde, educação e criação. Não significa necessariamente
+          tempo igual com cada genitor, mas sim responsabilidade compartilhada. É o modelo
+          preferencial da legislação brasileira desde 2014.
+        </p>
+
+        <h2>Como funciona a guarda compartilhada na prática?</h2>
+        <p>
+          Na guarda compartilhada, ambos os pais participam ativamente das decisões importantes
+          sobre a vida dos filhos. A criança geralmente tem uma residência principal, mas mantém
+          convivência frequente com os dois genitores. A divisão do tempo é acordada entre as
+          partes ou definida pelo juiz com base no melhor interesse da criança.
+        </p>
+
+        <h2>Quais são os 3 tipos de guarda?</h2>
+        <ol>
+          <li><strong>Guarda compartilhada:</strong> ambos os pais têm autoridade legal conjunta sobre os filhos — modelo padrão no Brasil.</li>
+          <li><strong>Guarda unilateral:</strong> apenas um dos pais tem a guarda, o outro tem direito de visitas. Aplicada quando um dos genitores não tem condições de exercer a guarda.</li>
+          <li><strong>Guarda alternada:</strong> a criança passa períodos alternados (semanas, meses) com cada genitor. Menos comum e controversa entre especialistas.</li>
+        </ol>
+
+        <h2>Como funciona a guarda de 15 em 15 dias?</h2>
+        <p>
+          É um modelo de guarda alternada em que a criança fica 15 dias com cada genitor. Não é a
+          mesma coisa que guarda compartilhada. Alguns especialistas alertam que pode ser
+          prejudicial para crianças pequenas devido à instabilidade de rotina. O juiz avalia caso
+          a caso se esse modelo é adequado ao bem-estar da criança.
+        </p>
+
+        <h2>Quem tem guarda compartilhada paga pensão?</h2>
+        <p>
+          Depende. Na guarda compartilhada, se houver diferença significativa de renda entre os
+          pais, o de maior renda pode ser obrigado a pagar pensão para equilibrar os custos da
+          criança. Se os pais têm renda similar e o tempo com a criança é equilibrado, pode não
+          haver pensão. Cada caso é analisado individualmente pelo juiz.
+        </p>
+
+        <h2>O que o pai tem que pagar na guarda compartilhada?</h2>
+        <p>
+          Além da pensão alimentícia (se houver), ambos os pais são responsáveis proporcionalmente
+          pelos gastos com saúde, educação, lazer e necessidades da criança. O pai que não tem a
+          residência principal contribui financeiramente de acordo com sua capacidade econômica.
+        </p>
+
+        <h2>A mãe pode negar a guarda compartilhada?</h2>
+        <p>
+          A guarda compartilhada é o modelo legal preferencial no Brasil. A mãe não pode
+          simplesmente recusar — cabe ao juiz decidir o que é melhor para a criança. A guarda
+          unilateral só é determinada quando a guarda compartilhada for inviável ou prejudicial
+          ao menor.
+        </p>
+
+        <h2>O que prejudica o pai na guarda compartilhada?</h2>
+        <p>
+          Comportamentos que podem prejudicar qualquer genitor na definição da guarda incluem:
+          alienação parental, histórico de violência doméstica, negligência com os cuidados da
+          criança, ausência injustificada e instabilidade emocional ou financeira grave. A
+          advogada especializada orienta como preservar seus direitos em todas as fases do
+          processo.
+        </p>
+
+        <h2>Quais são as regras da guarda compartilhada?</h2>
+        <p>
+          As principais regras incluem: decisões importantes devem ser tomadas em conjunto, ambos
+          os pais têm acesso a informações escolares e médicas da criança, nenhum genitor pode
+          mudar a criança de cidade sem autorização do outro ou do juiz, e os pais devem evitar
+          conflitos na presença dos filhos.
+        </p>
+
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+          <p className="text-foreground/85 leading-relaxed">
+            Está passando por uma separação e tem dúvidas sobre a guarda dos seus filhos? A Dra.
+            Flávia Vaz Rabello atua com sensibilidade e estratégia para proteger o melhor
+            interesse do menor e garantir seus direitos como genitor(a). Agende sua consulta em
+            Indaiatuba ou online.
+          </p>
+          <a
+            href="https://wa.me/5519997439157"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors"
+          >
+            Agendar Consulta
+          </a>
+        </div>
+      </>
+    ),
+  },
+  {
     slug: "demissao-sem-justa-causa-direitos",
     category: "Trabalhista",
     title: "Fui Demitido Sem Justa Causa: Quais São Meus Direitos?",
