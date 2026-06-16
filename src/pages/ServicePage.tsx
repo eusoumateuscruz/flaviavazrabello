@@ -41,6 +41,101 @@ const SEO_BY_SLUG: Record<string, { title: string; description: string }> = {
   },
 };
 
+const PROVIDER = {
+  "@type": "LegalService",
+  name: "Flávia Vaz Rabello Advocacia",
+  url: "https://www.flaviavazrabello.com.br",
+  telephone: "+55-19-99743-9157",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Indaiatuba",
+    addressRegion: "SP",
+    addressCountry: "BR",
+  },
+};
+
+const SERVICE_SCHEMA: Record<string, { name: string; serviceType: string; description: string }> = {
+  "direito-de-familia": {
+    name: "Advogada de Direito de Família em Indaiatuba",
+    serviceType: "Direito de Família e Sucessões",
+    description:
+      "Serviços jurídicos em Direito de Família: divórcio, guarda de filhos, pensão alimentícia, inventário, partilha, alienação parental e interdição.",
+  },
+  "direito-bancario": {
+    name: "Advogada de Direito Bancário em Indaiatuba",
+    serviceType: "Direito Bancário",
+    description:
+      "Revisão de contratos bancários, combate a juros abusivos, renegociação de dívidas e defesa contra cobranças indevidas.",
+  },
+  "direito-do-consumidor": {
+    name: "Advogada do Consumidor em Indaiatuba",
+    serviceType: "Direito do Consumidor",
+    description:
+      "Defesa dos direitos do consumidor: problemas com empresas, cobranças indevidas, produtos defeituosos e descumprimento contratual.",
+  },
+  "direito-do-trabalho": {
+    name: "Advogada Trabalhista em Indaiatuba",
+    serviceType: "Direito do Trabalho",
+    description:
+      "Direito do Trabalho: rescisão indireta, verbas trabalhistas não pagas, assédio moral, demissão sem justa causa e acordos trabalhistas.",
+  },
+  "assessoria-juridica": {
+    name: "Assessoria Jurídica em Indaiatuba",
+    serviceType: "Assessoria Jurídica Extrajudicial e Judicial",
+    description:
+      "Assessoria jurídica preventiva e contenciosa: análise de contratos, acompanhamento processual, orientação jurídica e resolução extrajudicial de conflitos.",
+  },
+};
+
+const FAQ_BY_SLUG: Record<string, { name: string; text: string }[]> = {
+  "direito-de-familia": [
+    {
+      name: "Quanto tempo demora um divórcio em Indaiatuba?",
+      text: "O divórcio consensual extrajudicial pode ser concluído em poucos dias quando feito em cartório, sem filhos menores envolvidos. O divórcio judicial consensual leva em média 2 a 6 meses. Já o divórcio litigioso pode durar de 1 a 3 anos dependendo da complexidade do caso.",
+    },
+    {
+      name: "Como funciona a pensão alimentícia em Indaiatuba?",
+      text: "A pensão alimentícia é fixada com base nas necessidades do alimentando e na capacidade financeira do alimentante. Pode ser estabelecida por acordo entre as partes ou por decisão judicial. Em casos urgentes, é possível pedir alimentos provisórios que valem desde o início do processo.",
+    },
+    {
+      name: "O que é alienação parental e o que posso fazer?",
+      text: "Alienação parental é quando um dos pais interfere na relação da criança com o outro genitor, dificultando ou impedindo o contato. É crime previsto em lei. A parte prejudicada pode ingressar com ação judicial para reconhecimento e cessação da alienação, podendo resultar em inversão da guarda.",
+    },
+    {
+      name: "Preciso de advogado para fazer inventário em Indaiatuba?",
+      text: "Sim, a presença de advogado é obrigatória em todos os tipos de inventário, seja judicial ou extrajudicial (em cartório). O advogado orienta os herdeiros, organiza os documentos e garante que a partilha seja feita de forma legal e segura para todos.",
+    },
+  ],
+  "direito-bancario": [
+    {
+      name: "Como identificar juros abusivos no meu contrato?",
+      text: "Juros abusivos são aqueles que excedem significativamente a taxa média de mercado divulgada pelo Banco Central. Para identificá-los, compare a taxa do seu contrato com a taxa média do mercado para o mesmo tipo de crédito. Se a diferença for grande, é possível questionar judicialmente a revisão do contrato.",
+    },
+    {
+      name: "Posso revisar um contrato bancário que já assinei?",
+      text: "Sim. A revisão de contratos bancários é um direito do consumidor. Mesmo após assinar o contrato, se houver cláusulas abusivas, juros acima da média de mercado ou práticas irregulares, é possível entrar com ação revisional e buscar a redução dos valores cobrados.",
+    },
+    {
+      name: "O banco pode negativar meu nome mesmo eu contestando a dívida?",
+      text: "Enquanto a dívida estiver sendo questionada judicialmente, é possível solicitar tutela de urgência para suspender a negativação ou exigir a retirada do nome dos órgãos de proteção ao crédito. Se a negativação for indevida, você tem direito a indenização por danos morais.",
+    },
+  ],
+  "direito-do-trabalho": [
+    {
+      name: "Fui demitido sem justa causa, quais são meus direitos?",
+      text: "Na demissão sem justa causa você tem direito a: saldo de salário, aviso prévio (trabalhado ou indenizado), 13º salário proporcional, férias proporcionais acrescidas de 1/3, multa de 40% sobre o FGTS, saque do FGTS e seguro-desemprego (se tiver direito). O prazo para buscar seus direitos é de 2 anos após a demissão.",
+    },
+    {
+      name: "O que é rescisão indireta e quando posso pedir?",
+      text: "A rescisão indireta é a demissão com justa causa do empregador. Você pode pedir quando a empresa comete faltas graves como: não pagar salário, exigir tarefas perigosas sem equipamento adequado, assédio moral, reduzir salário ilegalmente ou descumprir obrigações legais. Nesse caso você recebe todas as verbas rescisórias como se tivesse sido demitido sem justa causa.",
+    },
+    {
+      name: "Tenho prazo para entrar com reclamação trabalhista?",
+      text: "Sim. O prazo é de 2 anos após o término do contrato de trabalho para acionar a Justiça do Trabalho. Porém, só é possível cobrar verbas dos últimos 5 anos anteriores à ação. Por isso é importante não deixar passar tempo demais antes de buscar seus direitos.",
+    },
+  ],
+};
+
 const ServicePage = () => {
   const { id, slug } = useParams();
   const lookupId = id || (slug ? SLUG_TO_ID[slug] : undefined);
@@ -59,6 +154,29 @@ const ServicePage = () => {
   const WHATSAPP_LINK = `${WHATSAPP_URL}?text=${WHATSAPP_MESSAGE}`;
   const seoSlug = slug || ID_TO_SLUG[service.id];
   const seo = seoSlug ? SEO_BY_SLUG[seoSlug] : undefined;
+  const canonical = seoSlug ? `https://www.flaviavazrabello.com.br/areas-de-atuacao/${seoSlug}` : "";
+  const schemas: object[] = [];
+  if (seoSlug && SERVICE_SCHEMA[seoSlug]) {
+    schemas.push({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      ...SERVICE_SCHEMA[seoSlug],
+      provider: PROVIDER,
+      areaServed: { "@type": "City", name: "Indaiatuba" },
+      url: canonical,
+    });
+  }
+  if (seoSlug && FAQ_BY_SLUG[seoSlug]) {
+    schemas.push({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: FAQ_BY_SLUG[seoSlug].map((q) => ({
+        "@type": "Question",
+        name: q.name,
+        acceptedAnswer: { "@type": "Answer", text: q.text },
+      })),
+    });
+  }
 
   return (
     <div className="bg-background">
@@ -66,7 +184,8 @@ const ServicePage = () => {
         <Seo
           title={seo.title}
           description={seo.description}
-          canonical={`https://www.flaviavazrabello.com.br/areas-de-atuacao/${seoSlug}`}
+          canonical={canonical}
+          jsonLd={schemas.length ? schemas : undefined}
         />
       )}
       <section className="relative min-h-[60vh] flex items-center overflow-hidden pt-20">
