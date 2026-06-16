@@ -29,7 +29,6 @@ const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
   { icon: Heart, label: "Atendimento Humanizado" },
   { icon: ShieldCheck, label: "Sigilo e Ética Profissional" },
-  { icon: MapPin, label: "ATENDIMENTO PRESENCIAL E ON LINE EM TODO O BRASIL" },
 ];
 
 const areaIcons = [Users, FileText, Briefcase, Scale, Gavel];
