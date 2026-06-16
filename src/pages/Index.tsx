@@ -142,10 +142,10 @@ const Index = () => {
             className="block w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] object-cover object-[88%_center]"
           />
           <div className="px-5 pt-8 pb-10 flex flex-col">
-            <h1 className="font-serif text-[34px] leading-[1.05] text-primary min-[390px]:text-[38px]">
+            <h1 className="font-serif font-light text-[36px] leading-[1.08] tracking-[-0.01em] text-primary min-[390px]:text-[40px] min-[480px]:text-[44px]">
               Seu direito defendido com experiência, estratégia e dedicação.
             </h1>
-            <p className="mt-5 text-[16px] leading-relaxed text-foreground/80">
+            <p className="mt-5 font-serif italic text-[17px] leading-[1.55] text-foreground/75 min-[390px]:text-[18px]">
               Atendimento presencial e online em todo o Brasil.
             </p>
             <a
@@ -157,13 +157,13 @@ const Index = () => {
               Falar com a Dra. Flávia
               <ArrowRight className="h-4 w-4 shrink-0" />
             </a>
-            <div className="mt-6 inline-flex self-start items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-4 py-2">
+            <div className="mt-7 inline-flex self-start items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-4 py-2">
               <span className="h-1.5 w-1.5 rounded-full bg-accent" />
-              <span className="text-[11px] font-medium uppercase tracking-[0.18em] text-primary">
+              <span className="text-[10.5px] font-medium uppercase tracking-[0.22em] text-primary">
                 Atendimentos presenciais e on-line
               </span>
             </div>
-            <p className="mt-4 text-[11px] font-medium uppercase tracking-[0.22em] text-foreground/60">
+            <p className="mt-4 text-[10.5px] font-medium uppercase tracking-[0.28em] text-accent">
               OAB 262057/SP
             </p>
           </div>
