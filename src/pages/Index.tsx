@@ -345,7 +345,7 @@ const Index = () => {
         />
         <Link
           to="/sobre"
-          className="absolute left-[52%] bottom-[10%] md:bottom-[12%] inline-flex items-center gap-3 rounded-sm bg-primary/80 backdrop-blur-sm px-5 py-2.5 md:px-7 md:py-4 text-[10px] md:text-[11px] uppercase tracking-[0.22em] text-accent hover:bg-primary transition-colors"
+          className="absolute left-[55%] bottom-[10%] md:bottom-[12%] inline-flex items-center gap-3 rounded-sm bg-primary/80 backdrop-blur-sm px-5 py-2.5 md:px-7 md:py-4 text-[10px] md:text-[11px] uppercase tracking-[0.22em] text-accent hover:bg-primary transition-colors"
         >
           Saiba mais sobre a Flávia
           <ArrowRight className="h-3.5 w-3.5" />
