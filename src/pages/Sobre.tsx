@@ -21,6 +21,46 @@ const Sobre = () => {
         title="Sobre a Dra. Flávia Vaz Rabello | Advogada em Indaiatuba"
         description="Conheça a Dra. Flávia Vaz Rabello, advogada OAB 262057/SP especializada em Direito de Família, Bancário e Trabalhista em Indaiatuba e região."
         canonical="https://www.flaviavazrabello.com.br/sobre"
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "Person",
+          name: "Flávia Vaz Rabello",
+          jobTitle: "Advogada",
+          description:
+            "Advogada especializada em Direito de Família, Direito Bancário e Direito do Trabalho. OAB 262057/SP. Atendimento em Indaiatuba e em todo o Brasil.",
+          url: "https://www.flaviavazrabello.com.br/sobre",
+          image: "https://www.flaviavazrabello.com.br/assets/flavia_sobre_v2-BI3a59NW.png",
+          telephone: "+55-19-99743-9157",
+          address: {
+            "@type": "PostalAddress",
+            addressLocality: "Indaiatuba",
+            addressRegion: "SP",
+            addressCountry: "BR",
+          },
+          alumniOf: {
+            "@type": "Organization",
+            name: "OAB São Paulo",
+            identifier: "262057/SP",
+          },
+          knowsAbout: [
+            "Direito de Família",
+            "Direito Bancário",
+            "Direito do Consumidor",
+            "Direito do Trabalho",
+            "Inventário e Partilha",
+            "Divórcio",
+            "Pensão Alimentícia",
+          ],
+          sameAs: [
+            "https://www.instagram.com/flavia.vaz.rabello",
+            "https://www.jusbrasil.com.br/advogados/flavia-vaz-rabello",
+          ],
+          worksFor: {
+            "@type": "LegalService",
+            name: "Flávia Vaz Rabello Advocacia",
+            url: "https://www.flaviavazrabello.com.br",
+          },
+        }}
       />
       <PageHero
         eyebrow="Conheça"
