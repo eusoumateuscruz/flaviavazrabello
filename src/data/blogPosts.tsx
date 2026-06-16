@@ -160,6 +160,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Guarda Compartilhada: Como Funciona, Direitos e Mitos",
     excerpt:
       "Entenda o modelo padrão de guarda no Brasil, quem paga pensão, os 3 tipos de guarda e quando a mãe pode (ou não) recusar.",
+    cover: blogGuardaCompartilhada,
     metaTitle: "Guarda Compartilhada: Como Funciona e Seus Direitos | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Entenda o que é guarda compartilhada, como funciona na prática, quem paga pensão, quais são os 3 tipos de guarda e quando a mãe pode negar. Tire suas dúvidas com advogada especializada.",
@@ -273,6 +274,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Fui Demitido Sem Justa Causa: Quais São Meus Direitos?",
     excerpt:
       "FGTS, aviso prévio, 13º, seguro-desemprego e multa de 40%: entenda todas as verbas devidas e os prazos para reclamar na Justiça.",
+    cover: blogDemissao,
     metaTitle: "Demissão Sem Justa Causa: Seus Direitos | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Saiba quais são todos os seus direitos na demissão sem justa causa: FGTS, aviso prévio, 13º salário, seguro-desemprego e multa de 40%. Entenda os prazos e como agir.",
@@ -387,6 +389,7 @@ export const BLOG_POSTS: BlogPost[] = [
     h1: "Como Identificar Juros Abusivos no Seu Contrato e o Que Fazer",
     excerpt:
       "Saiba como comparar a taxa do seu contrato com a média do Banco Central, identificar cobranças ilegais e buscar a revisão judicial.",
+    cover: blogJurosAbusivos,
     metaTitle: "Como Identificar Juros Abusivos no Contrato | Advogada Flávia Vaz Rabello",
     metaDescription:
       "Saiba como calcular se está pagando juros abusivos no financiamento, cartão de crédito ou empréstimo. Entenda seus direitos e como recorrer com apoio jurídico especializado.",
