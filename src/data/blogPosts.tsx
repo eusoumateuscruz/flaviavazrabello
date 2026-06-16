@@ -35,6 +35,117 @@ const Cta = () => (
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "golpe-do-pix-o-que-fazer",
+    category: "Bancário",
+    title: "Caí no Golpe do Pix: O Que Fazer Agora?",
+    h1: "Caí no Golpe do Pix: O Que Fazer Agora?",
+    excerpt:
+      "Passo a passo para tentar recuperar o dinheiro via MED, denunciar o golpista e avaliar a responsabilidade do banco.",
+    metaTitle: "Golpe do Pix: O Que Fazer se Você For Vítima | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Saiba o que fazer imediatamente se cair no golpe do Pix, como tentar recuperar o dinheiro, onde denunciar e quais são seus direitos como vítima. Orientação jurídica especializada.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/golpe-do-pix-o-que-fazer",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: [
+        { "@type": "Question", name: "O que fazer imediatamente após cair no golpe do Pix?", acceptedAnswer: { "@type": "Answer", text: "Contate seu banco imediatamente pelo canal oficial, solicite o bloqueio via MED, registre Boletim de Ocorrência e guarde todos os comprovantes e conversas." } },
+        { "@type": "Question", name: "O banco é obrigado a devolver o dinheiro do golpe do Pix?", acceptedAnswer: { "@type": "Answer", text: "Depende do caso. O Mecanismo Especial de Devolução (MED) pode bloquear e devolver valores em até 7 dias se o dinheiro ainda estiver na conta do golpista. Em outros casos, pode ser necessária ação judicial." } },
+        { "@type": "Question", name: "O golpe do Pix é crime?", acceptedAnswer: { "@type": "Answer", text: "Sim. Pode configurar estelionato, furto mediante fraude ou crime de invasão de dispositivo informático, com penas agravadas quando praticado por meios eletrônicos." } },
+        { "@type": "Question", name: "Como saber se é golpe do Pix?", acceptedAnswer: { "@type": "Answer", text: "Desconfie de pedidos de devolução de Pix, ligações do banco pedindo dados, links por WhatsApp ou SMS e promessas de ganho fácil via transferência. Sempre verifique pelo canal oficial do banco." } },
+        { "@type": "Question", name: "Onde denunciar golpe do Pix?", acceptedAnswer: { "@type": "Answer", text: "Banco Central, Procon, Polícia Civil (Boletim de Ocorrência), consumidor.gov.br e SaferNet Brasil." } },
+      ],
+    },
+    content: (
+      <>
+        <h2>O que é o golpe do Pix?</h2>
+        <p>
+          O golpe do Pix é qualquer fraude que envolva transferências via sistema de pagamento
+          instantâneo. Os golpistas usam diferentes abordagens para enganar as vítimas e fazê-las
+          transferir dinheiro voluntariamente ou obter acesso indevido às suas contas. O Pix em si
+          é seguro — o problema está nas técnicas de engenharia social usadas pelos criminosos.
+        </p>
+
+        <h2>Quais são os golpes do Pix mais comuns?</h2>
+        <ul>
+          <li><strong>Golpe do Pix errado (devolução):</strong> o golpista alega ter enviado um Pix errado e pede devolução — o Pix original é cancelado, mas o da vítima não.</li>
+          <li><strong>Pix reverso:</strong> promessa falsa de devolução com lucro.</li>
+          <li><strong>Golpe do falso funcionário do banco:</strong> ligação se passando pelo banco pedindo confirmação de dados.</li>
+          <li><strong>Falso suporte técnico:</strong> ativação de golpe via link malicioso.</li>
+          <li><strong>QR Code falso:</strong> código adulterado em lojas físicas ou sites.</li>
+        </ul>
+
+        <h2>O que fazer imediatamente após cair no golpe do Pix?</h2>
+        <ol>
+          <li>Entre em contato com seu banco imediatamente pelo canal oficial e informe a fraude.</li>
+          <li>Solicite o bloqueio preventivo (mecanismo MED — Mecanismo Especial de Devolução).</li>
+          <li>Registre um Boletim de Ocorrência online (bo.pc.sp.gov.br para SP).</li>
+          <li>Guarde todos os comprovantes, prints e conversas.</li>
+          <li>Denuncie ao Banco Central pelo site bcb.gov.br.</li>
+          <li>Consulte uma advogada para avaliar possibilidade de ressarcimento judicial.</li>
+        </ol>
+
+        <h2>O banco devolve o dinheiro no golpe do Pix?</h2>
+        <p>
+          Depende. O Banco Central criou o Mecanismo Especial de Devolução (MED) para casos de
+          fraude. Se o dinheiro ainda estiver na conta do destinatário, o banco pode bloquear e
+          devolver em até 7 dias. Se já tiver sido movimentado, a devolução é mais difícil mas não
+          impossível — pode ser buscada via ação judicial.
+        </p>
+
+        <h2>É possível recuperar o dinheiro perdido no golpe do Pix?</h2>
+        <p>
+          Sim, em alguns casos. As possibilidades incluem: acionamento do MED junto ao banco, ação
+          judicial contra o fraudador (se identificado) e, em casos específicos, responsabilização
+          do banco por falha na segurança. Uma advogada especializada analisa seu caso e indica o
+          melhor caminho.
+        </p>
+
+        <h2>Onde denunciar o golpe do Pix?</h2>
+        <ul>
+          <li><strong>Banco Central:</strong> registra reclamações contra instituições financeiras (bcb.gov.br)</li>
+          <li><strong>Procon:</strong> para questionar a conduta do banco</li>
+          <li><strong>Polícia Civil:</strong> Boletim de Ocorrência por estelionato</li>
+          <li><strong>Consumidor.gov.br:</strong> plataforma federal de resolução de conflitos</li>
+          <li><strong>SaferNet Brasil:</strong> denúncias de crimes digitais</li>
+        </ul>
+
+        <h2>O golpe do Pix é crime?</h2>
+        <p>
+          Sim. Dependendo da modalidade, o golpe do Pix pode configurar estelionato (Art. 171 do
+          Código Penal), furto mediante fraude ou crime de invasão de dispositivo informático
+          (Lei 12.737/12). A pena pode ser agravada quando praticado por meio eletrônico ou em
+          larga escala.
+        </p>
+
+        <h2>Como evitar golpes no Pix?</h2>
+        <ul>
+          <li>Nunca transfira para devolver um Pix sem verificar diretamente com seu banco.</li>
+          <li>Desconfie de ligações, mesmo que o número pareça do banco.</li>
+          <li>Não clique em links recebidos por SMS, WhatsApp ou e-mail.</li>
+          <li>Ative o limite noturno do Pix no aplicativo do seu banco.</li>
+          <li>Confirme sempre o nome do destinatário antes de confirmar a transferência.</li>
+        </ul>
+
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+          <p className="text-foreground/85 leading-relaxed">
+            Se você foi vítima de golpe do Pix e quer saber se pode recuperar o dinheiro ou
+            responsabilizar o banco, a Dra. Flávia Vaz Rabello pode orientar você. Atendimento em
+            Indaiatuba e em todo o Brasil de forma online.
+          </p>
+          <a
+            href="https://wa.me/5519997439157"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors"
+          >
+            Falar com a Advogada
+          </a>
+        </div>
+      </>
+    ),
+  },
+  {
     slug: "guarda-compartilhada-como-funciona",
     category: "Família",
     title: "Guarda Compartilhada: Como Funciona, Direitos e Mitos",
