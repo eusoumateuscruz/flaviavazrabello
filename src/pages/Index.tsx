@@ -26,6 +26,7 @@ import sobreAsset from "@/assets/sobre-advogada-v4.jpeg.asset.json";
 import sobreMobileClean from "@/assets/sobre-flavia-mobile-clean.jpeg.asset.json";
 import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 import Seo from "@/components/Seo";
+import { BLOG_POSTS } from "@/data/blogPosts";
 
 const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
@@ -58,23 +59,7 @@ const differentials = [
   },
 ];
 
-const blogPosts = [
-  {
-    category: "Família",
-    title: "Divórcio consensual: o que você precisa saber antes de iniciar",
-    excerpt: "Entenda as etapas, documentos necessários e como o processo pode ser conduzido de forma rápida e amigável.",
-  },
-  {
-    category: "Bancário",
-    title: "Como identificar juros abusivos no seu contrato",
-    excerpt: "Saiba reconhecer cláusulas indevidas e como buscar a revisão judicial do seu financiamento.",
-  },
-  {
-    category: "Trabalhista",
-    title: "Seus direitos em caso de demissão sem justa causa",
-    excerpt: "Verbas rescisórias, FGTS, aviso prévio e seguro-desemprego: o que a lei garante ao trabalhador.",
-  },
-];
+const blogPosts = BLOG_POSTS.slice(0, 3);
 
 const testimonials = [
   {
@@ -631,24 +616,33 @@ const Index = () => {
 
           <div className="mt-10 md:mt-16 grid gap-5 md:gap-6 md:grid-cols-3">
             {blogPosts.map((p) => (
-              <article key={p.title} className="reveal group bg-card border border-border overflow-hidden">
-                <div className="aspect-[16/10] flex items-center justify-center" style={{ backgroundColor: "#EDE8E0" }}>
-                  <Monogram className="h-12 w-12 text-accent" />
+              <Link
+                key={p.slug}
+                to={`/blog/${p.slug}`}
+                aria-label={p.title}
+                className="reveal group flex flex-col bg-card border border-border overflow-hidden transition-shadow hover:shadow-[0_18px_40px_rgba(0,0,0,0.08)] focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+              >
+                <div className="aspect-[16/10] overflow-hidden bg-secondary/40">
+                  <img
+                    src={p.cover}
+                    alt={p.title}
+                    loading="lazy"
+                    width={1280}
+                    height={800}
+                    className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                  />
                 </div>
-                <div className="p-6 md:p-7">
+                <div className="flex flex-1 flex-col p-6 md:p-7">
                   <span className="text-xs uppercase tracking-[0.2em] text-accent">{p.category}</span>
                   <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
                     {p.title}
                   </h3>
                   <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{p.excerpt}</p>
-                  <Link
-                    to="/blog"
-                    className="mt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary hover:text-accent transition-colors"
-                  >
+                  <span className="mt-auto pt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary group-hover:text-accent transition-colors self-start">
                     Ler mais <ArrowRight className="h-3 w-3" />
-                  </Link>
+                  </span>
                 </div>
-              </article>
+              </Link>
             ))}
           </div>
 
