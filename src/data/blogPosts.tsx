@@ -583,7 +583,7 @@ export const BLOG_POSTS: BlogPost[] = [
           outros bens. Um acordo bem elaborado evita disputas futuras.
         </p>
 
-        <h2>Quanto custa o divórcio em Indaiatuba?</h2>
+        <h2>Quanto custa o divórcio?</h2>
         <p>
           O custo varia conforme o tipo de divórcio. O extrajudicial em cartório tem taxas menores. O
           judicial pode envolver custas processuais e honorários advocatícios. Consulte a Dra. Flávia
@@ -598,7 +598,7 @@ export const BLOG_POSTS: BlogPost[] = [
           especialmente em relação à guarda dos filhos e à partilha de bens.
         </p>
 
-        <h2>Como dar entrada no divórcio em Indaiatuba?</h2>
+        <h2>Como dar entrada no divórcio?</h2>
         <p>
           O primeiro passo é agendar uma consulta com uma advogada especializada em Direito de
           Família. Na consulta, você apresenta sua situação, os documentos disponíveis e recebe
