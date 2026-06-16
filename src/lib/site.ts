@@ -20,6 +20,7 @@ export const NAV_LINKS = [
   { label: "Sobre", to: "/sobre" },
   { label: "Áreas de Atuação", to: "/areas" },
   { label: "Blog", to: "/blog" },
+  { label: "Perguntas Frequentes", to: "/perguntas-frequentes" },
   { label: "Contato", to: "/contato" },
 ];
 
