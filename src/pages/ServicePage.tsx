@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { ArrowRight, MessageSquare, CheckCircle2, Gavel, Users, ShieldCheck } from "lucide-react";
 import HeroBackground from "@/components/HeroBackground";
+import Seo from "@/components/Seo";
 import { WHATSAPP_URL, PRACTICE_AREAS } from "@/lib/site";
 import SectionHeader from "@/components/SectionHeader";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
@@ -11,6 +12,33 @@ const SLUG_TO_ID: Record<string, string> = {
   "direito-do-consumidor": "consumidor",
   "direito-do-trabalho": "trabalhista",
   "assessoria-juridica": "extrajudicial",
+};
+
+const ID_TO_SLUG: Record<string, string> = Object.fromEntries(
+  Object.entries(SLUG_TO_ID).map(([s, i]) => [i, s])
+);
+
+const SEO_BY_SLUG: Record<string, { title: string; description: string }> = {
+  "direito-de-familia": {
+    title: "Advogada de Família em Indaiatuba | Divórcio, Pensão, Guarda — Flávia Vaz Rabello",
+    description: "Especialista em Direito de Família em Indaiatuba. Divórcio consensual e litigioso, guarda de filhos, pensão alimentícia, inventário e partilha. Atendimento humanizado.",
+  },
+  "direito-bancario": {
+    title: "Advogada Direito Bancário em Indaiatuba | Juros Abusivos — Flávia Vaz Rabello",
+    description: "Revisão de contratos bancários e combate a juros abusivos em Indaiatuba SP. A Dra. Flávia Vaz Rabello defende seus direitos contra cobranças indevidas.",
+  },
+  "direito-do-consumidor": {
+    title: "Advogada do Consumidor em Indaiatuba | Flávia Vaz Rabello",
+    description: "Defesa dos direitos do consumidor em Indaiatuba SP. Problemas com empresas, cobranças indevidas, produtos defeituosos. Consulte a Dra. Flávia Vaz Rabello.",
+  },
+  "direito-do-trabalho": {
+    title: "Advogada Trabalhista em Indaiatuba | Flávia Vaz Rabello",
+    description: "Direito do Trabalho em Indaiatuba SP. Rescisão indireta, verbas trabalhistas, assédio moral e demissão sem justa causa. Defenda seus direitos.",
+  },
+  "assessoria-juridica": {
+    title: "Assessoria Jurídica em Indaiatuba | Flávia Vaz Rabello Advocacia",
+    description: "Assessoria jurídica extrajudicial e judicial em Indaiatuba SP. Prevenção de conflitos, análise de contratos e acompanhamento processual personalizado.",
+  },
 };
 
 const ServicePage = () => {
@@ -29,9 +57,18 @@ const ServicePage = () => {
 
   const WHATSAPP_MESSAGE = encodeURIComponent(`Olá Dra. Flávia, gostaria de saber mais sobre ${service.title}.`);
   const WHATSAPP_LINK = `${WHATSAPP_URL}?text=${WHATSAPP_MESSAGE}`;
+  const seoSlug = slug || ID_TO_SLUG[service.id];
+  const seo = seoSlug ? SEO_BY_SLUG[seoSlug] : undefined;
 
   return (
     <div className="bg-background">
+      {seo && seoSlug && (
+        <Seo
+          title={seo.title}
+          description={seo.description}
+          canonical={`https://www.flaviavazrabello.com.br/areas-de-atuacao/${seoSlug}`}
+        />
+      )}
       <section className="relative min-h-[60vh] flex items-center overflow-hidden pt-20">
         <HeroBackground />
         <div className="container-narrow relative z-10 py-20">
