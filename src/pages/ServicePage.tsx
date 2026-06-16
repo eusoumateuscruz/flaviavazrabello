@@ -2,7 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { ArrowRight, MessageSquare, CheckCircle2, Gavel, Users, ShieldCheck } from "lucide-react";
 import HeroBackground from "@/components/HeroBackground";
 import Seo from "@/components/Seo";
-import { WHATSAPP_URL, PRACTICE_AREAS } from "@/lib/site";
+import { WHATSAPP_BASE_URL, PRACTICE_AREAS } from "@/lib/site";
 import SectionHeader from "@/components/SectionHeader";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 
@@ -151,7 +151,7 @@ const ServicePage = () => {
   }
 
   const WHATSAPP_MESSAGE = encodeURIComponent(`Olá Dra. Flávia, gostaria de saber mais sobre ${service.title}.`);
-  const WHATSAPP_LINK = `${WHATSAPP_URL}?text=${WHATSAPP_MESSAGE}`;
+  const WHATSAPP_LINK = `${WHATSAPP_BASE_URL}?text=${WHATSAPP_MESSAGE}`;
   const seoSlug = slug || ID_TO_SLUG[service.id];
   const seo = seoSlug ? SEO_BY_SLUG[seoSlug] : undefined;
   const canonical = seoSlug ? `https://www.flaviavazrabello.com.br/areas-de-atuacao/${seoSlug}` : "";
