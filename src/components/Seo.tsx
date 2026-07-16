@@ -17,6 +17,8 @@ const Seo = ({ title, description, canonical, jsonLd }: SeoProps) => {
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
     {schemas.map((schema, i) => (
       <script key={i} type="application/ld+json">
         {JSON.stringify(schema)}
