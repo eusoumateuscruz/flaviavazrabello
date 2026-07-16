@@ -1,12 +1,13 @@
 import { useState } from "react";
- import { Mail, MapPin, Clock, MessageCircle, Phone } from "lucide-react";
+import { Link } from "react-router-dom";
+import { Mail, MapPin, Clock, MessageCircle, Phone } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Monogram } from "@/components/Logo";
- import { EMAIL, LOCATION, WHATSAPP_URL, PHONES, HOURS } from "@/lib/site";
+import { EMAIL, LOCATION, WHATSAPP_URL, PHONES, HOURS } from "@/lib/site";
 import { toast } from "@/hooks/use-toast";
 
 const Contato = () => {
@@ -17,10 +18,9 @@ const Contato = () => {
     setSubmitting(true);
     setTimeout(() => {
       setSubmitting(false);
-      (e.target as HTMLFormElement).reset();
       toast({
-        title: "Mensagem enviada com sucesso",
-        description: "Entrarei em contato em breve. Obrigada!",
+        title: "Formulário em configuração",
+        description: "Seus dados não foram enviados. Entre em contato pelo WhatsApp ou telefone.",
       });
     }, 700);
   };
@@ -45,7 +45,8 @@ const Contato = () => {
             <h2 className="font-serif text-2xl md:text-3xl text-primary uppercase tracking-wider">Como podemos ajudar?</h2>
             <div className="mt-3 h-px w-12 bg-accent" />
             <p className="mt-4 text-sm text-foreground/70">
-              Preencha o formulário abaixo. Todas as informações são tratadas com absoluto sigilo.
+              O envio pelo site está em configuração. Você pode preencher os campos para verificar os dados, mas
+              nenhuma informação será transmitida. Para atendimento, use o WhatsApp ou telefone.
             </p>
 
             <form onSubmit={onSubmit} className="mt-8 space-y-6">
@@ -103,7 +104,11 @@ const Contato = () => {
                   className="mt-1 h-4 w-4 rounded border-gray-300 text-accent focus:ring-accent"
                 />
                 <Label htmlFor="termos" className="text-xs text-foreground/70 leading-relaxed cursor-pointer">
-                  Li e concordo com os termos de uso e política de privacidade
+                  Estou ciente de que o formulário não envia dados e consultei o aviso da{" "}
+                  <Link to="/privacidade" className="underline hover:text-accent">
+                    Política de Privacidade
+                  </Link>
+                  .
                 </Label>
               </div>
 
@@ -112,7 +117,7 @@ const Contato = () => {
                 disabled={submitting}
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-accent px-10 py-4 text-xs font-bold uppercase tracking-[0.22em] text-accent-foreground hover:bg-accent/90 transition-colors disabled:opacity-60"
               >
-                {submitting ? "ENVIANDO..." : "ENVIAR"}
+                {submitting ? "VERIFICANDO..." : "VERIFICAR FORMULÁRIO"}
               </button>
             </form>
           </div>
