@@ -6,12 +6,12 @@ Repositório: `https://github.com/eusoumateuscruz/flaviavazrabello.git`
 
 ## Resultado
 
-O projeto foi migrado preservando a interface e o conteúdo do site oficial. O build inclui um Worker compatível com ChatGPT Sites, fallback de SPA para rotas internas e metadados de hospedagem. A publicação final será registrada neste relatório após o deploy.
+O projeto foi migrado preservando a interface e o conteúdo do site oficial. O build inclui um runtime Nitro compatível com ChatGPT Sites, renderer SPA para rotas internas e metadados de hospedagem.
 
 ## Stack detectada
 
 - React 18.3 + TypeScript 5.9
-- Vite 5.4
+- Vite 8.1 + Nitro 3
 - React Router 6.30
 - Tailwind CSS 3.4
 - Radix UI/shadcn
@@ -22,8 +22,8 @@ O projeto foi migrado preservando a interface e o conteúdo do site oficial. O b
 
 ## Estrutura e adaptações para Sites
 
-- `build/sites-vite-plugin.ts`: copia o Worker e os metadados para o build.
-- `worker/index.js`: serve assets e aplica fallback para `index.html` em rotas SPA.
+- `vite.config.ts`: gera `dist/client` e o runtime Nitro no preset `cloudflare_module`.
+- `build/sites-vite-plugin.ts`: copia os metadados e disponibiliza `dist/server/index.js` no formato exigido pelo Sites.
 - `.openai/hosting.json`: vincula o projeto do Sites; não contém segredos.
 - `src/pages/Privacidade.tsx`: mantém a rota de privacidade funcional com aviso transparente.
 - `src/pages/Contato.tsx`: valida o formulário sem transmitir dados e orienta o contato por WhatsApp/telefone.
@@ -55,7 +55,7 @@ bun run build
 - Typecheck: aprovado, exit code 0.
 - Lint: aprovado, exit code 0; 8 warnings históricos de Fast Refresh em componentes compartilhados, sem erros.
 - Testes: aprovado; 1 arquivo e 1 teste passaram.
-- Build: aprovado; 1706 módulos transformados e saída gerada em `dist`.
+- Build: aprovado; 1690 módulos do cliente e 58 módulos do runtime transformados, com saída em `dist/client` e `dist/server`.
 
 ## Rotas testadas
 
@@ -120,8 +120,9 @@ Foram preservados títulos, descrições, canonicals, Open Graph, JSON-LD, `robo
 
 - Nome: `Flávia Vaz Rabello Advocacia`
 - Project ID: `appgprj_6a596bcc4fe48191ac36d544d3785a3a`
-- URL publicada: pendente do primeiro deploy
-- Estado pós-publicação: pendente
+- URL publicada: `https://flavia-vaz-rabello-advocacia.eusoumateuscruz.chatgpt.site`
+- Acesso: público
+- A primeira versão publicada revelou respostas 404 em todas as rotas por usar uma binding estática incompatível com o runtime do Sites. O empacotamento foi substituído por Nitro antes da publicação final.
 
 ## Domínio personalizado
 
@@ -131,5 +132,4 @@ O workspace oferece suporte a domínio personalizado. Nenhum domínio está anex
 
 - O formulário continua sem backend, como no estado migrado; o site informa isso com transparência.
 - A política de privacidade é um aviso provisório e precisa de texto jurídico aprovado para substituir o conteúdo atual.
-- Publicação e validação da URL do Sites ainda pendentes nesta versão do relatório.
-
+- A abertura da URL `chatgpt.site` no navegador integrado pode ser bloqueada pela política local do cliente (`ERR_BLOCKED_BY_CLIENT`); a validação HTTP de produção é registrada após cada deploy.

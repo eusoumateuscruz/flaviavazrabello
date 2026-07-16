@@ -1,26 +1,42 @@
-import { copyFile, mkdir } from "node:fs/promises";
+import { access, cp, mkdir, rm } from "node:fs/promises";
 import { resolve } from "node:path";
 import type { Plugin } from "vite";
+
+async function exists(path: string): Promise<boolean> {
+  try {
+    await access(path);
+    return true;
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") return false;
+    throw error;
+  }
+}
 
 export function sites(): Plugin {
   let root = process.cwd();
 
   return {
-    name: "chatgpt-sites-static-worker",
+    name: "sites",
     apply: "build",
     configResolved(config) {
       root = config.root;
     },
     async closeBundle() {
-      const outputDirectory = resolve(root, "dist");
+      const outputDirectory = resolve(root, "dist", ".openai");
+      const hostingConfig = resolve(root, ".openai", "hosting.json");
+      const nitroEntry = resolve(root, "dist", "server", "index.mjs");
+      const sitesEntry = resolve(root, "dist", "server", "index.js");
 
-      await mkdir(resolve(outputDirectory, "server"), { recursive: true });
-      await mkdir(resolve(outputDirectory, ".openai"), { recursive: true });
-      await copyFile(resolve(root, "worker", "index.js"), resolve(outputDirectory, "server", "index.js"));
-      await copyFile(
-        resolve(root, ".openai", "hosting.json"),
-        resolve(outputDirectory, ".openai", "hosting.json"),
-      );
+      await rm(outputDirectory, { recursive: true, force: true });
+      await mkdir(outputDirectory, { recursive: true });
+
+      if (await exists(hostingConfig)) {
+        await cp(hostingConfig, resolve(outputDirectory, "hosting.json"));
+      }
+
+      if (await exists(nitroEntry)) {
+        await cp(nitroEntry, sitesEntry);
+      }
     },
   };
 }

@@ -5,7 +5,7 @@ Site institucional da Flávia Vaz Rabello Advocacia, com informações sobre ár
 ## Tecnologias
 
 - React 18 e TypeScript
-- Vite 5
+- Vite 8 + Nitro 3
 - React Router 6
 - Tailwind CSS e componentes Radix UI/shadcn
 - Vitest e Testing Library
@@ -14,7 +14,7 @@ Site institucional da Flávia Vaz Rabello Advocacia, com informações sobre ár
 
 ## Requisitos
 
-- Node.js 22 ou superior
+- Node.js 20.19 ou superior (ou 22.12+)
 - Bun 1.3.14 ou versão compatível
 
 ## Instalação e execução local
@@ -35,7 +35,7 @@ bun run test
 bun run build
 ```
 
-O build de produção é gerado em `dist`. Além dos assets estáticos do Vite, o build inclui `dist/server/index.js`, que serve os arquivos pela binding `ASSETS` e aplica fallback para `index.html` nas rotas da SPA.
+O build de produção é gerado em `dist`. O Nitro organiza os assets em `dist/client` e gera o runtime Cloudflare em `dist/server/index.js`, com renderer SPA para rotas internas.
 
 ## Estrutura principal
 
@@ -44,8 +44,7 @@ O build de produção é gerado em `dist`. Além dos assets estáticos do Vite, 
 - `src/data`: conteúdo dos artigos do blog
 - `src/lib/site.ts`: dados institucionais e links externos centralizados
 - `public`: imagens, favicon, `robots.txt` e `sitemap.xml`
-- `worker`: entrada do runtime compatível com Cloudflare Workers/ChatGPT Sites
-- `build`: integração que prepara os artefatos exigidos pelo ChatGPT Sites
+- `build`: integração que finaliza o runtime Nitro e os metadados exigidos pelo ChatGPT Sites
 - `.openai/hosting.json`: metadados de hospedagem, sem segredos
 
 ## Variáveis de ambiente
@@ -66,10 +65,10 @@ Não foram encontradas integrações com Supabase, autenticação, banco de dado
 - Instalação: `bun install --frozen-lockfile`
 - Build: `bun run build`
 - Saída: `dist`
-- Runtime: módulo ESM compatível com Cloudflare Workers
-- Roteamento: fallback SPA para atualização direta de rotas internas
+- Runtime: Nitro 3 no preset `cloudflare_module`
+- Roteamento: renderer SPA para atualização direta de rotas internas
 
-O projeto pode ser vinculado ao ChatGPT Sites após o build validado. O identificador do projeto será gravado em `.openai/hosting.json`; valores de runtime devem ser cadastrados nas configurações protegidas do Sites, nunca nesse arquivo.
+O projeto está vinculado ao ChatGPT Sites por `.openai/hosting.json`; valores de runtime devem ser cadastrados nas configurações protegidas do Sites, nunca nesse arquivo.
 
 ## Observações e pendências conhecidas
 

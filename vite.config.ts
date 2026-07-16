@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react-swc";
+import react from "@vitejs/plugin-react";
+import { nitro } from "nitro/vite";
 import path from "path";
 import { sites } from "./build/sites-vite-plugin";
 
@@ -12,7 +13,18 @@ export default defineConfig({
       overlay: false,
     },
   },
-  plugins: [react(), sites()],
+  plugins: [
+    react(),
+    nitro({
+      preset: "cloudflare_module",
+      output: {
+        dir: "dist",
+        serverDir: "dist/server",
+        publicDir: "dist/client",
+      },
+    }),
+    sites(),
+  ],
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
