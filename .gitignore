@@ -10,7 +10,19 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+*.tsbuildinfo
 *.local
+
+# Codex workspace artifacts (not part of the application)
+/work/
+/outputs/
+
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development.local
+!.env.example
 
 # Editor directories and files
 .vscode/*
