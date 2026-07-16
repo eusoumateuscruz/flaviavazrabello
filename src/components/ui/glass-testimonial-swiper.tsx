@@ -56,7 +56,7 @@ export const TestimonialStack: React.FC<Props> = ({ testimonials }) => {
           let translateY = 0;
           let scale = 1;
           let opacity = 1;
-          let zIndex = total - offset;
+          const zIndex = total - offset;
           let translateX = 0;
           let rotate = 0;
 
