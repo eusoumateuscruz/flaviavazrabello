@@ -73,7 +73,7 @@ O projeto pode ser vinculado ao ChatGPT Sites após o build validado. O identifi
 
 ## Observações e pendências conhecidas
 
-- O formulário de contato atual não possui endpoint: ele simula sucesso localmente e não transmite os dados. Para envio real, será necessário escolher e configurar um serviço de backend/e-mail.
-- O rodapé contém um link para `/privacidade`, mas o repositório de origem não inclui o texto nem a rota da Política de Privacidade. O conteúdo jurídico deve ser fornecido ou aprovado antes da criação dessa página.
+- O formulário de contato não possui endpoint e informa de forma transparente que os dados não são transmitidos. Para envio real, será necessário escolher e configurar um serviço de backend/e-mail.
+- A rota `/privacidade` contém somente um aviso temporário e os contatos oficiais. O texto jurídico definitivo deve ser fornecido ou aprovado antes da publicação pública.
 - `bun.lock` é o único lockfile vigente. Os lockfiles históricos e conflitantes (`package-lock.json` e `bun.lockb`) foram removidos após confirmar no histórico e em uma instalação congelada que o projeto usa Bun e que não há perda de dependências.
 - O domínio canônico atual é `https://www.flaviavazrabello.com.br`. Se o domínio definitivo mudar, atualize os canonicals, Open Graph, JSON-LD, `robots.txt` e `sitemap.xml`.
