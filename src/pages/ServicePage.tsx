@@ -138,7 +138,7 @@ const FAQ_BY_SLUG: Record<string, { name: string; text: string }[]> = {
 
 const ServicePage = () => {
   const { id, slug } = useParams();
-  const lookupId = id || (slug ? SLUG_TO_ID[slug] : undefined);
+  const lookupId = id || (slug ? (SLUG_TO_ID[slug] ?? slug) : undefined);
   const service = PRACTICE_AREAS.find((area) => area.id === lookupId);
 
   if (!service) {
@@ -152,7 +152,7 @@ const ServicePage = () => {
 
   const WHATSAPP_MESSAGE = encodeURIComponent(`Olá Dra. Flávia, gostaria de saber mais sobre ${service.title}.`);
   const WHATSAPP_LINK = `${WHATSAPP_BASE_URL}?text=${WHATSAPP_MESSAGE}`;
-  const seoSlug = slug || ID_TO_SLUG[service.id];
+  const seoSlug = ID_TO_SLUG[service.id];
   const seo = seoSlug ? SEO_BY_SLUG[seoSlug] : undefined;
   const canonical = seoSlug ? `https://www.flaviavazrabello.com.br/areas-de-atuacao/${seoSlug}` : "";
   const schemas: object[] = [];
