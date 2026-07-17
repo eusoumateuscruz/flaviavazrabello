@@ -123,13 +123,19 @@ Foram preservados títulos, descrições, canonicals, Open Graph, JSON-LD, `robo
 - URL publicada: `https://flavia-vaz-rabello-advocacia.eusoumateuscruz.chatgpt.site`
 - Acesso: público
 - A primeira versão publicada revelou respostas 404 em todas as rotas por usar uma binding estática incompatível com o runtime do Sites. O empacotamento foi substituído por Nitro antes da publicação final.
+- Versão final: 2, deployment `appgdep_6a5970aa8ddc81919b249a16018e0142`, estado `succeeded`.
+- O Site aparece ativo na área Sites com o nome solicitado e a URL final foi aberta tanto no navegador integrado quanto no Chrome.
+- As 19 rotas retornaram HTTP 200 em produção; acesso direto e refresh de `/areas-de-atuacao/familia` também foram confirmados no navegador.
+- Os 18 arquivos estáticos do build, incluindo JavaScript, CSS, imagens, favicon, `robots.txt` e `sitemap.xml`, retornaram HTTP 200.
+- Menu mobile, navegação para `/blog`, links de contato e formulário foram exercitados na versão publicada. O formulário alternou para `VERIFICANDO...` e retornou sem transmitir os dados fictícios.
+- A primeira dobra publicada em 1440 px teve diferença média inferior a 1 nível RGB por canal em relação ao domínio oficial (diferenças residuais de compressão JPEG).
 
 ## Domínio personalizado
 
-O workspace oferece suporte a domínio personalizado. Nenhum domínio está anexado ao Site e nenhum registro DNS foi alterado. O domínio oficial `www.flaviavazrabello.com.br` permanece intacto; qualquer vinculação futura exige aprovação e alterações DNS coordenadas.
+O workspace oferece suporte a domínio personalizado. A consulta final confirmou que nenhum domínio está anexado ao Site e nenhum registro DNS foi alterado. O domínio oficial `www.flaviavazrabello.com.br` permanece intacto; qualquer vinculação futura exige aprovação e alterações DNS coordenadas.
 
 ## Diferenças e bloqueios restantes
 
 - O formulário continua sem backend, como no estado migrado; o site informa isso com transparência.
 - A política de privacidade é um aviso provisório e precisa de texto jurídico aprovado para substituir o conteúdo atual.
-- A abertura da URL `chatgpt.site` no navegador integrado pode ser bloqueada pela política local do cliente (`ERR_BLOCKED_BY_CLIENT`); a validação HTTP de produção é registrada após cada deploy.
+- Não há diferenças visuais relevantes conhecidas entre a versão publicada e o domínio oficial nas larguras validadas.
