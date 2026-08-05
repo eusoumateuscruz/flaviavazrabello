@@ -3,7 +3,10 @@ import { WHATSAPP_URL, SOCIAL_LINKS } from "@/lib/site";
 
 const SocialFloatingButtons = () => {
   return (
-    <div className="hidden md:fixed md:bottom-6 md:right-6 md:z-40 md:flex md:flex-col md:gap-4">
+    <div
+      data-cta-origem="flutuante"
+      className="hidden md:fixed md:bottom-6 md:right-6 md:z-40 md:flex md:flex-col md:gap-4"
+    >
       {/* Instagram Button */}
       <a
         href={SOCIAL_LINKS.instagram}
