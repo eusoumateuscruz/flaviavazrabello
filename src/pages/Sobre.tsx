@@ -62,6 +62,12 @@ const Sobre = () => {
         }}
       />
       <section className="relative w-full">
+        {/* O hero desta página é uma imagem de largura total, sem título em texto.
+            Este H1 dá à página o cabeçalho de nível 1 que faltava, para leitor de
+            tela e rastreador, sem alterar o layout. */}
+        <h1 className="sr-only">
+          Sobre a Dra. Flávia Vaz Rabello — Advogada em Indaiatuba
+        </h1>
         <img
           src={sobreAsset.url}
           alt="Sobre a Dra. Flávia Vaz Rabello — Advocacia com propósito e comprometimento"
