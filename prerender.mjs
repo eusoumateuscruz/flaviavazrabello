@@ -30,11 +30,37 @@ const lista = (nome) => {
   return out;
 };
 
+/* Rotas do site. Fica versionado aqui, e nao so na linha de comando: rota que
+   nao entra nesta lista vira 404 de verdade no destino estatico — nao existe
+   fallback de SPA no vercel.json, entao o bundle nem chega a carregar. */
+const AREAS = [
+  "direito-de-familia", "direito-bancario", "direito-do-consumidor",
+  "direito-do-trabalho", "assessoria-juridica",
+];
+const SERVICOS = ["familia", "bancario", "consumidor", "trabalhista", "extrajudicial"];
+const BLOG = [
+  "golpe-do-pix-o-que-fazer", "guarda-compartilhada-como-funciona",
+  "demissao-sem-justa-causa-direitos", "como-identificar-juros-abusivos",
+  "divorcio-consensual-indaiatuba", "pensao-alimenticia-como-e-calculado-o-valor",
+  "alienacao-parental-o-que-e-como-provar", "nome-sujo-indevidamente-o-que-fazer",
+  "revisao-contrato-financiamento-veiculo", "assedio-moral-no-trabalho-o-que-fazer",
+  "empresa-nao-pagou-horas-extras-o-que-fazer", "produto-com-defeito-quais-sao-meus-direitos",
+  "compra-cancelada-loja-nao-devolveu-dinheiro",
+];
+const ROTAS_PADRAO = [
+  "/", "/sobre",
+  "/areas", // rota do menu principal; sem ela o item "Áreas de Atuação" da 404
+  "/areas-de-atuacao", ...AREAS.map((a) => `/areas-de-atuacao/${a}`),
+  ...SERVICOS.map((s) => `/servicos/${s}`), // botoes "Saber mais" da home
+  "/blog", ...BLOG.map((s) => `/blog/${s}`),
+  "/perguntas-frequentes", "/contato",
+];
+
 const raiz = val("--raiz");
 const saida = val("--saida");
-const rotas = lista("--rotas");
-if (!raiz || !saida || !rotas.length) {
-  console.error("uso: --raiz <projeto> --saida <destino> --rotas / /sobre ...");
+const rotas = lista("--rotas").length ? lista("--rotas") : ROTAS_PADRAO;
+if (!raiz || !saida) {
+  console.error("uso: --raiz <projeto> --saida <destino> [--rotas / /sobre ...]");
   process.exit(1);
 }
 

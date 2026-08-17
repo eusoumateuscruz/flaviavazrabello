@@ -74,7 +74,9 @@ const Footer = () => {
         <div className="mt-14 pt-8 border-t border-primary-foreground/15 flex flex-col md:flex-row gap-4 items-center justify-between text-xs text-primary-foreground/60">
           <p>OAB 262057/SP — {EMAIL}</p>
           <p>© {new Date().getFullYear()} Flávia Vaz Rabello Advocacia. Todos os direitos reservados.</p>
-          <Link to="/privacidade" className="hover:text-accent transition-colors">Política de Privacidade (LGPD)</Link>
+          {/* O link para /privacidade saiu daqui: a rota nunca existiu e dava 404
+              em toda pagina do site. A politica de privacidade sera escrita e
+              revisada antes de o link voltar. */}
         </div>
       </div>
     </footer>

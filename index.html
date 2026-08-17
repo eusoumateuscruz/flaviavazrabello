@@ -7,12 +7,14 @@
     <!-- SEO: Title otimizado com keyword local -->
     <title>Advogada em Indaiatuba | Flávia Vaz Rabello — Direito de Família, Bancário e Trabalhista</title>
 
-    <!-- SEO: Meta description otimizada para CTR -->
-    <meta name="description" content="Advogada em Indaiatuba especializada em Direito de Família, Bancário e Trabalhista. Divórcio, pensão, juros abusivos e direito do trabalho. Atendimento humanizado. OAB 262057/SP. Agende sua consulta.">
+    <!-- description e canonical NAO ficam aqui: sao injetados por pagina pelo
+         componente Seo (react-helmet). O helmet so gerencia as tags que ele
+         proprio cria, entao uma tag estatica aqui sobrevive e a pagina passa a
+         servir DUAS descriptions e DOIS canonicals — o segundo correto e o
+         primeiro sempre apontando para a home. -->
 
-    <!-- SEO: Robots e canonical -->
+    <!-- SEO: Robots -->
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://www.flaviavazrabello.com.br/" />
 
     <!-- SEO: Author e keywords -->
     <meta name="author" content="Flávia Vaz Rabello Advocacia" />
@@ -116,7 +118,7 @@
     }
     </script>
 
-    <!-- Schema: BreadcrumbList -->
+    <!-- Schema: Organization -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -148,19 +150,11 @@
     }
     </script>
 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Início", "item": "https://www.flaviavazrabello.com.br/"},
-        {"@type": "ListItem", "position": 2, "name": "Sobre", "item": "https://www.flaviavazrabello.com.br/sobre"},
-        {"@type": "ListItem", "position": 3, "name": "Áreas de Atuação", "item": "https://www.flaviavazrabello.com.br/areas-de-atuacao"},
-        {"@type": "ListItem", "position": 4, "name": "Blog", "item": "https://www.flaviavazrabello.com.br/blog"},
-        {"@type": "ListItem", "position": 5, "name": "Contato", "item": "https://www.flaviavazrabello.com.br/contato"}
-      ]
-    }
-    </script>
+    <!-- Nao declare BreadcrumbList aqui. O que existia neste ponto listava
+         Inicio > Sobre > Areas > Blog > Contato, que e o menu de navegacao, nao
+         a trilha ate a pagina atual — e ainda era herdado por todas as paginas
+         pre-renderizadas, colidindo com a trilha correta que os posts declaram.
+         Cada pagina que precisar de trilha declara a sua via Seo jsonLd. -->
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

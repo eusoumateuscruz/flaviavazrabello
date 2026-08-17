@@ -61,7 +61,8 @@ export const BLOG_POSTS: BlogPost[] = [
     metaDescription:
       "Saiba o que fazer imediatamente se cair no golpe do Pix, como tentar recuperar o dinheiro, onde denunciar e quais são seus direitos como vítima. Orientação jurídica especializada.",
     canonical: "https://www.flaviavazrabello.com.br/blog/golpe-do-pix-o-que-fazer",
-    jsonLd: {
+    jsonLd: [
+      {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       mainEntity: [
@@ -72,6 +73,31 @@ export const BLOG_POSTS: BlogPost[] = [
         { "@type": "Question", name: "Onde denunciar golpe do Pix?", acceptedAnswer: { "@type": "Answer", text: "Banco Central, Procon, Polícia Civil (Boletim de Ocorrência), consumidor.gov.br e SaferNet Brasil." } },
       ],
     },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Caí no Golpe do Pix: O Que Fazer Agora?",
+            "item": "https://www.flaviavazrabello.com.br/blog/golpe-do-pix-o-que-fazer"
+          }
+        ]
+      },
+    ],
     content: (
       <>
         <h2>O que é o golpe do Pix?</h2>
@@ -173,7 +199,8 @@ export const BLOG_POSTS: BlogPost[] = [
     metaDescription:
       "Entenda o que é guarda compartilhada, como funciona na prática, quem paga pensão, quais são os 3 tipos de guarda e quando a mãe pode negar. Tire suas dúvidas com advogada especializada.",
     canonical: "https://www.flaviavazrabello.com.br/blog/guarda-compartilhada-como-funciona",
-    jsonLd: {
+    jsonLd: [
+      {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       mainEntity: [
@@ -183,6 +210,31 @@ export const BLOG_POSTS: BlogPost[] = [
         { "@type": "Question", name: "Quais são os 3 tipos de guarda?", acceptedAnswer: { "@type": "Answer", text: "Guarda compartilhada (ambos os pais têm responsabilidade conjunta), guarda unilateral (apenas um dos pais) e guarda alternada (a criança alterna períodos com cada genitor)." } },
       ],
     },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Guarda Compartilhada: Como Funciona, Direitos e Mitos",
+            "item": "https://www.flaviavazrabello.com.br/blog/guarda-compartilhada-como-funciona"
+          }
+        ]
+      },
+    ],
     content: (
       <>
         <h2>O que é guarda compartilhada?</h2>
@@ -287,7 +339,8 @@ export const BLOG_POSTS: BlogPost[] = [
     metaDescription:
       "Saiba quais são todos os seus direitos na demissão sem justa causa: FGTS, aviso prévio, 13º salário, seguro-desemprego e multa de 40%. Entenda os prazos e como agir.",
     canonical: "https://www.flaviavazrabello.com.br/blog/demissao-sem-justa-causa-direitos",
-    jsonLd: {
+    jsonLd: [
+      {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       mainEntity: [
@@ -297,6 +350,31 @@ export const BLOG_POSTS: BlogPost[] = [
         { "@type": "Question", name: "Quem tem doença pode ser demitido sem justa causa?", acceptedAnswer: { "@type": "Answer", text: "Em geral sim, mas empregados com doenças estigmatizantes como HIV, câncer ou dependência química têm estabilidade reconhecida pelos tribunais. Cada caso deve ser avaliado individualmente." } },
       ],
     },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fui Demitido Sem Justa Causa: Quais São Meus Direitos?",
+            "item": "https://www.flaviavazrabello.com.br/blog/demissao-sem-justa-causa-direitos"
+          }
+        ]
+      },
+    ],
     content: (
       <>
         <h2>O que é demissão sem justa causa?</h2>
@@ -402,7 +480,8 @@ export const BLOG_POSTS: BlogPost[] = [
     metaDescription:
       "Saiba como calcular se está pagando juros abusivos no financiamento, cartão de crédito ou empréstimo. Entenda seus direitos e como recorrer com apoio jurídico especializado.",
     canonical: "https://www.flaviavazrabello.com.br/blog/como-identificar-juros-abusivos",
-    jsonLd: {
+    jsonLd: [
+      {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       mainEntity: [
@@ -412,6 +491,31 @@ export const BLOG_POSTS: BlogPost[] = [
         { "@type": "Question", name: "O banco pode me negativar se eu contestar a dívida?", acceptedAnswer: { "@type": "Answer", text: "Enquanto a dívida está sendo questionada judicialmente, é possível pedir tutela de urgência para suspender ou cancelar a negativação. Se indevida, cabe indenização por danos morais." } },
       ],
     },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Como Identificar Juros Abusivos no Seu Contrato e o Que Fazer",
+            "item": "https://www.flaviavazrabello.com.br/blog/como-identificar-juros-abusivos"
+          }
+        ]
+      },
+    ],
     content: (
       <>
         <h2>O que são juros abusivos?</h2>
@@ -517,7 +621,8 @@ export const BLOG_POSTS: BlogPost[] = [
     metaDescription:
       "Entenda como funciona o divórcio consensual no Brasil, quais documentos são necessários, quanto tempo leva e quando a advogada é obrigatória. Atendimento online em todo o país.",
     canonical: "https://www.flaviavazrabello.com.br/blog/divorcio-consensual-indaiatuba",
-    jsonLd: {
+    jsonLd: [
+      {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       mainEntity: [
@@ -528,6 +633,31 @@ export const BLOG_POSTS: BlogPost[] = [
         { "@type": "Question", name: "Quanto tempo demora o divórcio consensual?", acceptedAnswer: { "@type": "Answer", text: "O divórcio extrajudicial em cartório pode ser concluído em poucos dias. O judicial consensual leva em média 2 a 6 meses." } },
       ],
     },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Divórcio Consensual: o que você precisa saber antes de começar",
+            "item": "https://www.flaviavazrabello.com.br/blog/divorcio-consensual-indaiatuba"
+          }
+        ]
+      },
+    ],
     content: (
       <>
         <h2>O que é divórcio consensual?</h2>
