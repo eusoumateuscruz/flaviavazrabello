@@ -170,15 +170,11 @@
     })(window,document,'script','dataLayer','GTM-524W4WZR');</script>
     <!-- End Google Tag Manager -->
 
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GCQJQJ23Q9"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-GCQJQJ23Q9');
-    </script>
-    
+    <!-- GA4: a propriedade e configurada dentro do container GTM acima.
+         Nao acrescente gtag('config', ...) aqui — um gtag direto cria uma
+         segunda propriedade que recebe page_view mas nao recebe os eventos de
+         conversao do dataLayer, separando audiencia de conversao. -->
+
   
   
   

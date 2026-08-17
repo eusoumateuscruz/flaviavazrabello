@@ -2,7 +2,9 @@
  * Rastreamento de conversão — cliques em WhatsApp.
  *
  * Empurra o evento `clique_whatsapp` para o dataLayer, consumido pelo
- * container GTM-N3LZP5GV.
+ * container GTM-524W4WZR, que o encaminha para a propriedade GA4
+ * G-CWZT5XCLWB. (O container GTM-N3LZP5GV, citado aqui antes, e de outra
+ * propriedade e nunca teve relacao com este site.)
  *
  * O listener é delegado no `document` de propósito: como este site é uma SPA
  * (react-router), listeners presos a elementos se perdem a cada troca de rota.
@@ -24,7 +26,11 @@ function slug(texto: string): string {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
-    .slice(0, 40);
+    // 80 e folgado para os slugs mais longos de blog (o maior hoje da 47) e
+    // continua abaixo do limite de 100 caracteres do GA4 para valor de
+    // parametro, ja contando o prefixo "pagina-"/"secao-". Em 40, slugs de post
+    // eram cortados no meio e ficavam ilegiveis no relatorio.
+    .slice(0, 80);
 }
 
 /** Descobre de qual bloco da página partiu o clique. */
