@@ -4,10 +4,18 @@ import blogGuardaCompartilhada from "@/assets/blog-guarda-compartilhada.jpg";
 import blogDemissao from "@/assets/blog-demissao.jpg";
 import blogJurosAbusivos from "@/assets/blog-juros-abusivos.jpg";
 import blogDivorcioConsensual from "@/assets/blog-divorcio-consensual.jpg";
+import blogAlienacaoParentalOQueEComoProvar from "@/assets/blog-alienacao-parental-o-que-e-como-provar.jpg";
+import blogAssedioMoralNoTrabalhoOQueFazer from "@/assets/blog-assedio-moral-no-trabalho-o-que-fazer.jpg";
+import blogCompraCanceladaLojaNaoDevolveuDinheiro from "@/assets/blog-compra-cancelada-loja-nao-devolveu-dinheiro.jpg";
+import blogEmpresaNaoPagouHorasExtrasOQueFazer from "@/assets/blog-empresa-nao-pagou-horas-extras-o-que-fazer.jpg";
+import blogNomeSujoIndevidamenteOQueFazer from "@/assets/blog-nome-sujo-indevidamente-o-que-fazer.jpg";
+import blogPensaoAlimenticiaComoECalculadoOValor from "@/assets/blog-pensao-alimenticia-como-e-calculado-o-valor.jpg";
+import blogProdutoComDefeitoQuaisSaoMeusDireitos from "@/assets/blog-produto-com-defeito-quais-sao-meus-direitos.jpg";
+import blogRevisaoContratoFinanciamentoVeiculo from "@/assets/blog-revisao-contrato-financiamento-veiculo.jpg";
 
 export type BlogPost = {
   slug: string;
-  category: "Família" | "Bancário" | "Trabalhista" | "Geral";
+  category: "Família" | "Bancário" | "Trabalhista" | "Geral" | "Consumidor";
   title: string;
   h1: string;
   excerpt: string;
@@ -608,6 +616,649 @@ export const BLOG_POSTS: BlogPost[] = [
         </p>
 
         <Cta />
+      </>
+    ),
+  },
+  {
+    slug: "alienacao-parental-o-que-e-como-provar",
+    category: "Família",
+    title: "O Que é Alienação Parental e Como Comprovar?",
+    h1: "O Que é Alienação Parental e Como Comprovar?",
+    excerpt:
+      "Entenda o que caracteriza alienação parental segundo a Lei nº 12.318/2010, exemplos de condutas e como reunir provas para uma ação judicial.",
+    cover: blogAlienacaoParentalOQueEComoProvar,
+    metaTitle: "O Que é Alienação Parental e Como Comprovar? | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Entenda o que caracteriza alienação parental segundo a Lei nº 12.318/2010, exemplos de condutas e como reunir provas para uma ação judicial.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/alienacao-parental-o-que-e-como-provar",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Alienação parental é crime no Brasil?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No Brasil, a alienação parental não é considerada crime — não gera pena de reclusão nem antecedentes criminais —, mas é uma prática ilícita. Regida pela Lei nº 12.318/2010, é classificada como uma forma de abuso moral e violência psicológica contra a criança. Pode ser considerada crime se envolver acusação falsa contra o genitor, situação agravada se houver difamação, calúnia ou injúria."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Denúncia falsa de abuso pode ser considerada alienação?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sim, a denúncia falsa de abuso é considerada uma das formas mais graves de alienação parental previstas expressamente na legislação brasileira. De acordo com o artigo 2º, inciso VI, da Lei nº 12.318/2010, \"apresentar falsa denúncia contra genitor, contra familiares deste ou contra avós, para obstar ou dificultar a convivência deles com a criança ou adolescente\" configura formalmente o ato alienador."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "O Que é Alienação Parental e Como Comprovar?",
+            "item": "https://www.flaviavazrabello.com.br/blog/alienacao-parental-o-que-e-como-provar"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>O que caracteriza alienação parental segundo a lei</h2>
+        <p>A Lei nº 12.318/2010 define alienação parental como a interferência na formação psicológica da criança ou do adolescente promovida por um dos genitores, pelos avós ou por quem tenha a criança sob autoridade, guarda ou vigilância, com o objetivo de fazer com que ela repudie o outro genitor ou tenha prejudicado o vínculo com ele, sem motivo legítimo para isso.</p>
+        <p>É importante frisar o "sem motivo legítimo": afastamento justificado por risco real (violência, negligência comprovada) não é alienação parental, é proteção.</p>
+        <h2>Exemplos de condutas que podem caracterizar alienação</h2>
+        <p>Entre as condutas exemplificadas na própria lei estão: dificultar o exercício da autoridade parental do outro genitor, dificultar o contato do filho com o outro genitor ou com a família dele, omitir deliberadamente informações relevantes sobre a criança, e apresentar falsa denúncia contra o genitor especificamente para dificultar ou impedir a convivência.</p>
+        <h2>Como reunir provas de forma consistente</h2>
+        <p>Mensagens, e-mails, testemunhas que presenciaram as condutas relatadas e registros de tentativas frustradas de contato ajudam a formar o conjunto probatório inicial. Na maioria dos casos, porém, o elemento central e mais decisivo da prova é a perícia psicológica ou biopsicossocial determinada pelo próprio juiz, conduzida por profissional especializado e imparcial.</p>
+        <h2>O que o juiz pode determinar quando a alienação é comprovada</h2>
+        <p>Comprovada a alienação, a lei prevê um rol de medidas que podem ser aplicadas de forma gradual e proporcional à gravidade — começando por advertência formal ao genitor alienador, passando por acompanhamento psicológico da família, ampliação forçada da convivência com o genitor alienado e, em casos mais graves e persistentes, inversão da guarda.</p>
+        <h2>A diferença entre alienação parental e proteção legítima</h2>
+        <p>Nem todo afastamento de um genitor é alienação. Quando existe risco real e comprovável — violência doméstica, abuso, negligência grave —, o afastamento do filho é proteção, não alienação, e denunciar esse risco às autoridades competentes é uma obrigação, não uma falta.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">Suspeita que está vivendo uma situação de alienação parental, ou foi acusado injustamente? A Dra. Flávia Vaz Rabello atua com estratégia e sensibilidade para proteger o vínculo entre pais e filhos. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
+      </>
+    ),
+  },
+  {
+    slug: "assedio-moral-no-trabalho-o-que-fazer",
+    category: "Trabalhista",
+    title: "Assédio Moral no Trabalho: O Que Fazer?",
+    h1: "Assédio Moral no Trabalho: O Que Fazer?",
+    excerpt:
+      "Entenda o que caracteriza assédio moral no ambiente de trabalho, como reunir provas e quais medidas o trabalhador pode tomar.",
+    cover: blogAssedioMoralNoTrabalhoOQueFazer,
+    metaTitle: "Assédio Moral no Trabalho: O Que Fazer? | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Entenda o que caracteriza assédio moral no ambiente de trabalho, como reunir provas e quais medidas o trabalhador pode tomar.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/assedio-moral-no-trabalho-o-que-fazer",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Denunciar assédio moral pode gerar demissão por retaliação?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A retaliação por uma denúncia legítima pode, ela própria, ser objeto de questionamento judicial — mas a situação deve ser avaliada com orientação jurídica desde o início, para reunir provas de forma adequada."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Assédio moral é diferente de assédio sexual no ambiente de trabalho?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sim. O assédio sexual envolve conotação sexual explícita ou implícita e tem tratamento jurídico próprio, inclusive criminal, enquanto o assédio moral se relaciona à humilhação e degradação continuada das condições de trabalho, sem necessariamente ter natureza sexual."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Assédio Moral no Trabalho: O Que Fazer?",
+            "item": "https://www.flaviavazrabello.com.br/blog/assedio-moral-no-trabalho-o-que-fazer"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>O que realmente caracteriza assédio moral</h2>
+        <p>A caracterização jurídica exige repetição e prolongamento no tempo — um episódio isolado, por mais desagradável que tenha sido, tende a não configurar assédio moral no sentido jurídico. Costuma envolver humilhações públicas recorrentes, isolamento proposital do trabalhador, sobrecarga de trabalho claramente injustificada, ou desqualificação constante das capacidades do trabalhador, de forma sistemática.</p>
+        <h2>Como reunir provas de forma consistente</h2>
+        <p>Mensagens, e-mails, testemunhas que presenciaram diretamente as situações relatadas, laudos médicos ou psicológicos relacionados ao impacto na saúde do trabalhador, e gravações — observados os limites legais — ajudam a formar o conjunto probatório necessário. Manter um registro cronológico próprio, com datas, fortalece muito a prova ao longo do tempo.</p>
+        <h2>Rescisão indireta: quando o trabalhador pode encerrar o contrato</h2>
+        <p>Em casos graves e devidamente comprovados, o trabalhador pode pedir a rescisão indireta do contrato — juridicamente equivalente, para efeito de todos os direitos rescisórios, a uma demissão sem justa causa promovida pelo empregador —, com base no descumprimento grave de obrigações contratuais pelo empregador.</p>
+        <h2>Indenização por danos morais</h2>
+        <p>Comprovado o assédio, é possível pedir indenização por danos morais na Justiça do Trabalho, cujo valor é fixado pelo juiz considerando a gravidade da conduta, sua repetição ao longo do tempo, a posição hierárquica de quem praticou o assédio, e o impacto concreto sofrido pelo trabalhador, inclusive na sua saúde.</p>
+        <h2>Diferença entre cobrança dura e assédio moral</h2>
+        <p>É importante distinguir cobrança legítima de resultados — ainda que firme ou incômoda — de assédio moral propriamente dito. Metas desafiadoras e feedback direto fazem parte da relação de trabalho normal. O que caracteriza assédio é o padrão de humilhação e a desproporção entre a conduta e qualquer justificativa profissional legítima.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">Está passando por uma situação de assédio moral no trabalho e não sabe como agir? A Dra. Flávia Vaz Rabello orienta sobre como reunir provas e quais medidas cabem ao seu caso. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
+      </>
+    ),
+  },
+  {
+    slug: "compra-cancelada-loja-nao-devolveu-dinheiro",
+    category: "Consumidor",
+    title: "Compra Cancelada e a Loja Não Devolveu o Dinheiro: O Que Fazer?",
+    h1: "Compra Cancelada e a Loja Não Devolveu o Dinheiro: O Que Fazer?",
+    excerpt:
+      "Saiba o prazo legal para devolução do dinheiro em compras canceladas e quais medidas tomar quando a loja não cumpre esse prazo.",
+    cover: blogCompraCanceladaLojaNaoDevolveuDinheiro,
+    metaTitle: "Compra Cancelada e Loja Não Devolveu o Dinheiro | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Saiba o prazo legal para devolução do dinheiro em compras canceladas e quais medidas tomar quando a loja não cumpre esse prazo.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/compra-cancelada-loja-nao-devolveu-dinheiro",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "A loja pode cobrar alguma taxa de cancelamento dentro do direito de arrependimento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Não. No exercício regular do direito de arrependimento dentro do prazo legal, não cabe cobrança de taxas ou penalidades ao consumidor, incluindo os custos de frete de devolução."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "O direito de arrependimento de 7 dias vale também para compra em loja física?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Em regra, não. Aplica-se especificamente a compras feitas fora do estabelecimento comercial (internet, telefone, domicílio); compras presenciais seguem outras regras."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Compra Cancelada e a Loja Não Devolveu o Dinheiro: O Que Fazer?",
+            "item": "https://www.flaviavazrabello.com.br/blog/compra-cancelada-loja-nao-devolveu-dinheiro"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>Direito de arrependimento: quando ele existe</h2>
+        <p>Em compras realizadas fora do estabelecimento comercial físico — pela internet, por telefone ou em domicílio —, o consumidor tem até 7 dias corridos, contados a partir do recebimento do produto, para desistir da compra, sem necessidade de apresentar qualquer justificativa.</p>
+        <h2>Prazo legal para devolução do valor pago</h2>
+        <p>Exercido o direito de arrependimento dentro do prazo legal, todos os valores eventualmente pagos devem ser devolvidos de imediato pela loja, sempre monetariamente atualizados — a devolução não pode ficar condicionada a análises ou aprovações internas demoradas.</p>
+        <h2>O que fazer quando a loja não devolve dentro do prazo</h2>
+        <p>Formalizar a solicitação de cancelamento por escrito é essencial, guardando os comprovantes de cada etapa. Não havendo solução voluntária, é possível registrar reclamação em plataformas de defesa do consumidor (como consumidor.gov.br) e, persistindo o problema, buscar solução por via judicial.</p>
+        <h2>Cartão de crédito: estorno x devolução em dinheiro</h2>
+        <p>Quando a compra foi feita no cartão de crédito, a devolução costuma ocorrer por estorno na fatura, o que pode levar uma ou mais faturas subsequentes para se refletir integralmente, dependendo dos prazos operacionais da administradora do cartão.</p>
+        <h2>Compra cancelada por outros motivos</h2>
+        <p>Vale diferenciar o direito de arrependimento (7 dias, sem justificativa) de outras formas de cancelamento — como quando o produto não é entregue no prazo, chega com defeito, ou a própria loja cancela a venda por falta de estoque. Nesses casos, a devolução integral também é devida, com base em outras disposições do Código de Defesa do Consumidor.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">Cancelou uma compra e a loja não devolveu o valor dentro do prazo? A Dra. Flávia Vaz Rabello orienta sobre como formalizar a cobrança e, se necessário, buscar a via judicial. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
+      </>
+    ),
+  },
+  {
+    slug: "empresa-nao-pagou-horas-extras-o-que-fazer",
+    category: "Trabalhista",
+    title: "Empresa Não Pagou Horas Extras: O Que Fazer?",
+    h1: "Empresa Não Pagou Horas Extras: O Que Fazer?",
+    excerpt:
+      "Entenda como comprovar horas extras não pagas, qual o adicional legal aplicável e como buscar o pagamento na Justiça do Trabalho.",
+    cover: blogEmpresaNaoPagouHorasExtrasOQueFazer,
+    metaTitle: "Empresa Não Pagou Horas Extras: O Que Fazer? | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Entenda como comprovar horas extras não pagas, qual o adicional legal aplicável e como buscar o pagamento na Justiça do Trabalho.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/empresa-nao-pagou-horas-extras-o-que-fazer",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Trabalho aos finais de semana sempre gera direito a hora extra?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende inteiramente da jornada contratual e da escala de trabalho estabelecida — o que gera direito ao adicional é o trabalho realizado além da jornada normal contratada, não o dia específico da semana em si."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Existe prazo para entrar com reclamação trabalhista sobre horas extras não pagas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sim, aplica-se prazo prescricional de até 2 anos após o encerramento do contrato de trabalho para ajuizar a ação, podendo a reclamação alcançar os últimos 5 anos do vínculo."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Empresa Não Pagou Horas Extras: O Que Fazer?",
+            "item": "https://www.flaviavazrabello.com.br/blog/empresa-nao-pagou-horas-extras-o-que-fazer"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>O que caracteriza tecnicamente hora extra</h2>
+        <p>É considerada hora extra o tempo efetivamente trabalhado além da jornada contratual estabelecida, respeitado o limite constitucional de duas horas extras diárias, salvo exceções específicas previstas em lei ou em acordo/convenção coletiva da categoria profissional.</p>
+        <h2>O adicional legal mínimo garantido por lei</h2>
+        <p>A Constituição Federal garante adicional de, no mínimo, 50% sobre o valor da hora normal de trabalho para o trabalho extraordinário — podendo ser superior se assim previsto em convenção ou acordo coletivo da categoria.</p>
+        <h2>Como comprovar as horas extras trabalhadas</h2>
+        <p>Registros de ponto — mesmo informais, como planilhas próprias ou aplicativos de controle de horário — mensagens trocadas com superiores hierárquicos sobre horários, testemunhas que presenciaram a jornada real praticada, e até e-mails com horário de envio registrado podem servir como prova relevante em uma reclamação trabalhista.</p>
+        <h2>Banco de horas: como funciona a compensação</h2>
+        <p>Quando existe acordo formal de banco de horas, as horas extras podem ser compensadas com folgas em vez de pagamento direto, desde que observadas rigorosamente as regras legais sobre o prazo máximo de compensação. O descumprimento dessas regras pode gerar direito ao pagamento das horas não compensadas corretamente.</p>
+        <h2>Horas extras habituais e seu reflexo em outras verbas</h2>
+        <p>Horas extras pagas com habitualidade ao longo do contrato de trabalho se refletem no cálculo de outras verbas, como 13º salário, férias e FGTS, aumentando a base de cálculo dessas verbas proporcionalmente. Isso significa que o não pagamento de horas extras gera uma cadeia de valores não recebidos que vai além do valor "simples" das horas em si.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">A sua empresa não paga corretamente as horas extras trabalhadas? A Dra. Flávia Vaz Rabello analisa sua jornada e orienta sobre como comprovar e reivindicar os valores devidos. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
+      </>
+    ),
+  },
+  {
+    slug: "nome-sujo-indevidamente-o-que-fazer",
+    category: "Bancário",
+    title: "Nome Sujo Indevidamente: O Que Fazer?",
+    h1: "Nome Sujo Indevidamente: O Que Fazer?",
+    excerpt:
+      "Saiba o que fazer quando seu nome é negativado indevidamente nos órgãos de proteção ao crédito e quais medidas legais são cabíveis.",
+    cover: blogNomeSujoIndevidamenteOQueFazer,
+    metaTitle: "Nome Sujo Indevidamente: O Que Fazer? | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Saiba o que fazer quando seu nome é negativado indevidamente nos órgãos de proteção ao crédito e quais medidas legais são cabíveis.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/nome-sujo-indevidamente-o-que-fazer",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Recebi cobrança de dívida que não reconheço — o que fazer primeiro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "O recomendável é reunir todos os documentos que comprovem a inexistência da relação ou da dívida e buscar orientação jurídica para avaliar a melhor medida, extrajudicial ou judicial, conforme a resposta obtida."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "A empresa tem prazo legal para retirar a negativação depois que eu pago a dívida?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sim, a lei prevê prazo para baixa do registro após a quitação da dívida, e o descumprimento desse prazo pode gerar responsabilização do credor."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nome Sujo Indevidamente: O Que Fazer?",
+            "item": "https://www.flaviavazrabello.com.br/blog/nome-sujo-indevidamente-o-que-fazer"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>Identifique a origem exata da negativação</h2>
+        <p>O primeiro passo prático é identificar junto aos órgãos de proteção ao crédito (SPC, Serasa) qual é a origem exata da negativação — qual credor a incluiu, o valor exato apontado e a data —, o que ajuda a confirmar se a dívida realmente existe, se já foi paga anteriormente, ou se de fato não corresponde a nenhuma relação sua com aquele credor.</p>
+        <h2>A notificação prévia é obrigatória por lei</h2>
+        <p>A lei exige que o consumidor seja notificado previamente, por correspondência, antes da inclusão de seu nome em cadastros de inadimplentes. A ausência dessa notificação prévia, por si só, já é motivo consistente para questionar judicialmente a negativação, independentemente de a dívida em si ser real ou não.</p>
+        <h2>Negativação mantida mesmo após o pagamento</h2>
+        <p>Quando a dívida já foi quitada mas o nome permanece negativado, ou quando a baixa do registro não é feita dentro do prazo legal após o pagamento, também é possível buscar reparação — já que a manutenção indevida do registro configura falha do credor.</p>
+        <h2>Reparação por danos morais</h2>
+        <p>A jurisprudência brasileira consolidada reconhece, em diversas situações de negativação claramente indevida, que ela gera dano moral presumido, o que dispensa a necessidade de provar prejuízo financeiro ou emocional específico, bastando demonstrar a irregularidade da negativação em si para pedir indenização judicialmente.</p>
+        <h2>Negativação por fraude: quando a dívida não é sua</h2>
+        <p>Um cenário cada vez mais comum é a negativação por fraude — alguém abriu uma conta ou fez uma compra em seu nome, usando seus dados sem autorização. Nesses casos, além do questionamento judicial da própria negativação, vale registrar boletim de ocorrência, o que fortalece a prova de que você não é a pessoa responsável pela dívida original.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">Teve o nome negativado indevidamente e não sabe como resolver? A Dra. Flávia Vaz Rabello analisa seu caso e orienta sobre o caminho mais adequado para limpar seu nome e, quando cabível, buscar reparação. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
+      </>
+    ),
+  },
+  {
+    slug: "pensao-alimenticia-como-e-calculado-o-valor",
+    category: "Família",
+    title: "Pensão Alimentícia: Como é Calculado o Valor?",
+    h1: "Pensão Alimentícia: Como é Calculado o Valor?",
+    excerpt:
+      "Entenda os critérios usados para calcular o valor da pensão alimentícia, o binômio necessidade-possibilidade e quais verbas salariais entram no cálculo.",
+    cover: blogPensaoAlimenticiaComoECalculadoOValor,
+    metaTitle: "Pensão Alimentícia: Como é Calculado o Valor? | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Entenda os critérios usados para calcular o valor da pensão alimentícia, o binômio necessidade-possibilidade e quais verbas salariais entram no cálculo.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/pensao-alimenticia-como-e-calculado-o-valor",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Pensão alimentícia tem valor mínimo obrigatório?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Não existe um valor mínimo fixado em lei. O valor é sempre definido conforme a análise das necessidades da criança e da capacidade financeira de quem paga, caso a caso."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "13º salário e férias entram no cálculo da pensão?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sim, entram no cálculo. Só não entram os descontos de INSS, IRPF, FGTS, a multa rescisória de 40%, o vale refeição/alimentação e o aviso prévio indenizado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quais verbas salariais entram na pensão alimentícia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Entram no valor da pensão: salário base, horas extras, décimo terceiro, adicionais (noturno, periculosidade, insalubridade, transferência), terço constitucional de férias, comissões, gratificações habituais e PLR."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pensão Alimentícia: Como é Calculado o Valor?",
+            "item": "https://www.flaviavazrabello.com.br/blog/pensao-alimenticia-como-e-calculado-o-valor"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>Como funciona o binômio necessidade-possibilidade</h2>
+        <p>A lei brasileira não estabelece um percentual fixo sobre a renda para o cálculo da pensão alimentícia — essa é, de longe, a maior fonte de confusão sobre o tema. O juiz avalia, de um lado, as necessidades reais do alimentando (a criança, na maioria dos casos) — moradia, educação, saúde, alimentação, lazer compatível com o padrão de vida que a família tinha antes da separação — e, de outro lado, os rendimentos e o patrimônio de quem deve pagar a pensão, incluindo não só o salário formal mas também outras fontes de renda comprovadas.</p>
+        <h2>Por que percentuais como 30% da renda não são regra</h2>
+        <p>É muito comum ouvir falar em percentuais de referência, como 20% ou 30% da renda líquida por filho, mas eles funcionam apenas como parâmetro prático usado informalmente por alguns juízes e advogados — não como regra legal escrita em lei. O valor final sempre depende da análise concreta das necessidades específicas daquela criança e da capacidade de pagamento efetivamente demonstrada no caso.</p>
+        <h2>O que entra no cálculo das necessidades da criança</h2>
+        <p>Costumam ser consideradas despesas com escola (incluindo material e uniforme), plano de saúde, medicamentos e tratamentos médicos, atividades extracurriculares, vestuário, transporte e moradia, entre outras, sempre proporcionais à idade da criança e à realidade financeira que a família tinha antes da separação.</p>
+        <h2>Quais verbas salariais entram no cálculo</h2>
+        <p>Entram no valor da pensão: salário base, horas extras, décimo terceiro, adicionais (noturno, periculosidade, insalubridade, transferência), terço constitucional de férias, comissões, gratificações habituais e PLR. Já os descontos de INSS, IRPF, FGTS, a multa rescisória de 40%, o vale refeição/alimentação e o aviso prévio indenizado não entram na base de cálculo.</p>
+        <h2>Quando o valor pode ser revisado</h2>
+        <p>Tanto quem paga quanto quem recebe a pensão pode pedir revisão do valor sempre que houver mudança relevante na situação financeira de qualquer uma das partes — perda de emprego, aumento significativo de renda, novo filho a sustentar — ou nas necessidades do alimentando. Isso se faz por meio de uma ação revisional própria, não basta um pedido informal.</p>
+        <h2>Pensão para além dos 18 anos</h2>
+        <p>Um ponto que gera muita dúvida: a pensão alimentícia não cessa automaticamente ao completar 18 anos. Se o filho está cursando ensino superior ou tem alguma condição que justifique a continuidade da dependência, a obrigação pode se estender — mas ela não é presumida: normalmente exige que o próprio filho, agora maior de idade, ajuíze ou mantenha a ação em seu nome.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">Tem dúvidas sobre como a pensão alimentícia do seu filho é calculada, ou precisa pedir revisão de um valor já fixado? A Dra. Flávia Vaz Rabello atua com atenção técnica e humana para garantir que o valor reflita corretamente a necessidade da criança e a capacidade de quem paga. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
+      </>
+    ),
+  },
+  {
+    slug: "produto-com-defeito-quais-sao-meus-direitos",
+    category: "Consumidor",
+    title: "Produto com Defeito: Quais São os Meus Direitos?",
+    h1: "Produto com Defeito: Quais São os Meus Direitos?",
+    excerpt:
+      "Entenda os prazos e opções do consumidor diante de um produto com defeito: reparo, troca, devolução do dinheiro ou abatimento no preço.",
+    cover: blogProdutoComDefeitoQuaisSaoMeusDireitos,
+    metaTitle: "Produto com Defeito: Quais São os Meus Direitos? | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Entenda os prazos e opções do consumidor diante de um produto com defeito: reparo, troca, devolução do dinheiro ou abatimento no preço.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/produto-com-defeito-quais-sao-meus-direitos",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "A loja pode se recusar a trocar um produto com defeito comprovado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Não, respeitados os prazos legais para reparo, a recusa em cumprir uma das opções previstas em lei — reparo, troca, devolução ou abatimento — configura descumprimento direto do Código de Defesa do Consumidor."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Perdi a nota fiscal do produto — ainda tenho direito de reclamar do defeito?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sim, a nota fiscal ajuda a comprovar a compra, mas outros meios de prova também são aceitos, como comprovante de pagamento no cartão ou e-mail de confirmação da compra."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Produto com Defeito: Quais São os Meus Direitos?",
+            "item": "https://www.flaviavazrabello.com.br/blog/produto-com-defeito-quais-sao-meus-direitos"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>Prazo para o fornecedor sanar o defeito</h2>
+        <p>A lei garante ao fornecedor um prazo de até 30 dias corridos para reparar o vício do produto, contado a partir do momento em que o consumidor formaliza a reclamação — salvo se as próprias partes acordarem prazo diferente, respeitando o limite legal de negociação.</p>
+        <h2>O que fazer se o defeito não for resolvido dentro do prazo</h2>
+        <p>Esgotado o prazo de 30 dias sem solução, o consumidor pode escolher, a seu critério, entre três alternativas: substituição do produto por outro da mesma espécie em perfeitas condições, restituição da quantia paga devidamente atualizada, ou abatimento proporcional do preço.</p>
+        <h2>Defeitos que colocam em risco a segurança</h2>
+        <p>Quando o defeito é considerado essencial ao funcionamento do produto ou compromete diretamente sua segurança de uso, o consumidor pode exigir a substituição imediata, sem necessidade de aguardar o prazo padrão de 30 dias para reparo.</p>
+        <h2>Diferença entre vício do produto e defeito de segurança</h2>
+        <p>Vício do produto se refere a problemas de qualidade que o tornam impróprio ao uso a que se destina. Já o defeito relacionado à segurança ("fato do produto") pode gerar, além da troca ou devolução, responsabilização adicional do fornecedor por eventuais danos causados ao consumidor.</p>
+        <h2>Garantia legal x garantia contratual (estendida)</h2>
+        <p>A garantia legal (30 dias para produtos não duráveis, 90 dias para duráveis) é obrigatória por lei e não pode ser suprimida. Já a garantia contratual, oferecida voluntariamente pelo fabricante ou vendedor, é adicional e complementa a legal, nunca a substitui.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">Comprou um produto com defeito e a loja não resolveu dentro do prazo? A Dra. Flávia Vaz Rabello orienta sobre seus direitos como consumidor e o melhor caminho para resolver. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
+      </>
+    ),
+  },
+  {
+    slug: "revisao-contrato-financiamento-veiculo",
+    category: "Bancário",
+    title: "Posso Revisar Contrato de Financiamento de Veículo?",
+    h1: "Posso Revisar Contrato de Financiamento de Veículo?",
+    excerpt:
+      "Entenda em quais situações é possível pedir revisão judicial de contrato de financiamento de veículo e quais cláusulas costumam ser questionadas.",
+    cover: blogRevisaoContratoFinanciamentoVeiculo,
+    metaTitle: "Posso Revisar Contrato de Financiamento de Veículo? | Advogada Flávia Vaz Rabello",
+    metaDescription:
+      "Entenda em quais situações é possível pedir revisão judicial de contrato de financiamento de veículo e quais cláusulas costumam ser questionadas.",
+    canonical: "https://www.flaviavazrabello.com.br/blog/revisao-contrato-financiamento-veiculo",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Revisar o contrato impede a busca e apreensão do veículo em caso de atraso?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Não automaticamente. É possível, dependendo da situação e do estágio do processo, pedir a suspensão da ação de busca e apreensão mediante depósito do valor considerado devido, mas essa é sempre uma análise específica de cada caso."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Um financiamento de veículo já quitado pode ser revisado depois?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sim, é possível buscar a revisão de contratos já quitados dentro do prazo prescricional aplicável, com pedido de restituição dos valores pagos a maior ao longo de todo o contrato."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Início",
+            "item": "https://www.flaviavazrabello.com.br/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://www.flaviavazrabello.com.br/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Posso Revisar Contrato de Financiamento de Veículo?",
+            "item": "https://www.flaviavazrabello.com.br/blog/revisao-contrato-financiamento-veiculo"
+          }
+        ]
+      }
+    ],
+    content: (
+      <>
+        <h2>Cláusulas mais comumente questionadas</h2>
+        <p>Entre os pontos mais frequentemente revisados judicialmente em financiamentos de veículo estão: a taxa de juros remuneratórios muito acima da média de mercado, a capitalização de juros em periodicidade não claramente informada, tarifas de cadastro e de avaliação do bem cobradas sem informação prévia clara, e a chamada venda casada — a obrigação de contratar seguro ou outros produtos junto ao financiamento.</p>
+        <h2>Como identificar possível abusividade</h2>
+        <p>Comparar a taxa de juros contratada com a taxa média divulgada publicamente pelo Banco Central para financiamento de veículos é um bom primeiro passo, gratuito e acessível, assim como revisar com atenção todas as tarifas e encargos listados no contrato original.</p>
+        <h2>O que pode ser pedido em uma ação revisional</h2>
+        <p>Além do recálculo do saldo devedor com base em taxas consideradas adequadas ao mercado, é possível pedir a restituição de valores já pagos indevidamente ao longo do contrato, a exclusão de tarifas questionadas e, quando cabível, a readequação das parcelas ainda não pagas.</p>
+        <h2>Financiamento com alienação fiduciária: atenção redobrada</h2>
+        <p>No financiamento com alienação fiduciária, o bem permanece formalmente em garantia do banco até a quitação total, e o atraso no pagamento pode levar à ação de busca e apreensão do veículo. Por isso, discutir judicialmente eventuais cláusulas abusivas é especialmente recomendável antes que a inadimplência se agrave.</p>
+        <h2>Financiamento já quitado antecipadamente</h2>
+        <p>Na quitação antecipada, além de verificar se o cálculo aplicou corretamente o desconto proporcional de juros futuros — um direito do consumidor frequentemente ignorado —, ainda é possível, dentro do prazo prescricional, questionar cláusulas abusivas do contrato original mesmo depois de quitado.</p>
+        <div className="mt-10 p-6 md:p-8 bg-secondary/40 border border-border">
+        <p className="text-foreground/85 leading-relaxed">Desconfia de cláusulas abusivas no seu contrato de financiamento de veículo? A Dra. Flávia Vaz Rabello analisa seu contrato e orienta sobre a viabilidade de uma revisão judicial. Agende sua consulta online (atendimento em todo o Brasil) ou presencial em Indaiatuba/SP.</p>
+        <a href="https://wa.me/5519997439157" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors">Agendar Consulta</a>
+        </div>
       </>
     ),
   },

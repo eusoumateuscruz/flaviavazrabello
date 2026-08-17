@@ -6,7 +6,7 @@ import Seo from "@/components/Seo";
 import { Input } from "@/components/ui/input";
 import { BLOG_POSTS } from "@/data/blogPosts";
 
-const CATEGORIES = ["Todos", "Família", "Bancário", "Trabalhista", "Geral"] as const;
+const CATEGORIES = ["Todos", "Família", "Bancário", "Trabalhista", "Consumidor", "Geral"] as const;
 
 const POSTS = BLOG_POSTS.map((p) => ({
   slug: p.slug,
