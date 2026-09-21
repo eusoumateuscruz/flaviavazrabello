@@ -1,5 +1,55 @@
 [
  {
+  "slug": "atraso-na-entrega-de-imovel-na-planta",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Atraso na entrega de imóvel na planta: tolerância de 180 dias e indenização",
+  "resumo": "Passados os 180 dias de tolerância, a construtora responde pelo atraso. Veja as opções de quem comprou na planta: receber multa e aluguel ou desfazer o contrato com tudo de volta.",
+  "data": "2026-10-02",
+  "imagem": "/images/blog/atraso-na-entrega-de-imovel-na-planta.jpg",
+  "alt": "Prédio residencial em construção com guindaste ao fundo"
+ },
+ {
+  "slug": "distrato-imovel-na-planta",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Distrato de imóvel na planta: quanto a construtora pode reter",
+  "resumo": "Desistir de um imóvel comprado na planta tem custo, mas com teto. Entenda o que a construtora pode descontar, em quanto tempo deve devolver e quando você recebe tudo de volta.",
+  "data": "2026-10-02",
+  "imagem": "/images/blog/distrato-imovel-na-planta.jpg",
+  "alt": "Maquete branca de um edifício residencial"
+ },
+ {
+  "slug": "plano-de-saude-negou-cobertura",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Plano de saúde negou cobertura: o que fazer quando a recusa é abusiva",
+  "resumo": "Negativa de cirurgia, exame ou tratamento nem sempre é legal. Entenda o rol da ANS depois da decisão do STF, os prazos de atendimento e o caminho para contestar a recusa.",
+  "data": "2026-10-02",
+  "imagem": "/images/blog/plano-de-saude-negou-cobertura.jpg",
+  "alt": "Cartão de plano de saúde ao lado de um estetoscópio"
+ },
+ {
+  "slug": "reajuste-plano-de-saude",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Reajuste do plano de saúde: quando o aumento é abusivo e como contestar",
+  "resumo": "O teto da ANS vale só para planos individuais e familiares. Entenda como funcionam os reajustes dos coletivos e por idade, e o que fazer quando o boleto sobe além do permitido.",
+  "data": "2026-10-02",
+  "imagem": "/images/blog/reajuste-plano-de-saude.jpg",
+  "alt": "Estetoscópio apoiado sobre as teclas de uma calculadora"
+ },
+ {
+  "slug": "seguradora-negou-indenizacao",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Seguradora negou a indenização: quando a recusa é indevida",
+  "resumo": "Desde dezembro de 2025, a Lei 15.040/2024 fixa prazos e exige recusa motivada. Entenda quando a negativa da seguradora é ilegal e o que fazer para receber o valor do seguro.",
+  "data": "2026-10-02",
+  "imagem": "/images/blog/seguradora-negou-indenizacao.jpg",
+  "alt": "Dois carros batidos lado a lado na rua"
+ },
+ {
   "slug": "bagagem-extraviada-o-que-fazer",
   "area": "direito-do-consumidor",
   "categoria": "Consumidor",

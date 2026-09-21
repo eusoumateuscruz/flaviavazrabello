@@ -1,0 +1,104 @@
+{
+ "slug": "plano-de-saude-negou-cobertura",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Plano de saúde negou cobertura: o que fazer quando a recusa é abusiva",
+ "title": "Plano de saúde negou cobertura: o que fazer | Flávia Vaz Rabello",
+ "description": "Plano de saúde negou cobertura de cirurgia ou exame? Veja quando a recusa é abusiva, o que o STF decidiu sobre o rol da ANS e como contestar passo a passo.",
+ "resumo": "Negativa de cirurgia, exame ou tratamento nem sempre é legal. Entenda o rol da ANS depois da decisão do STF, os prazos de atendimento e o caminho para contestar a recusa.",
+ "data": "2026-10-02",
+ "imagem": "/images/blog/plano-de-saude-negou-cobertura.jpg",
+ "alt": "Cartão de plano de saúde ao lado de um estetoscópio",
+ "resposta": "Peça a negativa por escrito, com o motivo e a cláusula usada, e reúna o pedido médico. Se o procedimento está no rol da ANS, a recusa costuma ser indevida. Se não está, o STF (ADI 7.265, 2025) exige cinco requisitos para a cobertura, entre eles prescrição médica, ausência de alternativa no rol, prova científica de eficácia e registro na Anvisa. Com esses documentos, você pode reclamar à operadora, à ANS e, se preciso, pedir liminar na Justiça.",
+ "intro": "<p>A negativa costuma chegar na pior hora: a cirurgia já está marcada, o exame foi pedido com urgência ou o tratamento precisa começar logo. Muitas vezes a operadora responde apenas que o procedimento \"não tem cobertura\" ou \"não consta no rol\", sem explicar mais nada.</p><p>Nem toda recusa é ilegal, mas muitas são. O que define isso é o tipo de plano, o que diz o contrato, a lista de procedimentos da ANS e, desde 2025, os critérios fixados pelo Supremo Tribunal Federal. Abaixo, como identificar a recusa abusiva e o que fazer em cada etapa, com base nas regras de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a> e da saúde suplementar.</p>",
+ "secoes": [
+  {
+   "h2": "O que diz a lei sobre cobertura do plano de saúde",
+   "html": "<p>A Lei 9.656/1998, que regula os planos de saúde, define as coberturas mínimas de cada segmentação (ambulatorial, hospitalar, obstetrícia, odontológica). O artigo 10, parágrafo 12, incluído pela Lei 14.454/2022, afirma que o rol de procedimentos e eventos em saúde da ANS é a <strong>referência básica</strong> para os planos contratados a partir de 1999 ou adaptados à lei.</p><p>Sobre o Código de Defesa do Consumidor, o STJ editou a Súmula 608: o CDC se aplica aos contratos de plano de saúde, salvo os administrados por entidades de autogestão (planos de empresas, sindicatos ou associações que administram o próprio plano). Para quem tem plano comercial comum, isso significa que cláusulas abusivas podem ser anuladas e que o contrato é interpretado de forma favorável ao consumidor.</p><p>Algumas coberturas têm regra própria e reduzem o espaço para recusa:</p><ul><li>Urgência e emergência: o artigo 35-C da Lei 9.656/1998 torna obrigatória a cobertura em casos que impliquem risco imediato de vida ou lesão irreparável, e em acidentes pessoais e complicações na gestação.</li><li>Carência: a lei limita a 24 horas a carência para urgência e emergência (art. 12, V, c), e a Súmula 597 do STJ considera abusiva a cláusula que ultrapassa esse prazo.</li><li>Autismo: em 2026, no Tema 1.295, o STJ decidiu que é abusivo limitar a quantidade de sessões de terapia multidisciplinar prescritas a pacientes com transtorno do espectro autista.</li></ul>"
+  },
+  {
+   "h2": "Rol da ANS: taxativo ou exemplificativo depois do STF",
+   "html": "<p>Essa é a dúvida mais pesquisada. A Lei 14.454/2022 incluiu o parágrafo 13 no artigo 10 da Lei 9.656/1998, dizendo que tratamento prescrito por médico ou dentista que não esteja no rol deve ser coberto quando houver comprovação de eficácia baseada em evidências científicas ou recomendação da Conitec ou de órgão internacional de avaliação de tecnologias em saúde.</p><p>Em 18 de setembro de 2025, no julgamento da ADI 7.265, o STF manteve a possibilidade de cobertura fora do rol, mas fixou critérios técnicos que devem ser observados <strong>todos ao mesmo tempo</strong>:</p><ol><li>o tratamento deve ser prescrito por médico ou odontólogo assistente;</li><li>não pode ter sido expressamente negado pela ANS nem estar pendente de análise para inclusão no rol;</li><li>não pode existir alternativa terapêutica adequada já prevista no rol;</li><li>deve haver comprovação científica de eficácia e segurança;</li><li>o tratamento deve ter registro na Anvisa.</li></ol><p>O STF também definiu que a Justiça só pode autorizar procedimento fora do rol se esses critérios estiverem preenchidos e se ficar provado que a operadora negou o pedido ou demorou de forma excessiva ou se omitiu. Na prática, o rol hoje é a regra, e a exceção depende de prova técnica. Um relatório médico detalhado, que explique por que as opções do rol não servem para o seu caso e cite os estudos que sustentam a indicação, passou a ser o documento central.</p>"
+  },
+  {
+   "h2": "Prazos de atendimento e o dever de responder por escrito",
+   "html": "<p>Muitas negativas são disfarçadas de demora. A Resolução Normativa ANS 566/2022, que continua em vigor, fixa prazos máximos para a operadora garantir o atendimento na rede credenciada, contados em dias úteis:</p><table><thead><tr><th>Atendimento</th><th>Prazo máximo</th></tr></thead><tbody><tr><td>Consulta básica (pediatria, clínica médica, cirurgia geral, ginecologia e obstetrícia)</td><td>7 dias úteis</td></tr><tr><td>Consulta nas demais especialidades</td><td>14 dias úteis</td></tr><tr><td>Exames laboratoriais em regime ambulatorial</td><td>3 dias úteis</td></tr><tr><td>Demais exames e terapias ambulatoriais</td><td>10 dias úteis</td></tr><tr><td>Procedimentos de alta complexidade e internação eletiva</td><td>21 dias úteis</td></tr><tr><td>Urgência e emergência</td><td>Imediato</td></tr></tbody></table><p>Se não houver prestador disponível no prazo, a operadora deve indicar alguém, mesmo fora da rede, e custear o atendimento. Desde 1º de julho de 2025, a RN 623/2024 também regula a resposta às solicitações: a operadora não pode responder com expressões genéricas como \"em análise\" ou \"em auditoria\", e a negativa de autorização deve ser reduzida a termo e entregue ao beneficiário, com o motivo. Guarde todos os números de protocolo, porque eles marcam o início dos prazos.</p>"
+  },
+  {
+   "h2": "Como contestar a negativa passo a passo",
+   "html": "<h3>1. Obtenha a negativa formal</h3><p>Peça pelo canal da operadora a resposta escrita com o motivo e a cláusula ou norma usada. Anote protocolo, data e hora de cada contato.</p><h3>2. Peça um relatório médico completo</h3><p>O pedido simples do exame costuma não bastar. O relatório deve trazer diagnóstico, histórico, tratamentos já tentados, justificativa da indicação, urgência e, se o procedimento estiver fora do rol, a explicação ligada aos critérios do STF.</p><h3>3. Reclame na operadora e na ANS</h3><p>Primeiro na ouvidoria, pedindo reanálise. Se não resolver, registre reclamação na ANS pelos canais oficiais, informando o número e a data do protocolo da operadora. É a própria ANS que orienta esse caminho quando o atendimento não é garantido no prazo, e a reclamação fica registrada contra a operadora.</p><h3>4. Leve à Justiça quando houver pressa</h3><p>Em casos urgentes, é possível pedir tutela de urgência (liminar) para que a operadora autorize o procedimento em poucos dias. Exemplo: uma paciente com cirurgia oncológica marcada tem o pedido de um material negado por \"ausência de cobertura\". Com a negativa escrita, o relatório do cirurgião e a prova de que o procedimento consta no rol, o juiz pode determinar a cobertura antes da data marcada.</p>"
+  },
+  {
+   "h2": "Dano moral e reembolso: o que mudou em 2026",
+   "html": "<p>Por muitos anos, parte da jurisprudência tratou a recusa indevida como dano moral automático. Em 2026, no Tema 1.365, o STJ fixou que a <strong>simples recusa indevida</strong> de cobertura não gera dano moral presumido. Para haver indenização, é preciso demonstrar elementos que ultrapassem o mero aborrecimento.</p><p>O próprio STJ indicou situações em que a reparação pode ser devida: risco à vida, recusa em urgência ou emergência que agrave o estado de saúde, negativa de procedimento claramente previsto em contrato, sofrimento relevante comprovado ou prática reiterada e abusiva da operadora. Por isso, vale registrar o que aconteceu depois da negativa: piora do quadro, adiamento de cirurgia, gastos, afastamento do trabalho.</p><p>Se você pagou do próprio bolso porque a operadora negou um procedimento que deveria cobrir, é possível pedir o reembolso do valor gasto. Guarde nota fiscal, recibo, relatório médico e a negativa. O pedido de reembolso e o pedido de dano moral são independentes: um pode ser reconhecido sem o outro.</p>"
+  },
+  {
+   "h2": "Erros comuns e documentos para reunir",
+   "html": "<p>Alguns equívocos enfraquecem o caso de quem teve a cobertura negada:</p><ul><li>aceitar a negativa por telefone, sem pedir a resposta escrita;</li><li>levar só o pedido médico simples, sem relatório que justifique a indicação;</li><li>deixar de reclamar à ANS, que é rápida e gratuita;</li><li>pagar o procedimento sem guardar comprovantes e depois tentar reembolso sem documentos;</li><li>confundir plano de autogestão com plano comercial, já que no primeiro o CDC não se aplica.</li></ul><p>Documentos que costumam ser pedidos: carteirinha e contrato do plano, negativa escrita, protocolos, relatório e pedido médico, exames anteriores, orçamento do hospital ou clínica e comprovantes de pagamento. Se a recusa envolve procedimento fora do rol, junte os estudos citados pelo médico e a informação sobre o registro na Anvisa.</p><p>A advogada Flávia Vaz Rabello atende casos de plano de saúde em Indaiatuba e de forma online, a partir da análise desses documentos.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O plano pode negar cirurgia dizendo que o material não tem cobertura?",
+   "a": "Nos planos com cobertura hospitalar, o artigo 12, II, e, da Lei 9.656/1998 inclui a cobertura de toda e qualquer taxa, incluindo materiais utilizados. A operadora pode discutir a marca indicada e propor alternativa equivalente, mas não pode inviabilizar o procedimento. Peça a negativa por escrito e um relatório do cirurgião explicando por que aquele material é necessário."
+  },
+  {
+   "q": "Plano de saúde pode negar exame pedido por médico que não é da rede?",
+   "a": "Em regra, a cobertura vale para exames realizados na rede credenciada, mas o pedido pode ser feito por médico de fora. Se a operadora recusa só porque o médico não é credenciado, a negativa tende a ser questionável. O que ela pode exigir é que o exame seja feito em prestador da rede."
+  },
+  {
+   "q": "Quanto tempo o plano tem para autorizar um procedimento?",
+   "a": "A operadora deve garantir o atendimento dentro dos prazos da RN 566/2022, que vão de imediato, em urgência, a 21 dias úteis para alta complexidade e internação eletiva. A resposta ao pedido também tem prazos na RN 623/2024 e não pode ser genérica, como \"em análise\"."
+  },
+  {
+   "q": "Autogestão também pode ser questionada na Justiça?",
+   "a": "Pode. A Súmula 608 do STJ afasta apenas o Código de Defesa do Consumidor nesses planos. A Lei 9.656/1998, as normas da ANS, o contrato e o Código Civil continuam valendo, e a recusa ilegal pode ser contestada com base neles."
+  },
+  {
+   "q": "Preciso de advogado para reclamar na ANS?",
+   "a": "Não. A reclamação na ANS é gratuita e pode ser feita pelo próprio beneficiário, pela internet ou por telefone, informando o protocolo da operadora. A orientação jurídica passa a ser importante quando a recusa persiste, há urgência médica ou se pensa em ação judicial."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 9.656/1998, art. 10, §§ 12 e 13 (incluídos pela Lei 14.454/2022), art. 12, V, c (carência de 24h para urgência) e art. 35-C (cobertura obrigatória em urgência e emergência)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9656.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF, ADI 7.265, julgada em 18/09/2025: cinco critérios cumulativos para cobertura fora do rol e exigência de prova de negativa, demora excessiva ou omissão",
+   "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-criterios-para-que-planos-de-saude-cubram-tratamentos-fora-da-lista-da-ans/",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Súmula 608: CDC aplica-se aos planos de saúde, salvo autogestão",
+   "url": "https://scon.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22608%22+INPATH%28NUM%29&b=SUMU&p=false&l=10&i=1&operador=AND&ordenacao=-%40NUM",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Súmula 597: carência para urgência e emergência abusiva acima de 24 horas",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2017/2017-11-10_09-49_STJ-edita-tres-novas-sumulas.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "ANS: prazos máximos de atendimento da RN 566/2022 (página atualizada em 28/07/2026) e dever de indicar prestador fora da rede",
+   "url": "https://www.gov.br/ans/pt-br/assuntos/consumidor/prazos-maximos-de-atendimento",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "RN ANS 623/2024 (vigência em 1º/07/2025): vedação de respostas genéricas (art. 12, § 5º) e dever de reduzir a termo a negativa (art. 14); prazos da RN 566/2022 prevalecem",
+   "url": "https://www.gov.br/ans/pt-br/arquivos/assuntos/espaco-da-operadora-de-plano-de-saude/atendimento-ao-beneficiario/FAQ_RN_623__17.09.25.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Tema 1.365 (2026): recusa indevida de cobertura não gera dano moral presumido; hipóteses em que a reparação pode ser devida",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15042026-Recusa-indevida-de-cobertura-pelo-plano-de-saude-nao-gera-dano-moral-presumido.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Tema 1.295 (2026): abusiva a limitação de sessões de terapia multidisciplinar para pacientes com TEA",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29072026-STJ-julgou-39-temas-repetitivos-no-primeiro-semestre-de-2026--confira-todas-as-teses-fixadas.aspx",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

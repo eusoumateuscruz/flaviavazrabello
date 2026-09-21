@@ -1,0 +1,104 @@
+{
+ "slug": "reajuste-plano-de-saude",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Reajuste do plano de saúde: quando o aumento é abusivo e como contestar",
+ "title": "Reajuste do plano de saúde 2026: quando é abusivo",
+ "description": "Reajuste do plano de saúde em 2026: veja o teto da ANS para planos individuais, as regras dos coletivos e da faixa etária e como contestar um aumento abusivo.",
+ "resumo": "O teto da ANS vale só para planos individuais e familiares. Entenda como funcionam os reajustes dos coletivos e por idade, e o que fazer quando o boleto sobe além do permitido.",
+ "data": "2026-10-02",
+ "imagem": "/images/blog/reajuste-plano-de-saude.jpg",
+ "alt": "Estetoscópio apoiado sobre as teclas de uma calculadora",
+ "resposta": "Depende do tipo de plano. Nos individuais e familiares, a ANS fixou teto de 5,11% para o período de maio de 2026 a abril de 2027, aplicado só no mês de aniversário do contrato. Nos coletivos não há teto da ANS, mas o aumento precisa ser justificado, e contratos com menos de 30 vidas seguem um índice único por operadora. O reajuste por faixa etária só vale se previsto no contrato, dentro das regras da ANS e sem percentuais desarrazoados, conforme o STJ.",
+ "intro": "<p>O boleto do plano de saúde subiu e a diferença assustou. Antes de concluir que houve abuso, é preciso saber três coisas: se o plano é individual ou coletivo, qual reajuste foi aplicado (anual, por faixa etária ou os dois ao mesmo tempo) e em que mês o contrato faz aniversário.</p><p>As regras mudam bastante conforme a resposta. A seguir, o que a ANS e os tribunais permitem em cada caso e como contestar um aumento que passou do limite, com base nas normas de saúde suplementar e de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Os três tipos de reajuste e como identificá-los no boleto",
+   "html": "<p>O plano de saúde pode sofrer dois aumentos diferentes, que às vezes coincidem no mesmo mês:</p><ul><li><strong>Reajuste anual</strong>: recompõe a variação de custos e só pode ser aplicado uma vez por ano, no mês de aniversário do contrato (o mês em que ele foi assinado).</li><li>Reajuste por mudança de faixa etária: ocorre quando o beneficiário muda de faixa de idade prevista no contrato.</li></ul><p>A forma de calcular o reajuste anual depende da modalidade de contratação:</p><ul><li>Plano individual ou familiar, contratado diretamente pela pessoa: o percentual máximo é definido pela ANS todo ano.</li><li>Plano coletivo empresarial, contratado por empresa, inclusive por MEI ou empresário individual: o reajuste é negociado entre a pessoa jurídica e a operadora.</li><li>Plano coletivo por adesão, contratado por meio de entidade profissional, de classe ou setorial, muitas vezes com uma administradora de benefícios.</li></ul><p>A ANS informa que o percentual aplicado deve constar no boleto ou na fatura. Se o seu boleto não indica o índice nem o motivo do aumento, esse já é o primeiro ponto a questionar na operadora.</p>"
+  },
+  {
+   "h2": "Reajuste do plano individual em 2026",
+   "html": "<p>Para os planos individuais e familiares de assistência médico-hospitalar contratados a partir de 1999 ou adaptados à Lei 9.656/1998, a ANS fixou o percentual máximo de 5,11% para o período de maio de 2026 a abril de 2027. O índice consta da nota técnica do Ministério da Fazenda sobre o reajuste, publicada no portal da ANS, e é o menor desde 2021.</p><p>Duas regras práticas decorrem disso:</p><ul><li>o reajuste só pode ser aplicado a partir do mês de aniversário do contrato, nunca antes;</li><li>a operadora pode aplicar percentual igual ou menor que o teto, mas não maior.</li></ul><p>Exemplo: um plano individual com mensalidade de R$ 800,00 e aniversário em agosto pode passar, no máximo, para R$ 840,88 a partir de agosto de 2026 (R$ 800,00 mais 5,11%). Se o boleto veio com R$ 900,00 e você não mudou de faixa etária, há indício de cobrança acima do permitido.</p><p>Planos individuais antigos, contratados antes de 1999 e não adaptados, seguem o que estiver escrito no contrato ou regras específicas acordadas com a ANS, e a análise precisa ser feita caso a caso.</p>"
+  },
+  {
+   "h2": "Reajuste do plano coletivo: onde mora a maioria dos abusos",
+   "html": "<p>A maior parte dos beneficiários está em planos coletivos, e para eles <strong>não existe teto fixado pela ANS</strong>. Isso não significa que qualquer aumento seja válido. A ANS separa duas situações.</p><h3>Contratos com menos de 30 beneficiários</h3><p>A operadora deve reunir todos os contratos coletivos com até 29 vidas num único grupo e aplicar o mesmo percentual a todos. É o chamado agrupamento de contratos, que dilui o risco de um contrato pequeno com uma pessoa doente sofrer aumento enorme. O índice desse grupo deve ser divulgado pela operadora no site dela em maio de cada ano. Planos de MEI e de pequenas empresas familiares costumam estar aqui.</p><h3>Contratos com 30 beneficiários ou mais</h3><p>O percentual é livremente negociado entre a empresa ou entidade contratante e a operadora. Mesmo assim, a operadora deve fundamentar o percentual e disponibilizar à contratante a memória de cálculo e a metodologia com, no mínimo, 30 dias de antecedência. Depois de aplicado o reajuste, o próprio beneficiário pode pedir formalmente a memória de cálculo, e a operadora ou administradora tem até 10 dias para fornecê-la.</p><p>Na Justiça, o reajuste coletivo costuma ser questionado quando a operadora não demonstra, com dados, a variação de custos e de uso que alega. Sem essa prova, o percentual pode ser revisto.</p>"
+  },
+  {
+   "h2": "Reajuste por faixa etária e a proteção a quem tem mais de 60 anos",
+   "html": "<p>O artigo 15 da Lei 9.656/1998 só admite o aumento por idade se as faixas etárias e os percentuais de cada uma estiverem previstos no contrato inicial. Para planos contratados depois de 1º de janeiro de 2004, a ANS estabelece dez faixas, sendo a última aos 59 anos ou mais. A RN 63/2003 impõe dois limites:</p><ul><li>o valor da última faixa não pode ser superior a seis vezes o valor da primeira (0 a 18 anos);</li><li>a variação acumulada entre a sétima e a décima faixas não pode ser maior que a variação acumulada entre a primeira e a sétima.</li></ul><p>Depois dos 59 anos, portanto, não há novos aumentos por idade nesses contratos. O Estatuto da Pessoa Idosa (art. 15, § 3º) proíbe a discriminação nos planos de saúde pela cobrança de valores diferenciados em razão da idade, e a Lei 9.656/1998 veda a variação por idade para quem tem mais de 60 anos e está no plano há mais de dez anos.</p><p>O STJ, no Tema 952, definiu que o reajuste por faixa etária em plano individual é válido quando há previsão contratual, respeito às normas da ANS e ausência de percentuais desarrazoados ou aleatórios, sem base atuarial, que onerem excessivamente o consumidor ou discriminem o idoso. No Tema 1.016, estendeu essas teses aos planos coletivos e fixou que a \"variação acumulada\" da RN 63/2003 deve ser calculada pela fórmula matemática, e não pela simples soma dos percentuais.</p>"
+  },
+  {
+   "h2": "Como contestar um reajuste abusivo",
+   "html": "<h3>1. Descubra o tipo de reajuste e o tipo de plano</h3><p>Verifique no contrato ou na carteirinha se o plano é individual, coletivo empresarial ou por adesão, qual é o mês de aniversário e quais são as faixas etárias previstas.</p><h3>2. Faça as contas</h3><p>Compare a mensalidade antiga com a nova. Se for individual, confira se o aumento anual ficou dentro do teto. Se houve mudança de faixa, confira se o percentual está no contrato e se respeita os limites da RN 63/2003.</p><h3>3. Peça explicações por escrito</h3><p>Solicite à operadora ou à administradora o índice aplicado, a justificativa e, nos coletivos, a memória de cálculo. Guarde o protocolo.</p><h3>4. Reclame à ANS</h3><p>A ANS recebe reclamações sobre reajuste. No individual, a própria agência orienta o consumidor a verificar se a operadora está autorizada a aplicar o índice.</p><h3>5. Avalie a via judicial</h3><p>Se o aumento persistir, é possível pedir a revisão do percentual e a devolução do que foi pago a mais. No Tema 610, o STJ fixou que a pretensão de restituição com base na nulidade da cláusula de reajuste prescreve em três anos (art. 206, § 3º, IV, do Código Civil). Na prática, costuma-se recuperar o que foi pago a mais nos três anos anteriores ao ajuizamento da ação.</p>"
+  },
+  {
+   "h2": "Erros comuns e documentos para reunir",
+   "html": "<p>Alguns equívocos atrapalham quem quer contestar o aumento:</p><ul><li>comparar o reajuste de um plano coletivo com o teto da ANS, que só vale para individuais;</li><li>não perceber que o reajuste anual e o da faixa etária caíram no mesmo mês, o que explica aumentos maiores;</li><li>cancelar o plano por impulso e perder carências já cumpridas, quando seria possível discutir o valor ou estudar a portabilidade;</li><li>deixar passar anos sem questionar e perder parte dos valores pela prescrição.</li></ul><p>Reúna: contrato e aditivos, boletos dos últimos anos (especialmente os do mês de aniversário), comunicados da operadora sobre reajuste, memória de cálculo quando for coletivo, documento com a data de nascimento dos beneficiários e protocolos de atendimento. Com esses papéis é possível reconstituir mês a mês o que foi cobrado e quanto deveria ter sido.</p><p>A advogada Flávia Vaz Rabello analisa reajustes de planos de saúde em atendimento presencial e online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O teto de 5,11% vale para plano coletivo por adesão?",
+   "a": "Não. O percentual definido pela ANS vale apenas para planos individuais e familiares. Nos coletivos por adesão, o reajuste é negociado entre a entidade ou administradora e a operadora. Se o contrato tiver menos de 30 beneficiários, aplica-se o índice único do agrupamento divulgado pela operadora."
+  },
+  {
+   "q": "A operadora pode cobrar o reajuste de forma retroativa?",
+   "a": "O reajuste anual só pode incidir a partir do mês de aniversário do contrato. Quando a autorização da ANS sai depois desse mês, as regras da agência disciplinam a cobrança da diferença. Se aparecer cobrança retroativa sem explicação, peça por escrito o cálculo e o período correspondente."
+  },
+  {
+   "q": "Plano de saúde pode aumentar aos 59 anos?",
+   "a": "Nos contratos posteriores a 2004, 59 anos é a última faixa etária prevista pela ANS, então pode haver aumento nesse momento, desde que previsto no contrato e dentro dos limites da RN 63/2003. Depois disso, não há novos reajustes por idade, apenas o reajuste anual."
+  },
+  {
+   "q": "Posso trocar de plano em vez de brigar pelo reajuste?",
+   "a": "Sim. A portabilidade de carências permite mudar para outro plano compatível sem cumprir novas carências, desde que atendidos os requisitos da ANS, que podem ser conferidos no portal da agência antes do pedido. A troca não impede pedir de volta valores pagos a mais no contrato antigo."
+  },
+  {
+   "q": "Reajuste alto em plano de MEI é legal?",
+   "a": "O plano contratado por MEI é coletivo empresarial e não segue o teto da ANS. Se tiver menos de 30 vidas, porém, deve receber o mesmo índice aplicado a todo o agrupamento da operadora. Percentual diferente do divulgado ou sem justificativa pode ser questionado."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Reajuste máximo de 5,11% para planos individuais/familiares no período de maio de 2026 a abril de 2027 (Nota Técnica SEI 3878/2026/MF, publicada no portal da ANS)",
+   "url": "https://www.gov.br/ans/pt-br/assuntos/consumidor/reajuste-variacao-de-mensalidade/reajuste-anual-de-planos-individuais-familiares-1/IRPI2026_NT_MinFazenda.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "ANS: reajuste anual só na data de aniversário do contrato e após autorização da ANS",
+   "url": "https://www.gov.br/ans/pt-br/assuntos/consumidor/reajuste-variacao-de-mensalidade/reajuste-anual-de-planos-individuais-familiares-1",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "ANS: agrupamento de contratos coletivos com menos de 30 beneficiários, livre negociação acima de 30, memória de cálculo com 30 dias de antecedência e prazo de 10 dias para fornecê-la ao beneficiário",
+   "url": "https://www.gov.br/ans/pt-br/assuntos/consumidor/reajuste-variacao-de-mensalidade/reajuste-anual-de-planos-coletivos",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "ANS: faixas etárias e limites da RN 63/2003 (seis vezes; variação entre 7ª e 10ª faixas)",
+   "url": "https://www.gov.br/ans/pt-br/assuntos/consumidor/reajuste-variacao-de-mensalidade/reajuste-por-mudanca-de-faixa-etaria",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 9.656/1998, art. 15 e parágrafo único (faixas etárias no contrato; vedação para maiores de 60 anos com mais de 10 anos de plano)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9656.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Estatuto da Pessoa Idosa (Lei 10.741/2003), art. 15, § 3º",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Temas 952 e 1.016: validade do reajuste por faixa etária e extensão aos planos coletivos; cálculo da variação acumulada",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/29032022-Segunda-Secao--em-repetitivo--reconhece-validade-do-reajuste-por-faixa-etaria-em-planos-de-saude-coletivos.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Tema 610: prescrição trienal da restituição de valores pagos por reajuste abusivo",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2016/2016-09-22_07-56_Acao-para-ressarcimento-de-reajuste-abusivo-em-plano-de-saude-prescreve-em-tres-anos.aspx",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
