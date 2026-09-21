@@ -1,5 +1,55 @@
 [
  {
+  "slug": "busca-e-apreensao-de-veiculo",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Busca e apreensão de veículo: como funciona e quais são seus direitos",
+  "resumo": "Quando o carro financiado tem alienação fiduciária, o atraso abre caminho para a busca e apreensão. Veja as etapas da ação, os prazos que correm contra você e o que o banco deve prestar contas.",
+  "data": "2026-09-26",
+  "imagem": "/images/blog/busca-e-apreensao-de-veiculo.jpg",
+  "alt": "Guincho transportando um carro em uma avenida"
+ },
+ {
+  "slug": "busca-e-apreensao-extrajudicial",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Busca e apreensão extrajudicial pelo cartório: o que mudou para o devedor",
+  "resumo": "O Marco Legal das Garantias permitiu ao banco retomar veículos e outros bens pelo cartório, sem processo. Veja as etapas, os prazos para pagar ou contestar e os limites que o STF impôs.",
+  "data": "2026-09-26",
+  "imagem": "/images/blog/busca-e-apreensao-extrajudicial.jpg",
+  "alt": "Envelope de correspondência com carimbos postais"
+ },
+ {
+  "slug": "financiamento-imobiliario-atrasado",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Financiamento imobiliário atrasado: o que acontece e como evitar o leilão",
+  "resumo": "Atrasar o financiamento com alienação fiduciária abre um procedimento no cartório de registro de imóveis, com prazos curtos. Veja cada etapa e até quando dá para pagar e manter o imóvel.",
+  "data": "2026-09-26",
+  "imagem": "/images/blog/financiamento-imobiliario-atrasado.jpg",
+  "alt": "Fachada de casa residencial com carro na garagem"
+ },
+ {
+  "slug": "leilao-de-imovel-por-divida",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Imóvel indo a leilão por dívida com o banco: prazos e o que ainda dá para fazer",
+  "resumo": "Depois que o banco consolida a propriedade, o imóvel vai a dois leilões com regras de lance mínimo. Veja os prazos, o direito de recomprar até o segundo leilão e o que acontece com a sobra ou a dívida restante.",
+  "data": "2026-09-26",
+  "imagem": "/images/blog/leilao-de-imovel-por-divida.jpg",
+  "alt": "Martelo de leilão de madeira sobre fundo claro"
+ },
+ {
+  "slug": "purgacao-da-mora-recuperar-carro-apreendido",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Carro apreendido pelo banco: como pagar a dívida e recuperar o veículo",
+  "resumo": "Depois da apreensão, recuperar o carro exige pagar a dívida inteira em poucos dias. Veja como calcular, onde depositar e como contestar depois um valor cobrado a mais.",
+  "data": "2026-09-26",
+  "imagem": "/images/blog/purgacao-da-mora-recuperar-carro-apreendido.jpg",
+  "alt": "Mão segurando a chave de um carro estacionado ao fundo"
+ },
+ {
   "slug": "abandono-afetivo-indenizacao",
   "area": "direito-de-familia",
   "categoria": "Família",

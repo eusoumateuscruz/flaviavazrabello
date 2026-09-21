@@ -1,0 +1,89 @@
+{
+ "slug": "busca-e-apreensao-de-veiculo",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Busca e apreensão de veículo: como funciona e quais são seus direitos",
+ "title": "Busca e apreensão de veículo: como funciona e seus direitos",
+ "description": "Busca e apreensão de veículo: quando o banco pode pedir, como a mora é comprovada, os prazos depois da liminar e o que acontece com a venda do carro.",
+ "resumo": "Quando o carro financiado tem alienação fiduciária, o atraso abre caminho para a busca e apreensão. Veja as etapas da ação, os prazos que correm contra você e o que o banco deve prestar contas.",
+ "data": "2026-09-26",
+ "imagem": "/images/blog/busca-e-apreensao-de-veiculo.jpg",
+ "alt": "Guincho transportando um carro em uma avenida",
+ "resposta": "A busca e apreensão é a ação que o banco usa para retomar o veículo financiado com alienação fiduciária quando as parcelas atrasam. Antes, ele precisa comprovar a mora, em regra com notificação enviada ao endereço do contrato. O juiz concede a liminar, o carro é recolhido e, a partir daí, você tem 5 dias para pagar a dívida integral e ter o veículo de volta, e 15 dias para apresentar defesa. Sem pagamento, o banco vende o carro e deve devolver o que sobrar.",
+ "intro": "<p>Quase todo financiamento de veículo no Brasil é feito com alienação fiduciária: o carro fica em seu nome para uso, mas a propriedade pertence ao banco até a última parcela. É essa garantia que permite ao credor pedir a busca e apreensão sem precisar penhorar outros bens seus. As regras estão no Decreto-Lei 911/1969, alterado várias vezes, a última delas pela Lei 14.711/2023.</p><p>O procedimento é rápido e os prazos são curtos, por isso quem recebe uma notificação de atraso ou descobre uma restrição no Detran precisa entender cada etapa. Os demais temas de contratos e dívidas com bancos estão reunidos na página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Quando o banco pode pedir a busca e apreensão",
+   "html": "<p>O pedido depende de dois requisitos: contrato com alienação fiduciária e <strong>mora comprovada</strong>. Pelo art. 2º, § 2º, do Decreto-Lei 911/1969, a mora decorre do simples vencimento da parcela e é comprovada por carta registrada com aviso de recebimento, sem exigir que a assinatura no aviso seja a do próprio devedor.</p><p>O STJ foi além no Tema 1.132 dos recursos repetitivos: basta que a notificação seja enviada ao endereço indicado no contrato, dispensada a prova de que ela foi recebida, pelo devedor ou por terceiros. Na prática, quem mudou de endereço e não avisou o banco pode ser considerado notificado sem nunca ter lido a carta.</p><p>O atraso também antecipa o restante do contrato. O art. 2º, § 3º, permite ao credor considerar vencidas todas as parcelas, inclusive as futuras, independentemente de novo aviso. É por isso que, na ação, o valor cobrado costuma ser o saldo inteiro do financiamento, e não só as prestações em atraso.</p><p>Há ainda um ponto que pesa contra quem já pagou quase tudo. Em 2017, no REsp 1.622.555, a Segunda Seção do STJ decidiu que a teoria do adimplemento substancial não se aplica aos contratos regidos pelo Decreto-Lei 911/1969. O caso envolvia quatro parcelas em aberto de um total de 48, e mesmo assim a busca e apreensão foi admitida.</p>"
+  },
+  {
+   "h2": "Como a ação corre depois da liminar",
+   "html": "<p>Comprovada a mora, o juiz concede a busca e apreensão liminarmente, sem ouvir o devedor antes, e a decisão pode ser apreciada até em plantão judiciário (art. 3º). O juiz insere a restrição diretamente no Renavam quando tem acesso ao sistema, ou oficia ao Detran para registrar o gravame (art. 3º, §§ 9º e 10). Se o carro estiver em outra comarca, o banco pode pedir a apreensão diretamente ao juízo do local em que ele foi encontrado (§ 12).</p><p>No cumprimento do mandado, o devedor deve entregar o veículo e os documentos (§ 14). O oficial de justiça recolhe o carro, e o banco é intimado para retirá-lo do depósito em até 48 horas (§ 13).</p><h3>Os dois prazos que começam na apreensão</h3><ul><li><strong>5 dias</strong> para pagar a integralidade da dívida apresentada pelo banco na petição inicial e receber o carro de volta, livre do ônus (art. 3º, §§ 1º e 2º).</li><li>15 dias para apresentar a resposta, que é a defesa no processo (art. 3º, § 3º).</li></ul><p>O prazo de resposta conta da execução da liminar por expressa previsão da lei. Para o prazo de pagamento, o STJ fixou o mesmo marco no Tema 1.279, julgado em agosto de 2025: os 5 dias correm da execução da liminar, e não da citação. Passados os 5 dias sem pagamento, a propriedade e a posse se consolidam em nome do banco, que pode pedir novo documento do veículo em seu nome ou de terceiro.</p>"
+  },
+  {
+   "h2": "O que pode ser discutido na defesa",
+   "html": "<p>A defesa pode atacar a própria base da ação. Os argumentos mais comuns são a falta de comprovação válida da mora (notificação enviada a endereço diferente do contratual, por exemplo), pagamento que o banco não considerou, cobrança de encargos não previstos no contrato e erro no cálculo do saldo antecipado.</p><p>Quem pagou a dívida integral nos 5 dias ainda pode apresentar a resposta se entender que pagou a mais e quiser a restituição (art. 3º, § 4º). Pagar para recuperar o carro, portanto, não impede discutir o valor depois.</p><p>A revisão de juros e cláusulas do contrato costuma ser objeto de outra discussão, com regras próprias, tratada no texto sobre <a href=\"/blog/revisao-contrato-financiamento-veiculo\">revisão de contrato de financiamento de veículo</a>. Ingressar com revisão depois da apreensão não devolve o carro por si só; o que interrompe o procedimento é o pagamento integral no prazo ou uma decisão judicial específica.</p><h3>Se o banco perder a ação</h3><p>Quando a busca e apreensão é julgada improcedente e o carro já foi vendido, o juiz condena o banco a pagar ao devedor multa de 50% do valor originalmente financiado, atualizado (art. 3º, § 6º), sem prejuízo de indenização por perdas e danos (§ 7º). A apelação contra a sentença não suspende seus efeitos (§ 5º).</p>"
+  },
+  {
+   "h2": "A venda do carro e o saldo que sobra ou falta",
+   "html": "<p>Consolidada a propriedade, o banco pode vender o veículo a terceiros, sem leilão ou avaliação prévia, salvo se o contrato disser o contrário (art. 2º). A lei impõe três deveres: aplicar o valor da venda no pagamento do crédito e das despesas, entregar ao devedor o saldo que sobrar e prestar contas. O Código Civil também proíbe o banco de simplesmente ficar com o carro como pagamento (art. 1.365).</p><h3>Exemplo</h3><p>Imagine um saldo devedor de R$ 38 mil, já com as parcelas vencidas e antecipadas, mais R$ 2 mil de despesas de remoção e pátio. Se o carro for vendido por R$ 45 mil, o banco deve devolver R$ 5 mil ao antigo devedor. Se for vendido por R$ 30 mil, faltam R$ 10 mil, e o devedor continua obrigado pelo restante (Código Civil, art. 1.366), o que pode gerar uma cobrança posterior.</p><p>Por isso <strong>a prestação de contas</strong> importa. Venda por valor muito abaixo do mercado ou despesas sem comprovação podem ser questionadas, e o pedido de contas pode ser feito na própria ação ou em processo separado. Guarde fotos do carro no dia da apreensão, com quilometragem e estado de conservação, porque elas ajudam a contestar uma venda por preço vil.</p>"
+  },
+  {
+   "h2": "Como saber se existe busca e apreensão contra você",
+   "html": "<p>A ação judicial é pública, salvo segredo de justiça. A consulta pode ser feita no site do tribunal do seu estado, pela pesquisa processual por nome ou CPF; no Tribunal de Justiça de São Paulo, pelo sistema e-SAJ. O processo costuma correr no foro indicado no contrato ou no do domicílio do devedor.</p><p>Outro sinal é a restrição no cadastro do veículo. Como o juiz lança o gravame da busca e apreensão no Renavam, a consulta do veículo no Detran pode mostrar a restrição judicial antes mesmo de o oficial aparecer. Em caso de apreensão, a restrição é retirada depois que o carro é recolhido (art. 3º, § 9º).</p><p>Desde a Lei 14.711/2023, o banco também pode seguir pela via do cartório, sem processo judicial, se o contrato tiver cláusula expressa para isso. Nesse caso a notificação vem do cartório de registro de títulos e documentos, com prazo de 20 dias para pagar (Decreto-Lei 911/1969, art. 8º-B). Receber esse tipo de notificação é sinal de que o procedimento extrajudicial já começou, e ele tem prazos e regras diferentes da ação judicial.</p>"
+  },
+  {
+   "h2": "Erros comuns e o que reunir antes de agir",
+   "html": "<p>Alguns erros se repetem e custam o carro:</p><ul><li>Esconder o veículo. O banco pode pedir a conversão da busca e apreensão em execução, com penhora de outros bens (art. 4º e 5º), e a dívida continua crescendo com despesas.</li><li>Depositar só as parcelas atrasadas. Para recuperar o carro depois da liminar, o pagamento precisa ser da dívida integral apresentada na inicial.</li><li>Deixar o prazo de 5 dias correr esperando uma proposta do banco. O acordo pode acontecer, mas não suspende o prazo.</li><li>Não atualizar o endereço no contrato. A notificação vale se foi enviada ao endereço contratual.</li></ul><p>Documentos úteis para uma análise: contrato de financiamento, carnê ou extrato de parcelas pagas, comprovantes de pagamento, a notificação de atraso recebida, a cópia do mandado ou do auto de apreensão, fotos do veículo e qualquer proposta de acordo por escrito. A advogada Flávia Vaz Rabello atende casos de direito bancário em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Com quantas parcelas atrasadas o banco pode tomar o carro?",
+   "a": "A lei não fixa um número mínimo de parcelas. A mora nasce com o simples vencimento de uma prestação não paga, e o banco pode pedir a busca e apreensão depois de comprovar essa mora com a notificação ao endereço do contrato. Muitos bancos esperam alguns meses para ajuizar, mas isso é política interna, não regra legal."
+  },
+  {
+   "q": "O oficial de justiça pode entrar na minha garagem para levar o carro?",
+   "a": "O mandado judicial de busca e apreensão autoriza o oficial de justiça a localizar e recolher o veículo, e o devedor tem o dever de entregá-lo com os documentos. O que o oficial pode fazer em cada local depende dos termos do próprio mandado. Peça para ler o documento, confira o nome do oficial e guarde a cópia do auto de apreensão."
+  },
+  {
+   "q": "Posso vender ou transferir um carro que ainda está financiado?",
+   "a": "Não sem a anuência do banco. O veículo com alienação fiduciária pertence ao credor até a quitação, e o gravame aparece no documento. Repassar o carro por contrato de gaveta não tira seu nome da dívida e, se o novo possuidor atrasar, a busca e apreensão continua dirigida contra você."
+  },
+  {
+   "q": "Meu nome pode ser negativado além da perda do carro?",
+   "a": "Sim. A inscrição em cadastros de inadimplentes é independente da ação, e se a venda do carro não cobrir o saldo, o restante continua sendo cobrado. Se a dívida for quitada com a venda ou em acordo, a negativação deve ser retirada; uma inscrição mantida depois disso pode ser contestada."
+  },
+  {
+   "q": "Os objetos pessoais que estavam no carro também ficam com o banco?",
+   "a": "Não. A garantia recai sobre o veículo e seus acessórios, não sobre pertences pessoais. Se algo ficou no carro no momento da apreensão, peça a devolução ao banco ou ao pátio indicado, por escrito, e registre o pedido. O auto de apreensão feito pelo oficial ajuda a provar o que estava dentro."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "DL 911/1969: art. 2º (venda, saldo, prestação de contas, mora por carta com AR, vencimento antecipado), art. 3º (liminar, 5 dias para pagar a integralidade, 15 dias de resposta, multa de 50%, Renavam, 48 horas, entrega do bem), arts. 4º e 5º (conversão em execução), art. 8º-B (via extrajudicial, 20 dias)",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.132: comprovação da mora com envio da notificação ao endereço do contrato, dispensada a prova do recebimento",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1132&cod_tema_final=1132",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.279 (ago/2025): prazo de 5 dias para pagar a integralidade corre da execução da liminar",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/25082025-Prazo-de-cinco-dias-para-pagar-divida-fiduciaria-comeca-na-execucao-da-liminar-de-busca-e-apreensao.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ REsp 1.622.555/MG (Informativo 599): adimplemento substancial não se aplica a contrato regido pelo DL 911/1969",
+   "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT%3D016220",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Código Civil arts. 1.364 a 1.366: venda da coisa, nulidade do pacto comissório, devedor responde pelo restante",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

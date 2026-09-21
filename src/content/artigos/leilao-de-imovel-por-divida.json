@@ -1,0 +1,84 @@
+{
+ "slug": "leilao-de-imovel-por-divida",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Imóvel indo a leilão por dívida com o banco: prazos e o que ainda dá para fazer",
+ "title": "Leilão de imóvel por dívida com o banco: prazos e saídas",
+ "description": "Leilão de imóvel na alienação fiduciária: prazos dos dois leilões, lance mínimo, direito de preferência do devedor, devolução da sobra e desocupação.",
+ "resumo": "Depois que o banco consolida a propriedade, o imóvel vai a dois leilões com regras de lance mínimo. Veja os prazos, o direito de recomprar até o segundo leilão e o que acontece com a sobra ou a dívida restante.",
+ "data": "2026-09-26",
+ "imagem": "/images/blog/leilao-de-imovel-por-divida.jpg",
+ "alt": "Martelo de leilão de madeira sobre fundo claro",
+ "resposta": "Consolidada a propriedade em nome do banco, ele tem 60 dias para fazer o primeiro leilão, em que o lance mínimo é o valor do imóvel fixado no contrato. Sem arrematação, o segundo leilão ocorre em até 15 dias, com lance mínimo igual à dívida mais despesas. Até o segundo leilão, o antigo devedor pode recomprar o imóvel pagando a dívida e os custos. Se o imóvel for vendido por mais do que a dívida, a diferença deve ser devolvida em 5 dias.",
+ "intro": "<p>Quando o edital de leilão aparece, a fase de pagar só as parcelas atrasadas já passou: a propriedade foi consolidada em nome do banco na matrícula. Mesmo assim, a Lei 9.514/1997, com as mudanças da Lei 14.711/2023, ainda reserva ao antigo devedor alguns direitos importantes, e os prazos para exercê-los são curtos. O STF confirmou a validade desse modelo extrajudicial no Tema 982.</p><p>As regras valem para qualquer banco ou financeira que tenha usado a alienação fiduciária de imóvel, inclusive bancos públicos. Os demais temas de contratos bancários estão na página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Os prazos e o lance mínimo de cada leilão",
+   "html": "<p>Averbada a consolidação, o banco tem <strong>60 dias</strong> para promover o leilão público, contados da averbação na matrícula (art. 27). No primeiro leilão, o imóvel só pode ser vendido por valor igual ou superior ao fixado no contrato para esse fim (art. 24, VI). Se esse valor for menor que a base de cálculo usada pela prefeitura para o ITBI da consolidação, vale a base do imposto como mínimo.</p><p>Se ninguém der lance suficiente, o segundo leilão acontece nos 15 dias seguintes (art. 27, § 1º). Nele, é aceito o maior lance que cubra o valor integral da dívida, as despesas (inclusive emolumentos de cartório), os prêmios de seguro, os tributos e as contribuições de condomínio (§ 2º).</p><p>As datas, horários e locais dos leilões devem ser comunicados ao devedor por correspondência aos endereços do contrato, inclusive o eletrônico (§ 2º-A). Os leilões e editais podem ser feitos por meio eletrônico (§ 10), o que é comum hoje. Guarde qualquer comunicação recebida: a falta de aviso das datas é um dos pontos que podem ser questionados.</p>"
+  },
+  {
+   "h2": "O direito de preferência: recomprar até o segundo leilão",
+   "html": "<p>Entre a averbação da consolidação e a data do segundo leilão, o antigo devedor tem direito de preferência para adquirir o imóvel (art. 27, § 2º-B). O preço corresponde a:</p><ul><li>o valor da dívida;</li><li>as despesas, os prêmios de seguro, os encargos legais e as contribuições condominiais;</li><li>os tributos, inclusive o ITBI e o laudêmio pagos pelo banco para consolidar a propriedade;</li><li>as despesas do procedimento de cobrança e do leilão.</li></ul><p>Além disso, quem exerce a preferência paga os tributos e as despesas da nova aquisição, como o ITBI dessa compra, custas e emolumentos. É uma recompra, e não uma simples retomada do contrato, por isso sai mais cara que a purgação da mora.</p><p>Na prática, exercer a preferência exige dinheiro à vista ou um novo financiamento aprovado em poucos dias. Quem pretende usar esse direito deve pedir ao banco, por escrito e o quanto antes, o valor exato para a recompra, e não esperar o dia do segundo leilão, porque depois dele o direito deixa de existir.</p>"
+  },
+  {
+   "h2": "Sobra, dívida restante e o caso do imóvel residencial",
+   "html": "<p>Se o imóvel for vendido por mais do que a dívida, as despesas e os encargos, o banco deve entregar a diferença ao antigo devedor nos 5 dias seguintes à venda, incluída a indenização de benfeitorias (art. 27, § 4º).</p><h3>Exemplo</h3><p>Um imóvel com valor de leilão de R$ 400 mil no contrato não recebe lances no primeiro leilão. A dívida, somada a despesas, tributos e condomínio, chega a R$ 250 mil. No segundo leilão, ele é arrematado por R$ 320 mil. O banco fica com R$ 250 mil e deve devolver R$ 70 mil ao antigo devedor em 5 dias.</p><h3>Quando ninguém cobre a dívida</h3><p>Aqui a finalidade do financiamento muda tudo. No financiamento para compra ou construção do imóvel residencial do devedor, se o segundo leilão não tiver lance que cubra a dívida, ela é considerada extinta, com quitação recíproca, e o banco fica com o imóvel (art. 26-A, §§ 3º e 4º). Nos demais casos, como imóvel comercial ou empréstimo com imóvel em garantia, o banco pode aceitar lance de pelo menos metade do valor de avaliação (art. 27, § 2º), e se o produto do leilão não bastar, o devedor continua obrigado pelo saldo, que pode ser cobrado em execução (§ 5º-A).</p>"
+  },
+  {
+   "h2": "Desocupação, taxa de ocupação e ações na Justiça",
+   "html": "<p>O banco, ou quem arrematar o imóvel, tem direito à reintegração de posse, concedida liminarmente, com prazo de 60 dias para desocupação, desde que comprovada a consolidação (art. 30). Ficar no imóvel depois disso tem custo: desde a consolidação até a imissão na posse, pode ser cobrada taxa de ocupação de 1% ao mês sobre o valor do imóvel fixado no contrato (art. 37-A). Em um imóvel de R$ 400 mil, são R$ 4 mil por mês.</p><p>O antigo devedor também responde por IPTU, taxas e condomínio até a data em que o banco é imitido na posse (art. 27, § 8º). Se o imóvel estiver alugado, o banco pode denunciar a locação com 30 dias para desocupação, salvo concordância anterior por escrito (§ 7º).</p><p>Um ponto decisivo: depois da arrematação, ou da consolidação definitiva quando os leilões fracassam, ações que discutem cláusulas do contrato ou requisitos do procedimento não impedem a reintegração e se resolvem em perdas e danos. A exceção é a falta de intimação do devedor (art. 30, parágrafo único). Por isso, questionar o procedimento antes do leilão tem efeito muito maior do que depois.</p>"
+  },
+  {
+   "h2": "O que ainda pode ser questionado antes do leilão",
+   "html": "<p>O STF, no Tema 982, declarou constitucional a execução extrajudicial da Lei 9.514/1997, justamente porque o devedor pode levar ao Judiciário qualquer irregularidade. As mais comuns envolvem:</p><ul><li>intimação para purgar a mora feita de forma irregular, como edital sem tentativa pessoal ou sem o envio prévio por e-mail, quando havia e-mail no contrato;</li><li>ausência de comunicação das datas dos leilões aos endereços do contrato;</li><li>primeiro leilão com lance mínimo abaixo do valor contratual ou da base do ITBI;</li><li>cobrança, no valor da recompra, de despesas sem comprovação;</li><li>imóvel residencial tratado como se não tivesse o prazo extra e a extinção da dívida do art. 26-A.</li></ul><p>Uma ação pode pedir a suspensão do leilão, mas a suspensão depende de decisão do juiz e de indícios concretos da irregularidade. Uma simples discordância com os juros, sem problema no procedimento, dificilmente segura o leilão. Por isso, a análise deve começar pela matrícula atualizada e pelas certidões de intimação emitidas pelo cartório.</p>"
+  },
+  {
+   "h2": "Documentos para reunir e erros a evitar",
+   "html": "<p>Com o edital publicado, o tempo útil é de semanas. Reúna:</p><ul><li>matrícula atualizada do imóvel, com a averbação da consolidação;</li><li>contrato de financiamento, com o valor fixado para leilão e a finalidade do crédito;</li><li>intimações e certidões do cartório de registro de imóveis;</li><li>comunicações recebidas sobre as datas dos leilões;</li><li>edital, com lance mínimo de cada leilão;</li><li>comprovantes de benfeitorias feitas no imóvel, que entram no cálculo da sobra.</li></ul><p>Erros frequentes: acreditar que ainda é possível pagar só as parcelas atrasadas depois da consolidação; esperar o resultado do segundo leilão para tentar a recompra; abandonar o imóvel sem acompanhar a venda e, com isso, perder a sobra; e não conferir se o financiamento é residencial, o que muda a existência de dívida restante. A advogada Flávia Vaz Rabello atende casos de direito bancário em Indaiatuba e de forma online. Quem já perdeu o imóvel e ficou com o nome negativado por um saldo que a lei extinguiu pode consultar o texto sobre <a href=\"/blog/nome-sujo-indevidamente-o-que-fazer\">nome sujo indevidamente</a>.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso participar do leilão e dar lance no meu próprio imóvel?",
+   "a": "A lei dá ao antigo devedor um caminho próprio, o direito de preferência, que permite recomprar o imóvel até o segundo leilão pagando a dívida e os custos. Na prática, esse direito costuma ser mais seguro que disputar lances, porque garante a compra pelo valor legal sem concorrência. Consulte o edital sobre regras de participação."
+  },
+  {
+   "q": "Quanto tempo tenho para sair depois que o imóvel é arrematado?",
+   "a": "A lei prevê reintegração de posse concedida liminarmente, com prazo de 60 dias para desocupação. Enquanto não houver a entrega, pode incidir taxa de ocupação de 1% ao mês sobre o valor do imóvel fixado no contrato. Acordos de desocupação com o arrematante também são possíveis e costumam evitar esse custo."
+  },
+  {
+   "q": "Se o imóvel foi vendido barato, ainda fico devendo?",
+   "a": "Depende da finalidade do contrato. No financiamento para comprar ou construir a moradia do devedor, se o segundo leilão não cobrir a dívida, ela é extinta. Nos demais casos, o banco pode aceitar lance de metade da avaliação e cobrar o restante em execução."
+  },
+  {
+   "q": "Como saber se meu imóvel já está em leilão?",
+   "a": "Peça a matrícula atualizada no cartório de registro de imóveis: se houver averbação de consolidação em nome do banco, o leilão deve ocorrer em até 60 dias. Os editais costumam ser publicados em sites de leiloeiros e nas páginas de venda de imóveis dos próprios bancos."
+  },
+  {
+   "q": "O dinheiro que sobrar do leilão cai automaticamente na minha conta?",
+   "a": "A lei obriga o banco a entregar a sobra em 5 dias após a venda, mas ele precisa saber para onde enviar. Informe por escrito seus dados bancários, peça a prestação de contas do leilão e guarde o protocolo. Se o prazo passar sem pagamento, a cobrança pode ser feita na Justiça."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 9.514/1997, art. 27 (leilão em 60 dias, 2º leilão em 15 dias, lance mínimo, metade da avaliação, comunicação das datas, preferência até o 2º leilão, sobra em 5 dias com benfeitorias, saldo remanescente, locação, IPTU e condomínio, leilão eletrônico)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 9.514/1997, art. 24, VI e parágrafo único (valor para leilão e piso pela base do ITBI), art. 26-A, §§ 3º e 4º (residencial: extinção da dívida), art. 30 (reintegração em 60 dias, perdas e danos), art. 37-A (taxa de ocupação de 1%)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 14.711/2023: nova redação dos arts. 26-A, 27 e 30 da Lei 9.514/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF Tema 982 (RE 860.631): constitucionalidade da execução extrajudicial da Lei 9.514/1997",
+   "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4694303&numeroProcesso=860631&classeProcesso=RE&numeroTema=982",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "slug": "busca-e-apreensao-extrajudicial",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Busca e apreensão extrajudicial pelo cartório: o que mudou para o devedor",
+ "title": "Busca e apreensão extrajudicial: o que mudou para o devedor",
+ "description": "Busca e apreensão extrajudicial pelo cartório: requisitos do Marco Legal das Garantias, prazo de 20 dias, multa de 5%, limites do STF e como se defender.",
+ "resumo": "O Marco Legal das Garantias permitiu ao banco retomar veículos e outros bens pelo cartório, sem processo. Veja as etapas, os prazos para pagar ou contestar e os limites que o STF impôs.",
+ "data": "2026-09-26",
+ "imagem": "/images/blog/busca-e-apreensao-extrajudicial.jpg",
+ "alt": "Envelope de correspondência com carimbos postais",
+ "resposta": "Desde a Lei 14.711/2023, o banco pode retomar um bem com alienação fiduciária pelo cartório de registro de títulos e documentos, sem ação judicial, se o contrato tiver cláusula expressa e destacada. O cartório notifica o devedor para pagar em 20 dias ou provar que a cobrança é indevida. Sem pagamento, a propriedade se consolida e o banco pode pedir a busca e apreensão extrajudicial. O STF validou o modelo em 2025, mas proibiu uso de força e violação de domicílio. O devedor pode ir à Justiça a qualquer tempo.",
+ "intro": "<p>Até 2023, retomar um carro financiado dependia de ação judicial. A Lei 14.711/2023, conhecida como Marco Legal das Garantias, incluiu os arts. 8º-B a 8º-E no Decreto-Lei 911/1969 e criou uma alternativa: a consolidação da propriedade e a busca e apreensão feitas pelo cartório de registro de títulos e documentos. O Conselho Nacional de Justiça regulamentou o procedimento pelo Provimento 196, de junho de 2025.</p><p>A mudança não retirou direitos do devedor, mas deslocou o lugar onde eles precisam ser exercidos: o prazo corre no cartório, e a primeira chance de defesa é a resposta à notificação. Os demais temas de dívidas bancárias estão na página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Quando o banco pode usar a via do cartório",
+   "html": "<p>O art. 8º-B do Decreto-Lei 911/1969 exige três condições. A primeira é <strong>cláusula expressa e em destaque</strong> no contrato autorizando o procedimento extrajudicial. Contratos antigos, sem essa cláusula, continuam dependendo da ação judicial. A segunda é a mora comprovada da mesma forma que na via judicial, por carta registrada com aviso de recebimento enviada ao endereço do contrato. A terceira é que a dívida esteja vencida e não paga.</p><p>O pedido é feito ao cartório de registro de títulos e documentos do domicílio do devedor ou da localização do bem na data do contrato (art. 8º-B, § 1º). Pelo Provimento 196/2025 do CNJ, o requerimento tramita por meio eletrônico, no Sistema Eletrônico dos Registros Públicos.</p><p>A via extrajudicial é uma opção do credor, não uma obrigação. Se o procedimento no cartório fracassar, total ou parcialmente, ele pode recorrer ao Judiciário para cobrar a dívida ou o saldo (art. 8º-B, § 5º). Para veículos, a lei ainda permite que o procedimento seja feito perante o Detran do estado (art. 8º-E), ponto que está em discussão no STF, como explicado adiante.</p>"
+  },
+  {
+   "h2": "A notificação do cartório e o prazo de 20 dias",
+   "html": "<p>Recebido o pedido do banco, o oficial notifica o devedor para, em 20 dias, pagar voluntariamente a dívida ou apresentar documentos que provem que a cobrança é total ou parcialmente indevida (art. 8º-B, § 2º). A notificação vai preferencialmente para o e-mail indicado no contrato. Se não houver confirmação de recebimento em 3 dias úteis, o cartório envia carta com aviso de recebimento ao endereço contratual, e não se exige que a assinatura no aviso seja a do próprio devedor (§§ 6º e 7º).</p><p>A notificação deve trazer, no mínimo: cópia do contrato, valor total da dívida conforme a data de pagamento, planilha com a evolução do débito, meio de pagamento (inclusive a opção de pagar no próprio cartório), dados e contatos do credor, forma de entrega voluntária do bem e as advertências legais (§ 13). Notificação sem esses itens é um ponto a questionar.</p><h3>As três respostas possíveis</h3><ul><li>Pagar a dívida no prazo: o contrato volta a valer normalmente (§ 8º).</li><li>Provar que a cobrança é indevida: o oficial avalia os documentos e, se reconhecer o direito do devedor, deve parar o procedimento (§ 3º).</li><li>Contestar só parte: o devedor declara o valor que entende correto e paga esse valor dentro dos 20 dias (§ 4º).</li></ul>"
+  },
+  {
+   "h2": "Se não pagar: consolidação, multa e apreensão",
+   "html": "<p>Passados os 20 dias sem pagamento, o oficial averba a consolidação da propriedade em nome do credor ou comunica o órgão em que o gravame está registrado, como o Detran (art. 8º-B, § 9º). No mesmo prazo, o devedor tem o dever de entregar ou deixar o bem à disposição do credor, com direito a recibo escrito. Quem não faz isso fica sujeito a multa de 5% do valor da dívida (§ 11).</p><p>Se o bem não for entregue, o banco pode pedir ao cartório a busca e apreensão extrajudicial (art. 8º-C, § 1º). O oficial então lança restrição de circulação e de transferência no caso de veículos, comunica os órgãos de registro, inclui a busca na plataforma eletrônica dos cartórios e expede certidão de busca e apreensão (§ 2º). O próprio credor, ou empresas contratadas para localizar bens, pode fazer diligências para encontrar o veículo (§§ 4º e 5º).</p><h3>Exemplo</h3><p>Uma dívida de R$ 40 mil sem entrega voluntária do carro pode ganhar multa de R$ 2 mil, além das despesas de cartório, postagem e remoção, que a lei autoriza incluir no total (§ 12 e art. 8º-C, § 10). Entregar o bem mediante recibo, quando pagar não é possível, evita esse acréscimo.</p>"
+  },
+  {
+   "h2": "O que o STF decidiu sobre a constitucionalidade",
+   "html": "<p>Três ações diretas (ADIs 7600, 7601 e 7608), movidas por entidades de oficiais de justiça e de magistrados, questionaram o modelo. No julgamento concluído em sessão virtual em 30 de junho de 2025, o Supremo, por maioria e com relatoria do ministro Dias Toffoli, validou os procedimentos extrajudiciais de consolidação da propriedade, de busca e apreensão de bens móveis e de execução de hipotecas criados pela Lei 14.711/2023. A ministra Cármen Lúcia ficou vencida por considerar inconstitucionais a busca, a apreensão e a alienação extrajudiciais.</p><p>A validação veio com limites. Nas diligências para localizar e apreender o bem, devem ser respeitados a vida privada, a honra e a imagem do devedor, o sigilo de dados, a inviolabilidade do domicílio e a proibição do uso privado da violência. Segundo o relator, são vedados atos de perseguição do devedor e da família, cartório e empresas de localização só podem usar dados públicos, e ninguém pode usar força física ou psicológica para obrigar a entrega.</p><p>Houve embargos de declaração. Em março de 2026, o relator propôs submeter a execução feita pelos Detrans (art. 8º-E) às regras e à fiscalização do CNJ, mas o ministro Flávio Dino pediu destaque e o caso saiu do plenário virtual. Na data desta conferência, esse ponto ainda não tinha decisão final.</p>"
+  },
+  {
+   "h2": "Depois da apreensão: 5 dias úteis e o acesso à Justiça",
+   "html": "<p>Mesmo com o bem apreendido, o devedor tem 5 dias úteis para pagar a integralidade da dívida, pelos valores apresentados pelo credor no requerimento. Com o pagamento, a consolidação é cancelada e a posse plena volta ao devedor (art. 8º-C, § 9º). Depois disso, o credor pode vender o bem, aplicando o valor na dívida e devolvendo eventual saldo, como na via judicial.</p><p>O procedimento no cartório não impede o devedor de ir ao Judiciário (art. 8º-C, § 11). Uma ação pode discutir, por exemplo, ausência de cláusula destacada, notificação sem os requisitos legais, valor cobrado a mais ou diligências de localização que violaram os limites fixados pelo STF.</p><p>Se a cobrança extrajudicial for considerada indevida, o credor responde pela mesma multa da ação judicial, de 50% do valor originalmente financiado quando o bem já foi vendido, além de perdas e danos (art. 8º-D, que remete ao art. 3º, §§ 6º e 7º). A regra desestimula o uso do cartório para cobranças duvidosas. Discussões sobre juros e cláusulas do próprio financiamento seguem outro caminho, tratado no texto sobre <a href=\"/blog/revisao-contrato-financiamento-veiculo\">revisão de contrato de financiamento de veículo</a>.</p>"
+  },
+  {
+   "h2": "Como agir ao receber a notificação",
+   "html": "<p>O prazo de 20 dias é o momento de maior poder do devedor, porque é quando o oficial ainda pode parar o procedimento diante de documentos. Um roteiro prático:</p><ol><li>Confira se a notificação veio mesmo de um cartório de registro de títulos e documentos, e não de uma cobrança comum ou de um golpe.</li><li>Localize o contrato e procure a cláusula que autoriza o procedimento extrajudicial. Ela precisa estar em destaque.</li><li>Compare a planilha enviada com os pagamentos que você fez e com as taxas do contrato.</li><li>Se houver erro, protocole no cartório, dentro dos 20 dias, os comprovantes e a indicação do valor que entende correto, pagando essa parte.</li><li>Se não houver como pagar, avalie a entrega voluntária com recibo, para evitar a multa de 5%.</li><li>Guarde prints de mensagens e ligações de empresas de localização. Abordagens com ameaça, exposição a vizinhos ou colegas ou entrada em imóvel sem autorização contrariam o que o STF fixou.</li></ol><p>Atualize também o e-mail e o endereço junto ao banco. Como a notificação vale quando enviada aos dados do contrato, um e-mail antigo pode fazer o prazo correr sem que você perceba.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O cartório pode mandar alguém entrar na minha garagem para levar o carro?",
+   "a": "Não. Ao validar a lei, o STF deixou claro que a busca extrajudicial deve respeitar a inviolabilidade do domicílio e proíbe o uso privado de força. Na via do cartório, a retomada se apoia na entrega voluntária e nas restrições eletrônicas de circulação do veículo. Entrar em casa contra a vontade do morador exige ordem judicial."
+  },
+  {
+   "q": "Meu contrato de 2021 permite busca e apreensão pelo cartório?",
+   "a": "Depende do texto. A lei exige cláusula expressa e em destaque autorizando o procedimento extrajudicial, e contratos antigos normalmente não a têm, porque o procedimento só foi criado em outubro de 2023. Sem essa cláusula, o banco precisa seguir pela ação judicial tradicional do Decreto-Lei 911/1969."
+  },
+  {
+   "q": "O procedimento extrajudicial vale para imóveis também?",
+   "a": "O procedimento dos arts. 8º-B a 8º-E é para bens móveis com alienação fiduciária, como veículos e máquinas. Imóveis financiados com alienação fiduciária já tinham execução extrajudicial própria, feita no registro de imóveis pela Lei 9.514/1997, com prazos e leilões diferentes."
+  },
+  {
+   "q": "Empresas de recuperação de veículos podem me ligar todos os dias?",
+   "a": "A lei permite que o credor contrate terceiros para localizar o bem, mas o STF fixou que as diligências devem preservar a vida privada, a honra e a imagem do devedor e vedou atos de perseguição. Contatos insistentes, ameaças ou exposição a terceiros podem ser registrados e levados ao cartório, ao banco e, se preciso, à Justiça."
+  },
+  {
+   "q": "Posso entrar com ação na Justiça mesmo depois de receber a notificação?",
+   "a": "Sim. O Decreto-Lei 911/1969 diz expressamente que o procedimento extrajudicial não impede o devedor de usar o processo judicial. A ação pode pedir a suspensão do procedimento quando houver ilegalidade, como falta de cláusula destacada ou cobrança indevida, mas a suspensão depende de decisão do juiz."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "DL 911/1969, arts. 8º-B (cláusula em destaque, cartório competente, 20 dias, notificação eletrônica e postal, conteúdo mínimo, multa de 5%), 8º-C (busca e apreensão extrajudicial, diligências por terceiros, 5 dias úteis, acesso ao Judiciário), 8º-D e 8º-E",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 14.711, de 30/10/2023 (Marco Legal das Garantias), que incluiu o procedimento de busca e apreensão extrajudicial de bens móveis",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF, ADIs 7600, 7601 e 7608: procedimentos validados na sessão virtual encerrada em 30/6/2025, relator Dias Toffoli, vencida Cármen Lúcia; vedação de força, perseguição e uso de dados não públicos",
+   "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-perda-extrajudicial-de-bens-em-caso-de-nao-pagamento-de-dividas/",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF, embargos de declaração (sessão virtual de 20 a 27/3/2026): voto reajustado do relator sobre o art. 8º-E e o CNJ; destaque do ministro Flávio Dino, sem conclusão",
+   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6845229",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CNJ, Provimento 196/2025: regulamenta a busca e apreensão extrajudicial nos cartórios de registro de títulos e documentos, via Serp",
+   "url": "https://www.cnj.jus.br/cnj-regulamenta-busca-e-apreensao-extrajudicial-de-bens-moveis/",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
