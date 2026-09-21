@@ -1,0 +1,84 @@
+{
+ "slug": "conta-de-luz-alta",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Conta de luz alta sem motivo: como contestar a cobrança",
+ "title": "Conta de luz alta: como contestar a cobrança",
+ "description": "Conta de luz alta sem motivo: como checar leitura e média, pedir inspeção do medidor, os prazos da distribuidora e quando a devolução é em dobro pela ANEEL.",
+ "resumo": "O que conferir na fatura, como registrar a reclamação, pedir a inspeção do medidor e levar o caso à ouvidoria e à ANEEL, com os prazos da Resolução 1.000/2021.",
+ "data": "2026-10-05",
+ "imagem": "/images/blog/conta-de-luz-alta.jpg",
+ "alt": "Mão apontando para o visor de um medidor de energia",
+ "resposta": "Primeiro, confira na fatura a leitura anterior e a atual, o número de dias do ciclo e se o consumo foi medido ou estimado pela média. Se o valor não bate com o seu uso, registre reclamação na distribuidora e anote o protocolo: ela tem até 5 dias úteis para resolver, ou 10 se precisar de visita técnica (Resolução ANEEL 1.000/2021, art. 408). Você pode pedir a inspeção do medidor e, se a cobrança a maior se confirmar, a devolução é em dobro, com correção e juros.",
+ "intro": "<p>A fatura chega com o dobro do valor habitual, a rotina da casa não mudou e ninguém instalou ar-condicionado. Antes de pagar ou de deixar a conta vencer, vale entender o que pode ter acontecido e quais caminhos a regulação garante.</p><p>As regras valem para qualquer distribuidora do país, seja CPFL, Enel ou outra, porque vêm da Resolução Normativa 1.000/2021 da Agência Nacional de Energia Elétrica (ANEEL), que reúne os direitos e deveres de quem consome energia. Abaixo está o roteiro, na ordem em que as coisas costumam acontecer.</p>",
+ "secoes": [
+  {
+   "h2": "O que conferir na fatura antes de reclamar",
+   "html": "<p>Nem toda conta alta é erro de cobrança. O primeiro passo é separar duas hipóteses: aumento real de consumo ou falha na leitura e no faturamento. Com a fatura em mãos, confira:</p><ul><li>a leitura anterior e a leitura atual do medidor, e se a diferença corresponde ao consumo em kWh cobrado;</li><li>o número de dias do ciclo, porque um período de 33 dias naturalmente custa mais que um de 28;</li><li>se aparece a indicação de consumo estimado, por média ou por impedimento de acesso ao medidor;</li><li>outras cobranças somadas à energia, como parcelamentos, serviços e a contribuição de iluminação pública.</li></ul><p>Depois, vá até o medidor e compare o número do visor com a leitura atual da fatura. Se o visor mostrar um número menor do que o faturado, há um forte indício de erro de leitura. Um teste simples ajuda a descartar problemas internos: desligue todos os aparelhos e observe se o medidor continua girando ou registrando. Se continuar, pode haver <strong>fuga de corrente</strong> na instalação da casa, que é responsabilidade do morador e exige um eletricista. A distribuidora deve entregar a fatura pelo menos 5 dias úteis antes do vencimento, o que dá tempo de fazer essa checagem.</p>"
+  },
+  {
+   "h2": "Consumo por média e o acerto que vem depois",
+   "html": "<p>Uma causa frequente de conta alta \"do nada\" é o acerto de leituras estimadas. Quando a distribuidora não consegue acessar o medidor, a fatura é calculada pela média dos últimos 12 meses. Quando a leitura real é feita, a diferença aparece nas faturas seguintes: se foi para mais, você pode parcelar; se foi para menos, a empresa deve devolver.</p><p>Se a distribuidora faturou a menos por erro dela, ou deixou de faturar, a Resolução 1.000/2021 limita a cobrança da diferença aos últimos 3 ciclos anteriores ao ciclo vigente e obriga o parcelamento em número de parcelas igual ao dobro do período do erro, salvo se você pedir menos parcelas (art. 323, I e § 1º). Na regularização da leitura, a diferença cobrada fica limitada a 90 dias (art. 323, § 11).</p><h3>Exemplo</h3><p>Por falha no leitor, a distribuidora cobrou 100 kWh a menos em cada um dos 3 últimos meses. Ao corrigir, ela apurou uma diferença de R$ 300,00. Pela regra, esse valor não pode vir de uma vez numa única fatura: deve ser dividido em 6 parcelas de R$ 50,00, lançadas nas contas seguintes, e a empresa precisa explicar por escrito o que ocorreu.</p>"
+  },
+  {
+   "h2": "Como registrar a reclamação na distribuidora",
+   "html": "<p>Reclame pelos canais indicados na própria conta (telefone, aplicativo, site, chat ou posto de atendimento). Todo atendimento gera número de protocolo, e a distribuidora deve disponibilizá-lo também por meio eletrônico em até um dia útil (art. 403). Anote data, horário e nome de quem atendeu.</p><p>O pedido de correção de fatura é classificado como reclamação (art. 401, V), e os prazos para solucioná-lo, contados do protocolo, são:</p><ul><li>até 5 dias úteis, quando não é necessária visita técnica;</li><li>até 10 dias úteis, quando há visita (art. 408).</li></ul><p>Quando a reclamação trata de cobrança indevida, a parte questionada deve ser suspensa imediatamente, a menos que a distribuidora comprove que o valor é devido (art. 413). Se ela negar o pedido, precisa responder por escrito, com as razões detalhadas, os dispositivos que fundamentam a decisão e a memória de cálculo das diferenças de consumo (art. 416). Resposta vaga, do tipo \"leitura confirmada\", sem memória de cálculo, não atende à norma e pode ser levada adiante.</p>"
+  },
+  {
+   "h2": "Inspeção do medidor: prazos e relatório",
+   "html": "<p>Se a suspeita é de defeito no medidor, você pode solicitar a inspeção do sistema de medição (art. 248). A distribuidora tem até 30 dias, contados do pedido, para inspecionar e adotar as providências (art. 250). As regras principais:</p><ul><li>ela deve agendar com você ou avisar com pelo menos 3 dias úteis de antecedência a data e o horário, para que você acompanhe;</li><li>se o medidor for retirado para laboratório, deve ser lacrado em invólucro na sua frente, com comprovante, e você deve ser avisado por escrito, com pelo menos 10 dias de antecedência, do local e da data do ensaio;</li><li>ao final, ela emite o Termo de Ocorrência e Inspeção (TOI) e envia um relatório com as variações encontradas, os limites admissíveis e a conclusão (art. 252).</li></ul><p>Se discordar do resultado, você tem 15 dias, contados do recebimento do relatório, para pedir a verificação do medidor pelo Inmetro ou órgão metrológico delegado (art. 253). A distribuidora deve informar os prazos, os custos de frete e verificação e quem paga por eles. Confirmado o defeito, ela troca o equipamento em até 30 dias e compensa o faturamento.</p>"
+  },
+  {
+   "h2": "Ouvidoria, ANEEL e proteção contra o corte",
+   "html": "<p>Se o prazo de resposta vencer ou você discordar da solução, o passo seguinte é a ouvidoria da distribuidora, que tem até 10 dias úteis para comunicar as providências (art. 421). Persistindo o problema, a reclamação pode ser registrada na agência estadual conveniada ou, onde ela não existir, na própria ANEEL (art. 423), informando os protocolos anteriores. O consumidor.gov.br também é aceito como canal, e as reclamações feitas ali são tratadas como reclamação pela distribuidora (art. 401, VI).</p><p>Um ponto que muita gente desconhece protege quem contesta. Se a reclamação sobre diferenças de faturamento for feita até a data limite da notificação de corte, a distribuidora não pode, até a resposta da ouvidoria e apenas quanto ao débito questionado, suspender o fornecimento, condicionar serviços ao pagamento nem adotar outras medidas prejudiciais (art. 422). A proteção continua enquanto a ANEEL ou a agência estadual analisa o caso. Em contrapartida, as demais cobranças, não relacionadas à contestação, precisam continuar em dia, e a distribuidora deve emitir fatura separada para permitir esse pagamento.</p>"
+  },
+  {
+   "h2": "Devolução em dobro e quando procurar a Justiça",
+   "html": "<p>Confirmado que você pagou a mais por erro da distribuidora, a devolução deve ser feita até o segundo ciclo de faturamento após a constatação, em dobro, independentemente de dolo ou culpa, com atualização pelo IPCA e juros de 1% ao mês (art. 323, II e § 2º). A devolução só é simples se a empresa provar que o erro foi causado exclusivamente por você ou por terceiro sem vínculo com ela. O dobro vale sobre todos os componentes da conta, inclusive tributos e bandeiras. Você pode escolher receber por crédito em conta, cheque ou ordem de pagamento, em vez de abatimento nas faturas.</p><p>A norma limitava a devolução aos últimos 60 ciclos, mas esse limite está com os efeitos suspensos pelo Despacho ANEEL 2.006/2024. Quando a via administrativa não resolve, cabe ação judicial, geralmente no Juizado Especial Cível. Casos que dependem de perícia técnica complexa no medidor podem exigir a Justiça comum. Leve faturas, protocolos, fotos do medidor com data e o relatório de inspeção. Outros temas de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a> estão reunidos na página da área.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso deixar de pagar a conta de luz enquanto contesto o valor?",
+   "a": "É arriscado deixar tudo em aberto. A proteção contra o corte vale para o débito questionado quando a reclamação é feita até a data limite da notificação, e as demais cobranças precisam ser pagas. Peça à distribuidora a emissão da fatura sem a parcela contestada e guarde o protocolo que comprova a reclamação."
+  },
+  {
+   "q": "A distribuidora pode cobrar consumo de meses atrás de uma vez só?",
+   "a": "Quando o erro foi dela, a cobrança da diferença fica limitada aos últimos 3 ciclos e deve ser parcelada em número de parcelas igual ao dobro do período do erro. Você pode pedir menos parcelas se preferir. A empresa também precisa explicar por escrito o que ocorreu e como foi feito o cálculo."
+  },
+  {
+   "q": "Onde reclamar da conta de luz alta além da distribuidora?",
+   "a": "Depois do atendimento comum, recorra à ouvidoria da distribuidora. Sem solução, registre na agência estadual conveniada ou na ANEEL, informando os protocolos. O Procon e o consumidor.gov.br também recebem a queixa. Se nada resolver, o Juizado Especial Cível é o caminho mais comum para ações de menor valor."
+  },
+  {
+   "q": "Quem paga a verificação do medidor pelo Inmetro?",
+   "a": "A Resolução 1.000/2021 obriga a distribuidora a informar, junto com o relatório de inspeção, os prazos, os custos de frete e verificação e a responsabilidade pelo pagamento, sendo vedada a cobrança de outros custos. Peça essas informações por escrito antes de solicitar a verificação, dentro dos 15 dias."
+  },
+  {
+   "q": "Fuga de corrente dentro de casa gera direito a desconto?",
+   "a": "Em regra, não. A instalação elétrica depois do medidor é responsabilidade do consumidor, e a energia que escapa por fiação danificada é registrada e cobrada normalmente. Se o teste com tudo desligado mostrar o medidor registrando, chame um eletricista. Se o problema estiver no medidor ou na rede da distribuidora, aí sim cabe contestação."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "REN ANEEL 1.000/2021: art. 323 (faturamento incorreto, 3 ciclos, parcelamento em dobro do período, devolução em dobro com IPCA e juros de 1% ao mês, 60 ciclos suspensos pelo DSP 2.006/2024, § 11 limite de 90 dias); arts. 248 a 253 (inspeção do medidor, 30 dias, 3 dias úteis, 10 dias, TOI, 15 dias para Inmetro); arts. 401, 403, 408, 413, 416 (reclamação, protocolo, 5 e 10 dias úteis, suspensão da parcela questionada, indeferimento com memória de cálculo); arts. 421 a 423 (ouvidoria em 10 dias úteis, vedação de corte durante a análise, agência estadual ou ANEEL)",
+   "url": "https://www2.aneel.gov.br/cedoc/ren20211000.html",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "ANEEL, Como resolver: fatura entregue 5 dias úteis antes do vencimento; faturamento pela média dos últimos 12 meses sem acesso ao medidor e acerto posterior; devolução em dobro de cobrança indevida",
+   "url": "https://www.gov.br/aneel/pt-br/consumidores/como-resolver",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 42, parágrafo único (repetição em dobro) e art. 22 (serviços essenciais adequados e contínuos)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 9.099/1995 art. 3º: Juizado Especial Cível para causas de menor complexidade até 40 salários mínimos",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

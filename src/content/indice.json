@@ -1,5 +1,55 @@
 [
  {
+  "slug": "cobranca-abusiva-ligacoes",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Cobrança abusiva: ligações em excesso e constrangimento são proibidos",
+  "resumo": "Até onde o credor pode ir para cobrar uma dívida, as regras de horário em São Paulo, como bloquear ligações de cobrança e o que fazer diante de ameaças ou exposição.",
+  "data": "2026-10-05",
+  "imagem": "/images/blog/cobranca-abusiva-ligacoes.jpg",
+  "alt": "Tela de celular durante uma ligação com o botão de encerrar em destaque"
+ },
+ {
+  "slug": "cobranca-indevida-devolucao-em-dobro",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Cobrança indevida: quando o consumidor recebe o valor em dobro",
+  "resumo": "Entenda quando o valor pago a mais volta em dobro, o que o STJ decidiu sobre a má-fé do fornecedor, como fazer a conta e quais caminhos seguir para receber.",
+  "data": "2026-10-05",
+  "imagem": "/images/blog/cobranca-indevida-devolucao-em-dobro.jpg",
+  "alt": "Mulher conferindo contas com calculadora sobre a mesa"
+ },
+ {
+  "slug": "conta-de-luz-alta",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Conta de luz alta sem motivo: como contestar a cobrança",
+  "resumo": "O que conferir na fatura, como registrar a reclamação, pedir a inspeção do medidor e levar o caso à ouvidoria e à ANEEL, com os prazos da Resolução 1.000/2021.",
+  "data": "2026-10-05",
+  "imagem": "/images/blog/conta-de-luz-alta.jpg",
+  "alt": "Mão apontando para o visor de um medidor de energia"
+ },
+ {
+  "slug": "corte-de-energia-regras",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Corte de energia por falta de pagamento: regras e quando é ilegal",
+  "resumo": "As condições para a distribuidora suspender a energia por conta atrasada, os dias e horários proibidos, o limite para dívidas antigas e os prazos de religação.",
+  "data": "2026-10-05",
+  "imagem": "/images/blog/corte-de-energia-regras.jpg",
+  "alt": "Eletricista de capacete trabalhando em um medidor de energia"
+ },
+ {
+  "slug": "multa-de-fidelidade",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Multa de fidelidade: quando é legal e como cancelar sem pagar",
+  "resumo": "As regras da Anatel para o prazo de permanência em planos de celular, internet e TV, como calcular a multa proporcional e as situações em que o cancelamento sai sem custo.",
+  "data": "2026-10-05",
+  "imagem": "/images/blog/multa-de-fidelidade.jpg",
+  "alt": "Mãos segurando um celular com aplicativo aberto"
+ },
+ {
   "slug": "cancelar-academia",
   "area": "direito-do-consumidor",
   "categoria": "Consumidor",

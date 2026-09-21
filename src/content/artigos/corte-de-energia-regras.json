@@ -1,0 +1,94 @@
+{
+ "slug": "corte-de-energia-regras",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Corte de energia por falta de pagamento: regras e quando é ilegal",
+ "title": "Corte de energia por falta de pagamento: as regras",
+ "description": "Corte de energia por falta de pagamento exige aviso de 15 dias e é vedado na sexta, fim de semana e véspera de feriado. Veja a religação e quando é ilegal.",
+ "resumo": "As condições para a distribuidora suspender a energia por conta atrasada, os dias e horários proibidos, o limite para dívidas antigas e os prazos de religação.",
+ "data": "2026-10-05",
+ "imagem": "/images/blog/corte-de-energia-regras.jpg",
+ "alt": "Eletricista de capacete trabalhando em um medidor de energia",
+ "resposta": "A distribuidora pode cortar a energia por conta atrasada, mas só depois de notificar com pelo menos 15 dias de antecedência, indicando a data a partir da qual o corte pode ocorrer. O corte deve ser feito das 8h às 18h e é proibido às sextas-feiras, sábados, domingos, feriados e vésperas de feriado. Também não pode ocorrer mais de 90 dias depois do vencimento da fatura. Feito o pagamento, a religação normal deve acontecer em até 24 horas na área urbana e 48 horas na rural.",
+ "intro": "<p>A energia elétrica é serviço essencial, mas isso não impede o corte por falta de pagamento. A Lei 8.987/1995 admite a interrupção por inadimplemento, desde que haja aviso prévio e se considere o interesse da coletividade. O que a lei e a ANEEL fazem é impor condições: aviso, dias permitidos, horário, limite de tempo e prazo de religação.</p><p>Quando alguma dessas condições é desrespeitada, a suspensão é considerada indevida, a religação tem de ser feita em poucas horas e sem custo, e o consumidor recebe compensação na fatura. As regras abaixo estão na Resolução Normativa ANEEL 1.000/2021 e na Lei 14.015/2020, e valem para qualquer distribuidora do país.</p>",
+ "secoes": [
+  {
+   "h2": "O aviso prévio que precisa chegar antes do corte",
+   "html": "<p>O corte por inadimplemento sempre depende de notificação (art. 356 da Resolução 1.000/2021). Ela pode ocorrer por falta de pagamento da fatura de energia, de serviços cobráveis, de garantias exigidas em casos específicos ou de prejuízos causados às instalações da distribuidora. A notificação precisa ser feita com antecedência mínima de <strong>15 dias</strong> e conter (art. 360):</p><ul><li>o dia a partir do qual a suspensão poderá ser realizada;</li><li>o prazo para encerramento do contrato, caso a dívida continue;</li><li>a informação de que o custo de disponibilidade continuará sendo cobrado.</li></ul><p>A distribuidora escolhe entre enviar uma notificação escrita, específica e com entrega comprovada, ou imprimir o aviso em destaque na fatura. A notificação individual com comprovação de entrega é obrigatória quando no imóvel há pessoa que depende de equipamento elétrico vital, desde que a condição tenha sido cadastrada previamente na distribuidora, e quando o corte afeta serviço público ou essencial à população. Por isso, quem tem em casa alguém que usa concentrador de oxigênio ou outro aparelho vital deve fazer esse cadastro.</p>"
+  },
+  {
+   "h2": "Dias e horários em que o corte é proibido",
+   "html": "<p>A Lei 14.015/2020 alterou a Lei 13.460/2017 e a Lei 8.987/1995 para vedar a suspensão por inadimplemento que se inicie na sexta-feira, no sábado, no domingo, em feriado ou no dia anterior a feriado. A Resolução 1.000/2021 repete a regra e acrescenta o horário: o corte deve ser executado das 8h às 18h (art. 359).</p><p>Outras proteções complementam essas vedações:</p><ul><li>se você apresentar o comprovante de pagamento à equipe que chegou para cortar, a suspensão não pode ser feita (art. 356, § 1º);</li><li>nas unidades da tarifa social (subclasses residencial baixa renda), deve haver pelo menos 30 dias entre o vencimento da fatura e o corte (art. 358);</li><li>se a notificação não tiver sido feita, a taxa de religação não é devida (Lei 13.460/2017, art. 5º, parágrafo único).</li></ul><p>Um corte feito numa sexta-feira, às 19h, ou sem notificação é indevido pelo art. 361 da Resolução 1.000/2021, que considera irregular qualquer suspensão feita sem observar as regras da norma. Anote dia e hora, fotografe o medidor e a ordem de serviço, se deixada no local, e comunique a distribuidora imediatamente para abrir o protocolo.</p>"
+  },
+  {
+   "h2": "Dívida antiga, de outro morador ou por fraude no medidor",
+   "html": "<p>A distribuidora não pode cortar a energia depois de passados 90 dias do vencimento da fatura não paga, salvo se provar que foi impedida por decisão judicial ou outro motivo justificável (art. 357). Depois desse prazo, a dívida continua existindo e pode ser cobrada por outros meios, mas não serve mais para suspender o fornecimento. Faturas em atraso podem ser cobradas por até 60 meses (art. 347).</p><h3>Exemplo</h3><p>Uma fatura venceu em 10 de março e não foi paga. A distribuidora pode notificar e cortar respeitando os 15 dias de aviso e os dias permitidos, mas só até 8 de junho, quando se completam 90 dias. Um corte em julho por essa mesma conta seria indevido.</p><p>Débito de antigo morador também não pode ser exigido do novo titular como condição para ligar, religar ou trocar a titularidade (art. 346), com exceção da sucessão comercial prevista na própria norma. Se a distribuidora cobrar indevidamente, deve devolver em dobro.</p><p>No caso de fraude no medidor atribuída ao consumidor, o STJ fixou no Tema 699 que o corte administrativo é possível apenas para o consumo recuperado dos 90 dias anteriores à constatação, apurado com contraditório e ampla defesa, com aviso prévio, e desde que executado em até 90 dias após o vencimento desse débito. O período anterior só pode ser cobrado pelos meios judiciais comuns.</p>"
+  },
+  {
+   "h2": "Corte indevido: religação em 4 horas e compensação",
+   "html": "<p>A Resolução 1.000/2021 considera indevida a suspensão quando (art. 361):</p><ul><li>o pagamento foi feito até a data limite indicada na notificação;</li><li>o pagamento foi feito por código QR do Pix antes da execução do corte;</li><li>a distribuidora não observou alguma regra da norma, como o aviso, o dia ou o horário.</li></ul><p>Nesses casos, a religação deve ocorrer em até 4 horas, contadas a partir da constatação da situação ou da sua comunicação, em qualquer dia e horário (art. 362). A distribuidora não pode cobrar pela religação e deve creditar uma compensação na fatura (arts. 362, § 1º, e 365, § 3º). A compensação administrativa não impede o pedido de indenização na Justiça quando o corte causar prejuízos, como alimentos e medicamentos perdidos ou impossibilidade de trabalhar em casa. Esses danos precisam ser demonstrados, com fotos, notas fiscais e testemunhas.</p><p>O corte indevido de um serviço essencial também é tratado pelo Código de Defesa do Consumidor, que exige das concessionárias serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos (art. 22).</p>"
+  },
+  {
+   "h2": "Religação depois do pagamento: prazos e taxa",
+   "html": "<p>Pago o débito, a distribuidora deve religar nos seguintes prazos, contados de forma contínua (art. 362):</p><table><thead><tr><th>Tipo de religação</th><th>Área urbana</th><th>Área rural</th></tr></thead><tbody><tr><td>Normal</td><td>24 horas</td><td>48 horas</td></tr><tr><td>De urgência (opcional para a distribuidora)</td><td>4 horas</td><td>8 horas</td></tr></tbody></table><p>A contagem começa com a comunicação do pagamento, a compensação no sistema ou o pedido do consumidor, se feitos em dia útil entre 8h e 18h. Fora disso, começa às 8h do dia útil seguinte. Quem paga numa sexta-feira à noite e avisa na hora terá o prazo contado a partir das 8h de segunda-feira. Se o pagamento ainda não aparecer no sistema, você precisa mostrar o comprovante.</p><p>A religação é um serviço cobrado, com valores homologados pela ANEEL. Se a distribuidora descumprir o prazo da religação normal, não pode cobrá-la e ainda deve creditar compensação. Se o corte foi feito só com o desligamento do disjuntor, a cobrança fica limitada a 30% do valor (art. 365).</p>"
+  },
+  {
+   "h2": "O que fazer antes que o corte aconteça",
+   "html": "<p>Para quem recebeu a notificação e não consegue pagar tudo, algumas medidas evitam o corte ou reduzem o dano:</p><ul><li>peça o parcelamento. A distribuidora não é obrigada a aceitar em regra, mas, se a unidade for da tarifa social e o débito nunca tiver sido parcelado, o parcelamento é obrigatório a pedido do consumidor, com no mínimo três parcelas (art. 344);</li><li>se a dívida decorre de conta que você contesta, registre a reclamação antes da data limite da notificação e guarde o protocolo, porque a norma impede o corte pelo valor questionado enquanto a ouvidoria e a agência analisam (arts. 422 e 423);</li><li>pague pelo código Pix da fatura quando possível, já que o pagamento antes da execução torna o corte indevido;</li><li>cadastre na distribuidora moradores que dependem de equipamentos vitais.</li></ul><p>Erros comuns incluem ignorar o aviso impresso na conta, pagar e não comunicar a distribuidora e aceitar assinar termo assumindo dívida de terceiros para conseguir a religação, o que a norma proíbe exigir. Mais orientações estão na página de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a>.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "A distribuidora pode cortar a energia na sexta-feira?",
+   "a": "Não, quando o corte é por falta de pagamento. A Lei 14.015/2020 e a Resolução ANEEL 1.000/2021 proíbem iniciar a suspensão por inadimplemento na sexta-feira, no sábado, no domingo, em feriado ou na véspera de feriado. Cortes por risco iminente à segurança seguem outras regras e podem ser imediatos."
+  },
+  {
+   "q": "Cortaram minha luz sem aviso prévio. O que faço?",
+   "a": "Ligue para a distribuidora, informe que não recebeu notificação e peça a religação por suspensão indevida, que deve ocorrer em até 4 horas e sem custo. Anote o protocolo. Se não resolver, recorra à ouvidoria e à ANEEL. Prejuízos comprovados podem ser cobrados na Justiça."
+  },
+  {
+   "q": "Posso ter a energia cortada por uma conta de dois anos atrás?",
+   "a": "Não por meio de corte. A Resolução 1.000/2021 proíbe a suspensão depois de 90 dias do vencimento da fatura, salvo impedimento justificado. A distribuidora ainda pode cobrar a dívida por até 60 meses, por outros meios, inclusive judiciais, mas não pode usar o corte como pressão."
+  },
+  {
+   "q": "Preciso pagar a dívida do morador anterior para ligar a luz?",
+   "a": "Não. A distribuidora não pode condicionar a ligação, a religação ou a troca de titularidade ao pagamento de débito de outra pessoa, nem exigir que você assine termo assumindo essa dívida. A exceção é a compra de fundo de comércio por empresa que continua a mesma atividade no local."
+  },
+  {
+   "q": "Quanto tempo a distribuidora tem para religar depois que eu pago?",
+   "a": "Na religação normal, até 24 horas na área urbana e 48 horas na rural. Algumas distribuidoras oferecem religação de urgência, mais cara, em até 4 horas na cidade e 8 no campo. O prazo começa a contar da comunicação do pagamento em dia útil, entre 8h e 18h."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "REN ANEEL 1.000/2021: arts. 356 a 361 (suspensão por inadimplemento, quitação apresentada à equipe, 90 dias, baixa renda 30 dias, horário 8h a 18h e vedação em sexta, sábado, domingo, véspera e feriado, notificação de 15 dias e conteúdo, notificação escrita obrigatória, suspensão indevida inclusive Pix); arts. 362 a 365 (religação 4h, 24h/48h, urgência 4h/8h, contagem, compensação, 30% com disjuntor); arts. 344, 346 e 347 (parcelamento obrigatório baixa renda, débito de terceiros, cobrança por 60 meses); arts. 422 e 423",
+   "url": "https://www2.aneel.gov.br/cedoc/ren20211000.html",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 14.015/2020: veda suspensão por inadimplemento iniciada na sexta, sábado, domingo, feriado ou dia anterior; comunicação prévia; taxa de religação indevida sem notificação (Lei 13.460/2017, art. 5º, XVI e parágrafo único)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14015.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 8.987/1995 art. 6º, § 3º, II (interrupção por inadimplemento após aviso prévio) e § 4º",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 699 (REsp 1.412.433/RS): corte por fraude no medidor limitado ao consumo recuperado de 90 dias anteriores, com contraditório, aviso prévio e execução em até 90 dias após o vencimento; período anterior pelos meios judiciais",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=699&cod_tema_final=699",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "ANEEL, Como resolver: aviso de 15 dias por falta de pagamento, vedação de corte em sexta, fim de semana, feriado e véspera, religação em 24h/48h, corte indevido com religação em 4 horas sem custo",
+   "url": "https://www.gov.br/aneel/pt-br/consumidores/como-resolver",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 22: serviços essenciais contínuos",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

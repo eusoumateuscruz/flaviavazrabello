@@ -1,0 +1,79 @@
+{
+ "slug": "multa-de-fidelidade",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Multa de fidelidade: quando é legal e como cancelar sem pagar",
+ "title": "Multa de fidelidade: quando é legal e como evitar",
+ "description": "Multa de fidelidade só é legal com benefício real, prazo de até 12 meses e valor proporcional. Veja quando cancelar internet ou celular sem pagar a multa.",
+ "resumo": "As regras da Anatel para o prazo de permanência em planos de celular, internet e TV, como calcular a multa proporcional e as situações em que o cancelamento sai sem custo.",
+ "data": "2026-10-05",
+ "imagem": "/images/blog/multa-de-fidelidade.jpg",
+ "alt": "Mãos segurando um celular com aplicativo aberto",
+ "resposta": "A multa de fidelidade é legal quando o contrato prevê um prazo de permanência de no máximo 12 meses em troca de um benefício concreto, como desconto ou aparelho subsidiado. Mesmo assim, ela precisa ser proporcional ao tempo que falta e não pode passar do valor do benefício (Resolução Anatel 765/2023, arts. 36 e 37). Você cancela sem pagar se a operadora descumpriu o contrato, se não houve benefício ou se a contratação foi pela internet ou por telefone e você desistiu em até 7 dias.",
+ "intro": "<p>Planos de celular, internet e TV por assinatura costumam vir com um desconto atraente e uma condição: ficar um tempo mínimo com a operadora. Quando o serviço decepciona ou a vida muda, aparece a dúvida sobre a multa por cancelar antes do prazo.</p><p>Desde 1º de setembro de 2025, essas regras estão no novo Regulamento Geral de Direitos do Consumidor de Serviços de Telecomunicações (RGC), aprovado pela Resolução Anatel 765/2023, que substituiu a Resolução 632/2014. Elas valem para telefonia fixa e móvel, banda larga e TV por assinatura, e se somam ao Código de Defesa do Consumidor.</p>",
+ "secoes": [
+  {
+   "h2": "Quando a fidelidade é permitida",
+   "html": "<p>O RGC chama a fidelidade de prazo de permanência: o período em que o consumidor se compromete a ficar vinculado à oferta em contrapartida a um benefício concedido pela operadora. As condições estão no art. 36:</p><ul><li>o prazo máximo é de <strong>12 meses</strong> para pessoa física, podendo ser maior para empresas;</li><li>o prazo não pode ultrapassar a vigência da própria oferta;</li><li>a renovação automática é proibida, entendida pela Anatel como a renovação sem consentimento expresso do consumidor;</li><li>o contrato deve informar com clareza o período, a descrição e o valor do benefício e o valor da multa.</li></ul><p>Além disso, toda operadora que vende um plano com fidelidade é obrigada a oferecer a mesma contratação, com condições equivalentes de uso, sem vínculo de permanência (art. 38). Se o vendedor disse que \"só existe o plano com fidelidade\", essa informação contraria a regra.</p><p>Sem benefício identificável, não há fundamento para a permanência. Um contrato que impõe 12 meses de fidelidade sem desconto, sem aparelho e sem isenção de instalação deixa a multa sem base, porque a lei condiciona a permanência a uma contrapartida.</p>"
+  },
+  {
+   "h2": "Como calcular a multa proporcional",
+   "html": "<p>Se você cancelar antes do fim do prazo, a operadora pode cobrar a multa estipulada, mas ela deve ser proporcional ao tempo restante e não pode exceder o valor do benefício concedido (art. 37, § 1º). Na prática, a conta é: valor da multa prevista multiplicado pelos meses que faltam e dividido pelo total de meses do prazo.</p><h3>Exemplo</h3><p>Você contratou internet com 12 meses de fidelidade e desconto de R$ 40,00 por mês, e o contrato fixa multa de R$ 480,00, igual ao benefício total. Depois de 8 meses, decide cancelar.</p><table><thead><tr><th>Item</th><th>Valor</th></tr></thead><tbody><tr><td>Multa prevista</td><td>R$ 480,00</td></tr><tr><td>Meses restantes</td><td>4 de 12</td></tr><tr><td>Multa proporcional (480 x 4 / 12)</td><td>R$ 160,00</td></tr></tbody></table><p>Se o contrato fixasse multa de R$ 800,00 para um desconto total de R$ 480,00, a cobrança teria de respeitar o teto do benefício. Cobrança integral, sem proporcionalidade, ou acima do benefício pode ser contestada e, se paga, o excesso pode ser pedido de volta, em dobro quando a cobrança contrariar a boa-fé.</p>"
+  },
+  {
+   "h2": "Quando é possível cancelar sem pagar multa",
+   "html": "<p>O art. 37, § 2º, proíbe a cobrança da multa quando a operadora descumpre obrigação contratual ou legal. E o ônus de provar que as alegações do consumidor são improcedentes é da própria operadora. Situações típicas:</p><ul><li>internet entregando velocidade muito abaixo da contratada, quedas frequentes ou sinal inexistente no endereço;</li><li>cobranças de serviços não contratados ou reajuste fora das regras;</li><li>promessas de venda que não constam da oferta entregue;</li><li>demora excessiva em reparos.</li></ul><p>Nos combos, a isenção alcança todos os serviços, mesmo que o problema tenha ocorrido em apenas um deles (art. 37, § 4º). O regulamento também considera descumprimento contratual o rebaixamento do município para o selo \"D\" ou \"E\" do Regulamento de Qualidade (RQUAL) depois da contratação (art. 37, § 5º).</p><p>Nessas hipóteses, você mantém os benefícios obtidos na contratação, mas continua devendo as parcelas de aparelho comprado da operadora (art. 37, § 3º). Para usar esse caminho, documente o problema: protocolos, testes de velocidade feitos por cabo em horários diferentes, prints e respostas da operadora.</p>"
+  },
+  {
+   "h2": "Desistência em 7 dias: quando vale",
+   "html": "<p>O direito de arrependimento do art. 49 do CDC permite desistir do contrato em até 7 dias, contados da assinatura ou do recebimento do produto ou serviço, sempre que a contratação ocorrer fora do estabelecimento comercial, especialmente por telefone ou a domicílio. Plano contratado pelo site, aplicativo, WhatsApp ou ligação de televendas entra nessa regra, e a desistência não gera multa de fidelidade.</p><p>Na loja física, esse direito legal não existe, salvo se a operadora oferecer política própria. Quando a contratação é feita por telefone, a operadora deve apresentar todas as informações da oferta e guardar a gravação da formalização por 90 dias, à disposição do consumidor (RGC, art. 42, parágrafo único). Essa gravação é a principal prova do que foi prometido.</p><h3>Regra adicional em São Paulo</h3><p>A Lei paulista 17.832/2023, que consolidou as leis estaduais de defesa do consumidor, obriga as empresas a enviar por escrito, em até 15 dias úteis, os contratos fechados verbalmente por call center ou outras vendas a distância. O consumidor tem 7 dias úteis, após receber o contrato, para rescindi-lo de forma unilateral (art. 130).</p>"
+  },
+  {
+   "h2": "Como pedir o cancelamento do jeito certo",
+   "html": "<p>O RGC garante o pedido de rescisão a qualquer tempo, por todos os canais de atendimento disponíveis para a oferta, mesmo que haja contas em atraso (art. 82). No pedido, a operadora deve informar débitos pendentes e eventual multa de permanência. Outras regras importantes:</p><ul><li>com atendente, o cancelamento tem efeito imediato, mesmo que o desligamento técnico demore, e nada pode ser cobrado por serviço prestado depois do pedido (art. 83);</li><li>sem atendente, pelo aplicativo ou site, o pedido é processado automaticamente e produz efeitos em 2 dias úteis (art. 84);</li><li>o comprovante do pedido deve ser enviado por correspondência ou meio eletrônico, à sua escolha (art. 85);</li><li>a retirada de modem e decodificador deve ocorrer em até 60 dias, sem custo, e o cancelamento não depende dela (art. 82, § 2º).</li></ul><p>Se a intenção é só dar uma pausa, o consumidor em dia pode pedir a suspensão sem custo, uma vez a cada 12 meses, por 30 a 120 dias. Durante a suspensão, a contagem do prazo de permanência fica parada (art. 81).</p>"
+  },
+  {
+   "h2": "Se a operadora insistir na cobrança",
+   "html": "<p>Reclamações devem ser resolvidas pela operadora em até 7 dias corridos, contados do recebimento (RGC, art. 10). Se a multa continuar sendo cobrada indevidamente, siga esta ordem:</p><ol><li>registre reclamação na operadora, citando os arts. 36 e 37 do RGC, e guarde o protocolo;</li><li>sem solução, reclame na Anatel ou no consumidor.gov.br, informando o protocolo;</li><li>procure o Procon da sua cidade;</li><li>em último caso, leve o caso ao Juizado Especial Cível.</li></ol><p>Erros comuns: cancelar sem pedir comprovante, pagar a multa integral \"para se livrar\" sem conferir a proporcionalidade, e aceitar a migração para um novo plano sem conferir se ele traz outro prazo de permanência. A troca de oferta, aliás, não isenta da multa do prazo anterior que ficou incompleto (RGC, art. 28, § 3º). Contratos assinados antes de 1º de setembro de 2025 merecem conferência cuidadosa das cláusulas, porque a regra aplicável pode depender da data. Outras dúvidas de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a> estão reunidas na página da área.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Multa de fidelidade de internet é legal?",
+   "a": "Sim, desde que o contrato ofereça um benefício real, o prazo de permanência seja de até 12 meses para pessoa física e a multa seja proporcional ao tempo restante, sem ultrapassar o valor do benefício. A operadora também precisa oferecer a opção do mesmo serviço sem fidelidade."
+  },
+  {
+   "q": "Posso cancelar o plano de celular em 7 dias sem pagar nada?",
+   "a": "Se a contratação foi feita pela internet, pelo aplicativo ou por telefone, sim: o art. 49 do CDC garante a desistência em 7 dias sem multa. Se foi numa loja física, esse direito não se aplica automaticamente, a não ser que a operadora ofereça política própria de arrependimento."
+  },
+  {
+   "q": "Mudei para um endereço sem cobertura. Tenho de pagar a multa?",
+   "a": "O RGC não traz regra específica para mudança de endereço. Se a operadora anuncia cobertura no novo endereço e não entrega, há descumprimento contratual e a multa é vedada. Se realmente não atende o local, a discussão depende das cláusulas e do caso concreto, e vale negociar com base na boa-fé antes de pagar."
+  },
+  {
+   "q": "A operadora renovou minha fidelidade sem eu pedir. Isso vale?",
+   "a": "Não. O RGC proíbe a renovação automática do prazo de permanência, e a Anatel esclareceu que só é válida a renovação com consentimento expresso do consumidor, dado na contratação ou depois. Sem essa concordância, uma nova multa baseada na renovação pode ser contestada."
+  },
+  {
+   "q": "Cancelei por falha da operadora, mas ainda cobram o aparelho. Está certo?",
+   "a": "Em parte, sim. Quando o cancelamento decorre de descumprimento da operadora, a multa de fidelidade é proibida e você mantém os benefícios obtidos, mas continua obrigado a pagar as parcelas restantes do aparelho comprado dela. O que não pode é somar multa às parcelas."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Resolução Anatel 765/2023 (RGC): art. 36 (permanência de até 12 meses, vedação de renovação automática, informação do benefício e multa), art. 37 (multa proporcional ao tempo restante e limitada ao benefício; vedação por descumprimento da prestadora, ônus da prova, combos, selo D ou E do RQUAL, parcelas do aparelho), art. 38 (oferta sem permanência), art. 10 (reclamações em 7 dias corridos), art. 28, § 3º (nova oferta não isenta a multa de permanência anterior), art. 42 parágrafo único (gravação por 90 dias), art. 81 (suspensão de 30 a 120 dias suspende a permanência), arts. 82 a 85 (rescisão por qualquer canal, efeito imediato, 2 dias úteis, comprovante, retirada de equipamentos em 60 dias); Acórdão 228/2024 (vigência em 1º/09/2025) e Acórdão 389/2024 (renovação com consentimento expresso)",
+   "url": "https://informacoes.anatel.gov.br/legislacao/resolucoes/2023/1900-resolucao-765",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 49: direito de arrependimento em 7 dias na contratação fora do estabelecimento comercial; art. 42, parágrafo único (repetição em dobro)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei SP 17.832/2023 art. 130: envio por escrito em até 15 dias úteis do contrato fechado por call center e rescisão em 7 dias úteis após o recebimento",
+   "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2023/lei-17832-01.11.2023.html",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
