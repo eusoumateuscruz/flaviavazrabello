@@ -1,0 +1,99 @@
+{
+ "slug": "adicional-noturno",
+ "area": "direito-do-trabalho",
+ "categoria": "Trabalhista",
+ "h1": "Adicional noturno: horário, percentual e como calcular a hora reduzida",
+ "title": "Adicional noturno: horário, percentual e hora reduzida",
+ "description": "Adicional noturno: 20% para o trabalho entre 22h e 5h, hora de 52 minutos e 30 segundos e o que muda na escala 12x36. Veja o cálculo passo a passo.",
+ "resumo": "Quem trabalha entre 22h e 5h recebe pelo menos 20% a mais por hora, e cada hora noturna dura 52 minutos e 30 segundos. Veja o cálculo, a prorrogação e a escala 12x36.",
+ "data": "2026-10-08",
+ "imagem": "/images/blog/adicional-noturno.jpg",
+ "alt": "Vigilante de costas em uma calçada à noite",
+ "resposta": "Na cidade, é noturno o trabalho entre 22h de um dia e 5h do dia seguinte, com adicional de pelo menos 20% sobre a hora diurna (CLT, art. 73). Cada hora noturna vale 52 minutos e 30 segundos, então 7 horas de relógio nesse horário contam como 8 horas de trabalho. No campo, a regra é outra: 21h às 5h na lavoura e 20h às 4h na pecuária, com 25% de acréscimo (Lei 5.889/1973). Na escala 12x36, o adicional continua devido sobre as horas entre 22h e 5h.",
+ "intro": "<p>O adicional noturno é um dos direitos mais comuns no holerite de quem trabalha em hospital, indústria, portaria, segurança, logística e comércio 24 horas. Ainda assim, é também um dos que mais geram erro de cálculo, porque envolve duas regras ao mesmo tempo: o percentual e a hora reduzida. Quem não entende a segunda acaba recebendo menos do que deveria sem perceber.</p><p>Abaixo estão o horário legal, o passo a passo do cálculo com números, as regras de prorrogação depois das 5h, a situação da escala 12x36 e o que conferir no contracheque. Outros direitos da jornada estão na página de <a href=\"/areas-de-atuacao/direito-do-trabalho\">direito do trabalho</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Qual é o horário noturno e qual é o percentual",
+   "html": "<p>A Constituição garante remuneração do trabalho noturno superior à do diurno (art. 7º, IX). A CLT define os detalhes para o trabalhador urbano no art. 73: é noturno o trabalho executado entre as <strong>22 horas de um dia e as 5 horas do dia seguinte</strong>, e o acréscimo é de, pelo menos, 20% sobre a hora diurna. Convenção coletiva pode prever percentual maior, por isso vale conferir a norma da categoria.</p><table><thead><tr><th>Trabalhador</th><th>Horário noturno</th><th>Acréscimo mínimo</th></tr></thead><tbody><tr><td>Urbano (CLT, art. 73)</td><td>22h às 5h</td><td>20%</td></tr><tr><td>Doméstico (LC 150/2015, art. 14)</td><td>22h às 5h</td><td>20%</td></tr><tr><td>Rural, lavoura (Lei 5.889/1973, art. 7º)</td><td>21h às 5h</td><td>25%</td></tr><tr><td>Rural, pecuária (Lei 5.889/1973, art. 7º)</td><td>20h às 4h</td><td>25%</td></tr></tbody></table><p>O direito também alcança o vigia sujeito ao trabalho noturno (Súmula 140 do TST). Para menores de 18 anos, o trabalho noturno é proibido pelo art. 7º, XXXIII, da Constituição. Quando o adicional é pago com habitualidade, ele integra o salário para todos os efeitos (Súmula 60, item I, do TST): entra no 13º, nas férias com 1/3, no FGTS e nas verbas da rescisão.</p>"
+  },
+  {
+   "h2": "Hora reduzida: por que 7 horas viram 8",
+   "html": "<p>O § 1º do art. 73 diz que a hora de trabalho noturno é computada como de 52 minutos e 30 segundos. É uma ficção legal: a cada 52min30s trabalhados à noite, conta-se uma hora inteira. A mesma regra vale para o doméstico (LC 150/2015, art. 14, § 1º).</p><p>A conta prática é simples. Entre 22h e 5h há 7 horas de relógio, ou 420 minutos. Dividindo 420 por 52,5, chega-se a 8 horas noturnas. Por isso quem trabalha o período noturno inteiro tem 8 horas computadas, mesmo tendo ficado 7 horas no posto. Outra forma de fazer a conta é multiplicar as horas de relógio por 1,142857 (60 dividido por 52,5).</p><h3>Efeito na jornada</h3><p>A hora reduzida afeta o limite da jornada e as horas extras. Quem é contratado para 8 horas diárias e trabalha das 22h às 6h, por exemplo, tem 8 horas noturnas entre 22h e 5h e mais 1 hora de relógio entre 5h e 6h, que, por ser prorrogação, segue as regras da próxima seção. O TST também já decidiu (Tema 285 dos recursos repetitivos, 2025) que a hora ficta deve ser considerada para definir o intervalo de descanso de quem trabalha à noite, o que pode transformar um intervalo de 15 minutos em um de 1 hora.</p>"
+  },
+  {
+   "h2": "Como calcular o adicional noturno: passo a passo",
+   "html": "<p>Um exemplo com números ajuda a conferir o holerite. Imagine uma técnica de enfermagem com salário de R$ 2.640, jornada de 44 horas semanais (divisor 220), que trabalha das 22h às 5h em 22 noites no mês.</p><ol><li>Valor da hora normal: R$ 2.640 ÷ 220 = R$ 12,00.</li><li>Adicional por hora noturna: 20% de R$ 12,00 = R$ 2,40.</li><li>Horas noturnas por noite: 7 horas de relógio × 1,142857 = 8 horas.</li><li>Horas noturnas no mês: 8 × 22 = 176 horas.</li><li>Adicional noturno do mês: 176 × R$ 2,40 = R$ 422,40.</li></ol><p>Se a empresa calcular sobre 7 horas por noite, o adicional cai para R$ 369,60, uma diferença de R$ 52,80 por mês, que se repete no 13º, nas férias e no FGTS. Em cinco anos, só essa diferença passa de R$ 3.000, sem contar reflexos e correção.</p><h3>O que entra na base</h3><p>Para quem também recebe adicional de periculosidade, ele compõe a base do adicional noturno (OJ 259 da SDI-1 do TST). E, nas horas extras feitas à noite, o adicional noturno entra na base de cálculo da hora extra (OJ 97 da SDI-1, reafirmada em 2025 no IRR 288). Ou seja, a hora extra noturna tem dois acréscimos somados, não um só.</p>"
+  },
+  {
+   "h2": "Prorrogação depois das 5h e horários mistos",
+   "html": "<p>O art. 73 traz duas regras que costumam ser ignoradas. Nos horários mistos, que começam de dia e entram na noite (ou o contrário), o adicional e a hora reduzida se aplicam às horas trabalhadas entre 22h e 5h (§ 4º). E às prorrogações do trabalho noturno aplica-se o mesmo capítulo (§ 5º).</p><p>A Súmula 60, item II, do TST, vigente, interpreta o § 5º: cumprida integralmente a jornada no período noturno e prorrogada esta, o adicional também é devido nas horas prorrogadas. Assim, quem entra às 22h e sai às 7h recebe adicional noturno também entre 5h e 7h.</p><h3>Ponto ainda em aberto no TST</h3><p>A dúvida é o que acontece quando a pessoa não trabalhou todo o período noturno, por exemplo, entrou à meia-noite e saiu às 8h, e se a norma coletiva pode limitar o adicional na prorrogação. O TST afetou essas questões ao Tema 92 dos recursos repetitivos, com suspensão de processos, e ainda não fixou tese. Até lá, as decisões variam conforme o caso e a norma coletiva da categoria.</p><p>Outra regra consolidada: se a empresa transfere o empregado para o turno do dia, ele perde o adicional noturno (Súmula 265, reafirmada no IRR 243 em 2025). A mudança em si pode ser contestada se causar prejuízo por outros motivos, mas o adicional não é incorporado.</p>"
+  },
+  {
+   "h2": "Adicional noturno na escala 12x36",
+   "html": "<p>A escala de 12 horas de trabalho por 36 de descanso está no art. 59-A da CLT, incluído pela reforma de 2017, e pode ser ajustada por acordo individual escrito, convenção ou acordo coletivo. O parágrafo único diz que a remuneração mensal da escala já abrange o descanso semanal remunerado e os feriados, e que ficam compensadas as prorrogações de trabalho noturno do art. 73, § 5º.</p><p>Isso não elimina o adicional noturno. Quem trabalha das 19h às 7h continua tendo direito ao acréscimo sobre as horas entre 22h e 5h, com a hora reduzida. O que o texto da lei trata como compensado é a prorrogação, ou seja, as horas depois das 5h.</p><h3>Onde há divergência</h3><p>Antes da reforma, a OJ 388 da SDI-1 do TST garantia o adicional também nas horas trabalhadas após as 5h na escala 12x36 que cobre todo o período noturno. Essa OJ não foi cancelada pela Resolução 225/2025, mas convive com o parágrafo único do art. 59-A, que diz o contrário para os contratos atuais. Pela tese do Tema 23 do TST, a reforma se aplica aos fatos ocorridos a partir de 11 de novembro de 2017. Como a cobrança alcança só os últimos cinco anos, os casos de hoje envolvem períodos posteriores à reforma, e a solução depende da leitura do juiz, da norma coletiva e do próprio Tema 92, ainda pendente. Por isso, quem trabalha em 12x36 noturna deve guardar a escala e os cartões de ponto com o horário real de saída.</p>"
+  },
+  {
+   "h2": "Como conferir o holerite e o que fazer se estiver errado",
+   "html": "<p>Três conferências resolvem a maior parte das dúvidas:</p><ul><li>o número de horas noturnas no mês está multiplicado pela hora reduzida (8 horas para cada noite completa das 22h às 5h)?</li><li>o percentual é de pelo menos 20%, ou o maior previsto na convenção coletiva?</li><li>o adicional aparece nas férias, no 13º e no FGTS, se é pago todo mês?</li></ul><p>Para cobrar diferenças, reúna holerites, cartões de ponto ou espelhos do registro eletrônico, a escala de trabalho, a convenção coletiva e mensagens que mostrem horário de entrada e saída. Se os cartões de ponto não refletem o horário real, testemunhas podem comprovar a jornada. Quando o problema envolve também horas além da jornada, o texto sobre <a href=\"/blog/empresa-nao-pagou-horas-extras-o-que-fazer\">horas extras não pagas</a> explica os passos dessa cobrança.</p><p>O prazo é de dois anos após o fim do contrato para entrar com a ação, alcançando os cinco anos anteriores (art. 7º, XXIX, da Constituição). Quem continua trabalhando também pode cobrar, mas cada mês que passa faz prescrever um mês antigo. A advogada Flávia Vaz Rabello atende questões trabalhistas em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quem trabalha das 18h às 23h recebe adicional noturno?",
+   "a": "Recebe sobre a hora entre 22h e 23h. É o chamado horário misto: o art. 73, § 4º, da CLT manda aplicar o adicional e a hora reduzida só às horas trabalhadas dentro do período noturno. Nesse caso, 60 minutos de relógio equivalem a cerca de 1 hora e 8 minutos de trabalho noturno."
+  },
+  {
+   "q": "O adicional noturno pode ser menor que 20% se a convenção coletiva disser?",
+   "a": "O art. 7º, IX, da Constituição garante remuneração noturna superior à diurna, e o art. 611-B da CLT impede a negociação coletiva de suprimir ou reduzir esse direito. O percentual legal de 20% é o mínimo para o urbano. Convenções costumam prever percentuais iguais ou maiores; cláusula abaixo disso merece análise."
+  },
+  {
+   "q": "Se eu passar para o turno do dia, continuo recebendo o adicional?",
+   "a": "Não. A Súmula 265 do TST, reafirmada em tese vinculante em 2025 (IRR 243), diz que a transferência para o período diurno implica a perda do adicional noturno. O valor só é devido enquanto houver trabalho no horário noturno. As horas noturnas já trabalhadas e não pagas continuam podendo ser cobradas."
+  },
+  {
+   "q": "Empregada doméstica que dorme no emprego e cuida de idoso à noite recebe adicional?",
+   "a": "Se houver trabalho efetivo entre 22h e 5h, sim. A Lei Complementar 150/2015 garante à doméstica o mesmo horário noturno, a hora de 52min30s e o acréscimo mínimo de 20%. Estar no local de trabalho sem prestar serviço é outra discussão, que depende de como a rotina noturna funciona na prática."
+  },
+  {
+   "q": "Adicional noturno entra no cálculo das férias e do 13º?",
+   "a": "Entra, quando pago com habitualidade. A Súmula 60, item I, do TST diz que o adicional noturno habitual integra o salário para todos os efeitos. Por isso deve refletir em férias com um terço, 13º salário, FGTS, aviso prévio e demais verbas calculadas sobre a remuneração."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CLT art. 73 (20%, hora de 52min30s, 22h às 5h, horários mistos § 4º e prorrogação § 5º), art. 59-A e parágrafo único (12x36; prorrogações noturnas compensadas) e art. 611-B",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CF art. 7º, IX (noturno superior ao diurno), XXIX (prescrição) e XXXIII (proibição de trabalho noturno a menores de 18)",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 5.889/1973 art. 7º: rural, 21h às 5h na lavoura e 20h às 4h na pecuária, acréscimo de 25%",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5889.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "LC 150/2015 art. 14: doméstico, 22h às 5h, hora de 52min30s e acréscimo mínimo de 20%",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "TST (vigentes após a Res. 225/2025): Súmulas 60 (I e II), 140 e 265 (reafirmada no IRR 243); OJs 97 (reafirmada no IRR 288), 259 e 388 da SDI-1",
+   "url": "https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "TST recursos repetitivos: Tema 285 (hora ficta noturna considerada para o intervalo intrajornada, 2025) e Tema 92 (prorrogação do adicional noturno sem cumprimento integral do período noturno e limitação por norma coletiva; pendente, com suspensão)",
+   "url": "https://www.tst.jus.br/en/nugep-sp/recursos-repetitivos/tabela-completa",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "TST Tema 23: a Lei 13.467/2017 aplica-se aos contratos em curso quanto a fatos geradores a partir de sua vigência",
+   "url": "https://www.tst.jus.br/documents/10157/0/IRR023+(3).pdf/a22517f6-925a-4ea2-11c0-b29364d8daa4?t=1732657338385",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

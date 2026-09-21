@@ -1,5 +1,55 @@
 [
  {
+  "slug": "adicional-de-insalubridade",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Adicional de insalubridade: quem tem direito e qual é o percentual",
+  "resumo": "Quem trabalha exposto a agentes nocivos acima dos limites da NR-15 recebe 10%, 20% ou 40% do salário mínimo. Entenda os graus, a perícia e os casos mais discutidos.",
+  "data": "2026-10-08",
+  "imagem": "/images/blog/adicional-de-insalubridade.jpg",
+  "alt": "Trabalhador de capacete e máscara de proteção em uma indústria"
+ },
+ {
+  "slug": "adicional-de-periculosidade",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Adicional de periculosidade: quem recebe e como é calculado",
+  "resumo": "Periculosidade é 30% do salário-base, sem gratificações e prêmios. Veja quais atividades dão direito, como fica o motociclista depois das mudanças de 2026 e como provar.",
+  "data": "2026-10-08",
+  "imagem": "/images/blog/adicional-de-periculosidade.jpg",
+  "alt": "Mão com luva testando fios em um painel elétrico"
+ },
+ {
+  "slug": "adicional-noturno",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Adicional noturno: horário, percentual e como calcular a hora reduzida",
+  "resumo": "Quem trabalha entre 22h e 5h recebe pelo menos 20% a mais por hora, e cada hora noturna dura 52 minutos e 30 segundos. Veja o cálculo, a prorrogação e a escala 12x36.",
+  "data": "2026-10-08",
+  "imagem": "/images/blog/adicional-noturno.jpg",
+  "alt": "Vigilante de costas em uma calçada à noite"
+ },
+ {
+  "slug": "estabilidade-gestante",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Estabilidade da gestante: quanto tempo dura e em quais contratos vale",
+  "resumo": "A garantia de emprego da gestante vale do início da gravidez até cinco meses depois do parto, inclusive em contrato de experiência e, desde 2026, no trabalho temporário.",
+  "data": "2026-10-08",
+  "imagem": "/images/blog/estabilidade-gestante.jpg",
+  "alt": "Gestante segurando uma imagem de ultrassom diante da barriga"
+ },
+ {
+  "slug": "intervalo-intrajornada",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Intervalo para almoço: quanto tempo é obrigatório e o que fazer se for cortado",
+  "resumo": "Quem trabalha mais de 6 horas tem direito a pelo menos 1 hora de almoço. Se o intervalo for cortado, a empresa paga o tempo suprimido com 50%. Veja as exceções e como provar.",
+  "data": "2026-10-08",
+  "imagem": "/images/blog/intervalo-intrajornada.jpg",
+  "alt": "Pessoa fazendo uma refeição em marmita ao lado do notebook"
+ },
+ {
   "slug": "acordo-de-demissao",
   "area": "direito-do-trabalho",
   "categoria": "Trabalhista",
