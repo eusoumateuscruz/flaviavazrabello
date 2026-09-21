@@ -1,5 +1,55 @@
 [
  {
+  "slug": "exoneracao-de-pensao-alimenticia",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Exoneração de pensão alimentícia: a obrigação acaba aos 18 anos?",
+  "resumo": "O filho fez 18 anos e a dúvida é se dá para parar de pagar. Veja o que diz o STJ, quais situações mantêm a pensão e o caminho correto para encerrar a obrigação.",
+  "data": "2026-09-22",
+  "imagem": "/images/blog/exoneracao-de-pensao-alimenticia.jpg",
+  "alt": "Jovem de beca e capelo em cerimônia de formatura"
+ },
+ {
+  "slug": "pensao-alimenticia-atrasada-o-que-fazer",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Pensão alimentícia atrasada: como cobrar, prisão do devedor e penhora",
+  "resumo": "A pensão parou de ser paga? Entenda os dois caminhos de cobrança, a prisão civil pelas três últimas parcelas, a penhora e o prazo de prescrição das prestações.",
+  "data": "2026-09-22",
+  "imagem": "/images/blog/pensao-alimenticia-atrasada-o-que-fazer.jpg",
+  "alt": "Calendário com datas marcadas por alfinetes vermelhos"
+ },
+ {
+  "slug": "pensao-alimenticia-para-ex-conjuge",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Pensão para ex-mulher ou ex-marido: quando é devida e por quanto tempo",
+  "resumo": "Casamento ou união estável terminou e um dos dois ficou sem renda? Entenda os requisitos da pensão entre ex-cônjuges, o prazo que costuma ser fixado e quando ela acaba.",
+  "data": "2026-09-22",
+  "imagem": "/images/blog/pensao-alimenticia-para-ex-conjuge.jpg",
+  "alt": "Mulher lendo papéis sentada junto a uma janela"
+ },
+ {
+  "slug": "regulamentacao-de-visitas",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Regulamentação de visitas: como funciona e o que fazer se não for cumprida",
+  "resumo": "Guia prático sobre a regulamentação de visitas: base legal, plano de convivência, direito dos avós, distância entre cidades, visitação assistida e medidas contra o descumprimento.",
+  "data": "2026-09-22",
+  "imagem": "/images/blog/regulamentacao-de-visitas.jpg",
+  "alt": "Adulto e criança caminhando de mãos dadas em um parque"
+ },
+ {
+  "slug": "revisao-de-pensao-alimenticia",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Revisão de pensão: como pedir aumento ou redução do valor pago",
+  "resumo": "Mudou a renda de quem paga ou a necessidade de quem recebe? Veja quando cabe a revisão da pensão, que provas reunir e o que acontece com os valores durante o processo.",
+  "data": "2026-09-22",
+  "imagem": "/images/blog/revisao-de-pensao-alimenticia.jpg",
+  "alt": "Calculadora e cédulas de dinheiro sobre papéis com gráficos"
+ },
+ {
   "slug": "casamento-homoafetivo-direitos",
   "area": "direito-de-familia",
   "categoria": "Família",
