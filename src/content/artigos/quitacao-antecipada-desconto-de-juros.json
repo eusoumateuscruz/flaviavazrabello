@@ -1,0 +1,84 @@
+{
+ "slug": "quitacao-antecipada-desconto-de-juros",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Quitação antecipada de financiamento: o banco é obrigado a dar desconto?",
+ "title": "Quitação antecipada: o banco deve dar desconto nos juros?",
+ "description": "Quitação antecipada de financiamento ou empréstimo: como a lei garante o desconto dos juros, como o banco calcula o saldo e o que fazer se ele negar.",
+ "resumo": "Quem paga um financiamento antes do prazo tem direito à redução proporcional dos juros. Veja como o desconto é calculado, a proibição de tarifa e como pedir o saldo de quitação.",
+ "data": "2026-09-29",
+ "imagem": "/images/blog/quitacao-antecipada-desconto-de-juros.jpg",
+ "alt": "Pessoa fazendo contas em uma calculadora azul",
+ "resposta": "Sim. O Código de Defesa do Consumidor (art. 52, § 2º) garante a quem paga antes a redução proporcional dos juros e demais acréscimos, na quitação total ou parcial. Nos contratos com taxa prefixada de pessoa física, o banco deve trazer as parcelas futuras a valor presente usando a própria taxa do contrato (Resolução CMN 5.004/2022) e não pode cobrar tarifa pela liquidação antecipada (Resolução CMN 3.516/2007). Na prática, você paga o saldo devedor atualizado, sem os juros das parcelas que ainda não venceram.",
+ "intro": "<p>Sobrou um dinheiro, veio uma rescisão, uma herança ou o décimo terceiro, e a ideia é se livrar do financiamento do carro, do empréstimo pessoal ou do consignado. A dúvida que aparece em seguida é se vale a pena, porque muita gente acha que vai pagar a soma de todas as parcelas restantes. Não vai: a lei obriga o banco a tirar os juros correspondentes ao tempo que você deixou de usar o dinheiro.</p><p>O desconto, porém, não é um favor nem um percentual fixo. Ele sai de uma conta que segue regras do Conselho Monetário Nacional, e entender essa conta evita aceitar um saldo inflado ou trocar a quitação por uma renegociação que só alonga a dívida.</p>",
+ "secoes": [
+  {
+   "h2": "O que a lei garante a quem paga antes do prazo",
+   "html": "<p>O art. 52, § 2º, do Código de Defesa do Consumidor diz que é assegurada ao consumidor a <strong>liquidação antecipada do débito</strong>, total ou parcialmente, mediante redução proporcional dos juros e demais acréscimos. A lógica é simples: juros remuneram o tempo em que o dinheiro do banco fica com você. Se você devolve antes, o banco não pode cobrar pelo tempo que não aconteceu.</p><p>A regra vale para qualquer crédito concedido a consumidor: financiamento de veículo, empréstimo pessoal, crédito direto ao consumidor na loja, consignado e financiamento imobiliário. O banco não pode recusar o pagamento antecipado nem condicioná-lo a um número mínimo de parcelas pagas.</p><p>A Resolução CMN 5.004/2022 completa o quadro do lado operacional. O art. 6º obriga as instituições a disponibilizar ao cliente, de forma tempestiva, as informações e os meios necessários para a liquidação antecipada, total ou parcial. Isso significa que o banco precisa informar o saldo e oferecer um jeito de pagar, seja pelo aplicativo, seja por boleto emitido no atendimento.</p>"
+  },
+  {
+   "h2": "Como o banco calcula o desconto dos juros",
+   "html": "<p>Nos contratos com taxa prefixada firmados por pessoa física, empresário individual, microempresa ou empresa de pequeno porte, o art. 7º da Resolução CMN 5.004/2022 manda calcular o valor presente das parcelas futuras usando a taxa de juros pactuada no contrato. Essa regra precisa constar em cláusula contratual específica. Ela está em vigor desde 2 de maio de 2022 e substituiu o critério antigo da Resolução 3.516/2007, que, para prazos restantes acima de 12 meses, usava a Selic do dia do pedido somada ao spread da contratação.</p><h3>Exemplo com números</h3><p>Imagine um empréstimo de R$ 20.000,00 em 24 parcelas fixas, a 2% ao mês pela Tabela Price. A parcela fica em R$ 1.057,42. Depois de pagar 12 parcelas, restam outras 12, que somam R$ 12.689,06 se forem pagas no vencimento. Para quitar tudo hoje, o banco desconta cada parcela futura à taxa de 2% ao mês: o saldo de quitação fica em cerca de R$ 11.182,60. O desconto é de aproximadamente R$ 1.506,46, cerca de 11,9% do que ainda seria pago.</p><p>Nos contratos com taxa pós-fixada (atrelada a índice ou a taxa flutuante), o art. 7º não se aplica diretamente, mas o direito à redução proporcional do CDC continua valendo, e o cálculo segue o que o contrato prevê.</p>"
+  },
+  {
+   "h2": "Tarifa de liquidação antecipada é proibida",
+   "html": "<p>O art. 1º da Resolução CMN 3.516/2007 veda que bancos e empresas de arrendamento mercantil cobrem tarifa em decorrência de liquidação antecipada. A proibição vale para contratos de crédito e de arrendamento mercantil financeiro assinados desde a entrada em vigor da resolução, em dezembro de 2007, com pessoas físicas, microempresas e empresas de pequeno porte. Os arts. 2º e 3º dessa resolução foram revogados em 2022, mas o art. 1º continua vigente, conforme o registro do próprio Banco Central.</p><p>Na prática, isso impede que o saldo de quitação venha com uma linha de \"tarifa de quitação\", \"taxa de liquidação\" ou nome parecido. Se aparecer, peça a exclusão por escrito e guarde a resposta.</p><p>Outro ponto costuma passar despercebido. Quando o banco financia despesas da contratação (tarifas, seguros, registro), a Resolução CMN 5.004/2022, art. 9º, exige que ele use sobre elas a mesma taxa de juros do valor principal, salvo em linhas com recursos direcionados, como o Sistema Financeiro da Habitação e programas do BNDES. Esses valores entram no saldo e também recebem o desconto proporcional. Se houver seguro vinculado ao contrato, pergunte ao banco e à seguradora como fica o prêmio pago para o período que não será mais coberto, conforme as condições da apólice.</p>"
+  },
+  {
+   "h2": "Quitação total ou amortização parcial: qual escolher",
+   "html": "<p>A lei garante o desconto também no pagamento parcial. Aqui a escolha muda o resultado. Quando você antecipa parcelas, o banco desconta cada uma pela distância até o vencimento. Por isso, antecipar as últimas parcelas do contrato rende mais desconto do que antecipar as próximas.</p><p>No mesmo exemplo de 24 parcelas de R$ 1.057,42 a 2% ao mês, com 12 já pagas, antecipar a parcela seguinte (a 13ª) custa cerca de R$ 1.036,69, porque ela vence daqui a um mês. Antecipar a 24ª, que vence daqui a 12 meses, custa cerca de R$ 833,77. O dinheiro é quase o mesmo, mas o desconto na última é mais de dez vezes maior.</p><ul><li>Reduzir o prazo: você mantém o valor da parcela e termina o contrato antes. Costuma gerar a maior economia de juros.</li><li>Reduzir a parcela: o prazo continua igual e cada prestação fica menor. Faz sentido quando o orçamento mensal está apertado.</li></ul><p>Cada banco organiza essas opções no aplicativo de um jeito. Antes de pagar, confira na simulação quais parcelas estão sendo antecipadas e o valor de cada uma.</p>"
+  },
+  {
+   "h2": "Como pedir o saldo e o que fazer se o banco negar o desconto",
+   "html": "<p>O primeiro passo é pedir o saldo para quitação pelo canal oficial do banco (aplicativo, internet banking, agência ou central). Peça também o Documento Descritivo do Crédito. Pelo art. 4º da Resolução CMN 5.004/2022, ele deve trazer, entre outros dados, o saldo devedor atualizado, a evolução do saldo, a taxa de juros anual nominal e efetiva, o prazo remanescente e o valor de principal e encargos de cada parcela. O banco deve fornecê-lo de imediato no atendimento presencial e em até um dia útil nos demais canais.</p><p>Com o documento em mãos, dá para refazer a conta: some as parcelas restantes, traga cada uma a valor presente pela taxa mensal do contrato e compare com o saldo informado. Se a diferença for grande, ou se aparecer tarifa de quitação, o caminho costuma seguir esta ordem:</p><ol><li>Reclamação no SAC, com número de protocolo.</li><li>Ouvidoria do banco, se o SAC não resolver.</li><li>Registro de reclamação no Banco Central e na plataforma consumidor.gov.br.</li><li>Procon ou ação judicial para cobrar a diferença paga a mais.</li></ol><p>Quando a divergência envolve juros acima do contratado ou encargos que você não reconhece, a análise do contrato inteiro ajuda. O texto sobre <a href=\"/blog/como-identificar-juros-abusivos\">como identificar juros abusivos</a> mostra o que observar, e a página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> reúne os temas em que o escritório atua.</p>"
+  },
+  {
+   "h2": "Erros comuns na hora de quitar o contrato",
+   "html": "<ul><li>Pagar boleto recebido por WhatsApp ou e-mail sem conferir. Golpistas oferecem \"quitação com desconto especial\". Gere o boleto só no aplicativo ou no atendimento oficial do banco e confira o beneficiário antes de pagar.</li><li>Confundir quitação com renegociação. Uma proposta de \"refinanciamento com parcela menor\" normalmente cria um contrato novo, com novos juros e novo prazo. Não é quitação.</li><li>Aceitar o valor sem conferir. O saldo de quitação deve ser menor que a soma das parcelas restantes. Se for igual ou maior, algo está errado.</li><li>Não guardar o comprovante e o termo de quitação. Depois do pagamento, peça a declaração de quitação. No financiamento de veículo, confirme também a baixa da alienação fiduciária no registro do carro. No imóvel, o termo de quitação é necessário para cancelar a garantia na matrícula.</li><li>Esquecer de comparar com outras saídas. Se o problema é o custo dos juros e não há dinheiro para quitar, a portabilidade para outro banco com taxa menor pode ser uma alternativa.</li></ul><p>Se o contrato tem cláusulas que você não entende, ou se o banco segue negando o desconto depois da reclamação formal, vale levar o contrato, o Documento Descritivo do Crédito e os protocolos de atendimento para uma análise jurídica. A advogada Flávia Vaz Rabello atende questões bancárias em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Tenho contrato antigo, de antes de 2007. O banco pode cobrar tarifa para eu quitar?",
+   "a": "A proibição de tarifa da Resolução CMN 3.516/2007 alcança os contratos firmados a partir da sua entrada em vigor, em dezembro de 2007. Para contratos mais antigos, a cobrança depende do que foi pactuado. Mesmo assim, o direito à redução proporcional dos juros do art. 52 do CDC existe desde 1990 e vale para qualquer contrato de consumo."
+  },
+  {
+   "q": "Quitação antecipada de empréstimo consignado também tem desconto?",
+   "a": "Tem. O consignado é um empréstimo como outro qualquer para fins de liquidação antecipada: o banco deve descontar os juros das parcelas futuras e informar o saldo. Peça o valor pelo canal oficial do banco credor, pague pelo boleto oficial e acompanhe no extrato do benefício ou no contracheque se os descontos pararam depois do processamento."
+  },
+  {
+   "q": "Vale mais a pena quitar o financiamento ou deixar o dinheiro aplicado?",
+   "a": "Compare a taxa mensal do contrato com o rendimento líquido que o dinheiro teria aplicado, já descontado o imposto. Se o contrato cobra 2% ao mês e a aplicação rende bem menos, quitar costuma sair mais barato. Considere também manter uma reserva para emergências antes de usar todo o dinheiro na quitação."
+  },
+  {
+   "q": "O banco pode se recusar a receber a quitação antecipada?",
+   "a": "Não. O CDC assegura ao consumidor a liquidação antecipada, total ou parcial, e a Resolução CMN 5.004/2022 obriga o banco a fornecer as informações e os meios para isso. Se houver recusa ou demora injustificada, registre protocolo no SAC, recorra à ouvidoria e formalize reclamação no Banco Central."
+  },
+  {
+   "q": "Preciso de advogado para pedir a quitação antecipada?",
+   "a": "Não. O pedido de saldo e o pagamento são feitos direto com o banco. A orientação jurídica faz sentido quando o desconto parece menor do que deveria, quando aparece tarifa de quitação, quando há encargos que você não reconhece ou quando o banco não dá baixa na garantia depois do pagamento."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CDC art. 52, § 2º: liquidação antecipada total ou parcial com redução proporcional dos juros e demais acréscimos",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 3.516/2007 art. 1º (vedação de tarifa de liquidação antecipada para pessoas físicas, ME e EPP) vigente; arts. 2º e 3º revogados pela Resolução CMN 5.004/2022 a partir de 2/5/2022",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3516",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.004/2022 arts. 4º (Documento Descritivo do Crédito, imediato no presencial e em até um dia útil nos demais canais), 6º (meios para liquidação antecipada), 7º (valor presente pela taxa pactuada em contratos prefixados) e 9º (despesas financiadas à mesma taxa); vigente desde 2/5/2022",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5004",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Cálculo do exemplo: R$ 20.000,00, 24 parcelas, 2% ao mês, Price: parcela R$ 1.057,42; 12 restantes somam R$ 12.689,06; valor presente R$ 11.182,60; 13ª a valor presente R$ 1.036,69; 24ª a valor presente R$ 833,77 (conta própria)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5004",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

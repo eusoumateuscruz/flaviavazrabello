@@ -1,0 +1,124 @@
+{
+ "slug": "capitalizacao-de-juros",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Capitalização de juros: quando juros sobre juros são permitidos",
+ "title": "Capitalização de juros: quando juros sobre juros são permitidos",
+ "description": "Capitalização de juros: o que é, quando bancos podem cobrar juros sobre juros, o que o STJ exige no contrato e quando a cobrança pode ser questionada.",
+ "resumo": "Juros sobre juros são permitidos nos contratos bancários desde 2000, mas só com pactuação expressa. Entenda a conta, as Súmulas 539 e 541 do STJ e como conferir seu contrato.",
+ "data": "2026-09-29",
+ "imagem": "/images/blog/capitalizacao-de-juros.jpg",
+ "alt": "Gráfico de crescimento desenhado em papel com régua e caneta",
+ "resposta": "Capitalização é a cobrança de juros sobre juros já acumulados. Nos contratos com bancos e demais instituições do Sistema Financeiro Nacional firmados a partir de 31/3/2000, ela é permitida em períodos menores que um ano, desde que expressamente pactuada (MP 2.170-36/2001, art. 5º, e Súmula 539 do STJ). Pelo STJ, basta o contrato prever taxa anual maior que doze vezes a mensal (Súmula 541). Fora do sistema financeiro, a Lei de Usura proíbe contar juros dos juros, salvo a exceção anual em conta corrente.",
+ "intro": "<p>Quem abre o contrato de um empréstimo e vê \"2% ao mês\" ao lado de \"26,82% ao ano\" costuma achar que há um erro, já que doze vezes dois dá 24. Não há erro: a diferença é a capitalização dos juros, ou seja, os juros de cada mês passam a render juros nos meses seguintes. É a mesma matemática da poupança, só que do lado de quem deve.</p><p>A capitalização foi, por décadas, uma das maiores discussões do direito bancário. Hoje as regras estão bem definidas pelo STF e pelo STJ, e saber exatamente quando ela é permitida ajuda a separar a cobrança regular de uma cobrança que pode ser revista.</p>",
+ "secoes": [
+  {
+   "h2": "O que é capitalização de juros, com números",
+   "html": "<p>Nos <strong>juros simples</strong>, a taxa incide sempre sobre o valor original. Nos juros compostos (capitalizados), os juros de cada período se somam ao saldo, e o período seguinte calcula juros sobre esse total. A palavra técnica para juros sobre juros é anatocismo.</p><h3>Exemplo</h3><p>Uma dívida de R$ 1.000,00 a 2% ao mês, sem nenhum pagamento durante 12 meses:</p><ul><li>Juros simples: 2% de R$ 1.000,00 = R$ 20,00 por mês. Em 12 meses, R$ 240,00 de juros. Saldo final: R$ 1.240,00.</li><li>Juros compostos: R$ 1.000,00 × 1,02 elevado a 12 = R$ 1.268,24. Os juros somam R$ 268,24.</li></ul><p>A diferença de R$ 28,24 é o efeito da capitalização em um ano. A taxa anual equivalente a 2% ao mês capitalizados é de 26,82% ao ano (1,02 elevado a 12, menos 1), e não 24%. Em prazos longos e valores altos, como financiamentos de 48 ou 60 meses, a distância entre os dois regimes cresce bastante, porque o efeito se acumula mês a mês.</p>"
+  },
+  {
+   "h2": "Quando os bancos podem cobrar juros sobre juros",
+   "html": "<p>A autorização vem do art. 5º da Medida Provisória 2.170-36/2001: nas operações feitas por instituições integrantes do Sistema Financeiro Nacional, é admissível a capitalização de juros com periodicidade inferior a um ano. A regra apareceu pela primeira vez na MP 1.963-17, publicada em 31 de março de 2000, e segue em vigor por força da Emenda Constitucional 32/2001, que manteve válidas as medidas provisórias editadas antes dela.</p><p>A constitucionalidade chegou ao STF. No RE 592.377 (Tema 33 da repercussão geral), julgado em 2015, o Plenário entendeu presentes os requisitos de relevância e urgência da medida provisória e validou a norma.</p><p>No STJ, a Súmula 539 resume a regra: é permitida a capitalização com periodicidade inferior à anual em contratos celebrados com instituições do Sistema Financeiro Nacional a partir de 31/3/2000, desde que expressamente pactuada. O Tema 953 dos recursos repetitivos reforça a exigência: a cobrança de juros capitalizados em contratos de mútuo é permitida quando houver expressa pactuação, sem distinguir a periodicidade.</p><p>Ficam, portanto, três requisitos: credor do sistema financeiro, contrato posterior a 31/3/2000 e previsão expressa no contrato.</p>"
+  },
+  {
+   "h2": "O que conta como capitalização expressamente pactuada",
+   "html": "<p>O contrato não precisa usar a palavra \"capitalização\". A Súmula 541 do STJ, alinhada ao Tema 247 dos repetitivos, diz que a previsão de taxa de juros anual superior ao duodécuplo (doze vezes) da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.</p><h3>Como fazer a conferência</h3><ul><li>Contrato com 2% ao mês e 26,82% ao ano: 12 × 2% = 24%. Como 26,82% é maior que 24%, a capitalização está pactuada pelo critério do STJ.</li><li>Contrato com 2% ao mês e 24% ao ano: a taxa anual é exatamente doze vezes a mensal, o que indica juros simples. Cobrar juros compostos nesse caso não tem amparo na Súmula 541.</li><li>Contrato que traz só a taxa mensal, sem taxa anual e sem cláusula sobre capitalização: a pactuação expressa fica em dúvida, e o caso pede análise do documento inteiro.</li></ul><p>Hoje, a Resolução CMN 5.004/2022 (art. 3º) obriga o instrumento de crédito a discriminar a taxa efetiva mensal e anual dos juros remuneratórios. Nos contratos recentes, portanto, as duas taxas quase sempre estão lá, e a discussão sobre falta de pactuação ficou mais comum em contratos antigos, em aditivos e em documentos incompletos.</p>"
+  },
+  {
+   "h2": "Onde a capitalização continua proibida ou limitada",
+   "html": "<p>Fora do sistema financeiro, a regra geral é outra. O art. 4º do Decreto 22.626/1933, a Lei de Usura, proíbe contar juros dos juros, com uma exceção: a acumulação de juros vencidos aos saldos líquidos em conta corrente, de ano a ano.</p><p>A Lei 14.905/2024 (art. 3º) afastou a Lei de Usura de várias obrigações: as contratadas entre pessoas jurídicas, as representadas por títulos de crédito ou valores mobiliários, as contraídas perante instituições financeiras e demais autorizadas pelo Banco Central, fundos de investimento, arrendadoras e empresas simples de crédito, entre outras. Continua sob a Lei de Usura, por exemplo, o empréstimo entre pessoas físicas, como o dinheiro emprestado por um parente ou por um particular.</p><h3>Financiamento habitacional</h3><p>No Sistema Financeiro da Habitação, a capitalização mensal passou a ser expressamente permitida com o art. 15-A da Lei 4.380/1964, incluído pela Lei 11.977/2009. Para contratos do SFH anteriores a essa lei, o STJ, no Tema 572, registrou que a capitalização era vedada e que verificar se ela existe na prática exige prova técnica, normalmente perícia contábil.</p>"
+  },
+  {
+   "h2": "Capitalização permitida não quer dizer taxa correta",
+   "html": "<p>Um erro comum é tratar a capitalização como sinônimo de abuso. Ela é só a forma de calcular. Um contrato pode ter capitalização mensal perfeitamente válida e, ainda assim, cobrar uma taxa de juros muito acima da média de mercado para aquela operação. Esse é outro problema, com outros critérios, explicado no texto sobre <a href=\"/blog/como-identificar-juros-abusivos\">como identificar juros abusivos</a>.</p><p>O inverso também acontece: um contrato com taxa de mercado pode aplicar capitalização sem pactuação expressa. Nesse caso, a revisão costuma mirar o recálculo da dívida com juros simples e a devolução do que foi pago a mais, ou o abatimento no saldo.</p><p>Outro ponto: a capitalização se refere aos juros remuneratórios do contrato. Encargos de atraso, como multa e juros de mora, seguem regras próprias. A multa por atraso em contrato de consumo, por exemplo, não pode passar de 2% do valor da prestação (CDC, art. 52, § 1º). Misturar essas cobranças na análise leva a conclusões erradas sobre o que foi cobrado a mais.</p>"
+  },
+  {
+   "h2": "Como conferir o seu contrato e quando vale discutir",
+   "html": "<p>Separe o contrato completo, os aditivos e, se tiver, o Documento Descritivo do Crédito, que o banco deve fornecer com a taxa anual nominal e efetiva, a evolução do saldo e o valor de principal e encargos de cada parcela (Resolução CMN 5.004/2022, art. 4º). Depois, verifique:</p><ol><li>A data de assinatura. Contratos bancários anteriores a 31/3/2000 não se beneficiam da MP 2.170-36.</li><li>Quem é o credor. Se não for instituição financeira nem outra entidade da lista da Lei 14.905/2024, a Lei de Usura pode incidir.</li><li>As taxas. Multiplique a taxa mensal por 12 e compare com a anual informada.</li><li>A existência de cláusula sobre capitalização ou sobre o regime de juros.</li><li>Os extratos e boletos, para ver se os valores cobrados batem com o contrato.</li></ol><p>A discussão tende a ter fundamento quando falta pactuação expressa, quando o contrato é anterior a 2000, quando o credor não integra o sistema financeiro ou quando o banco cobra taxa diferente da contratada. Em financiamento de veículo, o texto sobre <a href=\"/blog/revisao-contrato-financiamento-veiculo\">revisão de contrato de financiamento</a> mostra outros pontos que costumam ser analisados em conjunto. Os demais temas de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> estão reunidos na página da área.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Capitalização de juros é ilegal?",
+   "a": "Não, em regra. Nos contratos com bancos firmados a partir de 31/3/2000, ela é permitida desde que expressamente pactuada, e o STF confirmou a validade da MP 2.170-36 em 2015. Ela se torna questionável quando falta previsão no contrato, quando o credor não é instituição financeira ou em contratos antigos do SFH."
+  },
+  {
+   "q": "Cartão de crédito e cheque especial podem cobrar juros sobre juros?",
+   "a": "São operações do sistema financeiro, então a capitalização segue a mesma regra: é permitida quando pactuada. Essas modalidades têm, porém, limites próprios de juros e encargos definidos em lei e pelo Conselho Monetário Nacional, que precisam ser analisados separadamente da questão da capitalização."
+  },
+  {
+   "q": "Paguei juros capitalizados sem previsão no contrato. Posso pedir a devolução?",
+   "a": "Pode, se ficar demonstrado que a capitalização não estava pactuada. O pedido costuma envolver o recálculo da dívida com juros simples e a restituição ou compensação da diferença. Não deixe passar muito tempo, porque há prazo para cobrar valores pagos indevidamente, e ele varia conforme o caso."
+  },
+  {
+   "q": "Empréstimo feito com um particular pode ter juros compostos?",
+   "a": "Em regra, não. Entre pessoas físicas, fora do sistema financeiro, a Lei de Usura continua valendo e proíbe contar juros dos juros, com exceção da acumulação anual em conta corrente. Credor particular que cobra juros capitalizados mensalmente está fora da autorização dada aos bancos pela MP 2.170-36."
+  },
+  {
+   "q": "Meu contrato mostra só a taxa mensal. A capitalização vale?",
+   "a": "É uma situação duvidosa. Sem taxa anual e sem cláusula sobre capitalização, não se aplica o critério da Súmula 541, e há argumento para dizer que a capitalização não foi expressamente pactuada. A conclusão depende da leitura do contrato inteiro, dos aditivos e dos documentos entregues na contratação."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "MP 2.170-36/2001, art. 5º: capitalização com periodicidade inferior a um ano admitida nas operações do Sistema Financeiro Nacional",
+   "url": "https://www.planalto.gov.br/ccivil_03/mpv/2170-36.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmulas 539 e 541 do STJ (texto integral), aprovadas pela Segunda Seção em junho de 2015",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2015/2015-06-15_10-34_Segunda-Secao-aprova-cinco-novas-sumulas-e-cancela-a-de-numero-470.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 247: capitalização deve ser pactuada de forma expressa e clara; taxa anual superior ao duodécuplo da mensal basta",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=247&cod_tema_final=247",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 953: cobrança de juros capitalizados em mútuo permitida quando houver expressa pactuação",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=953&cod_tema_final=953",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "EC 32/2001, art. 2º: medidas provisórias anteriores continuam em vigor até revogação explícita ou deliberação do Congresso",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc32.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF RE 592.377, Tema 33: requisitos de relevância e urgência presentes na MP 2.170-36/2001 (julgado em 2015)",
+   "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-mp-que-permite-capitalizacao-de-juros-com-periodicidade-inferior-a-um-ano/",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Decreto 22.626/1933 (Lei de Usura), art. 4º: proibição de contar juros dos juros, salvo acumulação anual em conta corrente",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/d22626.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 14.905/2024, art. 3º: Lei de Usura não se aplica a obrigações entre pessoas jurídicas, títulos de crédito e obrigações perante instituições financeiras, fundos, arrendadoras e empresas simples de crédito",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14905.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 4.380/1964, art. 15-A (incluído pela Lei 11.977/2009): capitalização mensal permitida no SFH",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4380.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 572: capitalização vedada no SFH antes da Lei 11.977/2009; verificação exige prova técnica",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=572&cod_tema_final=572",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.004/2022, arts. 3º e 4º: contrato deve discriminar taxa efetiva mensal e anual; Documento Descritivo do Crédito",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5004",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 52, § 1º: multa de mora limitada a 2% da prestação",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

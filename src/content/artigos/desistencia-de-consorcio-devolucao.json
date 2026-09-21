@@ -1,0 +1,99 @@
+{
+ "slug": "desistencia-de-consorcio-devolucao",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Desistência de consórcio: quando e quanto você recebe de volta",
+ "title": "Desistência de consórcio: quando e quanto recebe de volta",
+ "description": "Desistência de consórcio: quando sai a devolução das parcelas pagas, como a lei calcula o valor, o que a administradora pode descontar e o que diz o STJ.",
+ "resumo": "Quem sai do consórcio recebe o que pagou ao fundo comum, mas não na hora. Entenda o sorteio da cota excluída, o encerramento do grupo, a taxa de administração e a multa.",
+ "data": "2026-09-29",
+ "imagem": "/images/blog/desistencia-de-consorcio-devolucao.jpg",
+ "alt": "Carro exposto no salão de uma concessionária",
+ "resposta": "Quem desiste do consórcio recebe de volta o que pagou ao fundo comum, calculado pelo percentual já amortizado sobre o valor atual do bem, com rendimentos (Lei 11.795/2008, art. 30). A devolução não é imediata: nos contratos regidos por essa lei, a cota excluída concorre aos sorteios e, se não for sorteada, o valor fica disponível no encerramento do grupo. Nos contratos anteriores, o STJ fixou o prazo de até 30 dias após o fim previsto do plano (Tema 312). A taxa de administração proporcional ao que foi pago fica com a administradora.",
+ "intro": "<p>A carta de crédito que parecia uma boa ideia virou um peso no orçamento, ou o plano mudou e o carro ou o imóvel não são mais prioridade. A primeira reação é pedir o dinheiro de volta. A resposta da administradora costuma frustrar: não há devolução imediata, e o valor sai com descontos.</p><p>Parte disso é regra da lei e da jurisprudência, e parte pode ser contestada. Saber qual é qual evita aceitar um desconto indevido e também evita uma ação judicial que pede algo que o STJ já negou.</p>",
+ "secoes": [
+  {
+   "h2": "O que a lei diz sobre a devolução ao consorciado excluído",
+   "html": "<p>A Lei 11.795/2008 regula o sistema de consórcios e passou a valer 120 dias depois de sua publicação, em outubro de 2008. Quem desiste ou deixa de pagar e é excluído do grupo sem ter sido contemplado tem direito à <strong>restituição da importância paga ao fundo comum</strong> (art. 30).</p><p>O valor não é simplesmente a soma dos boletos. A lei manda calcular com base no percentual do bem que você já amortizou, aplicado sobre o valor do bem vigente na data da assembleia de contemplação, e acrescido dos rendimentos da aplicação financeira dos recursos do grupo (art. 30 combinado com o art. 24, § 1º).</p><p>A lógica da lei parte de um princípio expresso no art. 3º, § 2º: o interesse coletivo do grupo prevalece sobre o interesse individual de cada consorciado. O dinheiro que você pagou foi usado para contemplar outros participantes, e tirá-lo de uma vez poderia prejudicar quem continua pagando. É por isso que a devolução segue um calendário próprio.</p>"
+  },
+  {
+   "h2": "Quando o dinheiro sai: sorteio da cota ou encerramento do grupo",
+   "html": "<p>O momento da devolução depende da data do contrato.</p><h3>Contratos regidos pela Lei 11.795/2008</h3><p>O art. 22 diz que a contemplação serve também para a restituição das parcelas pagas aos consorciados excluídos, e o § 2º determina que os excluídos concorrem à contemplação para esse fim. Na prática, a cota de quem saiu continua participando dos sorteios. Se for sorteada, a restituição é paga como crédito parcial (art. 24, § 3º), desde que haja recursos suficientes no grupo (art. 23). Se nunca for sorteada, o valor fica entre as disponibilidades do grupo no encerramento. A lei manda encerrar o grupo em até 120 dias após a última assembleia de contemplação, com prestação de contas que discrimina os valores dos excluídos (art. 32).</p><h3>Contratos anteriores à lei</h3><p>Para os contratos regidos pela lei antiga, o STJ fixou no Tema 312 dos recursos repetitivos que a restituição é devida, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano.</p><p>Em 2017, ao julgar a Reclamação 16.390, a Segunda Seção do STJ afirmou que esse entendimento, contrário à devolução imediata, não foi alterado pela entrada em vigor da Lei 11.795/2008. Há ações pedindo devolução imediata com base no CDC, mas a posição do STJ é contrária a elas.</p>"
+  },
+  {
+   "h2": "O que a administradora pode descontar",
+   "html": "<p>A restituição se refere ao fundo comum. Outras partes da parcela seguem regras próprias.</p><h3>Taxa de administração</h3><p>A administradora tem direito à taxa de administração como remuneração pela formação e gestão do grupo (art. 5º, § 3º). A Súmula 538 do STJ permite que ela seja fixada livremente, inclusive acima de 10%. Mas, na desistência, o STJ entende que a taxa incide apenas sobre as parcelas efetivamente pagas, e não sobre o valor total do contrato (AgInt no AREsp 2.267.326/PR, Quarta Turma, julgado em 4/12/2024). A administradora não pode reter a taxa referente aos anos em que você não estará mais no grupo.</p><h3>Multa ou cláusula penal</h3><p>Muitos contratos preveem multa para quem sai. O CDC (art. 53, § 2º) admite descontar, na restituição, os prejuízos que o desistente causar ao grupo. O STJ condiciona essa cobrança à demonstração, pela administradora, de que a saída prejudicou o grupo: o dano não é presumido (AgInt no AREsp 2.245.475/SP, julgado em 20/11/2023). No mesmo julgado de 2024, a Quarta Turma decidiu que a multa também deve incidir apenas sobre as parcelas pagas.</p><h3>Fundo de reserva e seguro</h3><p>O fundo de reserva, quando existe, só pode ser usado nas finalidades previstas no contrato, inclusive para restituir excluídos (art. 27, § 2º). O seguro cobrado nas parcelas remunera a cobertura já prestada e segue as condições da apólice.</p>"
+  },
+  {
+   "h2": "Exemplo: quanto volta de uma carta de R$ 100.000,00",
+   "html": "<p>Imagine um consórcio de imóvel com carta de R$ 100.000,00, prazo de 100 meses e taxa de administração total de 15%. Para simplificar, sem fundo de reserva e sem seguro. Cada parcela tem 1% do bem para o fundo comum (R$ 1.000,00) e 0,15% do bem de taxa de administração (R$ 150,00).</p><p>Você pagou 20 parcelas e desistiu. Você amortizou 20% do bem (20 × 1%) e pagou R$ 3.000,00 de taxa de administração (20 × R$ 150,00).</p><ul><li>Se a sua cota for sorteada numa assembleia em que o bem de referência já vale R$ 110.000,00, a restituição parte de 20% × R$ 110.000,00 = R$ 22.000,00, mais os rendimentos do período em que o valor ficou aplicado.</li><li>A taxa de administração já paga (R$ 3.000,00) fica com a administradora. Ela não pode reter 15% do valor total do contrato (R$ 15.000,00).</li><li>Se o contrato prevê multa de 10% e a administradora provar prejuízo ao grupo, o desconto seria de 10% sobre as parcelas pagas, e não sobre a carta inteira.</li></ul><p>Os percentuais variam de contrato para contrato. Use os do seu, que aparecem no regulamento e no extrato da cota.</p>"
+  },
+  {
+   "h2": "Arrependimento em 7 dias e outros casos com regra diferente",
+   "html": "<p>Se você comprou a cota fora do estabelecimento comercial, como pela internet, por telefone ou com um vendedor em casa, o art. 49 do CDC dá 7 dias, contados da assinatura, para desistir. Nesse caso, os valores pagos durante o prazo de reflexão, a qualquer título, devem ser devolvidos de imediato e com correção monetária. Isso inclui a antecipação de taxa de administração que muitas vezes é cobrada na adesão (art. 27, § 3º, da Lei 11.795/2008).</p><p>Outra situação diferente é a saída por falha da administradora: promessa falsa de contemplação garantida, de carta \"já sorteada\" ou de prazo certo para receber o crédito. Consórcio depende de sorteio ou lance (art. 22, § 1º), e o vendedor não pode garantir data de contemplação. Quando a venda foi feita com esse tipo de promessa, a discussão deixa de ser uma simples desistência e passa a envolver a anulação do contrato por vício na informação, com pedido de devolução integral.</p><p>Consorciado que já foi contemplado e usou a carta não está na mesma situação: ele não é excluído, e sim devedor das parcelas restantes, e as garantias em favor do grupo recaem sobre o bem adquirido (art. 14, § 1º).</p>"
+  },
+  {
+   "h2": "Como pedir a devolução e o que guardar",
+   "html": "<ol><li>Formalize a desistência por escrito, pelo canal oficial da administradora, e guarde o protocolo.</li><li>Peça o extrato da cota com o percentual amortizado, o valor pago ao fundo comum, a taxa de administração e o fundo de reserva.</li><li>Peça também o regulamento do grupo e o contrato de adesão. Confira a multa prevista e a data prevista para o encerramento do grupo.</li><li>Acompanhe as assembleias. A cota excluída concorre aos sorteios, e você precisa ser comunicado se for contemplado.</li><li>Guarde o contato atualizado com a administradora. Valores não procurados depois do encerramento seguem regras próprias da lei.</li></ol><p>A pretensão do excluído contra o grupo ou a administradora prescreve em 5 anos, com a contagem ligada ao encerramento do grupo (art. 32, § 2º). Não confie só na memória: anote a data prevista para o fim do plano.</p><p>Quando a administradora aplica multa sem demonstrar prejuízo, calcula a taxa de administração sobre o contrato inteiro ou não paga depois do encerramento, a análise do contrato e do extrato ajuda a definir o caminho. A página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> reúne os temas em que o escritório atua.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso pedir a devolução imediata do consórcio na Justiça?",
+   "a": "O pedido pode ser feito, mas a posição do STJ é contrária à devolução imediata. Para contratos antigos, vale o prazo do Tema 312, e o STJ afirmou em 2017 que a Lei 11.795/2008 não mudou esse entendimento. Exceções costumam envolver arrependimento em 7 dias ou falha da administradora, como promessa falsa de contemplação."
+  },
+  {
+   "q": "Se eu vender a cota do consórcio, recebo mais rápido?",
+   "a": "A transferência da cota a outra pessoa é uma alternativa à desistência, porque o comprador assume as parcelas e você negocia o valor diretamente com ele. A lei exige a prévia anuência da administradora para a transferência (art. 13 da Lei 11.795/2008). Confira as condições e os custos antes de fechar negócio."
+  },
+  {
+   "q": "Fui excluído por falta de pagamento. Tenho os mesmos direitos de quem desistiu?",
+   "a": "Sim. A Lei 11.795/2008 trata do consorciado excluído não contemplado sem distinguir se ele pediu para sair ou deixou de pagar. Nos dois casos, a restituição segue o art. 30, com a cota participando dos sorteios e, se não sorteada, com o valor disponível no encerramento do grupo."
+  },
+  {
+   "q": "A administradora pode ficar com toda a taxa de administração do contrato?",
+   "a": "Não. A taxa remunera a gestão do grupo enquanto você participa dele. O STJ decidiu que, na desistência, a taxa de administração e a multa incidem apenas sobre as parcelas efetivamente pagas, e não sobre o valor total do plano."
+  },
+  {
+   "q": "O valor devolvido é corrigido?",
+   "a": "É. A lei manda calcular a restituição pelo percentual amortizado sobre o valor do bem vigente na data da assembleia de contemplação, e não sobre o preço da época da adesão. Além disso, entram os rendimentos da aplicação financeira dos recursos do grupo durante o período em que ficaram aplicados."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 11.795/2008: arts. 3º § 2º (primazia do interesse coletivo), 13 (transferência da cota com anuência), 14 § 1º (garantias sobre o bem), 5º § 3º (taxa de administração), 22 §§ 1º e 2º (contemplação por sorteio ou lance; excluídos concorrem para restituição), 23, 24 §§ 1º e 3º, 27 §§ 2º e 3º, 30 (cálculo da restituição), 32 e § 2º (encerramento em 120 dias; prescrição de 5 anos) e 49 (vigência 120 dias após a publicação)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 312: restituição ao desistente em até 30 dias do prazo contratual de encerramento do plano; julgamento limitado à lei antiga",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=312&cod_tema_final=312",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Rcl 16.390 (Segunda Seção, 2017): entendimento contra a devolução imediata não foi alterado pela Lei 11.795/2008",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2017/2017-08-08_07-59_Segunda-Secao-reafirma-veto-a-devolucao-antecipada-de-valores-para-consorciado-desistente.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmula 538 do STJ: taxa de administração livre, inclusive acima de 10%",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2015/2015-06-15_10-34_Segunda-Secao-aprova-cinco-novas-sumulas-e-cancela-a-de-numero-470.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "AgInt no AREsp 2.267.326/PR (Quarta Turma, 4/12/2024): taxa de administração e multa do desistente incidem apenas sobre as parcelas efetivamente pagas",
+   "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT%3D021246",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "AgInt no AREsp 2.245.475/SP (julgado em 20/11/2023): cláusula penal em consórcio condicionada à prova de prejuízo ao grupo, sem presunção de dano",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/26022024-Cobranca-de-taxa-por-desistencia-de-consorcio-e-um-dos-temas-da-nova-Pesquisa-Pronta.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 49 (arrependimento em 7 dias fora do estabelecimento, devolução imediata e atualizada) e art. 53, § 2º (desconto dos prejuízos causados ao grupo de consórcio)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

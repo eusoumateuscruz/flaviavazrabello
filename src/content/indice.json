@@ -1,5 +1,55 @@
 [
  {
+  "slug": "capitalizacao-de-juros",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Capitalização de juros: quando juros sobre juros são permitidos",
+  "resumo": "Juros sobre juros são permitidos nos contratos bancários desde 2000, mas só com pactuação expressa. Entenda a conta, as Súmulas 539 e 541 do STJ e como conferir seu contrato.",
+  "data": "2026-09-29",
+  "imagem": "/images/blog/capitalizacao-de-juros.jpg",
+  "alt": "Gráfico de crescimento desenhado em papel com régua e caneta"
+ },
+ {
+  "slug": "custo-efetivo-total-cet",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "CET, o Custo Efetivo Total: como ler antes de assinar um empréstimo",
+  "resumo": "O CET reúne juros, tarifas, tributos e seguros numa taxa só e é a melhor forma de comparar empréstimos. Veja o que entra na conta, um exemplo calculado e o que o banco deve informar.",
+  "data": "2026-09-29",
+  "imagem": "/images/blog/custo-efetivo-total-cet.jpg",
+  "alt": "Óculos apoiados sobre um documento impresso"
+ },
+ {
+  "slug": "desistencia-de-consorcio-devolucao",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Desistência de consórcio: quando e quanto você recebe de volta",
+  "resumo": "Quem sai do consórcio recebe o que pagou ao fundo comum, mas não na hora. Entenda o sorteio da cota excluída, o encerramento do grupo, a taxa de administração e a multa.",
+  "data": "2026-09-29",
+  "imagem": "/images/blog/desistencia-de-consorcio-devolucao.jpg",
+  "alt": "Carro exposto no salão de uma concessionária"
+ },
+ {
+  "slug": "quitacao-antecipada-desconto-de-juros",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Quitação antecipada de financiamento: o banco é obrigado a dar desconto?",
+  "resumo": "Quem paga um financiamento antes do prazo tem direito à redução proporcional dos juros. Veja como o desconto é calculado, a proibição de tarifa e como pedir o saldo de quitação.",
+  "data": "2026-09-29",
+  "imagem": "/images/blog/quitacao-antecipada-desconto-de-juros.jpg",
+  "alt": "Pessoa fazendo contas em uma calculadora azul"
+ },
+ {
+  "slug": "tabela-price-ou-sac",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Tabela Price ou SAC: qual sistema de amortização custa menos",
+  "resumo": "Na Price a parcela é fixa; no SAC ela começa maior e cai todo mês. Veja a simulação com números, qual sistema paga menos juros e quando a Price pode ser discutida.",
+  "data": "2026-09-29",
+  "imagem": "/images/blog/tabela-price-ou-sac.jpg",
+  "alt": "Miniatura de casa de madeira ao lado de uma calculadora"
+ },
+ {
   "slug": "cheque-especial-como-funciona",
   "area": "direito-bancario",
   "categoria": "Bancário",

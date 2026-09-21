@@ -1,0 +1,94 @@
+{
+ "slug": "tabela-price-ou-sac",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Tabela Price ou SAC: qual sistema de amortização custa menos",
+ "title": "Tabela Price ou SAC: qual sistema custa menos no fim",
+ "description": "Tabela Price ou SAC: a diferença entre os dois sistemas de amortização, uma simulação completa com a conta e o que o STJ diz sobre a legalidade da Price.",
+ "resumo": "Na Price a parcela é fixa; no SAC ela começa maior e cai todo mês. Veja a simulação com números, qual sistema paga menos juros e quando a Price pode ser discutida.",
+ "data": "2026-09-29",
+ "imagem": "/images/blog/tabela-price-ou-sac.jpg",
+ "alt": "Miniatura de casa de madeira ao lado de uma calculadora",
+ "resposta": "Com a mesma taxa e o mesmo prazo, o SAC paga menos juros no total, porque amortiza mais do principal no início e os juros incidem sobre um saldo que cai mais rápido. Em R$ 120.000,00 a 1% ao mês por 120 meses, o SAC soma R$ 72.600,00 de juros e a Tabela Price, R$ 86.598,17. Em compensação, a primeira parcela do SAC é R$ 2.200,00, contra R$ 1.721,65 fixos na Price. A escolha depende de quanto a renda comporta no começo.",
+ "intro": "<p>Na hora de assinar um financiamento, principalmente o imobiliário, o banco pergunta qual sistema de amortização você prefere. A maioria escolhe olhando só para o valor da primeira parcela, e é aí que a Tabela Price costuma ganhar. Só que a parcela inicial menor tem um preço: você paga mais juros ao longo do contrato e o saldo devedor demora mais para cair.</p><p>Abaixo estão o funcionamento de cada sistema, uma simulação completa com as contas abertas, a discussão jurídica sobre a Price e o que muda quando você quer adiantar parcelas.</p>",
+ "secoes": [
+  {
+   "h2": "Como funciona a Tabela Price",
+   "html": "<p>Na Tabela Price, também chamada de sistema francês, todas as parcelas têm o mesmo valor (sem contar correção por índice, seguros e taxas). O que muda por dentro é a composição de cada parcela: no começo, quase tudo é juros e pouco é amortização; no fim, a proporção se inverte.</p><p>A parcela é calculada pela fórmula PMT = PV × i ÷ [1 − (1 + i) elevado a −n], em que PV é o valor financiado, i é a taxa mensal e n é o número de parcelas.</p><h3>A conta do exemplo</h3><p>Financiamento de R$ 120.000,00 a 1% ao mês em 120 meses. Primeiro, 1,01 elevado a 120 dá cerca de 3,3004. O inverso disso é 0,30299, e 1 menos 0,30299 dá 0,69701. O numerador é R$ 120.000,00 × 0,01 = R$ 1.200,00. Dividindo R$ 1.200,00 por 0,69701, a parcela fica em <strong>R$ 1.721,65</strong> durante os 120 meses.</p><p>Na primeira parcela, os juros são 1% de R$ 120.000,00, ou R$ 1.200,00. Sobram só R$ 521,65 para amortizar a dívida. Na última, os juros são de R$ 17,05 e a amortização é de R$ 1.704,61.</p>"
+  },
+  {
+   "h2": "Como funciona o SAC",
+   "html": "<p>No Sistema de Amortização Constante, a parte da parcela que abate a dívida é sempre igual: o valor financiado dividido pelo número de meses. Os juros são calculados todo mês sobre o saldo que resta. Como o saldo cai em ritmo fixo, os juros também caem, e a parcela diminui mês a mês.</p><h3>A conta do exemplo</h3><p>Com os mesmos R$ 120.000,00, 1% ao mês e 120 meses, a amortização mensal é R$ 120.000,00 ÷ 120 = R$ 1.000,00.</p><ul><li>1ª parcela: R$ 1.000,00 de amortização + 1% de R$ 120.000,00 (R$ 1.200,00) = R$ 2.200,00.</li><li>2ª parcela: R$ 1.000,00 + 1% de R$ 119.000,00 (R$ 1.190,00) = R$ 2.190,00.</li><li>Cada parcela seguinte cai R$ 10,00, porque o saldo diminui R$ 1.000,00 por mês e os juros sobre ele caem 1% disso.</li><li>120ª parcela: R$ 1.000,00 + 1% de R$ 1.000,00 = R$ 1.010,00.</li></ul><p>O total de juros é 1% da soma dos saldos de todos os meses (R$ 120.000,00 + R$ 119.000,00 + ... + R$ 1.000,00 = R$ 7.260.000,00), ou seja, R$ 72.600,00.</p>"
+  },
+  {
+   "h2": "Price e SAC lado a lado",
+   "html": "<p>Os números abaixo usam o mesmo exemplo e ignoram correção monetária, seguros e tarifas, que no contrato real se somam às parcelas.</p><table><thead><tr><th>Item</th><th>Tabela Price</th><th>SAC</th></tr></thead><tbody><tr><td>1ª parcela</td><td>R$ 1.721,65</td><td>R$ 2.200,00</td></tr><tr><td>Parcela nº 61</td><td>R$ 1.721,65</td><td>R$ 1.600,00</td></tr><tr><td>Última parcela</td><td>R$ 1.721,65</td><td>R$ 1.010,00</td></tr><tr><td>Saldo devedor após 60 meses</td><td>R$ 77.396,90</td><td>R$ 60.000,00</td></tr><tr><td>Total de juros</td><td>R$ 86.598,17</td><td>R$ 72.600,00</td></tr><tr><td>Total pago</td><td>R$ 206.598,17</td><td>R$ 192.600,00</td></tr></tbody></table><p>A diferença de juros é de R$ 13.998,17 a favor do SAC. A parcela do SAC fica abaixo da Price a partir da 49ª (R$ 2.200,00 − 48 × R$ 10,00 = R$ 1.720,00). Antes disso, quem está no SAC paga mais por mês.</p><p>O saldo após cinco anos também pesa: se você vender o imóvel ou quiser quitar na metade do contrato, no SAC deve R$ 17.396,90 a menos do que na Price.</p>"
+  },
+  {
+   "h2": "Qual sistema custa menos, de verdade",
+   "html": "<p>Em valor total de juros, o SAC custa menos quando a taxa e o prazo são iguais. Mas há uma nuance financeira: a Price não cobra uma taxa maior. Ela cobra mais juros porque você devolve o dinheiro do banco mais devagar e, portanto, fica com ele por mais tempo. Trazidas a valor presente pela taxa do contrato, as parcelas dos dois sistemas somam exatamente o valor financiado.</p><p>Na prática, a escolha passa por três perguntas:</p><ol><li>A renda comporta a primeira parcela do SAC com folga? Bancos costumam limitar a parcela a uma fração da renda, e o SAC exige mais no início.</li><li>Você pretende quitar ou vender antes do fim? O SAC deixa um saldo menor mais cedo.</li><li>Sua renda tende a subir ou a ficar estável? Com renda crescente, a parcela fixa da Price perde peso no orçamento com o tempo.</li></ol><p>Compare também o Custo Efetivo Total (CET) das propostas. Uma taxa de juros menor pode vir acompanhada de seguros e tarifas maiores, e o sistema de amortização é só uma parte do custo.</p>"
+  },
+  {
+   "h2": "A Tabela Price é ilegal?",
+   "html": "<p>Não existe proibição geral à Tabela Price. A discussão jurídica gira em torno de outro ponto: se ela embute capitalização de juros (juros sobre juros) em contratos nos quais a capitalização não era permitida.</p><p>O STJ fixou, no Tema 572 dos recursos repetitivos, que analisar a legalidade da Price passa pela constatação de eventual capitalização, e que isso é questão de fato, não de direito. Por isso, nos contratos em que a capitalização é vedada, é necessária a interpretação das cláusulas e a produção de prova técnica. O próprio tema cita os financiamentos do Sistema Financeiro da Habitação anteriores à Lei 11.977/2009, que incluiu o art. 15-A na Lei 4.380/1964 e passou a permitir a capitalização mensal no SFH.</p><p>Nos demais contratos bancários posteriores a 31/3/2000, a capitalização é permitida desde que expressamente pactuada (MP 2.170-36/2001, art. 5º, e Súmula 539 do STJ). Assim, uma revisão centrada só no uso da Price tem pouco espaço nesses contratos, a menos que falte a pactuação ou haja outro vício, como taxa diferente da contratada.</p>"
+  },
+  {
+   "h2": "Amortização antecipada e o que conferir antes de assinar",
+   "html": "<p>Nos dois sistemas, o Código de Defesa do Consumidor (art. 52, § 2º) garante o pagamento antecipado, total ou parcial, com redução proporcional dos juros. Nos contratos prefixados de pessoa física, a Resolução CMN 5.004/2022 (art. 7º) manda calcular o valor presente pela taxa do próprio contrato.</p><p>Na Price, antecipar parcelas do fim do contrato rende o maior desconto. No exemplo, a parcela nº 120, paga junto com a 12ª, custa cerca de R$ 587,81, porque está a 108 meses do vencimento (R$ 1.721,65 ÷ 1,01 elevado a 108). Nos dois sistemas, a amortização extraordinária costuma permitir escolher entre reduzir o prazo, que gera mais economia de juros, ou reduzir a parcela. Confira no contrato e na simulação do banco quais opções estão disponíveis.</p><p>Antes de assinar, peça e confira:</p><ul><li>O sistema de amortização escrito no contrato. Ele também deve constar do Documento Descritivo do Crédito (Resolução CMN 5.004/2022, art. 4º).</li><li>As taxas mensal e anual e o CET.</li><li>A planilha de evolução das parcelas nos dois sistemas.</li><li>O índice de correção, se houver, e os seguros cobrados.</li></ul><p>Se o contrato já foi assinado e os valores não batem com a planilha, a página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> reúne os temas de revisão de contratos em que o escritório atua.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso trocar de Tabela Price para SAC depois de assinar o financiamento?",
+   "a": "Não existe regra que obrigue o banco a mudar o sistema no meio do contrato. Alguns bancos aceitam a alteração por aditivo, e outra saída é a portabilidade para uma instituição que ofereça o sistema desejado. Em qualquer caso, peça a simulação completa das novas parcelas antes de concordar."
+  },
+  {
+   "q": "Na Caixa é melhor escolher SAC ou Price?",
+   "a": "A lógica é a mesma em qualquer banco: com taxa e prazo iguais, o SAC paga menos juros no total e a Price tem parcela inicial menor. O que muda entre bancos e linhas de crédito são as taxas, os seguros e as condições de cada programa, então compare as simulações oficiais e o CET."
+  },
+  {
+   "q": "Por que no SAC a primeira parcela é tão mais alta?",
+   "a": "Porque ela já abate uma parte fixa e relevante do valor financiado desde o primeiro mês, além dos juros sobre o saldo inteiro. Na Price, a parcela inicial é quase toda juros, e a amortização começa pequena. É essa diferença que faz o saldo do SAC cair mais rápido."
+  },
+  {
+   "q": "Juros sobre juros na Tabela Price dão direito a revisão do contrato?",
+   "a": "Só em situações específicas. Nos contratos bancários posteriores a março de 2000 com capitalização pactuada, ela é permitida. A discussão tem espaço quando a capitalização era vedada, como no SFH antes de 2009, ou quando não foi pactuada, e o STJ exige prova técnica para verificar a cobrança."
+  },
+  {
+   "q": "O sistema de amortização vale para financiamento de carro também?",
+   "a": "Vale. Financiamentos de veículos e empréstimos pessoais costumam usar a Tabela Price, com parcelas fixas. O SAC é mais comum no crédito imobiliário. As regras de antecipação com desconto de juros e de informação do sistema no contrato se aplicam a qualquer crédito ao consumidor."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "STJ Tema 572: legalidade da Tabela Price depende da constatação de capitalização, questão de fato; prova técnica necessária onde a capitalização é vedada; menção ao SFH antes da Lei 11.977/2009",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=572&cod_tema_final=572",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 4.380/1964, art. 15-A (incluído pela Lei 11.977/2009): capitalização mensal permitida no SFH",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4380.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "MP 2.170-36/2001, art. 5º: capitalização inferior a um ano admitida no Sistema Financeiro Nacional",
+   "url": "https://www.planalto.gov.br/ccivil_03/mpv/2170-36.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmula 539 do STJ: capitalização em periodicidade inferior à anual a partir de 31/3/2000, desde que expressamente pactuada",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2015/2015-06-15_10-34_Segunda-Secao-aprova-cinco-novas-sumulas-e-cancela-a-de-numero-470.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 52, § 2º: liquidação antecipada com redução proporcional dos juros",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.004/2022, art. 4º, VII (sistema de pagamento no Documento Descritivo do Crédito) e art. 7º (valor presente pela taxa pactuada)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5004",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

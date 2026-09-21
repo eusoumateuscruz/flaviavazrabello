@@ -1,0 +1,89 @@
+{
+ "slug": "custo-efetivo-total-cet",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "CET, o Custo Efetivo Total: como ler antes de assinar um empréstimo",
+ "title": "CET, Custo Efetivo Total: como ler antes de assinar",
+ "description": "CET, o custo efetivo total do empréstimo: o que entra na conta, como calcular, a regra do Banco Central (Resolução CMN 4.881/2020) e como comparar propostas.",
+ "resumo": "O CET reúne juros, tarifas, tributos e seguros numa taxa só e é a melhor forma de comparar empréstimos. Veja o que entra na conta, um exemplo calculado e o que o banco deve informar.",
+ "data": "2026-09-29",
+ "imagem": "/images/blog/custo-efetivo-total-cet.jpg",
+ "alt": "Óculos apoiados sobre um documento impresso",
+ "resposta": "O CET (Custo Efetivo Total) é a taxa que mostra quanto o crédito custa de verdade, somando juros, tarifas, tributos, seguros e outras despesas da operação. A regra vigente é a Resolução CMN 4.881/2020, que substituiu a Resolução 3.517/2007 em 1º de fevereiro de 2021. O banco deve informar o CET em taxa anual, com um demonstrativo em reais, antes de você contratar. Para comparar propostas, olhe o CET anual, e não só a taxa de juros.",
+ "intro": "<p>O anúncio diz \"juros a partir de 1,8% ao mês\", o gerente confirma a taxa e a parcela cabe no bolso. Mas, no dia da liberação, o dinheiro que cai na conta é menor do que o pedido, porque dele saíram tarifas, seguro e imposto. A taxa de juros não mostra nada disso. O CET mostra.</p><p>O Banco Central obriga bancos e financeiras a calcular e informar esse número, justamente para que o consumidor consiga comparar ofertas diferentes pelo custo real. Entender como ele é montado ajuda a escolher melhor e a identificar cobranças que não deveriam estar lá.</p>",
+ "secoes": [
+  {
+   "h2": "O que é o CET e por que ele é diferente da taxa de juros",
+   "html": "<p>A Resolução CMN 4.881/2020, em vigor desde 1º de fevereiro de 2021, define o CET como a taxa que representa, na data do cálculo, de forma consolidada, os encargos e as despesas da operação de crédito (art. 2º). Ela revogou a Resolução 3.517/2007, que tratava do mesmo assunto, e é a norma que vale hoje.</p><p>A taxa de juros remunera só o dinheiro emprestado. O CET vai além: considera tudo o que você paga e tudo o que efetivamente recebe. Se o empréstimo é de R$ 10.000,00, mas R$ 500,00 são descontados na liberação, o custo real é calculado sobre os R$ 9.500,00 que chegaram à sua conta, e não sobre os R$ 10.000,00.</p><p>A regra se aplica às operações de crédito e de arrendamento mercantil financeiro com pessoas naturais, inclusive empresários individuais, e com microempresas e empresas de pequeno porte (art. 1º). Ficam de fora os repasses de recursos externos e o crédito rural (art. 9º). O CET deve ser expresso em taxa percentual anual, com duas casas decimais.</p>"
+  },
+  {
+   "h2": "O que entra no cálculo do CET",
+   "html": "<p>Pelo art. 3º da resolução, o cálculo deve abranger o valor do crédito concedido e tudo o que for cobrado do cliente na operação:</p><ul><li>amortizações e juros;</li><li>tarifas, como a de cadastro;</li><li>tributos, como o IOF;</li><li>seguros vinculados ao contrato;</li><li>outras despesas ligadas à operação, inclusive serviços de terceiros contratados pela instituição e pagos pelo cliente, como registro de contrato e avaliação de bem.</li></ul><p>Essas despesas entram no CET mesmo quando não são somadas ao valor financiado e são pagas à parte.</p><h3>Duas situações especiais</h3><p>Nas operações com taxa flutuante ou corrigidas por índice de preços, a variação futura do índice não entra no CET, porque não há como prevê-la. O índice deve ser informado no demonstrativo (art. 5º). Por isso, em um financiamento corrigido por índice, o CET mostra o custo acima da correção.</p><p>No cheque especial e nas operações com características de crédito rotativo, o CET é calculado considerando o prazo de 30 dias e o valor do limite de crédito contratado (art. 6º).</p>"
+  },
+  {
+   "h2": "Como o CET é calculado, com exemplo",
+   "html": "<p>A fórmula do art. 4º funciona como uma taxa interna de retorno. De um lado fica o valor liberado, já descontadas as tarifas e despesas pagas antecipadamente. Do outro, todos os pagamentos que você fará, cada um na sua data. O CET é a taxa que iguala os dois lados. A norma conta os intervalos em dias corridos, por isso o número do banco pode diferir um pouco de uma conta feita por mês.</p><h3>Exemplo</h3><p>Empréstimo de R$ 10.000,00 em 12 parcelas, com juros de 2% ao mês. Pela Tabela Price, a parcela é de R$ 945,60 (R$ 10.000,00 × 0,02 ÷ [1 − 1,02 elevado a −12]). A taxa de juros anual equivalente é de 26,82%.</p><p>Agora suponha R$ 500,00 de tarifas e tributos descontados na liberação. Você recebe R$ 9.500,00 e paga 12 × R$ 945,60 = R$ 11.347,15. A taxa mensal que faz R$ 9.500,00 equivaler a essas 12 parcelas é de cerca de 2,85%. Anualizada (1,0285 elevado a 12, menos 1), dá um CET de aproximadamente <strong>40% ao ano</strong>, bem acima dos 26,82% dos juros.</p><p>Para refazer a conta em casa, use a função TIR (ou TAXA) de uma planilha: valor recebido como positivo, parcelas como negativas, uma por mês. O resultado é a taxa mensal aproximada.</p>"
+  },
+  {
+   "h2": "Taxa de juros menor nem sempre é o empréstimo mais barato",
+   "html": "<p>O CET existe para evitar a comparação só pela taxa de juros. Veja duas propostas para os mesmos R$ 10.000,00 em 12 meses, calculadas por mês:</p><table><thead><tr><th>Item</th><th>Proposta A</th><th>Proposta B</th></tr></thead><tbody><tr><td>Taxa de juros</td><td>2% ao mês (26,82% ao ano)</td><td>1,8% ao mês (23,87% ao ano)</td></tr><tr><td>Despesas descontadas na liberação</td><td>R$ 500,00</td><td>R$ 900,00</td></tr><tr><td>Valor recebido</td><td>R$ 9.500,00</td><td>R$ 9.100,00</td></tr><tr><td>Parcela</td><td>R$ 945,60</td><td>R$ 934,02</td></tr><tr><td>CET aproximado</td><td>40,03% ao ano</td><td>48,69% ao ano</td></tr></tbody></table><p>A proposta B anuncia juros menores e tem parcela menor, mas é mais cara: você recebe R$ 400,00 a menos para pagar só R$ 138,91 a menos no total. O CET revela isso de imediato.</p><p>A comparação só funciona entre propostas com o mesmo prazo e o mesmo tipo de crédito. Um CET anual de consignado e um de crédito pessoal sem garantia refletem riscos diferentes para o banco, e prazos diferentes mudam o peso das despesas iniciais.</p>"
+  },
+  {
+   "h2": "O que o banco é obrigado a informar",
+   "html": "<p>A Resolução CMN 4.881/2020 traz as regras de transparência:</p><ul><li>Antes da contratação, o banco deve informar o CET e apresentar o demonstrativo do cálculo (art. 7º).</li><li>O demonstrativo deve mostrar o valor em reais de cada componente (juros, tarifas, tributos, seguros) e o percentual de cada um em relação ao total devido, além da soma das parcelas (art. 7º, § 1º).</li><li>Se o contrato for assinado, o demonstrativo deve ser inserido nele de forma destacada (art. 7º, § 3º), e a instituição deve guardá-lo por pelo menos cinco anos (art. 7º, § 2º).</li><li>A publicidade que mostra a taxa de juros também precisa informar o CET (art. 8º).</li></ul><p>A Resolução CMN 5.004/2022 (art. 3º, V) reforça que o contrato deve discriminar o CET, junto com as taxas mensal e anual, as tarifas e os tributos com seus valores. O Código de Defesa do Consumidor (art. 52) também exige informação prévia e adequada sobre a taxa efetiva anual de juros e a soma total a pagar.</p><p>Se o CET não foi informado, se o demonstrativo não bate com o contrato ou se apareceram despesas que não constavam da proposta, registre reclamação no SAC e na ouvidoria do banco e, se não resolver, no Banco Central. Os temas de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> reúnem os casos em que a análise do contrato ajuda.</p>"
+  },
+  {
+   "h2": "Como ler o CET antes de assinar: um roteiro",
+   "html": "<ol><li>Peça o demonstrativo do CET por escrito, com os valores em reais. Não aceite só a taxa de juros informada verbalmente.</li><li>Confira o valor líquido liberado. Ele é o que realmente vai para sua conta.</li><li>Leia cada linha de despesa. Seguro e outros serviços opcionais podem ser recusados. Se o banco condicionar o crédito à contratação deles, a situação pode configurar venda casada.</li><li>Compare o CET anual entre propostas do mesmo prazo e do mesmo tipo de crédito.</li><li>Verifique se o CET do contrato assinado é igual ao da proposta. Diferenças precisam ter explicação.</li><li>Guarde a proposta, o demonstrativo e o contrato. Eles são a prova se houver cobrança diferente depois.</li></ol><p>Erros comuns: comparar a taxa mensal de uma proposta com a anual de outra, olhar só a parcela, e esquecer que, em financiamentos corrigidos por índice, o custo final será maior do que o CET mostra. Se a taxa de juros em si parece alta demais para o tipo de operação, o texto sobre <a href=\"/blog/como-identificar-juros-abusivos\">como identificar juros abusivos</a> explica os critérios usados nesse tipo de análise.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual CET é considerado alto?",
+   "a": "Não há um número fixo. O custo aceitável depende da modalidade, do prazo e da garantia: consignado e financiamento com garantia tendem a ter CET menor que crédito pessoal sem garantia ou rotativo do cartão. O caminho é comparar o CET de propostas equivalentes e as taxas médias que o Banco Central divulga por modalidade."
+  },
+  {
+   "q": "O CET inclui o IOF?",
+   "a": "Inclui. A Resolução CMN 4.881/2020 manda considerar tributos no cálculo, junto com juros, tarifas, seguros e outras despesas vinculadas à operação. O IOF deve aparecer no demonstrativo com o valor em reais e o percentual em relação ao total devido."
+  },
+  {
+   "q": "O banco pode mudar o CET depois que eu assinei o contrato?",
+   "a": "Em contratos prefixados, o CET informado no contrato reflete condições fixas e não deve mudar. Em operações corrigidas por índice, o custo final varia com o índice, que não entra no CET. Cobranças novas, não previstas no contrato, podem ser questionadas no SAC, na ouvidoria e no Banco Central."
+  },
+  {
+   "q": "Onde encontro o CET de um empréstimo que já contratei?",
+   "a": "O demonstrativo do CET deve estar inserido de forma destacada no contrato, e o banco precisa guardá-lo por no mínimo cinco anos. Peça uma cópia do contrato pelo aplicativo ou pelo atendimento. Na falta do documento, registre o pedido com número de protocolo."
+  },
+  {
+   "q": "Posso desistir de um empréstimo se descobrir que o CET era maior do que o informado?",
+   "a": "Depende do caso. Se o banco não informou o CET corretamente, houve falha no dever de informação, o que pode justificar a revisão das cobranças ou até o desfazimento do contrato. A análise leva em conta a proposta, o contrato e o que foi efetivamente cobrado."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Resolução CMN 4.881/2020: definição (art. 2º), abrangência (art. 3º), fórmula em dias corridos (art. 4º), taxas flutuantes e índices (art. 5º), cheque especial e rotativo com 30 dias e limite (art. 6º), demonstrativo, guarda por 5 anos e inserção no contrato (art. 7º), publicidade (art. 8º), exclusões (art. 9º), vigência em 1º/2/2021 e revogação da Resolução 3.517/2007 (arts. 11 e 12)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4881",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução 3.517/2007 revogada totalmente pela Resolução CMN 4.881/2020, a partir de 1º/2/2021 (registro do Banco Central)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3517",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.004/2022, art. 3º: contrato deve discriminar taxas mensal e anual, tributos, tarifas e CET",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5004",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 52: informação prévia sobre taxa efetiva anual de juros e soma total a pagar",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Cálculos dos exemplos (conta própria, períodos mensais): R$ 10.000,00, 12x, 2% a.m. = parcela R$ 945,60, CET aprox. 2,85% a.m. / 40,03% a.a. com R$ 500 descontados; 1,8% a.m. = parcela R$ 934,02, CET aprox. 48,69% a.a. com R$ 900 descontados",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4881",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
