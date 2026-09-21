@@ -38,7 +38,7 @@ const AREAS = [
   "direito-do-trabalho", "assessoria-juridica",
 ];
 const SERVICOS = ["familia", "bancario", "consumidor", "trabalhista", "extrajudicial"];
-const BLOG = [
+const ANTIGOS = [
   "golpe-do-pix-o-que-fazer", "guarda-compartilhada-como-funciona",
   "demissao-sem-justa-causa-direitos", "como-identificar-juros-abusivos",
   "divorcio-consensual-indaiatuba", "pensao-alimenticia-como-e-calculado-o-valor",
@@ -47,6 +47,11 @@ const BLOG = [
   "empresa-nao-pagou-horas-extras-o-que-fazer", "produto-com-defeito-quais-sao-meus-direitos",
   "compra-cancelada-loja-nao-devolveu-dinheiro",
 ];
+/* Artigos em JSON (src/content/indice.json, gerado por scripts/blog/indice.mjs). */
+const ARTIGOS_JSON = JSON.parse(
+  await readFile(new URL("./src/content/indice.json", import.meta.url), "utf-8"),
+).map((a) => a.slug);
+const BLOG = [...ANTIGOS, ...ARTIGOS_JSON];
 const ROTAS_PADRAO = [
   "/", "/sobre",
   "/areas", // rota do menu principal; sem ela o item "Áreas de Atuação" da 404
@@ -105,10 +110,13 @@ console.log(`servidor local em ${base}`);
 
 const navegador = await chromium.launch();
 const pagina = await navegador.newPage({ viewport: { width: 1280, height: 900 } });
+const requisicoes = [];
+pagina.on("request", (r) => requisicoes.push(r.url()));
 
 let ok = 0;
 for (const rota of rotas) {
   const url = base + rota;
+  requisicoes.length = 0;
   await pagina.goto(url, { waitUntil: "networkidle", timeout: 45000 });
   // Espera o conteudo de fato montar. Checar "#root > *" nao serve: componentes
   // invisiveis (region de toast, por exemplo) satisfazem o seletor antes da
@@ -116,13 +124,28 @@ for (const rota of rotas) {
   await pagina.waitForFunction(
     () => (document.querySelector("#root")?.innerText || "").trim().length > 200,
     null, { timeout: 25000 });
+  const slugJson = ARTIGOS_JSON.find((s) => rota === `/blog/${s}`);
+  if (slugJson) await pagina.waitForSelector("[data-artigo-pronto]", { timeout: 25000 });
   await pagina.waitForTimeout(700);
+  // O corpo do artigo em JSON vem num chunk proprio: o modulepreload faz o
+  // navegador busca-lo junto com o bundle principal, e nao depois dele.
+  const chunks = slugJson
+    ? [...new Set(requisicoes.filter((u) => u.includes(`/assets/${slugJson}-`) && u.endsWith(".js")).map((u) => new URL(u).pathname))]
+    : [];
+  if (slugJson && !chunks.length) throw new Error(`chunk do artigo ${slugJson} nao encontrado`);
 
-  const html = await pagina.evaluate(() => {
+  const html = await pagina.evaluate((chunks) => {
     // Marca que este HTML foi pre-renderizado, para diagnostico futuro.
     document.documentElement.setAttribute("data-prerendered", "true");
+    for (const href of chunks) {
+      const l = document.createElement("link");
+      l.rel = "modulepreload";
+      l.crossOrigin = "";
+      l.href = href;
+      document.head.appendChild(l);
+    }
     return "<!doctype html>\n" + document.documentElement.outerHTML;
-  });
+  }, chunks);
 
   const destino = rota === "/"
     ? join(saida, "index.html")

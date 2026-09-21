@@ -5,16 +5,30 @@ import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
 import { Input } from "@/components/ui/input";
 import { BLOG_POSTS } from "@/data/blogPosts";
+import { ARTIGOS, formatarData } from "@/lib/artigos";
 
-const CATEGORIES = ["Todos", "Família", "Bancário", "Trabalhista", "Consumidor", "Geral"] as const;
+const CATEGORIES = ["Todos", "Família", "Bancário", "Trabalhista", "Consumidor", "Assessoria"] as const;
 
-const POSTS = BLOG_POSTS.map((p) => ({
-  slug: p.slug,
-  category: p.category,
-  title: p.title,
-  excerpt: p.excerpt,
-  cover: p.cover,
-}));
+/* Artigos em JSON (com data, mais recentes primeiro) seguidos dos posts antigos. */
+const POSTS: { slug: string; category: string; title: string; excerpt: string; cover: string; alt: string; data?: string }[] = [
+  ...ARTIGOS.map((a) => ({
+    slug: a.slug,
+    category: a.categoria,
+    title: a.h1,
+    excerpt: a.resumo,
+    cover: a.imagem,
+    alt: a.alt,
+    data: a.data,
+  })),
+  ...BLOG_POSTS.map((p) => ({
+    slug: p.slug,
+    category: p.category,
+    title: p.title,
+    excerpt: p.excerpt,
+    cover: p.cover,
+    alt: p.title,
+  })),
+];
 
 const Blog = () => {
   const [category, setCategory] = useState<(typeof CATEGORIES)[number]>("Todos");
@@ -35,7 +49,7 @@ const Blog = () => {
     <>
       <Seo
         title="Blog Jurídico | Dicas de Direito — Flávia Vaz Rabello Advocacia"
-        description="Artigos e orientações jurídicas sobre Direito de Família, Bancário e Trabalhista. Conteúdo acessível da Dra. Flávia Vaz Rabello para você conhecer seus direitos."
+        description="Artigos e orientações jurídicas sobre Direito de Família, Bancário, do Consumidor e do Trabalho. Conteúdo acessível da Dra. Flávia Vaz Rabello para você conhecer seus direitos."
         canonical="https://www.flaviavazrabello.com.br/blog"
       />
       <PageHero
@@ -86,7 +100,7 @@ const Blog = () => {
                   <div className="aspect-[16/10] overflow-hidden bg-secondary/40">
                     <img
                       src={p.cover}
-                      alt={p.title}
+                      alt={p.alt}
                       loading="lazy"
                       width={1280}
                       height={800}
@@ -94,10 +108,13 @@ const Blog = () => {
                     />
                   </div>
                   <div className="flex flex-1 flex-col p-6">
-                    <span className="text-xs uppercase tracking-[0.2em] text-accent">{p.category}</span>
-                    <h3 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
+                    <span className="text-xs uppercase tracking-[0.2em] text-accent">
+                      {p.category}
+                      {p.data && <time dateTime={p.data} className="ml-3 normal-case tracking-normal text-foreground/60">{formatarData(p.data)}</time>}
+                    </span>
+                    <h2 className="mt-3 font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">
                       {p.title}
-                    </h3>
+                    </h2>
                     <p className="mt-3 text-sm text-foreground/75 leading-relaxed">{p.excerpt}</p>
                     <span className="mt-auto pt-5 inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary group-hover:text-accent transition-colors self-start">
                       Ler mais <ArrowRight className="h-3 w-3" />
@@ -116,7 +133,7 @@ const Blog = () => {
           {/* Sidebar */}
           <aside className="space-y-10">
             <div>
-              <h3 className="label-eyebrow mb-4">Posts recentes</h3>
+              <h2 className="label-eyebrow mb-4">Posts recentes</h2>
               <ul className="space-y-4">
                 {POSTS.slice(0, 4).map((p) => (
                   <li key={p.slug} className="border-b border-border pb-4 last:border-0">
@@ -130,7 +147,7 @@ const Blog = () => {
             </div>
 
             <div>
-              <h3 className="label-eyebrow mb-4">Categorias</h3>
+              <h2 className="label-eyebrow mb-4">Categorias</h2>
               <ul className="space-y-2">
                 {CATEGORIES.filter((c) => c !== "Todos").map((c) => (
                   <li key={c}>

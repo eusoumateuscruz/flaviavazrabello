@@ -5,9 +5,10 @@ type SeoProps = {
   description: string;
   canonical: string;
   jsonLd?: object | object[];
+  image?: string;
 };
 
-const Seo = ({ title, description, canonical, jsonLd }: SeoProps) => {
+const Seo = ({ title, description, canonical, jsonLd, image }: SeoProps) => {
   const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
   return (
   <Helmet>
@@ -17,6 +18,7 @@ const Seo = ({ title, description, canonical, jsonLd }: SeoProps) => {
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
+    {image && <meta property="og:image" content={image} />}
     {schemas.map((schema, i) => (
       <script key={i} type="application/ld+json">
         {JSON.stringify(schema)}

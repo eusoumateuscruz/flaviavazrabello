@@ -5,6 +5,24 @@ import Seo from "@/components/Seo";
 import { WHATSAPP_BASE_URL, PRACTICE_AREAS } from "@/lib/site";
 import SectionHeader from "@/components/SectionHeader";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
+import { ARTIGOS, type Categoria } from "@/lib/artigos";
+import { BLOG_POSTS } from "@/data/blogPosts";
+
+const CATEGORIA_POR_ID: Record<string, Categoria> = {
+  familia: "Família",
+  bancario: "Bancário",
+  consumidor: "Consumidor",
+  trabalhista: "Trabalhista",
+  extrajudicial: "Assessoria",
+};
+
+/* Artigos do blog da area (os mais recentes primeiro), para o interlinking area <-> blog. */
+function artigosDaArea(id: string, n = 6) {
+  const cat = CATEGORIA_POR_ID[id];
+  const novos = ARTIGOS.filter((a) => a.categoria === cat).map((a) => ({ slug: a.slug, titulo: a.h1, resumo: a.resumo }));
+  const antigos = BLOG_POSTS.filter((p) => p.category === cat).map((p) => ({ slug: p.slug, titulo: p.title, resumo: p.excerpt }));
+  return [...novos, ...antigos].slice(0, n);
+}
 
 const SLUG_TO_ID: Record<string, string> = {
   "direito-de-familia": "familia",
@@ -229,6 +247,29 @@ const ServicePage = () => {
           </div>
         </div>
       </section>
+
+      {artigosDaArea(service.id).length > 0 && (
+        <section className="pb-24">
+          <div className="container-narrow">
+            <SectionHeader eyebrow="Blog" title="Artigos sobre o tema" />
+            <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 mt-14">
+              {artigosDaArea(service.id).map((a) => (
+                <li key={a.slug}>
+                  <Link to={`/blog/${a.slug}`} className="group flex h-full flex-col border border-border bg-card p-6 hover:border-accent transition-colors">
+                    <span className="font-serif text-xl text-primary leading-snug group-hover:text-accent transition-colors">{a.titulo}</span>
+                    <span className="mt-3 text-sm text-foreground/75 leading-relaxed">{a.resumo}</span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            <div className="mt-10 text-center">
+              <Link to="/blog" className="inline-flex min-h-[44px] items-center gap-2 text-xs uppercase tracking-[0.2em] text-primary hover:text-accent transition-colors">
+                Ver todos os artigos <ArrowRight className="h-3 w-3" />
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="py-24 bg-primary text-primary-foreground text-center">
         <div className="container-narrow">

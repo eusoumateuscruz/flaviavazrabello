@@ -4,12 +4,17 @@ import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
 import NotFound from "./NotFound";
 import { getPostBySlug } from "@/data/blogPosts";
+import { artigoMeta } from "@/lib/artigos";
+import Artigo from "./Artigo";
 
 const BlogPost = () => {
   const { slug } = useParams<{ slug: string }>();
   const post = slug ? getPostBySlug(slug) : undefined;
 
-  if (!post) return <NotFound />;
+  if (!post) {
+    const meta = slug ? artigoMeta(slug) : undefined;
+    return meta ? <Artigo key={meta.slug} meta={meta} /> : <NotFound />;
+  }
 
   return (
     <>
