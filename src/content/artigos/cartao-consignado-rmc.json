@@ -1,0 +1,104 @@
+{
+ "slug": "cartao-consignado-rmc",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Cartão consignado RMC: como funciona o desconto e como cancelar",
+ "title": "Cartão consignado RMC: como funciona e como cancelar",
+ "description": "Cartão consignado RMC: como funciona o desconto de 5% no benefício do INSS, a diferença para o RCC, como cancelar e o que o STJ ainda vai decidir.",
+ "resumo": "Por que o desconto do cartão consignado parece não acabar, quais regras o banco deve seguir e o caminho para cancelar a RMC ou questionar a contratação.",
+ "data": "2026-09-27",
+ "imagem": "/images/blog/cartao-consignado-rmc.jpg",
+ "alt": "Casal de idosos conferindo um cartão bancário",
+ "resposta": "A RMC é uma reserva de até 5% do benefício do INSS usada para pagar o cartão de crédito consignado. Todo mês esse valor é descontado para quitar a fatura, mas se a dívida for maior o saldo restante segue com juros, e a parcela pode não acabar nunca. Para cancelar, é preciso quitar o saldo devedor; sem saldo, o banco tem 5 dias úteis para excluir a reserva. Se você pensou ter feito um empréstimo comum, a contratação pode ser questionada.",
+ "intro": "<p>Muitos aposentados descobrem o cartão consignado anos depois de uma ligação ou visita em que acreditavam ter feito um empréstimo com parcelas fixas. No extrato do benefício aparece a sigla RMC, o desconto é sempre do mesmo valor e a dívida, em vez de diminuir, continua existindo mês após mês.</p><p>O produto é legal e tem regras próprias na Lei 10.820/2003 e na Instrução Normativa PRES/INSS 138/2022. O problema está na forma como ele costuma ser vendido e no efeito do pagamento mínimo sobre uma dívida de cartão. O STJ afetou o tema a julgamento repetitivo e, por isso, os processos sobre a validade desses contratos estão suspensos em todo o país.</p>",
+ "secoes": [
+  {
+   "h2": "O que são RMC e RCC e quanto do benefício pode ser descontado",
+   "html": "<p>A IN 138/2022 define a Reserva de Margem Consignável (RMC) como o limite reservado na renda mensal do benefício para uso exclusivo do cartão de crédito consignado. A Reserva de Cartão Consignado (RCC) é o limite equivalente para o cartão consignado de benefício, outro produto com a mesma lógica de desconto.</p><p>Para aposentados e pensionistas do INSS, a soma dos descontos pode chegar a <strong>45% do benefício</strong>: 35% para empréstimos, 5% para o cartão de crédito consignado e 5% para o cartão consignado de benefício (Lei 10.820/2003, art. 6º, § 5º, com redação da Lei 14.601/2023). Para quem recebe o BPC, o limite total é de 35%, sendo 30% para empréstimos e 5% para os cartões.</p><p>No extrato do Meu INSS e no histórico de créditos, a reserva aparece com códigos próprios: o código 76 identifica a RMC e o 44, a RCC, enquanto os descontos das faturas aparecem como 77 e 99, respectivamente. Ter a reserva no extrato não significa que houve uso do cartão, mas mostra que parte da margem está comprometida.</p>"
+  },
+  {
+   "h2": "Por que o desconto parece nunca acabar",
+   "html": "<p>No empréstimo consignado comum, o valor é emprestado de uma vez e pago em um número fixo de parcelas. No cartão consignado, o desconto mensal no benefício quita apenas o valor mínimo da fatura. Se a fatura for maior que esse desconto e a pessoa não pagar a diferença por boleto, o restante é financiado com juros de cartão, e o saldo pode crescer ou diminuir muito devagar.</p><p>Veja um exemplo com números hipotéticos. Benefício de R$ 2.000: a reserva de 5% é de R$ 100. A pessoa fez um saque de R$ 3.000 pelo cartão. Supondo juros de 3% ao mês, só os juros do primeiro mês somam R$ 90. O desconto de R$ 100 abate apenas R$ 10 do saldo. Nesse ritmo, anos de desconto quase não mexem na dívida principal.</p><p>O saque é o uso mais comum do cartão consignado e também o que mais confunde, porque o dinheiro cai na conta como se fosse um empréstimo. A diferença só fica clara quando a pessoa percebe que não existe número de parcelas definido.</p>"
+  },
+  {
+   "h2": "Regras que o banco é obrigado a seguir",
+   "html": "<p>A IN 138/2022 (art. 15) estabelece condições para a contratação de RMC e RCC:</p><ul><li>a reserva depende de solicitação formal do titular com reconhecimento biométrico;</li><li>em todos os casos deve ser usado o Termo de Consentimento Esclarecido, em página única e separada do contrato, previsto em acordo homologado em ação civil pública;</li><li>o limite do cartão é de até 1,6 vez o valor do benefício, e o saque pode chegar a 70% desse limite;</li><li>a taxa de juros deve respeitar o teto recomendado pelo Conselho Nacional de Previdência Social;</li><li>a fatura deve ser enviada todo mês, com a descrição das operações;</li><li>é proibido cobrar anuidade, taxa de abertura ou manutenção, emitir cartão adicional e formalizar o contrato por telefone.</li></ul><p>O Código de Defesa do Consumidor soma a isso o dever de informar o custo efetivo total, as consequências do atraso e a natureza do crédito, considerando a idade do consumidor, e proíbe assediar pessoa idosa para contratar (arts. 54-B, 54-C e 54-D). Contrato sem o termo de consentimento, sem biometria ou vendido por telefone já é um ponto fraco do banco.</p>"
+  },
+  {
+   "h2": "Como cancelar o cartão e liberar a margem",
+   "html": "<p>O cancelamento passa pela quitação do saldo. Peça ao banco, pelo SAC ou pela Ouvidoria, a planilha com o saldo devedor. A IN 138/2022 manda a instituição entregar a planilha do cálculo, com o valor do desconto por antecipação e o boleto, em até 5 dias úteis (art. 10). Quando não houver saldo devedor, o banco tem até 5 dias úteis, contados do pedido de cancelamento, para enviar à Dataprev a ordem de exclusão da RMC ou da RCC (art. 10, § 1º).</p><p>Passo a passo:</p><ol><li>baixe o extrato de empréstimos no Meu INSS e identifique o banco do cartão;</li><li>peça por escrito o saldo devedor e as faturas dos últimos meses;</li><li>se tiver como quitar, pague e peça o cancelamento com exclusão da reserva;</li><li>se o banco não cumprir o prazo, registre reclamação no consumidor.gov.br, canal indicado pela IN 138 para problemas com consignado.</li></ol><p>Se o valor cobrado parecer desproporcional ao que você usou, não pague antes de entender a conta. Nesse caso, a discussão sobre a validade do contrato pode mudar o saldo devido.</p>"
+  },
+  {
+   "h2": "Se você achou que estava contratando um empréstimo",
+   "html": "<p>Esse é o centro de milhares de ações. O argumento é que o banco não explicou que se tratava de cartão, que a pessoa queria um empréstimo com parcelas fixas e que a dívida se prolonga sem fim por causa dos juros. Os tribunais estaduais decidiram de formas diferentes: alguns anulam o contrato, outros o convertem em empréstimo consignado comum, e há quem o mantenha.</p><p>O STJ vai uniformizar o assunto. No Tema 1.414, a Segunda Seção definirá parâmetros para avaliar a validade e o caráter abusivo desses contratos e qual a consequência da invalidação: volta ao estado anterior, conversão em empréstimo consignado ou revisão das cláusulas. No Tema 1.328, discute se há dano moral presumido quando a contratação da RMC é anulada. Enquanto isso, está determinada a suspensão dos processos sobre essas questões em todo o território nacional, exceto os cumprimentos de sentença.</p><p>Na prática, quem entra com ação agora pode ver o processo parado até o julgamento. Já quando o cartão foi contratado sem nenhuma participação sua, por fraude, a discussão é outra: vale a responsabilidade objetiva do banco por fraude de terceiros (Súmula 479 do STJ).</p>"
+  },
+  {
+   "h2": "Documentos para reunir e erros comuns",
+   "html": "<p>Antes de qualquer pedido, junte:</p><ul><li>extrato de empréstimos e histórico de créditos do Meu INSS, com os códigos de RMC ou RCC;</li><li>faturas do cartão, ou o pedido feito ao banco para recebê-las;</li><li>cópia do contrato e do termo de consentimento, que o banco deve fornecer;</li><li>extratos bancários do mês em que o saque caiu na conta;</li><li>protocolos de atendimento.</li></ul><p>Erros que agravam a situação: aceitar novo saque para \"reduzir\" a dívida, contratar refinanciamento oferecido por telefone, deixar de ler as faturas e jogar fora as cartas do banco. Outro engano frequente é confundir o cartão consignado com o desconto em conta corrente de empréstimo comum; este último segue outra regra, e o STJ entende que não se aplica a ele o limite do consignado (Tema 1.085).</p><p>Outros temas ligados a contratos bancários estão na página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a>. A advogada Flávia Vaz Rabello atende casos de cartão consignado de forma online e em Indaiatuba.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso cancelar a RMC mesmo sem nunca ter usado o cartão?",
+   "a": "Sim. Se não há saldo devedor, basta pedir o cancelamento ao banco, e a IN 138/2022 dá à instituição até 5 dias úteis para enviar a exclusão da reserva à Dataprev. Guarde o protocolo e confira no Meu INSS se a margem foi liberada depois desse prazo."
+  },
+  {
+   "q": "Qual a diferença entre RMC e RCC?",
+   "a": "As duas são reservas de 5% do benefício. A RMC é para o cartão de crédito consignado e a RCC, para o cartão consignado de benefício, criado depois e que somou mais 5% à margem dos aposentados e pensionistas do INSS. O funcionamento do desconto é parecido nos dois casos."
+  },
+  {
+   "q": "Se eu parar de pagar a fatura, o desconto para?",
+   "a": "Não. O desconto no benefício é automático enquanto houver saldo, porque a própria reserva garante o pagamento mínimo. O que você pode fazer é pagar por boleto a diferença entre a fatura e o desconto, para o saldo diminuir mais rápido, ou discutir o contrato."
+  },
+  {
+   "q": "Vale a pena entrar com ação agora, com o tema suspenso no STJ?",
+   "a": "Depende do caso. A ação pode ficar parada até o julgamento dos Temas 1.328 e 1.414, mas ajuizar já organiza as provas e interrompe o avanço do tempo contra você. Casos de fraude, em que você não participou da contratação, seguem outra lógica e merecem análise própria."
+  },
+  {
+   "q": "O banco pode oferecer o cartão consignado por telefone?",
+   "a": "A formalização do contrato de cartão consignado por telefone é proibida pela IN 138/2022, e a Lei 15.327/2026 vedou contratar ou desbloquear consignado por central telefônica. O banco também deve manter o serviço Não me Perturbe para bloquear ligações de oferta. Contratação feita por telefone é forte indício de irregularidade."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 10.820/2003, art. 6º, §§ 5º e 5º-A (Lei 14.601/2023): 45% para aposentados e pensionistas do RGPS (35% + 5% RMC + 5% RCC); 35% para BPC (30% + 5%)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.820.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "IN PRES/INSS 138/2022 consolidada: definições de RMC e RCC (art. 4º), regras do art. 15 (biometria, TCE, 1,6 vez o benefício, saque de 70%, teto do CNPS, vedações), art. 10 (planilha e exclusão da reserva em 5 dias úteis), códigos 76/77/44/99, consumidor.gov.br (art. 25), Não me Perturbe (art. 34)",
+   "url": "https://www.gov.br/inss/pt-br/centrais-de-conteudo/legislacao/instrucao-normativa/2022/in138pres-inss-alterada19-5-2026.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.414 (afetado, Segunda Seção): parâmetros de validade do cartão de crédito consignado e consequências da invalidação; suspensão nacional junto com o Tema 1.328, exceto cumprimentos de sentença",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1414&cod_tema_final=1414",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.328 (afetado): dano moral in re ipsa na invalidação de cartão com RMC em benefício previdenciário",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1328&cod_tema_final=1328",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.085: limite do consignado não se aplica a empréstimo comum descontado em conta-corrente",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1085&cod_tema_final=1085",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC arts. 54-B, 54-C e 54-D (informação, vedação de assédio a idoso)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 15.327/2026: vedação de contratação ou desbloqueio de consignado por central telefônica (art. 115, § 13, da Lei 8.213/1991)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15327.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmula 479 do STJ",
+   "url": "https://scon.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22479%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-@NUM",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

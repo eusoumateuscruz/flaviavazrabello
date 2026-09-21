@@ -1,5 +1,55 @@
 [
  {
+  "slug": "cartao-consignado-rmc",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Cartão consignado RMC: como funciona o desconto e como cancelar",
+  "resumo": "Por que o desconto do cartão consignado parece não acabar, quais regras o banco deve seguir e o caminho para cancelar a RMC ou questionar a contratação.",
+  "data": "2026-09-27",
+  "imagem": "/images/blog/cartao-consignado-rmc.jpg",
+  "alt": "Casal de idosos conferindo um cartão bancário"
+ },
+ {
+  "slug": "conta-bloqueada-judicialmente",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Conta bloqueada judicialmente pelo Sisbajud: como desbloquear",
+  "resumo": "Saiba por que o bloqueio acontece sem aviso, como funciona a repetição automática da ordem e o que fazer nos 5 dias que o CPC dá para provar que o dinheiro é protegido.",
+  "data": "2026-09-27",
+  "imagem": "/images/blog/conta-bloqueada-judicialmente.jpg",
+  "alt": "Mão digitando no teclado de um caixa eletrônico"
+ },
+ {
+  "slug": "emprestimo-consignado-nao-reconhecido",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Empréstimo consignado que você não fez: como cancelar e reaver os descontos",
+  "resumo": "Apareceu um consignado que você não contratou? Veja onde contestar, os prazos que a lei dá ao banco para devolver e as novas travas de biometria no INSS.",
+  "data": "2026-09-27",
+  "imagem": "/images/blog/emprestimo-consignado-nao-reconhecido.jpg",
+  "alt": "Homem idoso preocupado lendo um papel diante do computador"
+ },
+ {
+  "slug": "lei-do-superendividamento",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Lei do Superendividamento: como funciona a repactuação das dívidas",
+  "resumo": "Entenda quem se enquadra como superendividado, o que o STF decidiu sobre o mínimo existencial e o consignado e como é o plano de pagamento com todos os credores.",
+  "data": "2026-09-27",
+  "imagem": "/images/blog/lei-do-superendividamento.jpg",
+  "alt": "Caderno de anotações com moedas e caneta sobre a mesa"
+ },
+ {
+  "slug": "penhora-de-salario-por-divida",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Penhora de salário por dívida: quando a Justiça permite e qual o limite",
+  "resumo": "O salário é protegido, mas não de forma absoluta. Veja as exceções da lei, o que o STJ fixou em 2026 para dívidas comuns e como se defender de um desconto.",
+  "data": "2026-09-27",
+  "imagem": "/images/blog/penhora-de-salario-por-divida.jpg",
+  "alt": "Mão segurando celular com calculadora sobre documentos"
+ },
+ {
   "slug": "busca-e-apreensao-de-veiculo",
   "area": "direito-bancario",
   "categoria": "Bancário",

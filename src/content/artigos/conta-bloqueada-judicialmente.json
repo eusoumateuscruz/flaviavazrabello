@@ -1,0 +1,99 @@
+{
+ "slug": "conta-bloqueada-judicialmente",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Conta bloqueada judicialmente pelo Sisbajud: como desbloquear",
+ "title": "Conta bloqueada judicialmente: como desbloquear",
+ "description": "Conta bloqueada judicialmente pelo Sisbajud: o que é a teimosinha, o prazo de 5 dias para pedir o desbloqueio e quais valores a lei protege da penhora.",
+ "resumo": "Saiba por que o bloqueio acontece sem aviso, como funciona a repetição automática da ordem e o que fazer nos 5 dias que o CPC dá para provar que o dinheiro é protegido.",
+ "data": "2026-09-27",
+ "imagem": "/images/blog/conta-bloqueada-judicialmente.jpg",
+ "alt": "Mão digitando no teclado de um caixa eletrônico",
+ "resposta": "O bloqueio é feito pelo juiz de um processo de cobrança por meio do Sisbajud, sistema do CNJ, sem aviso prévio (CPC, art. 854). Depois da intimação, você tem 5 dias para provar que o valor é impenhorável, como salário, aposentadoria ou reserva de até 40 salários mínimos, ou que o bloqueio passou do valor da dívida. Se nada for alegado no prazo, o bloqueio vira penhora e o dinheiro é transferido para uma conta judicial.",
+ "intro": "<p>A pessoa tenta pagar uma conta no aplicativo e o saldo aparece indisponível. No banco, a informação é que existe uma ordem judicial. Muitas vezes quem tem a conta bloqueada nem sabia que respondia a um processo, porque a lei permite que o bloqueio seja feito antes de o devedor ser avisado, justamente para evitar que o dinheiro seja retirado.</p><p>O bloqueio não é o fim da linha. O Código de Processo Civil dá um prazo curto para mostrar que parte ou todo o valor não pode ser penhorado. Quem age rápido e com os documentos certos costuma recuperar pelo menos o salário. A seguir, o funcionamento do sistema e o passo a passo para pedir a liberação.</p>",
+ "secoes": [
+  {
+   "h2": "O que é o Sisbajud e por que o bloqueio vem sem aviso",
+   "html": "<p>O Sisbajud é o Sistema de Busca de Ativos do Poder Judiciário, gerido pelo Conselho Nacional de Justiça em parceria com o Banco Central. Por ele, o juiz envia ordens eletrônicas às instituições financeiras para tornar indisponíveis valores em nome do devedor, substituindo o antigo Bacenjud.</p><p>O art. 854 do CPC autoriza o juiz, a pedido do credor, a determinar o bloqueio <strong>sem dar ciência prévia</strong> ao executado, limitado ao valor indicado na execução. A ordem atinge as contas e aplicações em nome do CPF nas instituições que recebem as ordens do sistema. Por isso é comum que o mesmo valor seja bloqueado em mais de uma conta ao mesmo tempo.</p><p>Esse excesso tem remédio previsto: em até 24 horas da resposta dos bancos, o juiz deve cancelar, de ofício, a indisponibilidade que passar do valor da dívida, e o banco tem o mesmo prazo para cumprir (art. 854, § 1º). O banco responde pelos prejuízos se bloquear mais do que foi determinado ou não liberar no prazo quando o juiz mandar (art. 854, § 8º).</p>"
+  },
+  {
+   "h2": "Teimosinha: quando o bloqueio se repete",
+   "html": "<p>Antes, se o bloqueio encontrava pouco dinheiro, o credor precisava pedir nova ordem, e o juiz emitia outra. Com a funcionalidade apelidada de teimosinha, o próprio sistema repete a ordem de forma automática. Segundo o manual do Sisbajud publicado pelo CNJ, a reiteração programada pode durar até 30 dias, e cada nova ordem considera o saldo que ainda falta para completar o valor da dívida.</p><p>Na prática, isso significa que o salário que cair na conta dias depois do primeiro bloqueio também pode ficar retido. É o que mais surpreende quem já tinha pedido a liberação do primeiro valor.</p><p>Exemplo: a execução cobra R$ 8.000. No primeiro dia, o sistema encontra R$ 1.500 na conta. Na semana seguinte, o salário de R$ 3.200 entra e é bloqueado pela repetição. Os dois valores precisam ser analisados separadamente, e o salário pode ser liberado se você provar a origem. Informe no processo que a teimosinha está ativa, para que o pedido de desbloqueio alcance também os valores futuros de natureza salarial.</p>"
+  },
+  {
+   "h2": "O prazo de 5 dias para provar que o dinheiro é protegido",
+   "html": "<p>Depois do bloqueio, o devedor é intimado na pessoa do advogado ou, se não tiver advogado no processo, pessoalmente (art. 854, § 2º). A partir daí, tem 5 dias para comprovar que as quantias bloqueadas são impenhoráveis ou que ainda existe bloqueio excessivo (art. 854, § 3º).</p><p>Se o juiz aceitar a alegação, manda cancelar o bloqueio irregular, e o banco tem 24 horas para cumprir (§ 4º). Se a manifestação não for apresentada ou for rejeitada, o bloqueio se converte em penhora, sem necessidade de termo, e o valor é transferido para uma conta vinculada ao processo (§ 5º).</p><p>O prazo é curto e o STJ reforçou a importância dele. No Tema 1.235, decidiu que a impenhorabilidade de valores de até 40 salários mínimos não pode ser reconhecida pelo juiz por conta própria: o devedor precisa alegar na primeira oportunidade em que falar no processo, ou nos embargos à execução ou na impugnação ao cumprimento de sentença, sob pena de preclusão. Ficar em silêncio pode custar a reserva inteira.</p>"
+  },
+  {
+   "h2": "Quais valores podem ser liberados",
+   "html": "<p>O art. 833 do CPC traz a lista do que é impenhorável. Os casos mais frequentes em bloqueios de conta são:</p><ul><li>salário, aposentadoria, pensão, ganhos de autônomo e honorários de profissional liberal (inciso IV);</li><li>quantia em caderneta de poupança até 40 salários mínimos, o que em 2026 dá R$ 64.840 (inciso X);</li><li>a parte do saldo que pertence a outra pessoa, em conta conjunta.</li></ul><p>Sobre a conta conjunta, o STJ fixou, no IAC 12, que se presume que o saldo pertence aos titulares em partes iguais, e que não se pode penhorar a totalidade quando só um deles é devedor. Cada lado pode provar que a divisão real é outra.</p><p>A proteção de valores de até 40 salários mínimos mantidos em conta corrente ou fundos, fora da poupança, já foi reconhecida pelo STJ em diversos julgados, mas o tema está em julgamento como repetitivo (Tema 1.285) e ainda há decisões divergentes. Essas proteções não valem contra dívida de pensão alimentícia (art. 833, § 2º). E, para dívidas comuns, o STJ admitiu em setembro de 2026 a penhora excepcional de salário (Tema 1.230), o que torna ainda mais importante provar que o valor é necessário ao sustento.</p>"
+  },
+  {
+   "h2": "Passo a passo para pedir o desbloqueio",
+   "html": "<ol><li>Descubra de onde veio a ordem. Peça ao banco a identificação do processo e do juízo. Com o CPF, também dá para consultar processos nos sites dos tribunais.</li><li>Reúna a prova da origem do dinheiro: holerites ou extrato do benefício, e o extrato bancário mostrando o crédito do salário e o bloqueio logo depois.</li><li>Separe o que é protegido do que não é. Se a conta tinha salário e outros valores, a análise é feita por parcela.</li><li>Apresente a petição no processo dentro dos 5 dias, pedindo o desbloqueio e, se for o caso, o cancelamento da repetição automática sobre verbas salariais.</li><li>Acompanhe o cumprimento: depois da decisão, o banco tem 24 horas para liberar.</li></ol><p>Se você nunca foi citado no processo, verifique também se houve falha de citação, porque isso pode levar à nulidade dos atos praticados. Quando a dívida é reconhecida e há interesse em resolver, propor acordo no próprio processo pode encerrar os bloqueios. Pago o débito por outro meio, o juiz deve notificar o banco para cancelar a indisponibilidade em até 24 horas (art. 854, § 6º).</p>"
+  },
+  {
+   "h2": "Erros comuns e quando procurar orientação",
+   "html": "<p>Alguns erros fazem a pessoa perder valores que poderiam ser liberados:</p><ul><li>esperar o banco resolver: ele só cumpre a ordem e não pode liberar sem decisão judicial;</li><li>mudar o salário para outro banco sem pedir o desbloqueio, já que a ordem alcança todas as instituições;</li><li>transferir dinheiro para contas de parentes, o que pode ser tratado como fraude à execução;</li><li>misturar na mesma conta salário, vendas e transferências de terceiros sem conseguir separar a origem;</li><li>deixar passar os 5 dias achando que o prazo conta só depois de conversar com o credor.</li></ul><p>Se o bloqueio veio de uma dívida bancária que você não reconhece, com nome negativado, o post sobre <a href=\"/blog/nome-sujo-indevidamente-o-que-fazer\">nome sujo indevidamente</a> ajuda a entender essa outra frente. Para execuções movidas por bancos e financeiras, a página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> reúne os principais temas. A advogada Flávia Vaz Rabello atende casos de bloqueio judicial de forma online e em Indaiatuba.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O banco pode me dizer quem pediu o bloqueio?",
+   "a": "O banco recebe a ordem com a identificação do processo e costuma informar ao cliente o número e a vara de origem. Com esses dados, você ou seu advogado consulta o processo no site do tribunal e descobre quem é o credor e qual o valor cobrado. Se o banco não informar, a consulta pelo CPF nos tribunais é o caminho."
+  },
+  {
+   "q": "Quanto tempo leva para desbloquear a conta?",
+   "a": "Depende do juiz analisar o pedido. A lei não fixa prazo para a decisão, mas, depois que ela sai, o banco tem 24 horas para liberar o valor. Pedidos bem documentados, com holerite e extrato mostrando a entrada do salário, tendem a ser decididos mais rápido."
+  },
+  {
+   "q": "A conta bloqueada impede de receber o salário do próximo mês?",
+   "a": "A conta continua recebendo créditos, mas, se a teimosinha estiver ativa, novos valores podem ser retidos enquanto a dívida não estiver coberta, por até 30 dias segundo o manual do CNJ. Por isso vale informar ao juiz a natureza salarial dos depósitos futuros no mesmo pedido de desbloqueio."
+  },
+  {
+   "q": "Conta salário pode ser bloqueada pelo Sisbajud?",
+   "a": "A ordem alcança qualquer conta em nome do CPF, inclusive a conta salário. O que protege o dinheiro não é o tipo da conta, e sim a origem do valor. Mesmo bloqueado, o salário pode ser liberado se você comprovar dentro do prazo que se trata de verba de natureza salarial."
+  },
+  {
+   "q": "Posso ter a conta bloqueada por dívida de outra pessoa?",
+   "a": "O bloqueio é feito no CPF do devedor. Se você é cotitular de conta conjunta com ele, parte do saldo pode ser atingida, mas o STJ presume a divisão em partes iguais e permite provar que o dinheiro é seu. Quem não é parte no processo pode defender seu patrimônio por meio de embargos de terceiro."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CPC art. 854 (bloqueio sem ciência prévia, 24 horas para excesso, intimação, 5 dias, conversão em penhora, cancelamento após pagamento, responsabilidade do banco) e art. 833, IV e X e § 2º",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Manual do Sisbajud (CNJ, 2ª edição): teimosinha, reiteração programada da ordem por até 30 dias considerando o saldo remanescente",
+   "url": "https://www.cnj.jus.br/wp-content/uploads/2024/05/manual-complet-sisbajud-2a-edicao.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.235: impenhorabilidade de até 40 SM não pode ser reconhecida de ofício; alegação na primeira oportunidade, sob pena de preclusão",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1235&cod_tema_final=1235",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.285 (em julgamento): até 40 SM em conta-corrente, fundos ou papel-moeda",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1285&cod_tema_final=1285",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 1.610.844/BA, Corte Especial (IAC 12): conta conjunta, presunção relativa de rateio em partes iguais, vedada penhora da totalidade",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2022/19102022-Penhora-sobre-conta-conjunta-so-pode-afetar-a-parte-do-saldo-que-cabe-ao-devedor.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Tema 1.230: penhora excepcional de verba remuneratória para dívida não alimentar (julgado em 15/09/2026)",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1230&cod_tema_final=1230",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Decreto 12.797/2025: salário mínimo de R$ 1.621 em 2026 (40 SM = R$ 64.840)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12797.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
