@@ -1,5 +1,55 @@
 [
  {
+  "slug": "acordo-de-demissao",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Acordo de demissão: como funciona a rescisão por comum acordo",
+  "resumo": "A rescisão por comum acordo, criada pela reforma de 2017, divide a conta entre empresa e trabalhador. Veja o que se recebe, o que se perde e quando compensa.",
+  "data": "2026-10-07",
+  "imagem": "/images/blog/acordo-de-demissao.jpg",
+  "alt": "Dois homens apertando as mãos sobre um documento na mesa"
+ },
+ {
+  "slug": "aviso-previo-como-funciona",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Aviso prévio: trabalhado ou indenizado, quantos dias e como calcular",
+  "resumo": "O aviso prévio vai de 30 a 90 dias conforme o tempo de casa e pode ser cumprido trabalhando ou pago em dinheiro. Veja as regras, o cálculo e os erros mais comuns.",
+  "data": "2026-10-07",
+  "imagem": "/images/blog/aviso-previo-como-funciona.jpg",
+  "alt": "Calendário de mesa sobre uma escrivaninha"
+ },
+ {
+  "slug": "justa-causa-motivos-e-direitos",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Justa causa: motivos previstos na CLT e o que o trabalhador recebe",
+  "resumo": "A justa causa só vale para as faltas listadas no art. 482 da CLT e precisa ser provada pela empresa. Veja o que o trabalhador recebe e como contestar.",
+  "data": "2026-10-07",
+  "imagem": "/images/blog/justa-causa-motivos-e-direitos.jpg",
+  "alt": "Profissional de recursos humanos segurando um documento em reunião"
+ },
+ {
+  "slug": "pedido-de-demissao-direitos",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Pedido de demissão: quais direitos você recebe e o que perde",
+  "resumo": "Quem pede demissão recebe saldo de salário, 13º e férias, mas perde a multa de 40%, o saque do FGTS e o seguro-desemprego. Veja também as regras do aviso prévio.",
+  "data": "2026-10-07",
+  "imagem": "/images/blog/pedido-de-demissao-direitos.jpg",
+  "alt": "Mãos entregando uma folha de papel a outra pessoa"
+ },
+ {
+  "slug": "rescisao-indireta-como-funciona",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Rescisão indireta: como funciona, quando pedir e o que você recebe",
+  "resumo": "A rescisão indireta é a saída do emprego por culpa da empresa, reconhecida pela Justiça do Trabalho. Veja as hipóteses da CLT, o passo a passo e as verbas.",
+  "data": "2026-10-07",
+  "imagem": "/images/blog/rescisao-indireta-como-funciona.jpg",
+  "alt": "Homem saindo do escritório carregando uma caixa com seus pertences"
+ },
+ {
   "slug": "atraso-de-salario",
   "area": "direito-do-trabalho",
   "categoria": "Trabalhista",
