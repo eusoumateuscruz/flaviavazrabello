@@ -1,0 +1,109 @@
+{
+ "slug": "banco-encerrou-minha-conta",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "O banco encerrou minha conta sem aviso: isso é permitido?",
+ "title": "Banco encerrou minha conta sem aviso: é permitido?",
+ "description": "Banco encerrou minha conta: o que o STJ decidiu no Tema 1.119, quando o aviso prévio é obrigatório, o prazo de 30 dias, o saldo, a conta-salário e como reagir.",
+ "resumo": "Recebeu aviso de encerramento ou descobriu a conta fechada? Veja o que o banco pode fazer, o procedimento que ele é obrigado a seguir e o que fazer com o saldo e os débitos.",
+ "data": "2026-09-30",
+ "imagem": "/images/blog/banco-encerrou-minha-conta.jpg",
+ "alt": "Fachada de uma agência bancária",
+ "resposta": "O banco pode encerrar a conta por iniciativa própria: em setembro de 2026, o STJ decidiu no Tema 1.119 que a regra do CDC que proíbe recusar serviço não se aplica a esse caso. Mas ele não pode encerrar de surpresa. A Resolução CMN 4.753/2019 exige comunicação prévia da intenção, prazo de até 30 dias para as providências, indicação do destino do saldo e aviso da data de encerramento. Pular essas etapas é irregular e pode gerar responsabilidade pelos prejuízos.",
+ "intro": "<p>A mensagem costuma ser curta: \"informamos que sua conta será encerrada\". Às vezes nem isso, e o cliente só descobre quando o cartão é recusado ou o aplicativo para de funcionar. A primeira reação é achar que o banco não pode fazer isso sem motivo. A resposta jurídica é mais matizada.</p><p>O contrato de conta é um contrato de prestação de serviço que, em regra, qualquer das partes pode encerrar. O que a regulação protege é o modo de encerrar: com aviso, prazo e destino seguro para o dinheiro. Entender essa diferença ajuda a separar o que é direito do banco do que é falha que pode ser cobrada.</p>",
+ "secoes": [
+  {
+   "h2": "O que o STJ decidiu no Tema 1.119",
+   "html": "<p>O Código de Defesa do Consumidor proíbe o fornecedor de recusar a prestação de serviços a quem se disponha a pagar por eles (art. 39, IX). Por anos, correntistas usaram essa regra para tentar impedir o fechamento de contas.</p><p>Em 3 de setembro de 2026, a Segunda Seção do STJ julgou o REsp 1.941.347 como <strong>Tema 1.119</strong> dos recursos repetitivos e fixou a tese de que a vedação do art. 39, IX, do CDC não se aplica à resolução unilateral de contrato de conta-corrente bancária por iniciativa da instituição financeira. Segundo o Informativo 901 do STJ, o tribunal considerou desnecessário repetir na tese a exigência de notificação prévia porque ela já está nas normas vigentes do Conselho Monetário Nacional, a Resolução 4.753/2019 e a alteração feita pela Resolução 5.261/2025. Até 21 de setembro de 2026, o acórdão ainda não tinha sido publicado.</p><p>O entendimento segue linha que o STJ já adotava. Em 2018, no REsp 1.696.214, a Terceira Turma afirmou que o encerramento do contrato de conta-corrente é direito de qualquer das partes, desde que observada a prévia e regular notificação. Ou seja: o banco pode encerrar, mas precisa avisar e seguir o procedimento.</p>"
+  },
+  {
+   "h2": "O procedimento que o banco é obrigado a seguir",
+   "html": "<p>A Resolução CMN 4.753/2019 regula a abertura, a manutenção e o encerramento das contas de depósitos. O art. 5º lista as providências mínimas para o encerramento:</p><ol><li>comunicação da intenção de rescindir o contrato, com os motivos, quando o encerramento se basear nas hipóteses do art. 6º ou em outra prevista em lei ou regulamento;</li><li>indicação, pelo cliente, do destino do saldo, que pode ser a transferência para outra conta, no mesmo ou em outro banco, ou a retirada em dinheiro;</li><li>devolução ou cancelamento das folhas de cheque não usadas;</li><li>informação ao titular sobre o prazo para as providências, <strong>limitado a trinta dias corridos</strong> a partir da comunicação, sobre como pagar compromissos com o banco e sobre quais produtos continuam ativos e quais se encerram junto com a conta;</li><li>comunicação da data de encerramento ou dos motivos que impedem o encerramento, depois de vencido esse prazo.</li></ol><p>O contrato de conta também precisa prever as hipóteses, condições e procedimentos de encerramento (art. 4º, VIII). Vale pedir a cópia do seu contrato e conferir o que ele diz.</p><h3>Exemplo</h3><p>Um cliente recebe, em 2 de setembro, comunicado de encerramento da conta onde recebe pagamentos de clientes. A partir daí, ele tem prazo de até 30 dias corridos para indicar a conta de destino do saldo, trocar os débitos automáticos e avisar quem deposita ali. Se o banco bloqueia a movimentação no dia seguinte ao aviso, sem indicar prazo nem destino do dinheiro, deixou de seguir o procedimento.</p>"
+  },
+  {
+   "h2": "Quando o encerramento é obrigatório",
+   "html": "<p>Em algumas situações o banco não apenas pode, mas deve encerrar a conta. O art. 6º da Resolução 4.753, com a redação dada pela Resolução CMN 5.261/2025, em vigor desde 1º de dezembro de 2025, prevê duas hipóteses:</p><ul><li>irregularidades de natureza grave nas informações prestadas pelo titular, como dados cadastrais falsos;</li><li>uso da conta pelo cliente para prestar serviços financeiros ou de pagamento sem previsão legal ou fora da regulamentação.</li></ul><p>A norma dá um exemplo da segunda hipótese: usar os recursos da conta para pagar, receber ou compensar obrigações em nome de terceiros de forma que possa ocultar ou substituir as obrigações financeiras desses terceiros e impedir sua identificação. Na prática, pode alcançar a conta pessoal usada como caixa de outras pessoas ou empresas.</p><p>Nesses casos, o banco deve informar os motivos na comunicação de encerramento (art. 5º, I). Cada instituição usa critérios próprios, que devem ser documentados e aprovados pela diretoria, e guardar essa documentação por no mínimo dez anos à disposição do Banco Central. Se você recebeu comunicado com esse fundamento e discorda, peça por escrito a indicação concreta do motivo e reúna prova da origem e do destino das movimentações.</p>"
+  },
+  {
+   "h2": "O que acontece com o saldo, os débitos e os produtos ligados à conta",
+   "html": "<p>O dinheiro na conta é seu, e o encerramento não autoriza o banco a retê-lo sem fundamento. O destino do saldo é indicado pelo cliente: transferência para outra conta ou retirada em espécie (Resolução 4.753, art. 5º, II). Saques em espécie de até R$ 5 mil não podem ser adiados; acima disso, o banco pode deixá-los para o expediente seguinte (art. 4º-A, incluído pela Resolução CMN 4.983/2022).</p><p>Antes da data final, organize:</p><ul><li>débitos automáticos de contas, parcelas e assinaturas, que se cancelam com o encerramento de todas as contas autorizadas se você não indicar outra (Resolução CMN 4.790/2020, art. 10);</li><li>chaves Pix vinculadas à conta, que precisam ser levadas para a nova conta;</li><li>depósitos recorrentes, como aluguel, pensão ou pagamentos de clientes, que precisam do novo número;</li><li>empréstimos, cartão de crédito e investimentos, que podem continuar ativos mesmo com a conta fechada. O banco deve informar quais produtos permanecem e como pagar o que estiver pendente.</li></ul><p>Encerrar a conta não extingue dívidas. Se havia saldo devedor de cheque especial ou tarifas, o banco pode cobrá-los pelos meios normais.</p>"
+  },
+  {
+   "h2": "Conta-salário e outros tipos de conta",
+   "html": "<p>A conta-salário não é uma conta de depósitos comum. Ela é aberta pelo banco contratado pelo empregador, só recebe créditos dessa fonte e é regulada pela Resolução CMN 5.058/2022. O contrato entre banco e empregador deve prever que a empresa avise o banco da exclusão do trabalhador assim que fizer o último pagamento (art. 6º, III). Ou seja, é normal que a conta-salário deixe de funcionar depois da saída do emprego.</p><p>Enquanto ela existe, você tem direito à portabilidade salarial: pedir que o valor creditado seja transferido para uma conta de sua escolha, no mesmo banco ou em outro (art. 7º). Se o salário continua caindo e o banco bloqueou a conta-salário, o problema deve ser tratado com o banco e com o empregador ao mesmo tempo, para que o pagamento seja redirecionado.</p><p>As contas de pagamento de instituições de pagamento, como muitas carteiras digitais, seguem regulamentação própria do Banco Central, diferente da Resolução 4.753. O contrato de cada instituição e a norma aplicável a ela é que definem o procedimento de encerramento.</p>"
+  },
+  {
+   "h2": "Como reagir e quando procurar orientação",
+   "html": "<ol><li>Guarde a comunicação de encerramento, com data e canal pelo qual chegou.</li><li>Peça por escrito, pelo aplicativo ou pela central, o prazo para providências, a forma de retirada do saldo e a lista de produtos que continuam ativos.</li><li>Se o encerramento foi feito sem aviso, registre reclamação e peça que a conta seja mantida até o fim de um prazo regular ou que o saldo seja liberado imediatamente.</li><li>Leve a questão à ouvidoria se não houver solução. Ela tem até dez dias úteis para responder (Resolução CMN 4.860/2020, art. 6º, § 2º).</li><li>Registre reclamação no Banco Central, que acompanha o cumprimento das normas pelos bancos.</li></ol><p>Na Justiça, depois do Tema 1.119, pedir para obrigar o banco a manter a conta tende a não prosperar quando ele seguiu o procedimento. O que se discute com mais frequência é a forma: encerramento sem comunicação, retenção indevida do saldo, bloqueio antes do prazo e prejuízos concretos que isso causou, como pagamentos devolvidos ou salário retido. Nesses casos pode haver pedido de liberação do dinheiro e de indenização.</p><p>Se o encerramento afetou sua renda ou sua empresa, uma avaliação no campo do <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> ajuda a definir o que pedir. A advogada Flávia Vaz Rabello atende esses casos em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O banco precisa dizer por que está encerrando minha conta?",
+   "a": "Nem sempre. A Resolução CMN 4.753/2019 exige que os motivos sejam informados quando o encerramento se baseia nas hipóteses do art. 6º, como irregularidade grave nas informações ou uso da conta para serviços financeiros sem previsão legal, ou em outra hipótese prevista em norma. No encerramento por simples decisão comercial, a exigência é de aviso e procedimento."
+  },
+  {
+   "q": "Quanto tempo de aviso o banco tem que dar?",
+   "a": "A norma não fixa um número mínimo de dias de antecedência, mas exige comunicação prévia da intenção e informação do prazo para as providências, limitado a trinta dias corridos contados da comunicação. Só depois desse prazo o banco comunica a data do encerramento. Bloquear a conta junto com o aviso não segue esse procedimento."
+  },
+  {
+   "q": "Posso processar o banco por ter fechado minha conta?",
+   "a": "Pode, mas o foco mudou depois do Tema 1.119 do STJ. Pedir que a conta seja mantida à força tende a não dar certo quando o banco seguiu o procedimento. O pedido ganha força quando houve encerramento sem aviso, retenção do saldo ou prejuízo concreto causado pelo bloqueio repentino."
+  },
+  {
+   "q": "O banco pode encerrar a conta se eu estiver com o nome negativado?",
+   "a": "A decisão de manter ou encerrar a relação é, em regra, do banco, desde que siga o procedimento de aviso e prazo da Resolução CMN 4.753/2019. Estar negativado não impede o encerramento, e o encerramento também não apaga dívidas que você tenha com o banco."
+  },
+  {
+   "q": "E se o banco fechou a conta e ainda tem dinheiro meu lá?",
+   "a": "Você deve indicar o destino do saldo, seja transferência para outra conta, seja retirada em dinheiro, e o banco deve informar como fazer. Se ele não libera o valor nem explica o motivo, registre reclamação na ouvidoria e no Banco Central e guarde os protocolos; a retenção sem fundamento pode ser levada à Justiça."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "STJ Tema Repetitivo 1.119 (REsp 1.941.347/SP, Segunda Seção): mérito julgado em 03/09/2026; acórdão ainda não publicado",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1119&cod_tema_final=1119",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Informativo 901 (15/09/2026): tese do Tema 1.119, art. 39, IX, do CDC não se aplica à resilição unilateral da conta-corrente pelo banco; notificação prévia já prevista nas Resoluções CMN 4.753/2019 e 5.261/2025",
+   "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=1.941.347&b=INFJ&tp=T",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 1.696.214 (2018): encerramento de conta-corrente é direito de qualquer das partes, observada prévia e regular notificação",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2018/2018-10-18_09-37_Encerramento-de-conta-usada-para-comercializacao-de-criptomoeda-nao-configura-pratica-abusiva.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.753/2019 (vigente), arts. 4º, VIII, 4º-A (saque até R$ 5 mil, incluído pela Res. 4.983/2022), 5º (providências de encerramento, prazo limitado a 30 dias corridos) e 6º",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4753",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.261/2025: nova redação do art. 6º da Res. 4.753 (encerramento obrigatório; serviços financeiros sem previsão legal; critérios documentados; guarda por 10 anos), vigente desde 1º/12/2025",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5261",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.058/2022 (conta-salário): arts. 2º, 3º, 6º, III, e 7º (portabilidade salarial)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5058",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.790/2020, art. 10 (encerramento das contas sem indicar substituta equivale a cancelar a autorização de débito)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4790",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 39, IX (vedação de recusar prestação de serviços)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.860/2020, art. 6º, § 2º (ouvidoria: até dez dias úteis)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4860",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

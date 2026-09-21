@@ -1,0 +1,119 @@
+{
+ "slug": "boleto-falso-responsabilidade-do-banco",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Paguei um boleto falso: o banco tem responsabilidade?",
+ "title": "Boleto falso: o banco tem responsabilidade pela fraude?",
+ "description": "Boleto falso: quando o banco responde pela fraude, o que o STJ decidiu sobre vazamento de dados, o que fazer após o pagamento e como checar o boleto no DDA.",
+ "resumo": "Pagou um boleto e descobriu que o dinheiro foi para golpistas? Entenda quem pode responder pelo prejuízo, que provas guardar e quais caminhos existem para recuperar o valor.",
+ "data": "2026-09-30",
+ "imagem": "/images/blog/boleto-falso-responsabilidade-do-banco.jpg",
+ "alt": "Homem com as mãos no rosto em sinal de preocupação",
+ "resposta": "Depende de onde veio a falha. O banco responde de forma objetiva por fraudes de terceiros ligadas às operações bancárias (Súmula 479 do STJ). Em 2023, o STJ condenou um banco em um golpe do boleto porque os criminosos usaram dados sigilosos do financiamento da cliente (REsp 2.077.278). Se o golpista só tinha nome e CPF, ou se a fraude foi de um vendedor na internet, a responsabilidade do banco é mais difícil de sustentar. A empresa credora também pode responder, se o vazamento saiu dela.",
+ "intro": "<p>O boleto falso é um dos golpes mais eficientes porque se parece com uma conta comum. Ele chega por e-mail, WhatsApp ou até pelo correio, com logotipo, valor correto e dados verdadeiros do cliente. A pessoa paga, e semanas depois descobre que a parcela continua em aberto.</p><p>A primeira reação costuma ser culpar o banco onde o pagamento foi feito. Nem sempre é ele o responsável. A resposta depende de três perguntas: quem emitiu o boleto, de onde os golpistas tiraram os seus dados e se algum sistema deixou de fazer o que deveria.</p>",
+ "secoes": [
+  {
+   "h2": "O que fazer logo depois de descobrir",
+   "html": "<ol><li><strong>Avise o banco onde você pagou</strong>, pelo aplicativo ou pela central, e peça o registro de fraude. Informe data, valor e código de barras. Anote o protocolo.</li><li>Avise também a empresa credora verdadeira (a financeira, a escola, o condomínio, a loja) por escrito, com o comprovante, e pergunte formalmente se o pagamento foi recebido.</li><li>Registre boletim de ocorrência, anexando o boleto, o comprovante e as mensagens em que o boleto chegou.</li><li>Guarde tudo: e-mails completos (não só o print), número de WhatsApp de quem enviou, nome do beneficiário que aparece no comprovante e o banco que recebeu o dinheiro.</li><li>Verifique se o seu e-mail ou o seu WhatsApp foram invadidos. Às vezes o golpista intercepta a mensagem verdadeira e troca o boleto.</li></ol><p>O comprovante de pagamento mostra o nome do beneficiário e o banco de destino. Se o beneficiário não é a empresa que você queria pagar, esse dado é a principal prova de que houve fraude, e o banco recebedor pode ser acionado para informar quem é o titular da conta que recebeu o valor.</p>"
+  },
+  {
+   "h2": "Quando o banco responde",
+   "html": "<p>O CDC diz que o fornecedor de serviços responde, independentemente de culpa, pelos danos causados por defeito na prestação do serviço (art. 14). O STJ aplicou a regra aos bancos na <strong>Súmula 479</strong>: as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.</p><p>O caso mais citado sobre golpe do boleto é o REsp 2.077.278, julgado pela Terceira Turma do STJ em 2023. Uma cliente mandou e-mail ao banco pedindo informações para quitar um financiamento. Dias depois, recebeu pelo WhatsApp, de uma suposta funcionária, um boleto de cerca de R$ 19 mil e pagou. O documento era falso. O STJ restabeleceu a sentença que considerou o pagamento válido e mandou o banco devolver as parcelas pagas indevidamente.</p><p>O fundamento foi o vazamento: os golpistas sabiam que ela era cliente, que tinha pedido a quitação e conheciam dados do contrato. Esses dados são sigilosos e cabe ao banco protegê-los. A ministra relatora também lembrou a Lei Geral de Proteção de Dados, segundo a qual o tratamento de dados é irregular quando não fornece a segurança que o titular pode esperar (LGPD, art. 44). E observou que não se espera que uma pessoa comum identifique sempre as diferenças entre um boleto falso e um verdadeiro.</p>"
+  },
+  {
+   "h2": "Quando o banco não responde",
+   "html": "<p>A responsabilidade objetiva tem limites, e o próprio CDC permite ao fornecedor se livrar se provar que não houve defeito no serviço ou que a culpa foi exclusiva do consumidor ou de terceiro (art. 14, § 3º).</p><p>No mesmo REsp 2.077.278, o STJ ressalvou que o banco não pode ser responsabilizado sozinho pelo vazamento de dados cadastrais básicos, como nome e CPF, porque essas informações podem ser obtidas de outras fontes. O que pesa é o golpista conhecer dados ligados às suas operações bancárias.</p><p>Outro precedente importante é o REsp 1.786.157, da Terceira Turma, de 2020. Um consumidor comprou em um site que não entregou o produto e pagou por boleto. O STJ entendeu que o banco que apenas emitiu o boleto não responde pela fraude do vendedor, porque não houve falha no serviço bancário. Se fosse assim, todos os bancos seriam responsáveis por qualquer problema de compra na internet.</p><p>Em julho de 2026, ao julgar o REsp 2.209.868, sobre outro tipo de golpe, a Terceira Turma reforçou que a responsabilidade do banco não é automática e depende de demonstrar uma falha no serviço ligada à fraude.</p>"
+  },
+  {
+   "h2": "A empresa que você queria pagar também pode responder",
+   "html": "<p>Muitas vezes o vazamento não sai do banco, e sim da empresa credora: um e-mail corporativo invadido, um funcionário que repassa dados, um sistema de emissão de boletos sem proteção. Como a relação com essa empresa também é de consumo, ela responde pelos defeitos do serviço que presta, inclusive o de cobrança, nos termos do mesmo art. 14 do CDC.</p><p>O Código Civil traz uma regra que entra nessa discussão. O pagamento deve ser feito ao credor ou a quem o represente (art. 308), mas o pagamento feito de boa-fé ao credor putativo, ou seja, a quem parecia ser o credor, é válido mesmo que depois se prove que não era (art. 309). A aplicação dessa regra ao boleto falso não é automática: costuma depender de a aparência de legitimidade ter sido criada ou facilitada pelo próprio credor, por exemplo quando o golpista usou o canal oficial da empresa.</p><h3>Exemplo</h3><p>Uma pessoa pede ao condomínio a segunda via do boleto pelo e-mail da administradora e recebe a resposta do mesmo endereço, com um boleto em que o beneficiário é outra empresa. Se a conta de e-mail da administradora foi invadida, há argumento forte para discutir a responsabilidade dela e a validade do pagamento, porque o consumidor usou o canal que lhe foi indicado.</p>"
+  },
+  {
+   "h2": "Como conferir um boleto antes de pagar",
+   "html": "<ul><li><strong>Confira o beneficiário</strong> na tela de confirmação do aplicativo, antes de digitar a senha. O nome e o CNPJ devem ser os da empresa que você quer pagar, e não de uma pessoa física ou de outra empresa.</li><li>Desconfie de boleto enviado por WhatsApp de número desconhecido, de desconto para pagamento imediato e de pedido de quitação com urgência.</li><li>Use o DDA, o Débito Direto Autorizado. Segundo o Banco Central, ele permite que o cliente acesse pelo banco, em meio eletrônico, os boletos emitidos em seu nome. Se o boleto que você recebeu não aparece ali e outro, da mesma empresa, aparece, desconfie.</li><li>Na dúvida, emita a segunda via pelo site ou aplicativo oficial da empresa, digitando o endereço você mesmo, sem clicar em link.</li></ul><p>Essas cautelas também servem de prova. Quando o consumidor consegue mostrar que tomou os cuidados razoáveis e mesmo assim foi enganado, o argumento de culpa exclusiva perde força.</p>"
+  },
+  {
+   "h2": "Caminhos para recuperar o valor",
+   "html": "<p>Se a conversa direta não resolver, os passos seguintes são:</p><ol><li>Ouvidoria do banco onde você pagou e do banco que recebeu o dinheiro. Pela Resolução CMN 4.860/2020 (art. 6º, § 2º), a ouvidoria tem até dez dias úteis para responder, com uma prorrogação possível em caso excepcional.</li><li>Reclamação no Banco Central, no consumidor.gov.br e no Procon, que criam registro oficial e costumam provocar nova análise.</li><li>Ação judicial contra quem, pelas provas, deu causa ao prejuízo: o banco, a empresa credora ou ambos. Pode-se pedir que o pagamento seja considerado válido, a devolução do valor e, conforme o caso, indenização.</li></ol><p>No processo, o juiz pode inverter o ônus da prova a favor do consumidor quando a alegação for verossímil ou ele for hipossuficiente (CDC, art. 6º, VIII), o que obriga banco e empresa a mostrar seus registros de segurança. Para quem continua sendo cobrado pela dívida original, entender de quem é a responsabilidade é o primeiro passo, e questões assim fazem parte do <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a>. A advogada Flávia Vaz Rabello atende esses casos em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "A empresa pode me negativar pela parcela que paguei no boleto falso?",
+   "a": "Enquanto a responsabilidade está em discussão, informe a empresa por escrito, com o comprovante e o boletim de ocorrência, e peça que não haja negativação. Se ela negativar mesmo assim e depois se reconhecer que o pagamento foi válido ou que a falha foi dela, a inclusão pode ser considerada indevida."
+  },
+  {
+   "q": "O banco que recebeu o dinheiro do golpista tem responsabilidade?",
+   "a": "Pode ter, se abriu ou manteve conta sem os cuidados de identificação que a Resolução CMN 4.753/2019 exige, ou se não agiu diante de movimentação suspeita. Em regra, ele é chamado a informar quem é o titular da conta beneficiária, o que ajuda a rastrear o valor e a mostrar como a fraude foi possível."
+  },
+  {
+   "q": "Paguei por Pix copia e cola de um boleto falso. Muda alguma coisa?",
+   "a": "A lógica da responsabilidade é parecida, porque o ponto central continua sendo de onde vieram os dados e quem falhou. A diferença é o meio de pagamento: no Pix existe o Mecanismo Especial de Devolução (MED), regulado pelo Banco Central, que deve ser acionado com urgência no seu banco."
+  },
+  {
+   "q": "O boleto chegou por e-mail oficial da empresa. Ainda assim a culpa é minha?",
+   "a": "Não necessariamente. Quando o golpe usa o canal oficial do credor, como um e-mail corporativo invadido, há argumento para responsabilizar a empresa pela segurança do seu próprio sistema de cobrança e para discutir a validade do pagamento feito de boa-fé."
+  },
+  {
+   "q": "Qual o prazo para entrar na Justiça por causa do boleto falso?",
+   "a": "Quando o pedido é de reparação por defeito do serviço em relação de consumo, o CDC fixa cinco anos contados do conhecimento do dano e de quem o causou (art. 27). Mesmo com prazo longo, agir cedo ajuda a preservar provas como registros de acesso e dados da conta beneficiária."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CDC art. 14, caput e § 3º (responsabilidade objetiva e excludentes), art. 6º, VIII (inversão do ônus da prova) e art. 27 (prazo de 5 anos)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Súmula 479 (responsabilidade objetiva das instituições financeiras por fortuito interno em fraudes de terceiros)",
+   "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&sumula=479",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 2.077.278 (2023, rel. Min. Nancy Andrighi): banco responde por vazamento de dados sigilosos usados no golpe do boleto; boleto de cerca de R$ 19 mil; dados básicos como nome e CPF não bastam para imputar só ao banco; LGPD art. 44",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/24102023-Banco-responde-por-vazamento-de-dados-que-resultou-em-aplicacao-do-%E2%80%9Cgolpe-do-boleto%E2%80%9D-contra-cliente.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 1.786.157 (2020): banco emissor do boleto não responde por fraude de vendedor on-line sem falha no serviço bancário",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/Banco-emissor-do-boleto-nao-responde-por-dano-a-cliente-que-nao-recebeu-produto-comprado-pela-internet.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 2.209.868 (julho de 2026): responsabilidade do banco por golpe não é automática, depende de falha no serviço",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Sem-transacoes-incompativeis-com-perfil-de-cliente--banco-nao-responde-por-golpe-da-falsa-central.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CC arts. 308 e 309 (pagamento ao credor; validade do pagamento de boa-fé ao credor putativo)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "LGPD art. 44 (tratamento irregular quando não fornece a segurança esperada)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "DDA: plataforma que permite ao cliente acessar eletronicamente os boletos de pagamento emitidos contra ele (Catálogo de Serviços do SFN, vol. V, BCB)",
+   "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Catalogos/Catalogo_de_Servicos_do_SFN_Volume_V_Versao_513.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.753/2019, art. 2º: bancos devem verificar e validar identidade e qualificação dos titulares na abertura de conta",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4753",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Pix: Mecanismo Especial de Devolução (MED), guia do Banco Central",
+   "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Guia_MED.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.860/2020, art. 6º, § 2º (ouvidoria: até dez dias úteis)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4860",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

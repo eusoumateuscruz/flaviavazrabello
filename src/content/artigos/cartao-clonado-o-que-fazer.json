@@ -1,0 +1,89 @@
+{
+ "slug": "cartao-clonado-o-que-fazer",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Cartão clonado: o que fazer e quando o banco deve devolver o valor",
+ "title": "Cartão clonado: o que fazer e como pedir o dinheiro de volta",
+ "description": "Cartão clonado: o que fazer nas primeiras horas, como contestar as compras, quando o banco deve devolver o valor e o que o STJ diz sobre a culpa do cliente.",
+ "resumo": "Apareceram compras que você não fez? Veja a ordem certa de providências, como registrar a contestação e em que situações a Justiça obriga o banco a devolver o dinheiro.",
+ "data": "2026-09-30",
+ "imagem": "/images/blog/cartao-clonado-o-que-fazer.jpg",
+ "alt": "Cadeado sobre cartões e teclado de computador",
+ "resposta": "Bloqueie o cartão no aplicativo ou na central, conteste por escrito cada compra que você não reconhece, anote os protocolos e registre boletim de ocorrência. O banco responde de forma objetiva por fraudes de terceiros ligadas ao serviço bancário (Súmula 479 do STJ e art. 14 do CDC) e só se livra se provar que o serviço não teve defeito ou que a culpa foi exclusivamente sua ou de terceiro. Compras fora do seu perfil que o sistema deixou passar pesam a seu favor.",
+ "intro": "<p>A clonagem costuma ser descoberta de um jeito desagradável: uma notificação de compra em outra cidade, uma fatura com lançamentos estranhos ou um limite que some de um dia para o outro. Nessa hora, a ordem das providências faz diferença, porque o que você registra nos primeiros dias vira a prova de que as compras não foram suas.</p><p>O cartão clonado é diferente do golpe em que a própria pessoa é convencida a fazer uma transferência. Na clonagem, os dados do cartão (ou uma cópia dele) são usados sem a sua participação. Se o seu caso envolve um Pix feito por você depois de uma ligação ou mensagem falsa, o post sobre <a href=\"/blog/golpe-do-pix-o-que-fazer\">o que fazer depois de cair no golpe do Pix</a> trata desse cenário.</p>",
+ "secoes": [
+  {
+   "h2": "O que fazer nas primeiras horas",
+   "html": "<ol><li><strong>Bloqueie o cartão</strong> pelo aplicativo ou pela central de atendimento. O bloqueio impede novas compras e marca a data a partir da qual qualquer lançamento é, com certeza, indevido.</li><li>Anote o número de protocolo de cada contato, com dia e hora. Se a ligação cair, ligue de novo e peça outro protocolo.</li><li>Tire print da fatura, das notificações do aplicativo e do extrato com as compras que você não reconhece.</li><li>Conteste as compras formalmente, uma a uma, pelo canal que o banco oferecer (aplicativo, SAC ou internet banking), e guarde a confirmação.</li><li>Registre boletim de ocorrência. Em São Paulo e em vários estados isso pode ser feito pela delegacia eletrônica.</li><li>Troque senhas do aplicativo do banco e do e-mail cadastrado, se houver suspeita de que alguém acessou suas contas.</li></ol><p>Não pague a fatura cheia só para evitar juros sem antes registrar a contestação. Se o vencimento estiver perto, pergunte ao banco, por escrito, se os lançamentos contestados ficam suspensos até a análise, e pague a parte que você reconhece.</p>"
+  },
+  {
+   "h2": "Como saber se o cartão foi clonado",
+   "html": "<p>Alguns sinais aparecem antes da fatura fechar e merecem atenção imediata:</p><ul><li>notificação de compra que você não fez, principalmente em sites estrangeiros, aplicativos de transporte ou lojas de games;</li><li>pequenas cobranças de teste, de centavos ou poucos reais, que costumam preceder compras maiores;</li><li>várias compras seguidas em poucos minutos, em horários em que você não usa o cartão;</li><li>queda de limite sem explicação;</li><li>mensagem do banco pedindo que você confirme uma compra que não reconhece.</li></ul><p>A clonagem pode acontecer mesmo com o cartão no bolso. Os dados podem ser capturados em sites falsos, em vazamentos de cadastro de lojas ou em máquinas adulteradas. Por isso, o fato de o cartão físico nunca ter saído da sua carteira não enfraquece a sua reclamação; ao contrário, é um dado a registrar na contestação.</p><p>Se você usa cartão virtual para compras on-line, confira também se o lançamento foi feito com o número do cartão físico ou do virtual. Essa informação ajuda a identificar onde os dados vazaram.</p>"
+  },
+  {
+   "h2": "Quando o banco é obrigado a devolver o valor",
+   "html": "<p>O ponto de partida é o Código de Defesa do Consumidor. O art. 14 diz que o fornecedor de serviços responde, independentemente de culpa, pelos danos causados por defeitos na prestação do serviço, e considera defeituoso o serviço que não oferece a segurança que o consumidor pode esperar. O STJ aplicou essa regra aos bancos na <strong>Súmula 479</strong>: as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.</p><p>Fortuito interno é o risco que faz parte da própria atividade. Clonagem de cartão e uso de dados para compras são riscos que o banco conhece, precifica e tem obrigação de combater. Por isso, em regra, cabe ao banco provar que não houve falha, e não a você provar que o sistema falhou.</p><p>Em outubro de 2025, a Terceira Turma do STJ reforçou esse raciocínio no REsp 2.222.059: os sistemas antifraude devem detectar operações que se afastam do perfil do cliente, considerando valor, horário, local, intervalo entre as transações e sequência. Validar operações atípicas mostra defeito no serviço.</p><h3>Exemplo</h3><p>Uma pessoa que gasta em média R$ 1.500 por mês no cartão, sempre em mercados e farmácias da cidade onde mora, vê aparecerem, numa madrugada, oito compras de R$ 900 em lojas de eletrônicos de outro estado, em menos de uma hora. Esse padrão destoa do histórico e é o tipo de situação em que o banco tem dificuldade de sustentar que agiu com a segurança esperada.</p>"
+  },
+  {
+   "h2": "Quando o banco pode se livrar da responsabilidade",
+   "html": "<p>A responsabilidade objetiva não é automática em qualquer prejuízo. O próprio art. 14, § 3º, do CDC permite que o fornecedor se livre se provar que o defeito não existe ou que houve culpa exclusiva do consumidor ou de terceiro.</p><p>Em julho de 2026, a Terceira Turma do STJ julgou o REsp 2.209.868, sobre o golpe da falsa central, e deixou claro que a responsabilidade do banco depende da demonstração de falha no serviço, como a não identificação de operações incompatíveis com o perfil ou mecanismos de segurança insuficientes. Naquele caso, as transferências eram compatíveis com o histórico da conta e a maior delas foi feita pela própria cliente, na agência. O tribunal entendeu que houve culpa exclusiva da vítima e dos golpistas.</p><p>Na prática, os argumentos que o banco costuma usar são:</p><ul><li>a compra foi feita com cartão com chip e senha, que só o titular teria;</li><li>o cliente entregou o cartão, a senha ou um código de confirmação a terceiros;</li><li>as compras eram compatíveis com o padrão de gastos;</li><li>o cliente demorou a avisar, e as compras ocorreram depois de ele já saber do problema.</li></ul><p>Cada um desses pontos se discute com prova. Por isso, contar exatamente como descobriu a fraude, quando avisou e o que já estava bloqueado é tão importante quanto a própria contestação.</p>"
+  },
+  {
+   "h2": "Se o banco negar a contestação",
+   "html": "<p>Muitos pedidos são resolvidos na primeira análise. Quando a resposta é negativa, há uma escada de caminhos:</p><ol><li><strong>Ouvidoria do banco.</strong> Ela atende demandas que não foram resolvidas no atendimento comum. Pela Resolução CMN 4.860/2020 (art. 6º, § 2º), a resposta não pode passar de dez dias úteis, prorrogáveis uma vez em casos excepcionais e justificados.</li><li><strong>Reclamação no Banco Central e no consumidor.gov.br.</strong> Não obrigam o banco a pagar, mas criam registro oficial e costumam gerar nova análise.</li><li><strong>Procon.</strong> Pode chamar o banco para uma tentativa de acordo.</li><li><strong>Ação judicial.</strong> Pede-se a declaração de que as compras não são devidas, a devolução do que foi pago e, conforme o caso, indenização por dano moral.</li></ol><p>No processo, o juiz pode inverter o ônus da prova a favor do consumidor quando a alegação for verossímil ou ele for hipossuficiente (CDC, art. 6º, VIII). Isso significa que o banco passa a ter de mostrar os registros da transação, o dispositivo usado, a localização e os alertas que o sistema gerou.</p><p>O dano moral não é presumido em todo caso de clonagem. Ele costuma ser discutido quando o banco negou a contestação sem justificativa, manteve a cobrança, lançou juros sobre valores contestados ou levou o nome do cliente a cadastro de inadimplentes. O prazo para pedir reparação por defeito do serviço é de cinco anos, contados do conhecimento do dano e de sua autoria (CDC, art. 27).</p>"
+  },
+  {
+   "h2": "Documentos para reunir e erros que atrapalham",
+   "html": "<p>Monte uma pasta, física ou digital, com:</p><ul><li>faturas do mês da fraude e de pelo menos três meses anteriores, que mostram o seu padrão de uso;</li><li>prints das notificações e do aplicativo com as compras contestadas;</li><li>protocolos de bloqueio e de contestação, com datas;</li><li>boletim de ocorrência;</li><li>respostas do banco, inclusive a negativa, se houver;</li><li>qualquer prova de onde você estava no momento das compras, como registro de ponto, bilhete de transporte ou outra compra feita por você na sua cidade.</li></ul><p>Erros comuns que enfraquecem o pedido: contestar só por telefone sem anotar protocolo; esperar a fatura seguinte para reclamar; pagar tudo e só depois pedir o dinheiro de volta sem registro prévio; aceitar crédito provisório sem guardar o comprovante de que ele foi estornado depois; e apagar mensagens ou e-mails suspeitos que poderiam mostrar como os dados vazaram.</p><p>Se o valor é alto, se o banco manteve a cobrança ou se o seu nome foi negativado por causa das compras, vale buscar orientação sobre <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> para avaliar o caminho. A advogada Flávia Vaz Rabello atende casos bancários em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O banco pode me cobrar juros sobre as compras que contestei?",
+   "a": "Se a contestação estiver registrada e as compras forem reconhecidas como fraude, os juros e encargos sobre esses valores também são indevidos e devem ser retirados. Caso o banco mantenha a cobrança depois da reclamação, guarde as faturas: esse comportamento pesa na discussão sobre devolução e sobre eventual dano moral."
+  },
+  {
+   "q": "Compra feita com chip e senha pode ser contestada?",
+   "a": "Pode. O banco costuma alegar que só o titular teria o cartão e a senha, mas isso é uma presunção que admite prova em contrário. O caso fica mais difícil se você entregou o cartão ou a senha a alguém, e mais forte se as compras destoam do seu perfil e o sistema não reagiu."
+  },
+  {
+   "q": "Quanto tempo o banco tem para responder a contestação?",
+   "a": "Não há um prazo único em lei para a primeira análise da contestação, e cada banco informa o seu. Se a resposta não vier ou for negativa, a ouvidoria tem até dez dias úteis para responder, com uma prorrogação possível em caso excepcional, conforme a Resolução CMN 4.860/2020."
+  },
+  {
+   "q": "Fui negativado por causa de compras do cartão clonado. O que faço?",
+   "a": "Registre a contestação, se ainda não fez, e peça ao banco a retirada do nome do cadastro por escrito. A inclusão por dívida que você não fez é indevida, e o caminho segue as regras explicadas no post sobre nome sujo indevidamente, com possibilidade de pedido de indenização na Justiça."
+  },
+  {
+   "q": "Cartão de débito clonado tem a mesma proteção do cartão de crédito?",
+   "a": "A lógica da responsabilidade é a mesma, porque as duas modalidades são serviço bancário sujeito ao CDC e à Súmula 479. A diferença prática é que no débito o dinheiro sai da conta na hora, então vale pedir o estorno com urgência e registrar que o saldo foi afetado, inclusive se isso gerou atraso em outras contas."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CDC art. 14, caput, §§ 1º e 3º (responsabilidade objetiva do fornecedor de serviços, serviço defeituoso, excludentes), art. 6º, VIII (inversão do ônus da prova) e art. 27 (prescrição de 5 anos da reparação por fato do serviço)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ Súmula 479: instituições financeiras respondem objetivamente por fortuito interno relativo a fraudes e delitos de terceiros em operações bancárias",
+   "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&sumula=479",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 2.222.059 (outubro de 2025, rel. Min. Ricardo Villas Bôas Cueva): sistemas antifraude devem detectar operações fora do perfil do cliente; validar operações atípicas revela defeito do serviço",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/21102025-Bancos-e-instituicoes-de-pagamento-devem-indenizar-clientes-por-falhas-que-viabilizam-golpe-da-falsa-central.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 2.209.868 (julho de 2026, rel. Min. Humberto Martins): responsabilidade do banco por golpe não é automática; depende de falha do serviço; culpa exclusiva da vítima e de terceiro rompe o nexo",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Sem-transacoes-incompativeis-com-perfil-de-cliente--banco-nao-responde-por-golpe-da-falsa-central.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.860/2020, art. 6º, § 2º: ouvidoria responde em até dez dias úteis, prorrogáveis uma vez de forma excepcional e justificada (norma vigente, sem revogação)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4860",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

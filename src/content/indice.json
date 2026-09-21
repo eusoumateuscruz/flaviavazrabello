@@ -1,5 +1,55 @@
 [
  {
+  "slug": "banco-encerrou-minha-conta",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "O banco encerrou minha conta sem aviso: isso é permitido?",
+  "resumo": "Recebeu aviso de encerramento ou descobriu a conta fechada? Veja o que o banco pode fazer, o procedimento que ele é obrigado a seguir e o que fazer com o saldo e os débitos.",
+  "data": "2026-09-30",
+  "imagem": "/images/blog/banco-encerrou-minha-conta.jpg",
+  "alt": "Fachada de uma agência bancária"
+ },
+ {
+  "slug": "boleto-falso-responsabilidade-do-banco",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Paguei um boleto falso: o banco tem responsabilidade?",
+  "resumo": "Pagou um boleto e descobriu que o dinheiro foi para golpistas? Entenda quem pode responder pelo prejuízo, que provas guardar e quais caminhos existem para recuperar o valor.",
+  "data": "2026-09-30",
+  "imagem": "/images/blog/boleto-falso-responsabilidade-do-banco.jpg",
+  "alt": "Homem com as mãos no rosto em sinal de preocupação"
+ },
+ {
+  "slug": "cartao-clonado-o-que-fazer",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Cartão clonado: o que fazer e quando o banco deve devolver o valor",
+  "resumo": "Apareceram compras que você não fez? Veja a ordem certa de providências, como registrar a contestação e em que situações a Justiça obriga o banco a devolver o dinheiro.",
+  "data": "2026-09-30",
+  "imagem": "/images/blog/cartao-clonado-o-que-fazer.jpg",
+  "alt": "Cadeado sobre cartões e teclado de computador"
+ },
+ {
+  "slug": "debito-automatico-nao-autorizado",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Débito automático não autorizado: como contestar e pedir o estorno",
+  "resumo": "Apareceu na conta um débito que você nunca autorizou? Veja as regras do Banco Central, como exigir a prova da autorização, cancelar o débito e pedir o dinheiro de volta.",
+  "data": "2026-09-30",
+  "imagem": "/images/blog/debito-automatico-nao-autorizado.jpg",
+  "alt": "Pessoa marcando valores em uma fatura impressa"
+ },
+ {
+  "slug": "divida-prescrita-pode-ser-cobrada",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Dívida prescrita pode ser cobrada? O que muda depois de cinco anos",
+  "resumo": "Passaram cinco anos e a empresa ainda liga cobrando? Entenda o que a prescrição impede, o que ela não apaga e por que a cobrança extrajudicial está em julgamento no STJ.",
+  "data": "2026-09-30",
+  "imagem": "/images/blog/divida-prescrita-pode-ser-cobrada.jpg",
+  "alt": "Relógio despertador ao lado de um calendário"
+ },
+ {
   "slug": "capitalizacao-de-juros",
   "area": "direito-bancario",
   "categoria": "Bancário",

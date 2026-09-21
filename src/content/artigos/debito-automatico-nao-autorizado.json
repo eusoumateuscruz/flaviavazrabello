@@ -1,0 +1,109 @@
+{
+ "slug": "debito-automatico-nao-autorizado",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Débito automático não autorizado: como contestar e pedir o estorno",
+ "title": "Débito automático não autorizado: como contestar e ter estorno",
+ "description": "Débito automático não autorizado: o que diz a Resolução CMN 4.790, como cancelar, pedir o estorno, quando cabe devolução em dobro e o Pix Automático.",
+ "resumo": "Apareceu na conta um débito que você nunca autorizou? Veja as regras do Banco Central, como exigir a prova da autorização, cancelar o débito e pedir o dinheiro de volta.",
+ "data": "2026-09-30",
+ "imagem": "/images/blog/debito-automatico-nao-autorizado.jpg",
+ "alt": "Pessoa marcando valores em uma fatura impressa",
+ "resposta": "Pelas regras do Conselho Monetário Nacional, nenhum débito em conta pode ser feito sem autorização prévia do titular, com finalidade específica, conta indicada e prazo (Resolução CMN 4.790/2020, art. 3º). Se você não autorizou, peça ao banco o cancelamento e o documento que comprova a autorização, que ele deve guardar por cinco anos. Sem essa prova, o valor deve ser devolvido, e o CDC prevê devolução em dobro quando a cobrança indevida contraria a boa-fé objetiva (art. 42, parágrafo único).",
+ "intro": "<p>O débito automático foi pensado para facilitar a vida: a conta de luz, a parcela do empréstimo ou a mensalidade saem sozinhas na data certa. O problema começa quando aparece no extrato um lançamento que você não reconhece, de um seguro que nunca contratou, de um clube de benefícios ou de uma empresa da qual nunca ouviu falar.</p><p>Esse tipo de desconto costuma ser pequeno e recorrente, e por isso passa meses sem ser notado. A boa notícia é que as regras são claras: débito em conta depende de autorização, e o ônus de provar que ela existe é de quem debitou.</p>",
+ "secoes": [
+  {
+   "h2": "O que a regra do Banco Central exige",
+   "html": "<p>A norma que trata do tema é a Resolução CMN 4.790/2020, que regula a autorização e o cancelamento de débitos em conta de depósitos e em conta-salário. O art. 3º diz que a realização de débitos depende de <strong>prévia autorização do titular</strong>, e que essa autorização deve:</p><ul><li>ter finalidade específica;</li><li>discriminar a conta a ser debitada;</li><li>ser fornecida por escrito ou por meio eletrônico;</li><li>estipular o prazo, que pode ser indeterminado.</li></ul><p>Para parcelas de empréstimo e financiamento, as exigências são maiores: a autorização deve ser individualizada para cada contrato e conter a manifestação clara do cliente sobre se aceita débito sobre o limite de crédito da conta e débito de parcelas já vencidas, inclusive em lançamentos parciais (art. 4º).</p><p>O banco onde está a conta também tem deveres próprios. Ele deve adotar procedimentos que confirmem a identidade do titular e a autenticidade da autorização (art. 11) e manter os documentos que comprovam a autorização à disposição do Banco Central por no mínimo cinco anos, contados do fim do prazo da autorização (art. 13). Por isso, a pergunta certa a fazer ao banco não é só \"por que debitaram\", e sim \"onde está a minha autorização\".</p>"
+  },
+  {
+   "h2": "Como cancelar o débito e contestar o que já saiu",
+   "html": "<p>O cancelamento é um direito do titular (Resolução CMN 4.790/2020, art. 6º) e pode ser pedido no próprio banco ou por meio da empresa que recebe o valor. Quando pedido pela empresa, ela tem até dois dias úteis para repassar o pedido ao banco (art. 7º). Em qualquer caso, o banco deve comunicar ao titular que acatou o cancelamento em até dois dias úteis do recebimento (art. 8º).</p><p>Para débitos de parcelas de crédito, o cancelamento em regra é pedido por meio da instituição credora, mas pode ser feito direto no seu banco se você declarar que não reconhece a autorização (art. 9º, parágrafo único). Essa declaração é importante: faça por escrito e guarde a cópia.</p><h3>Passo a passo</h3><ol><li>Abra o extrato e a seção de autorizações de débito. O banco deve disponibilizar a lista das autorizações vigentes e os débitos programados para os próximos dias úteis (art. 12).</li><li>Peça, por escrito ou pelo aplicativo, o cancelamento de cada autorização que você não reconhece e anote os protocolos.</li><li>Peça, no mesmo pedido, a cópia da autorização que justificou cada débito e o estorno dos valores já descontados.</li><li>Se o banco não resolver, leve à ouvidoria, que deve responder em até dez dias úteis (Resolução CMN 4.860/2020, art. 6º, § 2º).</li></ol>"
+  },
+  {
+   "h2": "Estorno simples ou devolução em dobro",
+   "html": "<p>O Código de Defesa do Consumidor diz que o consumidor cobrado em quantia indevida tem direito à repetição do indébito, por valor igual ao dobro do que pagou em excesso, com correção monetária e juros legais, salvo hipótese de engano justificável (art. 42, parágrafo único).</p><p>Por muito tempo se discutiu se era preciso provar má-fé de quem cobrou. A Corte Especial do STJ resolveu a questão no EAREsp 676.608: a restituição em dobro independe da natureza do elemento volitivo do fornecedor e cabe quando a cobrança indevida consubstanciar conduta contrária à boa-fé objetiva. Ou seja, não é preciso provar intenção de lesar; basta que a conduta não seja a esperada de um fornecedor leal. O STJ modulou os efeitos: para relações que não envolvem serviço público, o critério vale para pagamentos feitos depois daquele julgamento, concluído em 2020 e publicado em 2021.</p><h3>Exemplo</h3><p>Uma pessoa descobre que, durante 14 meses, saiu da conta R$ 29,90 por mês a título de um seguro que ela nunca contratou. O total descontado foi de R$ 418,60. Se ficar demonstrado que não houve autorização e que o desconto contrariou a boa-fé, a devolução em dobro chega a R$ 837,20, com correção e juros. O engano justificável, que afasta o dobro, precisa ser demonstrado por quem cobrou.</p>"
+  },
+  {
+   "h2": "Quando cabe dano moral",
+   "html": "<p>Nem todo débito indevido gera indenização por dano moral. O desconto de pequeno valor, estornado logo após a reclamação, costuma ser tratado como aborrecimento, com direito à devolução, mas sem indenização adicional. O pedido ganha força quando o débito produz consequências concretas.</p><p>As situações que costumam pesar na análise são:</p><ul><li>o débito consumiu o salário ou a aposentadoria e deixou a pessoa sem dinheiro para despesas básicas;</li><li>o saldo negativo gerou juros de cheque especial, devolução de outros pagamentos ou atraso de contas;</li><li>o banco manteve o desconto depois do pedido de cancelamento;</li><li>houve inclusão do nome em cadastro de inadimplentes por causa do débito;</li><li>a vítima é pessoa idosa ou em situação de vulnerabilidade, e o desconto se repetiu por muito tempo.</li></ul><p>Não existe tabela de valores. O juiz considera a gravidade da situação, a duração, a conduta do banco e da empresa depois da reclamação e a capacidade econômica das partes. Por isso, documentar cada consequência, como uma conta que atrasou ou uma tarifa cobrada por saldo negativo, faz diferença no resultado.</p><p>O banco e a empresa beneficiária podem responder juntos, porque ambos participam da cadeia do serviço. O CDC trata da responsabilidade do fornecedor por defeitos na prestação do serviço no art. 14.</p>"
+  },
+  {
+   "h2": "O que mudou com o Pix Automático e a Lei 15.252/2025",
+   "html": "<p>A regulação do débito em conta está em transição, e isso afeta onde você deve procurar a autorização.</p><p>A Resolução CMN 5.251/2025, em vigor desde 13 de outubro de 2025, determinou que a autorização e o cancelamento de débitos cujo recebedor final seja empresa ou entidade que não é instituição autorizada pelo Banco Central sigam exclusivamente as regras do Pix Automático. A adaptação dos contratos tinha prazo até 1º de janeiro de 2026; para tributos, contas de serviços públicos e planos de saúde, a Resolução CMN 5.278/2025 estendeu o prazo até 1º de janeiro de 2027. Quando o próprio banco da conta é quem recebe o valor, continuam valendo as regras da Resolução 4.790.</p><p>No Pix Automático, as autorizações ficam num menu próprio do aplicativo do banco, e o Banco Central orienta que o pagador seja informado de que pode cancelar a autorização a qualquer momento.</p><p>Em novembro de 2025, a Lei 15.252 criou o direito ao débito automático entre instituições para pagar parcelas de crédito, sempre mediante autorização prévia e expressa, individualizada por contrato, em termo específico e com prazo (art. 8º), e com revogação nos termos que o Banco Central definir (art. 10). A Resolução CMN 5.299/2026 fixou as diretrizes e prevê a revogação da Resolução 4.790 a partir de 1º de julho de 2027. Até lá, ela segue valendo.</p>"
+  },
+  {
+   "h2": "Documentos para reunir e erros comuns",
+   "html": "<ul><li>extratos de todo o período dos descontos, com os lançamentos destacados;</li><li>print da seção de autorizações de débito e do menu do Pix Automático;</li><li>protocolos do pedido de cancelamento, de estorno e de cópia da autorização;</li><li>resposta do banco e da empresa, inclusive negativas;</li><li>comprovantes das consequências: tarifas, juros de cheque especial, contas atrasadas.</li></ul><p>Erros que atrapalham: cancelar o débito sem pedir, no mesmo ato, a cópia da autorização e o estorno do que já saiu; aceitar a explicação verbal de que houve \"contratação pelo telefone\" sem pedir a gravação ou o registro; deixar passar anos sem conferir o extrato; e pedir o cancelamento só à empresa, sem registrar no banco que você não reconhece a autorização.</p><p>Se os descontos se acumularam por muito tempo, se atingiram salário ou benefício, ou se o banco se recusa a mostrar a autorização, uma análise do caso no campo do <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> ajuda a definir o pedido certo. A advogada Flávia Vaz Rabello atende esses casos em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O banco pode dizer que eu autorizei por telefone?",
+   "a": "A autorização precisa ser por escrito ou por meio eletrônico, com finalidade específica e conta indicada, conforme o art. 3º da Resolução CMN 4.790/2020. Se o banco alega contratação por telefone, peça a gravação e o registro eletrônico da autorização. Sem prova de que você concordou, o débito não se sustenta."
+  },
+  {
+   "q": "Quanto tempo depois ainda posso pedir o dinheiro de volta?",
+   "a": "O prazo depende do tipo de pedido e há debate nos tribunais sobre qual se aplica à devolução de cobranças indevidas em contratos bancários. Por segurança, reclame assim que notar o desconto e reúna os extratos antigos enquanto o banco ainda os disponibiliza no aplicativo."
+  },
+  {
+   "q": "Posso cancelar o débito automático da parcela do empréstimo?",
+   "a": "Pode, porque o cancelamento é direito do titular. Em regra, o pedido é feito pela instituição credora; se você não reconhece a autorização, pode fazê-lo direto no seu banco. Atenção: cancelar o débito não cancela a dívida, e a parcela precisará ser paga por outro meio para evitar atraso."
+  },
+  {
+   "q": "Débito de seguro que eu não contratei entra nessa regra?",
+   "a": "Sim. Qualquer débito em conta depende de autorização prévia do titular. Se o seguro foi incluído sem sua concordância, você pode pedir o cancelamento do débito, a cópia da autorização e a devolução dos valores. Se ele foi imposto como condição para um empréstimo, a discussão envolve também venda casada."
+  },
+  {
+   "q": "Descontaram da minha conta-salário sem autorização. É diferente?",
+   "a": "A Resolução CMN 4.790/2020 se aplica também à conta-salário, com as mesmas exigências de autorização prévia, finalidade específica e possibilidade de cancelamento. Como ali cai a sua renda, o desconto não autorizado costuma causar prejuízo maior, o que deve ser documentado para o pedido de devolução e eventual indenização."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Resolução CMN 4.790/2020, arts. 3º, 4º, 6º a 9º, 11, 12 e 13 (autorização prévia, requisitos, cancelamento, prazos de 2 dias úteis, controles de autenticidade, extrato das autorizações, guarda por 5 anos) e art. 19 (vigência desde 3/11/2020 para as regras gerais), com alterações das Resoluções 4.936/2021, 5.251/2025 e 5.278/2025",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4790",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.251/2025 (art. 2º-A: débitos com recebedor final não autorizado pelo BCB seguem as regras do Pix Automático; vigência em 13/10/2025; adaptação até 1º/1/2026)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5251",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.278/2025 (prazo até 1º/1/2027 para tributos, convênios de serviços públicos e planos de saúde)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5278",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.299/2026 (diretrizes da Lei 15.252/2025; revogação da Resolução 4.790 a partir de 1º/7/2027)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5299",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 15.252/2025, arts. 7º a 10 (débito automático entre instituições, autorização prévia e expressa, individualizada, termo específico, prazo; revogação conforme regulamentação do BCB)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15252.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 42, parágrafo único (repetição em dobro, salvo engano justificável) e art. 14 (responsabilidade do fornecedor de serviços)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Corte Especial, EAREsp 676.608: restituição em dobro independe do elemento volitivo e cabe quando a cobrança contraria a boa-fé objetiva; modulação para contratos que não envolvem serviço público",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/29102020-Acao-para-devolucao-de-cobranca-indevida-em-telefonia-prescreve-em-dez-anos--decide-Corte-Especial.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Pix Automático: menu próprio no app e informação ao pagador de que pode cancelar a autorização a qualquer momento (FAQ do Banco Central)",
+   "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/pix-automatico-FAQ-participantes.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.860/2020, art. 6º, § 2º (ouvidoria: até dez dias úteis)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4860",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
