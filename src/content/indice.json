@@ -1,5 +1,55 @@
 [
  {
+  "slug": "dano-moral-consumidor",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Dano moral nas relações de consumo: quando cabe e como se prova",
+  "resumo": "Nem todo problema com empresa gera indenização por dano moral. Veja o que os tribunais exigem, os casos em que o dano é presumido, a tese do desvio produtivo e como montar a prova.",
+  "data": "2026-10-03",
+  "imagem": "/images/blog/dano-moral-consumidor.jpg",
+  "alt": "Homem estressado com as mãos na cabeça diante do notebook"
+ },
+ {
+  "slug": "golpe-do-site-falso",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Comprei em site falso: o que fazer e quem responde pelo prejuízo",
+  "resumo": "Pagou e o produto nunca chegou porque a loja não existia? Veja a ordem das providências, como a forma de pagamento muda o caminho e em que casos alguém além do golpista pode responder.",
+  "data": "2026-10-03",
+  "imagem": "/images/blog/golpe-do-site-falso.jpg",
+  "alt": "Homem com as mãos na cabeça em frente ao computador"
+ },
+ {
+  "slug": "golpe-em-marketplace",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Golpe em marketplace: a plataforma responde pela fraude?",
+  "resumo": "A resposta depende de onde a negociação e o pagamento aconteceram. Veja a diferença entre site de classificados e intermediador, o que mudou com o STF em 2025 e como agir depois do golpe.",
+  "data": "2026-10-03",
+  "imagem": "/images/blog/golpe-em-marketplace.jpg",
+  "alt": "Mãos entregando um pacote a outra pessoa em um balcão"
+ },
+ {
+  "slug": "golpe-no-whatsapp",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Golpe pelo WhatsApp: como agir logo depois e como recuperar a conta",
+  "resumo": "Conta clonada, mensagem do falso parente pedindo dinheiro ou número desconhecido se passando por empresa. Veja a ordem das providências e o que a lei diz sobre quem responde.",
+  "data": "2026-10-03",
+  "imagem": "/images/blog/golpe-no-whatsapp.jpg",
+  "alt": "Mão segurando celular com aplicativo de mensagens aberto"
+ },
+ {
+  "slug": "propaganda-enganosa",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Propaganda enganosa: como identificar e o que o consumidor pode exigir",
+  "resumo": "O anúncio prometia uma coisa e a loja entregou outra? Entenda quando a publicidade é enganosa, o que o Código de Defesa do Consumidor permite exigir e quem precisa provar o quê.",
+  "data": "2026-10-03",
+  "imagem": "/images/blog/propaganda-enganosa.jpg",
+  "alt": "Etiquetas de promoção com desconto de 50 por cento"
+ },
+ {
   "slug": "atraso-na-entrega-de-imovel-na-planta",
   "area": "direito-do-consumidor",
   "categoria": "Consumidor",

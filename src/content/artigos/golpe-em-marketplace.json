@@ -1,0 +1,114 @@
+{
+ "slug": "golpe-em-marketplace",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Golpe em marketplace: a plataforma responde pela fraude?",
+ "title": "Golpe em marketplace: quando a plataforma responde",
+ "description": "Golpe em marketplace: quando Mercado Livre, OLX ou Facebook respondem pela fraude, o que decidiram o STJ e o STF e o que fazer depois do golpe.",
+ "resumo": "A resposta depende de onde a negociação e o pagamento aconteceram. Veja a diferença entre site de classificados e intermediador, o que mudou com o STF em 2025 e como agir depois do golpe.",
+ "data": "2026-10-03",
+ "imagem": "/images/blog/golpe-em-marketplace.jpg",
+ "alt": "Mãos entregando um pacote a outra pessoa em um balcão",
+ "resposta": "Depende de como a plataforma participou do negócio. O STJ tem decidido que, quando ela funciona só como vitrine de classificados e a negociação e o pagamento acontecem fora dela, a fraude é fato de terceiro e a plataforma não responde. Quando a venda, a conversa ou o pagamento passam pelas ferramentas da plataforma, ela atua como intermediária e pode responder pelo Código de Defesa do Consumidor, regra que o STF reafirmou para marketplaces em 2025.",
+ "intro": "<p>Comprar e vender em marketplaces virou rotina, e os golpes acompanharam. Há o vendedor que anuncia um produto que não existe, o falso comprador que manda comprovante adulterado, o e-mail falso avisando que \"o pagamento foi liberado\" e o anúncio de carro clonado a preço atraente. Em quase todos, o golpista tenta levar a conversa e o pagamento para fora da plataforma.</p><p>Esse detalhe decide quase tudo na hora de saber se a empresa pode ser cobrada. Abaixo estão as regras que os tribunais aplicam, os casos em que a plataforma costuma ser responsabilizada e o que fazer em cada situação. A página de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a> reúne outros temas de compras pela internet.</p>",
+ "secoes": [
+  {
+   "h2": "Como os golpes em marketplace costumam acontecer",
+   "html": "<ul><li><strong>Vendedor fantasma:</strong> anuncia celular, videogame ou carro abaixo do preço, pede para fechar pelo WhatsApp e recebe por Pix na conta de terceiro. O produto nunca é enviado.</li><li>Falso comprador: quem vende recebe um e-mail ou print imitando a plataforma, dizendo que o pagamento foi aprovado e que já pode despachar o produto. O dinheiro nunca entrou.</li><li>Falso frete ou falso link de pagamento: o golpista envia um link que parece ser da plataforma para \"liberar\" a venda ou pagar uma taxa, e captura dados ou dinheiro.</li><li>Veículo clonado: o anúncio mostra carro com documentação aparentemente regular, e a fraude só aparece na hora da transferência no Detran.</li></ul><p>O roteiro se repete: urgência, preço fora da realidade e insistência para negociar ou pagar por fora. Além do risco, negociar por fora apaga da plataforma o registro da transação, que seria a prova de que ela participou do negócio.</p>"
+  },
+  {
+   "h2": "Classificados ou intermediador: a distinção do STJ",
+   "html": "<p>O Superior Tribunal de Justiça reconhece que a relação do usuário com essas plataformas é de consumo, mesmo quando o serviço é gratuito, porque a empresa lucra direta ou indiretamente (REsp 1.836.349, julgado em 2022). A pergunta seguinte é qual papel ela exerceu naquele negócio.</p><h3>Quando funciona como classificados</h3><p>No REsp 1.836.349, compradores de um carro anunciado na OLX pagaram cerca de R$ 11 mil direto na conta de uma pessoa desconhecida. A Terceira Turma afastou a responsabilidade do site, que atuou só como vitrine, e comparou a situação à de um jornal que publica classificados. No REsp 2.067.181 (2023), sobre carro clonado negociado por telefone e pessoalmente, a conclusão foi a mesma. A ministra relatora registrou que o site de classificados não precisa fiscalizar a origem dos produtos, mas deve manter condições de identificar cada anunciante, e responde se deixar de fornecer esses dados.</p><h3>Quando atua como intermediário</h3><p>No REsp 1.880.344 (2021), o STJ definiu que o site que veicula ofertas, fornece a infraestrutura e participa das negociações assume a posição de fornecedor de serviços. Naquele caso, a vendedora teve o pedido negado porque a fraude aconteceu por e-mail falso e aplicativo externo, sem uso de nenhuma ferramenta da plataforma. O raciocínio indica o outro lado: se o golpe explora o sistema de pagamento, o chat ou os dados guardados pela plataforma, a discussão sobre falha de segurança se abre.</p>"
+  },
+  {
+   "h2": "O que mudou com o julgamento do STF em 2025",
+   "html": "<p>Em 26 de junho de 2025, o Supremo julgou os Temas 987 e 533 e declarou o art. 19 do Marco Civil da Internet parcialmente inconstitucional. Três pontos da tese interessam a quem caiu em golpe em marketplace:</p><ul><li>os provedores que funcionam como marketplaces respondem civilmente de acordo com o Código de Defesa do Consumidor (item 7 da tese);</li><li>há presunção de responsabilidade da plataforma por conteúdo ilícito em anúncios e impulsionamentos pagos, que ela afasta se provar que agiu com diligência e em tempo razoável (item 4);</li><li>não há responsabilidade objetiva na aplicação da tese (item 12), e ela vale de forma prospectiva, ou seja, para casos posteriores ao julgamento (item 14).</li></ul><p>Na prática, a decisão reforça que marketplace não pode se esconder atrás da regra que exigia ordem judicial prévia. Ela não cria, porém, uma obrigação de indenizar todo golpe. Continua valendo o que o CDC já previa: o fornecedor responde por defeito do serviço, mas se livra se provar culpa exclusiva do consumidor ou de terceiro (art. 14, § 3º, II). A forma como a tese de 2025 vai conviver com a distinção do STJ entre classificados e intermediador ainda está sendo construída pelos tribunais, e as decisões variam.</p>"
+  },
+  {
+   "h2": "Um exemplo com duas versões",
+   "html": "<p>Pense em Rafael, que vendia uma bicicleta por R$ 3.000 numa plataforma com pagamento integrado.</p><h3>Versão 1</h3><p>Um interessado pede o número dele, conversa pelo WhatsApp e depois envia um e-mail com o logotipo da plataforma dizendo que o valor está retido e que a bicicleta deve ser enviada antes. Rafael envia. O e-mail era falso e nada foi pago dentro do sistema. Pelos precedentes do STJ, a tendência é considerar fraude de terceiro fora da plataforma, sem responsabilidade da empresa.</p><h3>Versão 2</h3><p>O comprador fecha a compra pelo botão da plataforma, a notificação oficial de pagamento aprovado chega no aplicativo e, depois do envio, a plataforma cancela o pagamento alegando fraude no cartão do comprador e não repassa nada a Rafael. Aqui a transação passou inteira pelo sistema da empresa, e é possível discutir falha na intermediação.</p><p>O prejuízo é igual nas duas versões. O que muda a análise é por onde passaram a conversa, a confirmação e o pagamento.</p>"
+  },
+  {
+   "h2": "O que fazer depois do golpe",
+   "html": "<ol><li>Tire prints do anúncio, do perfil do anunciante, das conversas dentro e fora da plataforma e dos comprovantes. Faça antes de denunciar, porque o anúncio pode ser removido.</li><li><strong>Abra reclamação dentro da plataforma</strong> pelo canal oficial e guarde o protocolo. Peça, por escrito, os dados cadastrais do anunciante. O STJ já afirmou que o site de classificados deve ter condições de identificá-lo.</li><li>Se pagou por Pix, avise seu banco imediatamente. O passo a passo está no post sobre <a href=\"/blog/golpe-do-pix-o-que-fazer\">o que fazer depois de cair no golpe do Pix</a>.</li><li>Registre boletim de ocorrência. Em São Paulo, a Delegacia Digital da Polícia Civil recebe comunicação de fraude e estelionato pela internet. O golpe se enquadra na fraude eletrônica (Código Penal, art. 171, § 2º-A, com pena de 4 a 8 anos de reclusão e multa).</li><li>Se a plataforma se recusar a informar quem é o anunciante, o Marco Civil da Internet permite pedir ao juiz que ordene o fornecimento dos registros de acesso (art. 22). Esses registros devem ser guardados pelo provedor por 6 meses (art. 15).</li></ol><p>Reclamações no Procon ou no consumidor.gov.br podem resolver casos em que a transação passou pelo sistema da plataforma.</p>"
+  },
+  {
+   "h2": "Quando vale processar a plataforma e os erros comuns",
+   "html": "<p>A ação contra a plataforma tem mais chance quando você consegue mostrar que a negociação, o pagamento ou a comunicação passaram pelas ferramentas dela, que ela exibiu o anúncio fraudulento como conteúdo pago ou que se recusou a fornecer os dados do anunciante. Quando vários fornecedores causam o dano, todos respondem solidariamente (CDC, art. 7º, parágrafo único, e art. 25, § 1º), o que permite incluir também a intermediadora de pagamento, se for o caso.</p><p>A ação pode ser proposta no seu domicílio (CDC, art. 101, I). No Juizado Especial Cível, causas de até 40 salários mínimos são aceitas, e até 20 salários mínimos não é obrigatório ter advogado (Lei 9.099/1995, arts. 3º e 9º). O prazo para pedir reparação por defeito do serviço é de cinco anos, contados do conhecimento do dano e de sua autoria (CDC, art. 27).</p><p>Erros que costumam enfraquecer o caso: aceitar negociar pelo WhatsApp, pagar por fora \"para ter desconto\", enviar o produto confiando em e-mail em vez de conferir o status no aplicativo e demorar semanas para reclamar na plataforma.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Levei golpe vendendo pelo Marketplace do Facebook. A Meta tem obrigação de pagar?",
+   "a": "Quando a conversa e o pagamento acontecem diretamente entre as pessoas, fora de qualquer sistema da plataforma, os precedentes do STJ tendem a tratar o site como vitrine e a afastar a responsabilidade. A discussão muda se o anúncio fraudulento era pago ou impulsionado, hipótese em que o STF fixou presunção de responsabilidade da plataforma."
+  },
+  {
+   "q": "O Mercado Livre devolve o dinheiro se eu comprei e não recebi?",
+   "a": "Quando a compra foi feita e paga dentro do sistema da plataforma, ela atua como intermediária e pode ser cobrada pelo CDC se não resolver, além dos mecanismos de reclamação e devolução previstos nos termos de uso. Se você pagou fora do sistema, direto ao vendedor, a chance de responsabilizá-la cai bastante."
+  },
+  {
+   "q": "A OLX é obrigada a informar os dados de quem anunciou o produto falso?",
+   "a": "O STJ afirmou que site de classificados deve manter condições de identificar seus anunciantes e responde se não fornecer esses elementos. Faça o pedido por escrito. Se houver recusa, é possível pedir ao juiz que ordene o fornecimento dos registros, com base no Marco Civil da Internet."
+  },
+  {
+   "q": "Quem vende como pessoa física também é protegido pelo Código de Defesa do Consumidor?",
+   "a": "Na relação com a plataforma, o STJ já disse que ela pode ou não ser de consumo, conforme a atividade do anunciante. Quem vende um bem usado de vez em quando tende a ser tratado como consumidor do serviço de intermediação. Quem vende com habitualidade, como negócio, pode ter a relação analisada pelo Código Civil."
+  },
+  {
+   "q": "Paguei um sinal para reservar um carro anunciado e o vendedor sumiu. O que pesa contra mim?",
+   "a": "Pagar a pessoa desconhecida, sem conferir o veículo, a documentação e a identidade do vendedor, foi apontado pelo STJ como culpa exclusiva da vítima em caso de carro anunciado na internet. Isso não impede cobrar o golpista, mas dificulta responsabilizar o site. Registre ocorrência e reúna as conversas."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "STJ, REsp 1.836.349 (21/06/2022): relação com site de anúncios é de consumo mesmo gratuita; OLX atuou como mero classificados e não responde; culpa exclusiva da vítima e de terceiros; valor de cerca de R$ 11 mil",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2022/31082022-Terceira-Turma-afasta-responsabilidade-de-site-de-anuncio-por-fraude-na-venda-de-veiculo.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Inteiro teor do REsp 1.836.349: plataforma pode atuar como verdadeira intermediária, hipótese em que deverá ser responsabilizada",
+   "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?seq=2181939&tipo=0&nreg=201901346226&SeqCgrmaSessao=&CodOrgaoJgdr=&dt=20220624&formato=HTML&salvar=false",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 2.067.181 (2023): OLX não responde por carro clonado vendido fora da plataforma; classificados devem manter condições de identificar anunciantes e respondem se não fornecerem esses elementos",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/18092023-OLX-nao-tem-responsabilidade-por-anuncio-de-carro-clonado-que-foi-vendido-fora-da-plataforma.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 1.880.344 (2021): intermediador que participa das negociações assume posição de fornecedor; não responde por fraude praticada fora da plataforma; relação anunciante-intermediador pode ou não ser de consumo conforme a atividade do anunciante",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/08042021-Site-de-comercio-eletronico-nao-e-responsavel-por-fraude-praticada-fora-da-plataforma.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF, Temas 987 e 533, julgado em 26/06/2025: marketplaces respondem pelo CDC (item 7); presunção de responsabilidade em anúncios pagos (item 4); sem responsabilidade objetiva (item 12); efeitos prospectivos (item 14)",
+   "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/Informac807a771oa768SociedadeArt19MCI_vRev.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 7º parágrafo único e art. 25 § 1º (solidariedade), art. 14 § 3º II, art. 27 (5 anos), art. 101 I (domicílio do autor)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Marco Civil da Internet, art. 15 (guarda por 6 meses) e art. 22 (requisição judicial de registros)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CP art. 171 § 2º-A (fraude eletrônica, reclusão de 4 a 8 anos e multa)",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 9.099/1995, art. 3º I e art. 9º",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Delegacia Digital da Polícia Civil de SP (antiga Delegacia Eletrônica)",
+   "url": "https://delegaciadigital.policia-civil.sp.gov.br/",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

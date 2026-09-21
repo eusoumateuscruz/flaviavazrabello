@@ -1,0 +1,119 @@
+{
+ "slug": "golpe-no-whatsapp",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Golpe pelo WhatsApp: como agir logo depois e como recuperar a conta",
+ "title": "Golpe pelo WhatsApp: o que fazer e como recuperar a conta",
+ "description": "Golpe pelo WhatsApp: como recuperar a conta clonada, o que fazer se você transferiu dinheiro ao falso parente, como denunciar e registrar o B.O. em São Paulo.",
+ "resumo": "Conta clonada, mensagem do falso parente pedindo dinheiro ou número desconhecido se passando por empresa. Veja a ordem das providências e o que a lei diz sobre quem responde.",
+ "data": "2026-10-03",
+ "imagem": "/images/blog/golpe-no-whatsapp.jpg",
+ "alt": "Mão segurando celular com aplicativo de mensagens aberto",
+ "resposta": "Se a sua conta foi clonada, reinstale o WhatsApp e confirme seu número com o código de seis dígitos: isso desconecta os outros aparelhos. Avise seus contatos por outro canal. Se você transferiu dinheiro a um golpista, comunique o banco na hora e peça protocolo. Depois, registre boletim de ocorrência (em São Paulo, pela Delegacia Digital da Polícia Civil) e denuncie o número no próprio aplicativo. O golpe é crime de fraude eletrônica (CP, art. 171, § 2º-A).",
+ "intro": "<p>O WhatsApp virou o canal preferido dos golpistas porque é nele que conversamos com família, amigos e empresas. Os golpes mais frequentes são três: a clonagem da conta, em que alguém assume o seu número e pede dinheiro aos seus contatos; o falso parente, que escreve de um número novo dizendo que trocou de celular; e o falso atendente, que usa foto e nome de uma loja ou banco para cobrar, oferecer vantagem ou pedir códigos.</p><p>Cada um exige uma reação diferente, mas todos têm algo em comum: quanto mais rápido você age, menor o estrago. Abaixo está o passo a passo para recuperar a conta, o que fazer se houve transferência e como registrar a ocorrência. Outras situações envolvendo empresas estão na página de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Como os golpes mais comuns funcionam",
+   "html": "<h3>Conta clonada</h3><p>O golpista pede o código de seis dígitos que o WhatsApp envia por SMS, geralmente fingindo ser de uma loja, de um site de anúncios ou de uma pesquisa de satisfação. Com esse código, ele registra o seu número em outro aparelho e passa a conversar com seus contatos como se fosse você. Muitas vezes ativa também a confirmação em duas etapas com um PIN que só ele conhece.</p><h3>Falso parente ou falso amigo</h3><p>A conta não é invadida. O golpista cria um perfil novo com a sua foto (ou a de um familiar), tirada das redes sociais, e manda mensagem dizendo que trocou de número. Pouco depois pede um Pix urgente para pagar uma conta.</p><h3>Falso atendente</h3><p>O perfil usa logotipo de banco, loja ou operadora e oferece renegociação de dívida, estorno ou prêmio. O objetivo é obter dados, senhas ou um pagamento. Empresa de verdade não pede código de verificação nem senha por mensagem.</p>"
+  },
+  {
+   "h2": "Como recuperar a conta clonada",
+   "html": "<ol><li><strong>Reinstale o WhatsApp e confirme o seu número.</strong> Ao registrar a conta de novo com o código de seis dígitos enviado ao seu chip, todos os aparelhos conectados a ela são desconectados, segundo a Central de Ajuda do WhatsApp.</li><li>Se aparecer pedido de PIN da confirmação em duas etapas que você não criou, use a opção de redefinição. Se não conseguir, a própria Central de Ajuda informa que é preciso esperar sete dias, contados da última vez que a conta esteve conectada. Nesse intervalo, ninguém consegue acessar a conta.</li><li>Avise seus contatos por outro meio (ligação, outra rede social, status de um familiar) de que a conta foi clonada e que ninguém deve transferir dinheiro.</li><li>Confirme com a operadora que o seu chip continua ativo. Se o sinal sumiu de repente, pode ter havido troca indevida do chip, e isso precisa ser registrado com a operadora.</li><li>Depois de recuperar, ative a confirmação em duas etapas com um PIN seu e cadastre um e-mail de recuperação.</li></ol><p>Guarde prints das mensagens que os golpistas enviaram em seu nome. Os contatos que receberam os pedidos podem mandar essas imagens para você.</p>"
+  },
+  {
+   "h2": "Se você transferiu dinheiro ao golpista",
+   "html": "<p>Ligue para o seu banco assim que perceber o golpe, informe que foi fraude e peça número de protocolo. Quanto antes o banco for avisado, maior a chance de bloquear o valor na conta de destino. O procedimento de devolução do Pix está explicado no post sobre <a href=\"/blog/golpe-do-pix-o-que-fazer\">o que fazer depois de cair no golpe do Pix</a>.</p><p>Uma dúvida frequente é se o banco é obrigado a ressarcir. A resposta depende do caso. Em julgamento de julho de 2026 (REsp 2.209.868), a Terceira Turma do STJ decidiu que a responsabilidade do banco em golpes nos quais o próprio cliente faz a transferência não é automática: ela depende de falha no serviço, como deixar de identificar operações incompatíveis com o perfil do cliente ou ter mecanismos de segurança insuficientes. Transferências de valor alto e fora do padrão, feitas em sequência, pesam a favor da vítima. Já uma transferência pequena e compatível com o histórico da conta pode levar o tribunal a concluir que houve culpa exclusiva da vítima e de terceiro, como aconteceu nesse caso.</p><p>O golpista, por sua vez, responde civil e criminalmente. Se ele for identificado pela investigação, é possível cobrar dele a devolução e eventual indenização.</p>"
+  },
+  {
+   "h2": "Como denunciar e registrar o boletim de ocorrência",
+   "html": "<p>No aplicativo, abra a conversa com o número do golpista, toque no nome do contato e use a opção de denunciar e bloquear. A denúncia ajuda o WhatsApp a banir o número, mas não substitui o boletim de ocorrência.</p><p>Em São Paulo, o boletim pode ser feito pela internet na <strong>Delegacia Digital</strong> da Polícia Civil, que substituiu a antiga Delegacia Eletrônica e tem opção específica para fraude e estelionato. Informe o número usado pelo golpista, o nome e a chave Pix ou a conta que recebeu o dinheiro, datas, horários e valores, e anexe os prints.</p><p>O golpe aplicado por mensagem se enquadra na fraude eletrônica do Código Penal (art. 171, § 2º-A), com pena de reclusão de 4 a 8 anos e multa. A pena aumenta de um terço ao dobro se a vítima for idosa ou vulnerável (art. 171, § 4º). A Lei 15.397/2026 também revogou o § 5º do art. 171, que condicionava a ação penal à representação da vítima, e criou o crime de ceder conta bancária para que por ela transite dinheiro do crime, a chamada conta laranja (art. 171, § 2º, VII).</p>"
+  },
+  {
+   "h2": "O WhatsApp responde pelo golpe?",
+   "html": "<p>Em regra, é difícil responsabilizar o aplicativo pelo conteúdo das conversas. No julgamento dos Temas 987 e 533, em junho de 2025, o STF manteve a regra do art. 19 do Marco Civil da Internet para serviços de mensagem instantânea, no que diz respeito às comunicações interpessoais, protegidas pelo sigilo. Isso significa que, para essas conversas, o provedor só responde civilmente se descumprir ordem judicial específica.</p><p>O aplicativo continua obrigado a colaborar com a Justiça. O Marco Civil permite pedir ao juiz que ordene ao provedor o fornecimento de registros de acesso, com indícios do ilícito, justificativa e período (art. 22), e o provedor de aplicações precisa guardar esses registros por 6 meses (art. 15). Esses dados ajudam a identificar quem usou o número.</p><p>A situação pode ser diferente quando o golpe envolve anúncio pago em outra plataforma que levou a vítima até o WhatsApp. Para anúncios e impulsionamentos pagos, o STF fixou presunção de responsabilidade da plataforma que os veiculou, que ela pode afastar provando diligência.</p>"
+  },
+  {
+   "h2": "O que reunir e os erros que atrapalham",
+   "html": "<p>Monte uma pasta com prints das conversas (mostrando o número, não só o nome), comprovantes de transferência, protocolos do banco e da operadora, o boletim de ocorrência e as mensagens enviadas em seu nome aos contatos.</p><p>Erros comuns:</p><ul><li>apagar a conversa com o golpista, o que elimina a prova;</li><li>esperar o \"parente\" responder antes de avisar o banco;</li><li>responder a supostos serviços de recuperação de conta ou de dinheiro, que costumam ser um segundo golpe;</li><li>informar o código de seis dígitos a qualquer pessoa, mesmo a quem diz falar em nome do WhatsApp, de uma loja ou de um banco;</li><li>deixar de ativar a confirmação em duas etapas depois de recuperar a conta.</li></ul><p>Se houver banco ou empresa a ser cobrado, o prazo para pedir reparação por defeito do serviço é de cinco anos, contados do conhecimento do dano e de quem o causou (CDC, art. 27). Os prazos práticos, como o da devolução do Pix, são muito menores.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Clonaram meu WhatsApp e pediram dinheiro aos meus contatos. Eu respondo pelo prejuízo deles?",
+   "a": "Quem aplicou o golpe foi o criminoso, e a vítima da clonagem não pratica crime nenhum. Para se proteger, registre boletim de ocorrência logo, avise seus contatos e guarde prova de quando você perdeu o acesso. Esses registros mostram que as mensagens não partiram de você."
+  },
+  {
+   "q": "Como denunciar um número desconhecido que tentou aplicar golpe?",
+   "a": "Abra a conversa, toque no nome ou número e escolha denunciar e bloquear. Tire prints antes, porque a denúncia pode apagar a conversa do seu aparelho. Se houve prejuízo ou tentativa com dados seus, registre também boletim de ocorrência, que em São Paulo pode ser feito pela Delegacia Digital."
+  },
+  {
+   "q": "Quanto tempo leva para recuperar o WhatsApp clonado?",
+   "a": "Se o golpista não ativou a confirmação em duas etapas, basta reinstalar o aplicativo e confirmar o número com o código recebido por SMS. Se ele criou um PIN, e você não conseguir redefini-lo, a Central de Ajuda do WhatsApp informa que é preciso aguardar sete dias para reativar a conta."
+  },
+  {
+   "q": "Caí no golpe do falso parente. Dá para pedir o dinheiro de volta ao banco que recebeu?",
+   "a": "É possível pedir a devolução pelo seu banco, e a chance aumenta quanto antes o aviso for feito. A responsabilidade do banco que recebeu o dinheiro não é automática: o STJ exige prova de que ele descumpriu as diligências de verificação na abertura da conta usada pelos golpistas. Cada caso é analisado pelas provas."
+  },
+  {
+   "q": "Posso processar o golpista mesmo sem saber quem ele é?",
+   "a": "Sim, é possível pedir ao juiz que o aplicativo e o banco informem os dados ligados ao número e à conta que recebeu o dinheiro. O Marco Civil da Internet autoriza esse pedido de registros quando há indícios do ilícito. Com a identificação, a ação de cobrança passa a ter alvo."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CP art. 171 § 2º-A (fraude eletrônica, 4 a 8 anos), § 4º (aumento de 1/3 ao dobro contra idoso ou vulnerável), § 2º VII (cessão de conta laranja) e revogação do § 5º",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 15.397/2026: nova redação do § 2º-A, inclusão do inciso VII no § 2º e revogação do § 5º do art. 171 do CP (art. 3º)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15397.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 14.155/2021 incluiu no art. 171 do CP a fraude eletrônica (§ 2º-A e § 2º-B)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14155.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF, Temas 987 e 533, julgado em 26/06/2025: art. 19 do MCI continua aplicável a serviços de mensageria instantânea quanto às comunicações interpessoais (item 6); presunção de responsabilidade em anúncios pagos (item 4)",
+   "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/Informac807a771oa768SociedadeArt19MCI_vRev.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Marco Civil da Internet, art. 15 (guarda de registros por 6 meses), art. 19 e art. 22 (requisição judicial de registros)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 2.209.868 (julho de 2026): responsabilidade do banco por golpe em que o cliente transfere não é automática; depende de falha como não identificar operações incompatíveis com o perfil",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Sem-transacoes-incompativeis-com-perfil-de-cliente--banco-nao-responde-por-golpe-da-falsa-central.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 27: prescrição de 5 anos a partir do conhecimento do dano e de sua autoria",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Central de Ajuda do WhatsApp: recuperar conta comprometida; novo registro com código de seis dígitos desconecta os demais aparelhos",
+   "url": "https://faq.whatsapp.com/1131652977717250/?locale=pt_BR",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Central de Ajuda do WhatsApp: sem redefinir o PIN da confirmação em duas etapas, é preciso aguardar 7 dias contados da última conexão",
+   "url": "https://faq.whatsapp.com/general/verification/how-to-reset-your-two-step-verification-pin/?lang=pt_br",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Delegacia Eletrônica da Polícia Civil de SP redireciona para a Delegacia Digital, com registro online de ocorrências",
+   "url": "https://delegaciadigital.policia-civil.sp.gov.br/",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 2.124.423 (2025): banco que recebeu o dinheiro na conta do golpista só responde se descumpriu diligências de identificação e qualificação na abertura da conta",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/27012025-Responsabilidade-de-banco-por-golpe-com-uso-de-conta-digital-exige-demonstracao-de-falta-de-diligencia.aspx",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
