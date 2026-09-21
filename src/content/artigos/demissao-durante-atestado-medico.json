@@ -1,0 +1,104 @@
+{
+ "slug": "demissao-durante-atestado-medico",
+ "area": "direito-do-trabalho",
+ "categoria": "Trabalhista",
+ "h1": "Demissão durante atestado médico: a empresa pode dispensar?",
+ "title": "Demissão durante atestado médico: a empresa pode?",
+ "description": "Demissão durante atestado médico: quando a dispensa é válida, quando é nula por estabilidade ou discriminação, justa causa, dano moral e pedido de demissão.",
+ "resumo": "O que a lei e o TST dizem sobre dispensa com atestado em mãos, afastamento pelo INSS, doença grave e justa causa, e o que fazer se isso aconteceu com você.",
+ "data": "2026-10-10",
+ "imagem": "/images/blog/demissao-durante-atestado-medico.jpg",
+ "alt": "Médico preenchendo um documento em uma prancheta",
+ "resposta": "Não há lei que proíba, de forma geral, a dispensa sem justa causa de quem está com atestado de até 15 dias por doença comum, mas o tema tem divergência nos tribunais e a dispensa pode ser anulada em vários casos: se a doença tem relação com o trabalho (estabilidade de 12 meses), se é doença grave que gera estigma (dispensa presumida discriminatória, Súmula 443 do TST), ou se o afastamento passou de 15 dias e virou benefício do INSS. Nesses casos cabem reintegração e, conforme o caso, dano moral.",
+ "intro": "<p>Você entrega o atestado, fica em casa se recuperando e, no meio do repouso, recebe a mensagem do RH chamando para assinar a rescisão. A sensação de injustiça é imediata, e a dúvida também: a empresa podia fazer isso?</p><p>A resposta depende de três perguntas: quanto tempo dura o afastamento, qual é a doença e qual foi o motivo real da dispensa. Cada combinação leva a uma consequência diferente. Outros temas da área estão na página de <a href=\"/areas-de-atuacao/direito-do-trabalho\">direito do trabalho</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Atestado de até 15 dias e afastamento pelo INSS não são a mesma coisa",
+   "html": "<p>Nos primeiros 15 dias consecutivos de afastamento por doença, a empresa paga o salário integral (Lei 8.213/1991, art. 60, § 3º). O contrato continua produzindo seus efeitos normais: é o que a doutrina chama de interrupção do contrato. A falta está justificada pelo atestado e não pode ser descontada nem punida.</p><p>Se a incapacidade passa de 15 dias, a partir do 16º o trabalhador recebe o auxílio por incapacidade temporária do INSS (art. 59). Aí o contrato fica suspenso e o empregado é considerado em licença não remunerada pela empresa (CLT, art. 476).</p><p>Essa diferença muda a análise da dispensa:</p><ul><li>Com atestado curto por doença comum, não existe na lei uma proibição geral de dispensar sem justa causa. Há decisões que consideram válida a dispensa comunicada no período e outras que adiam seus efeitos para depois do atestado. O ponto é controvertido.</li><li>Com o contrato suspenso pelo benefício do INSS, a dispensa sem justa causa enfrenta mais obstáculos. Pela <strong>Súmula 371 do TST</strong>, se o benefício é concedido durante o aviso prévio, os efeitos da dispensa só se concretizam depois que ele termina.</li></ul><p>Exemplo: alguém recebe aviso prévio indenizado em 1º de setembro e, no dia 10, tem o auxílio do INSS concedido por 60 dias. A rescisão só se concretiza depois do fim do benefício, e até lá o contrato continua suspenso.</p>"
+  },
+  {
+   "h2": "Quando a dispensa é nula por estabilidade",
+   "html": "<p>Se a doença tem relação com o trabalho, ela é equiparada a acidente do trabalho, e a situação muda por completo. O art. 118 da Lei 8.213/1991 garante o emprego por 12 meses depois do fim do auxílio acidentário.</p><p>A Súmula 378 do TST, que segue vigente, exige em regra afastamento superior a 15 dias com recebimento do benefício acidentário. Mas admite a estabilidade quando a doença ocupacional é constatada depois da dispensa. Em 2025, o TST fixou tese vinculante no mesmo sentido (IRR 125): não é necessário o afastamento por mais de 15 dias nem o benefício acidentário, desde que se reconheça, depois do fim do contrato, o nexo causal ou concausal entre a doença e o trabalho.</p><p>Na prática, quem é dispensado durante um atestado curto por tendinite, lombalgia ou transtorno psíquico ligado ao trabalho pode ter direito à <strong>reintegração</strong> ou à indenização correspondente aos 12 meses. A prova do nexo costuma depender de perícia médica no processo.</p><p>O TST também fixou que é inválido conceder aviso prévio durante a garantia de emprego (IRR 262). A empresa não pode, por exemplo, dar o aviso no último mês da estabilidade para que o contrato termine logo depois dela.</p>"
+  },
+  {
+   "h2": "Dispensa discriminatória por doença",
+   "html": "<p>A Lei 9.029/1995 proíbe qualquer prática discriminatória para o acesso ao trabalho ou para sua manutenção, por motivos como sexo, origem, raça, deficiência, idade, \"entre outros\" (art. 1º). A dispensa motivada pela doença do empregado se encaixa nessa proteção.</p><p>Para doenças graves, o TST tem uma regra de prova favorável ao trabalhador. A Súmula 443, reafirmada como tese vinculante em agosto de 2025 (IRR 254), diz que se presume discriminatória a despedida de empregado portador do vírus HIV ou de outra doença grave que suscite estigma ou preconceito. Inválido o ato, o empregado tem direito à reintegração.</p><p>A presunção inverte o ônus: cabe à empresa provar que a dispensa teve outro motivo, como uma reestruturação documentada que atingiu vários setores. Câncer, doenças psiquiátricas graves e dependência química são exemplos frequentemente discutidos, mas o enquadramento como doença que gera estigma é analisado caso a caso.</p><p>Reconhecida a discriminação, a Lei 9.029/1995 assegura, além da reparação pelo dano moral, a escolha entre (art. 4º):</p><ul><li>reintegração com ressarcimento integral do período de afastamento, com correção e juros;</li><li>recebimento em dobro da remuneração do período de afastamento, com correção e juros.</li></ul>"
+  },
+  {
+   "h2": "Justa causa durante o atestado",
+   "html": "<p>O atestado não impede a justa causa quando há falta grave de verdade. O TST, pela sua Subseção de Dissídios Individuais, já decidiu que o recebimento de benefício previdenciário não impede a produção imediata de efeitos da rescisão por justa causa, sejam os fatos anteriores ou do próprio período de afastamento.</p><p>O que não pode é transformar a doença em falta. Ausência coberta por atestado válido é falta justificada, e usar essas ausências como desídia ou abandono de emprego é ilegal. Abandono, aliás, tem regra própria: o TST presume abandono quando o trabalhador não volta ao serviço em 30 dias depois do fim do benefício previdenciário e não justifica a ausência (IRR 226), o que não se confunde com estar afastado com atestado.</p><h3>E o atestado falso?</h3><p>Apresentar atestado falsificado ou adulterado é conduta grave, que costuma ser enquadrada como ato de improbidade (CLT, art. 482, a). A empresa pode checar a autenticidade com o médico ou a clínica, mas precisa provar a fraude se a justa causa for discutida na Justiça. Discordar do diagnóstico, por si só, não torna o atestado falso.</p><p>Se a justa causa for aplicada sem prova suficiente, o trabalhador pode pedir a reversão e receber as verbas da dispensa sem justa causa.</p>"
+  },
+  {
+   "h2": "Dano moral e pedido de demissão durante o atestado",
+   "html": "<p>A dispensa durante o atestado não gera dano moral automaticamente. A indenização costuma ser reconhecida quando a dispensa é discriminatória, quando viola estabilidade de forma abusiva ou quando vem acompanhada de exposição e constrangimento, como anunciar a demissão ao grupo da equipe ou exigir a presença do empregado doente para assinar papéis. O valor segue os critérios do art. 223-G da CLT, sem tabela fixa.</p><h3>Pedir demissão durante o atestado</h3><p>O empregado pode pedir demissão a qualquer momento, inclusive durante o atestado. Mas convém pesar as consequências:</p><ul><li>no pedido de demissão, não há saque do FGTS, multa de 40% nem seguro-desemprego;</li><li>se a doença tiver relação com o trabalho, o pedido pode significar abrir mão de 12 meses de estabilidade;</li><li>decisões tomadas no pior momento da doença, sob medicação ou pressão, tendem a ser revistas com arrependimento.</li></ul><p>Pedido de demissão assinado por pressão da empresa pode ser anulado se houver prova da coação. As verbas de uma dispensa sem justa causa regular estão explicadas em <a href=\"/blog/demissao-sem-justa-causa-direitos\">demissão sem justa causa</a>.</p>"
+  },
+  {
+   "h2": "O que fazer se foi dispensado durante o atestado",
+   "html": "<ol><li>Guarde o atestado e o comprovante de entrega à empresa (protocolo, e-mail ou mensagem ao RH).</li><li>Não assine documentos sem ler. Se assinar a rescisão, faça constar a data em que recebeu a comunicação.</li><li>Reúna relatórios médicos, exames e receitas que mostrem a doença e a data de início.</li><li>Se houver indício de relação com o trabalho, peça a CAT. Se a empresa se recusar, você pode registrá-la pelo Meu INSS.</li><li>Faça o exame demissional com atenção: relate ao médico da empresa os sintomas e o tratamento em curso.</li><li>Anote quem comunicou a dispensa, como e com que justificativa.</li></ol><p>Erros comuns: achar que a assinatura da rescisão impede qualquer questionamento (não impede), deixar de pedir o benefício do INSS quando o afastamento passa de 15 dias e esperar demais. O prazo para entrar com a ação trabalhista é de dois anos contados do fim do contrato, alcançando os cinco anos anteriores ao ajuizamento (Constituição, art. 7º, XXIX).</p><p>A advogada Flávia Vaz Rabello atende casos trabalhistas em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "A empresa pode me demitir no dia em que entrego o atestado?",
+   "a": "Não há proibição legal geral para doença comum sem estabilidade, e os tribunais divergem sobre a validade da dispensa no período. Mas a coincidência de datas pode servir de indício de discriminação, sobretudo em doença grave, e a dispensa será nula se a doença tiver relação com o trabalho. Guarde a prova da entrega do atestado."
+  },
+  {
+   "q": "Fui demitido durante o atestado. Tenho direito a dano moral?",
+   "a": "Não automaticamente. O dano moral costuma ser reconhecido quando a dispensa foi discriminatória, violou estabilidade ou expôs o trabalhador a constrangimento. Em doença grave que gera estigma, a discriminação é presumida pela Súmula 443 do TST, e a Lei 9.029/1995 prevê expressamente a reparação por dano moral."
+  },
+  {
+   "q": "Posso ser demitido por justa causa estando de atestado?",
+   "a": "Pode, se houver falta grave comprovada, e o TST admite que a justa causa produza efeito mesmo durante benefício previdenciário. O que não é permitido é tratar as faltas justificadas por atestado como motivo de punição. Se a empresa não provar a falta grave, a justa causa pode ser revertida na Justiça."
+  },
+  {
+   "q": "Posso pedir demissão enquanto estou de atestado?",
+   "a": "Pode, mas vale avaliar antes. No pedido de demissão, você não saca o FGTS, não recebe a multa de 40% e não tem seguro-desemprego. Se a doença estiver ligada ao trabalho, também pode perder a estabilidade de 12 meses. Pedido feito sob pressão da empresa pode ser anulado, desde que se prove a coação."
+  },
+  {
+   "q": "A empresa pode dar aviso prévio enquanto estou afastado pelo INSS?",
+   "a": "Durante o benefício, o contrato está suspenso. Se o auxílio for concedido no curso do aviso prévio, a Súmula 371 do TST diz que os efeitos da dispensa só se concretizam depois do fim do benefício. Se houver estabilidade, o aviso dado durante a garantia é inválido, conforme a tese vinculante do IRR 262."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 8.213/1991 arts. 59 e 60, § 3º (15 primeiros dias pagos pela empresa, benefício a partir do 16º), 22, § 2º, e 118",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CLT art. 476 (licença não remunerada durante o benefício), art. 482, a (improbidade) e art. 223-G",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 9.029/1995 art. 1º (proibição de prática discriminatória, 'entre outros') e art. 4º (dano moral e opção entre reintegração com ressarcimento ou remuneração em dobro)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmulas 371, 378 e 443 do TST vigentes (443 reafirmada no IRR 254), no Livro de Súmulas atualizado após a Resolução 225/2025",
+   "url": "https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "TST IRR 254 (Súmula 443 reafirmada em 22/08/2025, reintegração)",
+   "url": "https://www.tst.jus.br/documents/10157/0/IRR254.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "TST IRR 125 (estabilidade com nexo reconhecido após a dispensa), IRR 226 (abandono em 30 dias após o benefício) e IRR 262 (aviso prévio inválido na garantia de emprego)",
+   "url": "https://www.tst.jus.br/documents/10157/0/IRR262.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "TST, SDI-1: benefício previdenciário não impede efeito imediato da justa causa (Pode ou Não Pode, 25/10/2018)",
+   "url": "https://www.tst.jus.br/-/pode-ou-nao-pode-empregado-pode-ser-dispensado-durante-o-afastamento-previdenciario-",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Constituição art. 7º, XXIX (prescrição)",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "slug": "burnout-e-direitos-trabalhistas",
+ "area": "direito-do-trabalho",
+ "categoria": "Trabalhista",
+ "h1": "Burnout: quando o esgotamento vira doença do trabalho e quais direitos gera",
+ "title": "Burnout é doença do trabalho? Afastamento e direitos",
+ "description": "Burnout como doença do trabalho: como pedir afastamento no INSS, quando há estabilidade, o que muda com a NR-1 e quando cabe indenização da empresa.",
+ "resumo": "O burnout está na lista oficial de doenças relacionadas ao trabalho. Veja como comprovar a ligação com o emprego, pedir o afastamento e quais garantias existem.",
+ "data": "2026-10-10",
+ "imagem": "/images/blog/burnout-e-direitos-trabalhistas.jpg",
+ "alt": "Homem exausto debruçado sobre o notebook na mesa de trabalho",
+ "resposta": "O burnout pode ser reconhecido como doença do trabalho. Ele consta da lista oficial de doenças relacionadas ao trabalho do Ministério da Saúde (CID-10 Z73.0) e do regulamento da Previdência. O reconhecimento não é automático: a perícia precisa ligar o esgotamento às condições de trabalho. Com esse nexo, o afastamento pelo INSS a partir do 16º dia é acidentário, sem carência, com FGTS depositado e estabilidade de 12 meses depois da alta. Se a empresa contribuiu com metas abusivas, jornadas excessivas ou assédio, cabe também indenização.",
+ "intro": "<p>Cansaço que não passa com o fim de semana, distância emocional do próprio trabalho, sensação de que nada do que se faz dá resultado. Para muita gente, o quadro começa como estresse e termina num consultório, com atestado e a dúvida sobre como fica o emprego.</p><p>A resposta jurídica depende de um ponto: o esgotamento tem relação com o trabalho? Quando tem, a lei trata o burnout como acidente do trabalho, com todos os direitos que isso implica. Outros temas da área estão na página de <a href=\"/areas-de-atuacao/direito-do-trabalho\">direito do trabalho</a>.</p>",
+ "secoes": [
+  {
+   "h2": "O que é burnout e como ele aparece nas listas oficiais",
+   "html": "<p>A Organização Mundial da Saúde define o burnout como uma síndrome resultante do estresse crônico no local de trabalho que não foi gerenciado com sucesso. Ela tem três dimensões: sensação de esgotamento de energia, distanciamento mental ou cinismo em relação ao trabalho e redução da eficácia profissional. Na CID-11, a OMS o classifica como fenômeno ocupacional, no capítulo de fatores que influenciam o estado de saúde, e não como condição médica em si.</p><p>No Brasil, a ligação com o trabalho está nas listas oficiais:</p><ul><li>o regulamento da Previdência (Decreto 3.048/1999, Anexo II, Lista B) inclui a \"Síndrome de Burn-Out\" ou síndrome do esgotamento profissional (Z73.0) entre os transtornos mentais relacionados ao trabalho, associada a ritmo de trabalho penoso e outras dificuldades ligadas ao trabalho;</li><li>a <strong>Lista de Doenças Relacionadas ao Trabalho</strong>, atualizada pela Portaria GM/MS 1.999/2023, registra \"Esgotamento (Burnout)\" (Z73.0) associado a fatores psicossociais como gestão organizacional, jornada de trabalho, conteúdo das tarefas, violência e assédio moral ou sexual e discriminação no trabalho.</li></ul><p>Estar na lista não significa que todo burnout será reconhecido como doença do trabalho. As listas indicam a associação possível. O reconhecimento no caso concreto depende da perícia.</p>"
+  },
+  {
+   "h2": "Como pedir o afastamento pelo INSS",
+   "html": "<p>Com o atestado do psiquiatra ou do médico que acompanha o caso, os primeiros 15 dias de afastamento são pagos pela empresa (Lei 8.213/1991, art. 60, § 3º). Se o repouso precisar ser maior, a partir do 16º dia o pedido é feito ao INSS, pelo Meu INSS, no serviço de benefício por incapacidade. O atestado ou laudo deve ser legível e conter nome completo, data, período estimado de repouso, assinatura com registro profissional e a doença ou o CID.</p><p>A diferença entre benefício comum e acidentário pesa muito:</p><ul><li>o benefício comum exige, em regra, 12 contribuições mensais de carência (art. 25, I);</li><li>o acidentário não exige carência (art. 26, II), mantém o depósito do FGTS durante a licença (Lei 8.036/1990, art. 15, § 5º) e gera estabilidade depois da alta.</li></ul><p>Exemplo: uma analista recebe atestado de 45 dias por burnout. A empresa paga os primeiros 15 dias. Os 30 restantes ficam a cargo do INSS, se a perícia confirmar a incapacidade. Se o benefício for reconhecido como acidentário, ao final dele começa a contar a garantia de 12 meses no emprego.</p><p>Por isso vale pedir que o relatório médico descreva a relação com o trabalho (metas, jornada, cobranças, conflitos) e que a empresa emita a CAT. Se ela se recusar, o próprio trabalhador, o sindicato ou o médico podem registrar a CAT (art. 22, § 2º).</p>"
+  },
+  {
+   "h2": "Estabilidade depois do burnout",
+   "html": "<p>Quando o burnout é reconhecido como doença do trabalho, aplica-se o art. 118 da Lei 8.213/1991: o emprego fica garantido por no mínimo 12 meses depois do fim do auxílio acidentário. Nesse período, a dispensa sem justa causa dá direito à reintegração ou à indenização do tempo restante.</p><p>E se o INSS concedeu benefício comum? A Súmula 378 do TST, que segue vigente, admite a estabilidade quando a relação da doença com o trabalho é constatada depois da dispensa. Em 2025, o TST foi além em tese vinculante (IRR 125): não se exige afastamento superior a 15 dias nem recebimento de benefício acidentário, desde que se reconheça depois do fim do contrato o <strong>nexo causal ou concausal</strong> entre a doença ocupacional e o trabalho.</p><p>A concausa é frequente em transtornos mentais. Uma pessoa pode ter histórico de ansiedade e, ainda assim, ter o quadro agravado por metas inatingíveis e cobrança pública. Se o trabalho contribuiu diretamente, há equiparação a acidente do trabalho (art. 21, I).</p><p>Um ponto de atenção: burnout não se confunde automaticamente com depressão ou ansiedade. Esses diagnósticos também constam da lista de doenças relacionadas ao trabalho, mas cada um exige a demonstração do vínculo com as condições de trabalho.</p>"
+  },
+  {
+   "h2": "NR-1 e os riscos psicossociais desde maio de 2026",
+   "html": "<p>A Portaria MTE 1.419/2024 deu nova redação ao capítulo de gerenciamento de riscos ocupacionais (GRO) da NR-1. O texto determina que o gerenciamento abranja também os fatores de risco psicossociais relacionados ao trabalho (item 1.5.3.1.4). A vigência foi prorrogada pela Portaria MTE 765/2025 e começou em 26 de maio de 2026.</p><p>Segundo o Ministério do Trabalho, para as disposições novas, incluindo as de riscos psicossociais, aplica-se o critério de dupla visita: nos 90 dias seguintes à entrada em vigor, a fiscalização priorizou orientação e notificação. Passado esse período, o descumprimento pode gerar auto de infração.</p><p>Na prática, a empresa precisa identificar perigos como sobrecarga, metas inalcançáveis, falta de apoio da chefia e assédio, avaliar os riscos e manter inventário e plano de ação. O MTE esclarece que aplicar um questionário, isoladamente, não comprova a gestão desses riscos.</p><p>Para o trabalhador, a NR-1 tem efeito indireto e relevante. O inventário de riscos e o plano de ação são documentos que podem ser pedidos no processo. Uma empresa que ignorou riscos psicossociais evidentes, ou que os identificou e não fez nada, tem mais dificuldade de afastar a culpa pelo adoecimento.</p>"
+  },
+  {
+   "h2": "Indenização e outras saídas contra a empresa",
+   "html": "<p>A indenização contra a empresa depende de dolo ou culpa (Constituição, art. 7º, XXVIII). Nos casos de burnout, a culpa costuma ser discutida a partir de:</p><ul><li>jornadas longas habituais, sem pausas ou com trabalho fora do expediente por mensagens;</li><li>metas desproporcionais e ranking com exposição de quem não atinge;</li><li>assédio moral ou sexual tolerado pela empresa;</li><li>ausência de gestão dos riscos psicossociais exigida pela NR-1.</li></ul><p>Os pedidos podem incluir dano moral, despesas de tratamento (consultas, terapia, medicação) e, se houver perda de capacidade, pensão. O valor do dano moral segue os critérios do art. 223-G da CLT, como a intensidade do sofrimento e a duração da ofensa, e não há tabela fixa.</p><p>Quem ainda está empregado e não suporta mais o ambiente pode, em algumas situações, pedir a rescisão indireta, por exigência de serviços superiores às forças ou tratamento com rigor excessivo (CLT, art. 483, a e b). A medida exige prova consistente e orientação antes de deixar o posto. O plano de saúde da empresa deve ser mantido durante o afastamento acidentário (Súmula 440 do TST, reafirmada no IRR 220).</p>"
+  },
+  {
+   "h2": "O que reunir e erros que enfraquecem o caso",
+   "html": "<ul><li>relatórios médicos e psicológicos que descrevam sintomas, evolução e a relação com o trabalho;</li><li>registros de ponto, mensagens e e-mails fora do horário, metas e rankings;</li><li>comunicações de cobrança, advertências e avaliações de desempenho;</li><li>nomes de colegas que presenciaram o ambiente;</li><li>CAT, decisão do INSS e laudos da perícia;</li><li>pedido por escrito de cópia do PPP e dos ASOs.</li></ul><p>Erros comuns:</p><ul><li>pedir demissão no auge da crise, abrindo mão de verbas e da possível estabilidade;</li><li>aceitar atestados sem CID ou sem descrição do contexto de trabalho;</li><li>não retornar depois da alta do INSS: o TST presume abandono de emprego se o trabalhador não volta em 30 dias após o fim do benefício nem justifica a ausência (IRR 226);</li><li>deixar passar o prazo de dois anos depois do fim do contrato para entrar com a ação.</li></ul><p>Se o esgotamento veio acompanhado de humilhações repetidas, veja também o que fazer em casos de <a href=\"/blog/assedio-moral-no-trabalho-o-que-fazer\">assédio moral no trabalho</a>. A advogada Flávia Vaz Rabello atende casos trabalhistas em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Burnout dá direito a estabilidade no emprego?",
+   "a": "Dá, quando for reconhecido como doença do trabalho. A garantia é de 12 meses depois do fim do auxílio acidentário. Se o INSS concedeu benefício comum ou não houve afastamento, a estabilidade ainda pode ser reconhecida na Justiça, desde que a perícia confirme que o trabalho causou ou agravou o quadro."
+  },
+  {
+   "q": "Posso ser demitido durante o afastamento por burnout?",
+   "a": "Enquanto o contrato está suspenso pelo benefício do INSS, a jurisprudência trabalhista tende a adiar os efeitos de uma dispensa sem justa causa para depois do fim do benefício (é a lógica da Súmula 371 do TST). A justa causa por falta grave, porém, pode produzir efeito imediato. Depois da alta, se o benefício foi acidentário, há estabilidade de 12 meses. Uma dispensa logo após a volta, sem motivo claro, também pode ser questionada como discriminatória, conforme as circunstâncias."
+  },
+  {
+   "q": "O médico do trabalho da empresa pode discordar do meu psiquiatra?",
+   "a": "Pode, e isso acontece com frequência. Nos primeiros 15 dias, o serviço médico da empresa pode avaliar o atestado. A partir do 16º dia, quem decide sobre a incapacidade é a perícia do INSS. Na Justiça, prevalece a análise do perito nomeado pelo juiz, que considera os relatórios de todos os profissionais."
+  },
+  {
+   "q": "Burnout em home office também é doença do trabalho?",
+   "a": "Pode ser. O que importa é a relação com as condições de trabalho, não o local. Trabalho remoto com conexão permanente, cobranças por mensagem fora do horário e metas excessivas são fatores que a própria lista oficial associa ao esgotamento. O MTE também orienta que a gestão de riscos psicossociais alcance o teletrabalho."
+  },
+  {
+   "q": "Quanto tempo de afastamento o INSS concede por burnout?",
+   "a": "Não há prazo fixo. O período depende da avaliação da perícia sobre a incapacidade, a partir dos atestados e laudos apresentados. Se a incapacidade continuar ao fim do prazo, leve novos relatórios médicos e peça nova avaliação ao INSS antes da data de cessação. Se o INSS negar, cabe recurso administrativo ou ação judicial."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Portaria GM/MS 1.999/2023 (LDRT): Z73.0 Esgotamento (Burnout) associado a fatores psicossociais (gestão organizacional, jornada, violência e assédio moral/sexual, discriminação), vigência 30 dias após a publicação",
+   "url": "https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-1.999-de-27-de-novembro-de-2023-526629116",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Decreto 3.048/1999 Anexo II, Lista B: Síndrome de Burn-Out (Z73.0) entre transtornos mentais relacionados ao trabalho",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/D3048anexoii-iii-iv.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "OMS: definição de burn-out na CID-11 como fenômeno ocupacional, fora das condições médicas, no capítulo de fatores que influenciam o estado de saúde",
+   "url": "https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 8.213/1991 arts. 21, I, 22, § 2º, 25, I (12 contribuições), 26, II, 60, § 3º, e 118",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Portaria MTE 765/2025: prorroga até 25/05/2026 o início da vigência do capítulo 1.5 da NR-1 (Portaria MTE 1.419/2024); NR-1 item 1.5.3.1.4 inclui fatores de risco psicossociais",
+   "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/2025/portaria-mte-no-765-prorroga-inicio-de-vigencia-cap-1-5-da-nr-01.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "MTE, Perguntas e Respostas GRO/PGR (maio/2026): vigência em 26/05/2026, dupla visita por 90 dias, questionário isolado não comprova gestão, teletrabalho incluído",
+   "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/PerguntaseRespostasGROPGRMaio2026.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Serviço gov.br de benefício por incapacidade: requisitos do atestado e pedido pelo Meu INSS",
+   "url": "https://www.gov.br/pt-br/servicos/solicitar-beneficio-por-incapacidade-temporaria-auxilio-doenca",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmula 378 do TST vigente e Súmula 440 reafirmada no IRR 220; IRR 125 e IRR 226",
+   "url": "https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CLT art. 223-G e art. 483, a e b; Lei 8.036/1990 art. 15, § 5º",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

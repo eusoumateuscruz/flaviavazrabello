@@ -1,5 +1,55 @@
 [
  {
+  "slug": "acidente-de-trabalho-direitos",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Acidente de trabalho: CAT, estabilidade e direitos do trabalhador",
+  "resumo": "O que fazer depois de um acidente de trabalho: comunicação ao INSS, quem paga o afastamento, a garantia de emprego de 12 meses e quando cabe indenização da empresa.",
+  "data": "2026-10-10",
+  "imagem": "/images/blog/acidente-de-trabalho-direitos.jpg",
+  "alt": "Capacete de segurança amarelo apoiado sobre tábuas de madeira"
+ },
+ {
+  "slug": "assedio-sexual-no-trabalho",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Assédio sexual no trabalho: o que é, como provar e quais medidas tomar",
+  "resumo": "Entenda a diferença entre o crime de assédio sexual e o assédio punido na Justiça do Trabalho, que provas guardar e quais caminhos existem para a vítima.",
+  "data": "2026-10-10",
+  "imagem": "/images/blog/assedio-sexual-no-trabalho.jpg",
+  "alt": "Mulher com expressão angustiada sentada diante do notebook no escritório"
+ },
+ {
+  "slug": "burnout-e-direitos-trabalhistas",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Burnout: quando o esgotamento vira doença do trabalho e quais direitos gera",
+  "resumo": "O burnout está na lista oficial de doenças relacionadas ao trabalho. Veja como comprovar a ligação com o emprego, pedir o afastamento e quais garantias existem.",
+  "data": "2026-10-10",
+  "imagem": "/images/blog/burnout-e-direitos-trabalhistas.jpg",
+  "alt": "Homem exausto debruçado sobre o notebook na mesa de trabalho"
+ },
+ {
+  "slug": "demissao-durante-atestado-medico",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Demissão durante atestado médico: a empresa pode dispensar?",
+  "resumo": "O que a lei e o TST dizem sobre dispensa com atestado em mãos, afastamento pelo INSS, doença grave e justa causa, e o que fazer se isso aconteceu com você.",
+  "data": "2026-10-10",
+  "imagem": "/images/blog/demissao-durante-atestado-medico.jpg",
+  "alt": "Médico preenchendo um documento em uma prancheta"
+ },
+ {
+  "slug": "doenca-ocupacional",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Doença ocupacional: como provar a relação com o trabalho e seus direitos",
+  "resumo": "Como a doença causada ou agravada pelo trabalho é reconhecida, quais provas pesam na perícia e que direitos surgem, da CAT à estabilidade de 12 meses.",
+  "data": "2026-10-10",
+  "imagem": "/images/blog/doenca-ocupacional.jpg",
+  "alt": "Fisioterapeuta orientando exercício de punho com faixa elástica"
+ },
+ {
   "slug": "banco-de-horas",
   "area": "direito-do-trabalho",
   "categoria": "Trabalhista",
