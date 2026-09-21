@@ -1,5 +1,55 @@
 [
  {
+  "slug": "atraso-de-salario",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Atraso de salário: prazo legal, multa e quando cabe rescisão indireta",
+  "resumo": "Salário que cai depois do 5º dia útil já está atrasado. Entenda a correção devida, a multa que pode vir da convenção coletiva e quando o atraso permite sair da empresa com todos os direitos.",
+  "data": "2026-10-06",
+  "imagem": "/images/blog/atraso-de-salario.jpg",
+  "alt": "Mãos abrindo uma carteira vazia"
+ },
+ {
+  "slug": "empregada-domestica-direitos",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Empregada doméstica: direitos trabalhistas e o que recebe na rescisão",
+  "resumo": "Desde a LC 150/2015, a empregada doméstica tem jornada limitada, FGTS, seguro-desemprego e estabilidade na gravidez. Veja cada direito e as verbas de cada tipo de saída.",
+  "data": "2026-10-06",
+  "imagem": "/images/blog/empregada-domestica-direitos.jpg",
+  "alt": "Mulher preparando alimentos na cozinha de uma casa"
+ },
+ {
+  "slug": "ferias-vencidas-em-dobro",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Férias vencidas: quando são pagas em dobro e como calcular",
+  "resumo": "Quando a empresa deixa passar o prazo para conceder as férias, o pagamento vira dobrado. Veja como contar os períodos, fazer a conta e cobrar na rescisão.",
+  "data": "2026-10-06",
+  "imagem": "/images/blog/ferias-vencidas-em-dobro.jpg",
+  "alt": "Cadeira de praia azul na areia de frente para o mar"
+ },
+ {
+  "slug": "fgts-nao-depositado",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "FGTS não depositado pela empresa: como descobrir e o que fazer",
+  "resumo": "O desconto aparece no holerite, mas o dinheiro não chega à conta. Saiba como conferir os depósitos, cobrar a empresa e quando a falta de FGTS permite sair com todos os direitos.",
+  "data": "2026-10-06",
+  "imagem": "/images/blog/fgts-nao-depositado.jpg",
+  "alt": "Pessoa abrindo uma pasta azul com documentos sobre a mesa"
+ },
+ {
+  "slug": "seguro-desemprego-quem-tem-direito",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Seguro-desemprego: quem tem direito, parcelas e prazo para pedir",
+  "resumo": "Foi dispensado sem justa causa? Veja se você cumpre a carência, quantas parcelas vai receber, como o valor é calculado em 2026 e até quando dá para fazer o pedido.",
+  "data": "2026-10-06",
+  "imagem": "/images/blog/seguro-desemprego-quem-tem-direito.jpg",
+  "alt": "Homem consultando o celular em pé junto a uma janela"
+ },
+ {
   "slug": "cobranca-abusiva-ligacoes",
   "area": "direito-do-consumidor",
   "categoria": "Consumidor",

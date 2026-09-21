@@ -1,0 +1,89 @@
+{
+ "slug": "ferias-vencidas-em-dobro",
+ "area": "direito-do-trabalho",
+ "categoria": "Trabalhista",
+ "h1": "Férias vencidas: quando são pagas em dobro e como calcular",
+ "title": "Férias vencidas em dobro: quando cabe e como calcular",
+ "description": "Férias vencidas em dobro: entenda os períodos aquisitivo e concessivo, quando a dobra é devida, como calcular com o terço e o que muda na rescisão.",
+ "resumo": "Quando a empresa deixa passar o prazo para conceder as férias, o pagamento vira dobrado. Veja como contar os períodos, fazer a conta e cobrar na rescisão.",
+ "data": "2026-10-06",
+ "imagem": "/images/blog/ferias-vencidas-em-dobro.jpg",
+ "alt": "Cadeira de praia azul na areia de frente para o mar",
+ "resposta": "As férias são pagas em dobro quando o empregador não as concede dentro dos 12 meses seguintes ao período aquisitivo, o chamado período concessivo (CLT, arts. 134 e 137). Nesse caso, a remuneração das férias, com o terço constitucional, é paga duas vezes. Se só parte dos dias for gozada fora do prazo, apenas esses dias são dobrados. O simples atraso no pagamento, com as férias gozadas na época certa, não gera mais a dobra desde a decisão do STF na ADPF 501.",
+ "intro": "<p>Muita gente descobre que tem férias vencidas só na hora da rescisão, ao ler o termo e perceber que um período inteiro ficou para trás. Outras pessoas trabalham há dois ou três anos sem descanso porque a empresa sempre adia. Nos dois casos, a lei prevê uma consequência objetiva: se o prazo para conceder as férias passou, o valor é pago em dobro.</p><p>A regra está nos artigos 129 a 149 da CLT e na Constituição, que garante o acréscimo de um terço. Abaixo você vê como contar os prazos, quando a dobra é devida, como fazer a conta e o que mudou depois que o STF derrubou a Súmula 450 do TST. Para outras dúvidas da área, veja a página de <a href=\"/areas-de-atuacao/direito-do-trabalho\">direito do trabalho</a> do escritório.</p>",
+ "secoes": [
+  {
+   "h2": "Período aquisitivo e período concessivo",
+   "html": "<p>Toda pessoa com carteira assinada ganha direito a férias depois de 12 meses de contrato. Esse primeiro ano é o <strong>período aquisitivo</strong> (CLT, art. 130). Completado esse ano, começa outro prazo de 12 meses, o período concessivo, dentro do qual a empresa precisa dar as férias (art. 134). A data é escolhida pelo empregador, mas ele deve avisar por escrito com pelo menos 30 dias de antecedência (art. 135).</p><p>Férias vencidas, na linguagem do dia a dia, são aquelas cujo período aquisitivo já terminou e que ainda não foram gozadas. Enquanto o período concessivo está correndo, não há irregularidade nenhuma: a empresa ainda está no prazo. O problema surge quando esse segundo ano termina sem que o descanso tenha acontecido.</p><p>A duração também depende das faltas injustificadas no período aquisitivo: 30 dias corridos para quem faltou até 5 vezes, 24 dias para 6 a 14 faltas, 18 dias para 15 a 23 faltas e 12 dias para 24 a 32 faltas (art. 130). A empresa não pode descontar faltas do período de férias.</p>"
+  },
+  {
+   "h2": "Quando as férias são pagas em dobro",
+   "html": "<p>O artigo 137 da CLT é direto: sempre que as férias forem concedidas depois do período concessivo, o empregador paga em dobro a remuneração correspondente. Não importa o motivo do atraso, excesso de trabalho, falta de substituto ou pedido do chefe. Mesmo que você tenha concordado em adiar, a regra continua valendo, porque o direito ao descanso não pode ser renunciado.</p><p>Se as férias começaram dentro do prazo, mas parte dos dias caiu depois do fim do período concessivo, só esses dias excedentes são dobrados. Esse é o entendimento da Súmula 81 do TST, que segue vigente depois da revisão feita pela Resolução 225/2025.</p><p>Além do pagamento, a CLT permite que o empregado entre com ação pedindo que a Justiça fixe a data das férias. A sentença estabelece multa diária de 5% do salário mínimo até que a empresa cumpra (art. 137, §§ 1º e 2º). Essa via é usada por quem continua trabalhando e quer, de fato, descansar, e não apenas receber o valor.</p>"
+  },
+  {
+   "h2": "Como calcular as férias vencidas em dobro",
+   "html": "<p>A base é a remuneração da época em que as férias são pagas, e não a do ano em que o direito nasceu (CLT, art. 142). Quando a cobrança é feita na Justiça ou na rescisão, a Súmula 7 do TST manda usar a remuneração da época da reclamação ou da extinção do contrato. Horas extras habituais, adicional noturno, insalubridade e periculosidade entram na base pela média do período aquisitivo (art. 142, §§ 5º e 6º). Comissões entram pela média dos 12 meses anteriores.</p><h3>Exemplo numérico</h3><p>Imagine alguém admitido em 10/03/2023, com salário de R$ 3.000,00. O período aquisitivo foi de 10/03/2023 a 09/03/2024, e a empresa tinha até 09/03/2025 para conceder as férias. Ela não concedeu.</p><ul><li>Férias simples: R$ 3.000,00</li><li>Terço constitucional: R$ 1.000,00</li><li>Total simples: R$ 4.000,00</li><li>Total em dobro: R$ 8.000,00</li></ul><p>Na prática, a Justiça do Trabalho costuma calcular a dobra sobre a remuneração já acrescida do terço, como no exemplo. Se houver abono pecuniário, ou seja, a venda de 10 dias pedida pelo empregado, esses dias entram na conta de forma separada.</p>"
+  },
+  {
+   "h2": "Pagamento atrasado depois da ADPF 501",
+   "html": "<p>Até 2022, a Súmula 450 do TST dizia que as férias também deveriam ser pagas em dobro quando, apesar de gozadas na época certa, o dinheiro chegasse depois do prazo do artigo 145 da CLT, que é de até 2 dias antes do início do descanso. Muitas ações trabalhistas eram baseadas nisso.</p><p>Em agosto de 2022, o STF julgou a <strong>ADPF 501</strong> e declarou a súmula inconstitucional. Para a maioria dos ministros, o Judiciário não pode estender uma sanção prevista para um descumprimento (não conceder férias) a outro (pagar tarde). O Supremo também invalidou decisões ainda não definitivas que tinham aplicado a dobra com base na súmula. Em 2025, o TST formalizou o cancelamento da Súmula 450 pela Resolução 225/2025.</p><p>Isso não significa que o atraso fique sem consequência. A CLT prevê multa administrativa para infrações ao capítulo de férias (art. 153), aplicada pela fiscalização do trabalho. E, se o atraso vier acompanhado de férias concedidas fora do período concessivo, a dobra do artigo 137 continua valendo normalmente.</p>"
+  },
+  {
+   "h2": "Férias vencidas na rescisão",
+   "html": "<p>Quando o contrato termina, qualquer que seja a causa, a empresa deve pagar as férias cujo direito já foi adquirido, de forma simples ou em dobro, conforme o caso (CLT, art. 146). Na prática, o termo de rescisão pode ter três rubricas diferentes:</p><ul><li>férias vencidas em dobro, quando o período concessivo já acabou;</li><li>férias vencidas simples, quando o período aquisitivo terminou, mas a empresa ainda estava no prazo para concedê-las;</li><li>férias proporcionais, relativas ao período aquisitivo incompleto, na razão de 1/12 por mês trabalhado ou fração superior a 14 dias.</li></ul><p>Todas levam o terço constitucional (Súmula 328 do TST). Quem é dispensado por justa causa perde as férias proporcionais, mas não as vencidas (Súmula 171 do TST). Quem pede demissão antes de completar um ano recebe as proporcionais (Súmula 261 do TST). Esses valores devem ser pagos em até 10 dias do fim do contrato (art. 477, § 6º). Se quiser entender o pacote completo de verbas, veja também o texto sobre <a href=\"/blog/demissao-sem-justa-causa-direitos\">demissão sem justa causa</a>.</p>"
+  },
+  {
+   "h2": "Prazo para cobrar e provas que ajudam",
+   "html": "<p>A prescrição das férias começa a contar do fim do período concessivo ou, se for o caso, do fim do contrato (CLT, art. 149). Durante o contrato, é possível cobrar os últimos cinco anos. Depois que ele termina, há dois anos para entrar com a ação, sempre respeitando o limite de cinco anos para trás contado da data do ajuizamento (art. 11). Quem sai da empresa e espera demais pode perder períodos antigos.</p><p>Na maioria dos casos, a prova está em documentos que a própria empresa emite. Vale reunir:</p><ul><li>avisos e recibos de férias, que precisam indicar início e fim do descanso (art. 145, parágrafo único);</li><li>holerites, que mostram se houve pagamento de férias no mês;</li><li>registros da Carteira de Trabalho Digital e do eSocial;</li><li>controles de ponto ou mensagens que comprovem trabalho no período em que você supostamente estava de férias.</li></ul><p>Um erro comum é assinar recibo de férias sem ter descansado. O documento pesa contra quem assina, mas pode ser contestado com prova de que o trabalho continuou, como escalas, e-mails enviados, registros de acesso ou testemunhas.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso vender todas as minhas férias para a empresa?",
+   "a": "Não. A CLT permite converter apenas um terço das férias em dinheiro, o abono pecuniário, que corresponde a 10 dias em férias de 30. O pedido deve ser feito até 15 dias antes do fim do período aquisitivo. Acordos para vender o período inteiro não têm validade e podem ser discutidos na Justiça."
+  },
+  {
+   "q": "A empresa pode dividir minhas férias em vários períodos?",
+   "a": "Pode, desde que você concorde. Desde a reforma de 2017, as férias podem ser divididas em até três partes: uma com pelo menos 14 dias corridos e as outras com no mínimo 5 dias cada. Também é proibido começar as férias nos dois dias que antecedem feriado ou o descanso semanal remunerado."
+  },
+  {
+   "q": "Tenho dois períodos de férias vencidos. Recebo os dois em dobro?",
+   "a": "Depende das datas. Só é dobrado o período cujo prazo de concessão já terminou. É comum haver um período em dobro, porque o concessivo já passou, e outro simples, porque a empresa ainda estava dentro do prazo para concedê-lo. Confira as datas de admissão e de cada aniversário do contrato."
+  },
+  {
+   "q": "Quem recebeu auxílio-doença perde o direito às férias?",
+   "a": "Pode perder. Se no período aquisitivo a pessoa recebeu auxílio por incapacidade ou por acidente de trabalho do INSS por mais de seis meses, ainda que em períodos separados, perde as férias daquele período. Um novo período aquisitivo começa quando ela volta ao trabalho (CLT, art. 133)."
+  },
+  {
+   "q": "Posso trabalhar em outro emprego durante as férias?",
+   "a": "Em regra, não. A CLT proíbe prestar serviços a outro empregador durante as férias, salvo se você já tinha outro contrato de trabalho regularmente mantido com ele antes. Quem tem dois empregos formais pode continuar no segundo enquanto descansa do primeiro."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CLT arts. 129 a 149: período aquisitivo (art. 130), concessão em 12 meses (art. 134), aviso de 30 dias (art. 135), dobra e multa diária de 5% do salário mínimo (art. 137), base de cálculo (art. 142), abono (art. 143), pagamento até 2 dias antes (art. 145), férias na rescisão (art. 146) e prescrição (art. 149); art. 153 (multa administrativa); art. 477, § 6º; art. 11",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CF art. 7º, XVII: férias com pelo menos um terço a mais",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STF, ADPF 501: Súmula 450 do TST declarada inconstitucional e invalidadas decisões não transitadas em julgado que aplicaram a dobra por atraso no pagamento",
+   "url": "https://noticias.stf.jus.br/postsnoticias/supremo-invalida-sumula-do-tst-que-preve-pagamento-em-dobro-por-atraso-na-remuneracao-de-ferias/",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Livro de Súmulas do TST atualizado pela Resolução 225/2025: Súmula 450 cancelada; Súmulas 7, 81, 171, 261 e 328 vigentes",
+   "url": "https://www.tst.jus.br/documents/10157/63003/LivroInternet(11)pdf.pdf/814fe229-718f-541f-f73c-7a8b03ce47bc?t=1752769398191",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução TST 225/2025: cancelamento de 36 súmulas, OJs e precedente normativo",
+   "url": "https://juslaboris.tst.jus.br/handle/20.500.12178/251919",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
