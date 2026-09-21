@@ -1,5 +1,55 @@
 [
  {
+  "slug": "bagagem-extraviada-o-que-fazer",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Bagagem extraviada ou danificada: prazos e como pedir indenização",
+  "resumo": "A mala não apareceu na esteira ou chegou quebrada? Veja o registro que precisa ser feito na hora, os prazos da companhia aérea, o que pode ser ressarcido e como provar o que havia dentro.",
+  "data": "2026-10-01",
+  "imagem": "/images/blog/bagagem-extraviada-o-que-fazer.jpg",
+  "alt": "Malas na esteira de restituição de bagagem do aeroporto"
+ },
+ {
+  "slug": "compra-online-nao-entregue",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Compra online não entregue: o que fazer e como exigir o produto",
+  "resumo": "O prazo de entrega passou e o pedido não chegou? Veja como registrar a cobrança, quando dá para exigir o produto pelo preço anunciado e o que fazer se chegou algo diferente do que você comprou.",
+  "data": "2026-10-01",
+  "imagem": "/images/blog/compra-online-nao-entregue.jpg",
+  "alt": "Caixa de encomenda aberta deixada no chão ao lado de uma grade"
+ },
+ {
+  "slug": "direito-de-arrependimento",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Direito de arrependimento: quando dá para desistir da compra em 7 dias",
+  "resumo": "Comprou pela internet e mudou de ideia? Veja em que compras cabe a desistência sem motivo, como pedir, o que deve ser devolvido e por que a loja física segue outra lógica.",
+  "data": "2026-10-01",
+  "imagem": "/images/blog/direito-de-arrependimento.jpg",
+  "alt": "Caixa de papelão aberta sobre uma mesa branca"
+ },
+ {
+  "slug": "voo-atrasado-indenizacao",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Voo atrasado dá direito a indenização? Assistência e dano moral",
+  "resumo": "O atraso sempre gera indenização? Entenda o que a companhia deve oferecer durante a espera, quais fatos os juízes consideram para o dano moral e como documentar o prejuízo.",
+  "data": "2026-10-01",
+  "imagem": "/images/blog/voo-atrasado-indenizacao.jpg",
+  "alt": "Passageiros cansados esperando deitados nas cadeiras do aeroporto"
+ },
+ {
+  "slug": "voo-cancelado-direitos",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Voo cancelado: quais são seus direitos e o que a companhia deve oferecer",
+  "resumo": "Seu voo foi cancelado? Veja o que a companhia aérea é obrigada a oferecer na hora, como funciona o reembolso, o que muda quando o motivo é o clima e o que guardar para uma reclamação.",
+  "data": "2026-10-01",
+  "imagem": "/images/blog/voo-cancelado-direitos.jpg",
+  "alt": "Painel de voos no saguão de um aeroporto"
+ },
+ {
   "slug": "banco-encerrou-minha-conta",
   "area": "direito-bancario",
   "categoria": "Bancário",
