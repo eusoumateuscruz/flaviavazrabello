@@ -1,5 +1,55 @@
 [
  {
+  "slug": "abandono-afetivo-indenizacao",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Abandono afetivo dá direito a indenização? O que diz a Justiça",
+  "resumo": "Desde outubro de 2025, o ECA diz que o abandono afetivo é ilícito civil sujeito a reparação. Entenda o que a lei exige dos pais, como provar o dano e qual o prazo para agir.",
+  "data": "2026-09-25",
+  "imagem": "/images/blog/abandono-afetivo-indenizacao.jpg",
+  "alt": "Silhueta de pessoa sozinha olhando pela janela"
+ },
+ {
+  "slug": "heranca-sem-testamento-quem-herda",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Herança sem testamento: quem tem direito e em que ordem",
+  "resumo": "Sem testamento, a lei define quem herda: descendentes, ascendentes, cônjuge ou companheiro e colaterais. Entenda a diferença entre meação e herança e quando o cônjuge divide com os filhos.",
+  "data": "2026-09-25",
+  "imagem": "/images/blog/heranca-sem-testamento-quem-herda.jpg",
+  "alt": "Fotografias antigas de família e cartas sobre a mesa"
+ },
+ {
+  "slug": "inventario-extrajudicial-requisitos",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Inventário em cartório: requisitos, documentos e quando não é possível",
+  "resumo": "O inventário em cartório exige consenso e advogado. Desde 2024 ele também é possível com herdeiro menor e com testamento, sob condições. Veja documentos, prazos e quando a via judicial é obrigatória.",
+  "data": "2026-09-25",
+  "imagem": "/images/blog/inventario-extrajudicial-requisitos.jpg",
+  "alt": "Duas pessoas assinando documentos sobre uma mesa"
+ },
+ {
+  "slug": "medida-protetiva-como-pedir",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Medida protetiva da Lei Maria da Penha: como pedir e quanto tempo dura",
+  "resumo": "A medida protetiva pode ser pedida na delegacia, pela Delegacia Eletrônica e pelo app SP Mulher Segura, ou diretamente ao juiz. Ela independe de boletim de ocorrência e vale enquanto houver risco.",
+  "data": "2026-09-25",
+  "imagem": "/images/blog/medida-protetiva-como-pedir.jpg",
+  "alt": "Mulher pensativa segurando o celular sentada à mesa"
+ },
+ {
+  "slug": "testamento-como-fazer",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Testamento: tipos, como fazer e quanto da herança se pode deixar livremente",
+  "resumo": "O Código Civil prevê três formas comuns de testamento, cada uma com suas formalidades. Veja como fazer, quanto se pode deixar livremente e o que o testamento vital tem de diferente.",
+  "data": "2026-09-25",
+  "imagem": "/images/blog/testamento-como-fazer.jpg",
+  "alt": "Caneta tinteiro escrevendo em papel pautado"
+ },
+ {
   "slug": "adocao-de-crianca-como-funciona",
   "area": "direito-de-familia",
   "categoria": "Família",
