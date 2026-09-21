@@ -1,5 +1,55 @@
 [
  {
+  "slug": "cheque-especial-como-funciona",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Cheque especial: como funciona, teto de juros e como sair da dívida",
+  "resumo": "O que o banco pode cobrar quando sua conta fica negativa, por que a tarifa de disponibilização caiu e como trocar a dívida do cheque especial por um crédito mais barato.",
+  "data": "2026-09-28",
+  "imagem": "/images/blog/cheque-especial-como-funciona.jpg",
+  "alt": "Pessoa consultando aplicativo de banco no celular sobre a mesa"
+ },
+ {
+  "slug": "portabilidade-de-credito",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Portabilidade de crédito: como levar sua dívida para outro banco",
+  "resumo": "Passo a passo da portabilidade de empréstimos, consignado, crédito imobiliário, cheque especial e fatura do cartão, com os prazos e as proteções da Resolução CMN 5.057/2022.",
+  "data": "2026-09-28",
+  "imagem": "/images/blog/portabilidade-de-credito.jpg",
+  "alt": "Mãos entregando um envelope com dinheiro a outra pessoa"
+ },
+ {
+  "slug": "rotativo-do-cartao-de-credito",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Rotativo do cartão de crédito: regras, limite de juros e como sair",
+  "resumo": "Entenda por quanto tempo o banco pode manter a fatura no rotativo, o que entra no limite de 100% da dívida original e como renegociar ou levar o saldo para outro banco.",
+  "data": "2026-09-28",
+  "imagem": "/images/blog/rotativo-do-cartao-de-credito.jpg",
+  "alt": "Cartões de crédito apoiados sobre um tablet"
+ },
+ {
+  "slug": "seguro-prestamista-obrigatorio",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Seguro prestamista é obrigatório? Quando ele vira venda casada",
+  "resumo": "O seguro que quita a dívida em caso de morte ou desemprego é opcional. Entenda o que diz o STJ, como identificar a venda casada e o que fazer para cancelar e reaver o valor.",
+  "data": "2026-09-28",
+  "imagem": "/images/blog/seguro-prestamista-obrigatorio.jpg",
+  "alt": "Apólice de seguro com lupa sobre a mesa"
+ },
+ {
+  "slug": "tarifas-bancarias-indevidas",
+  "area": "direito-bancario",
+  "categoria": "Bancário",
+  "h1": "Tarifas bancárias: quais são proibidas e como pedir o dinheiro de volta",
+  "resumo": "Saiba quais serviços da conta corrente e da conta-salário são gratuitos por norma do Banco Central, como sair de uma cesta de serviços e como recuperar tarifas cobradas sem base.",
+  "data": "2026-09-28",
+  "imagem": "/images/blog/tarifas-bancarias-indevidas.jpg",
+  "alt": "Mãos segurando um extrato bancário impresso"
+ },
+ {
   "slug": "cartao-consignado-rmc",
   "area": "direito-bancario",
   "categoria": "Bancário",

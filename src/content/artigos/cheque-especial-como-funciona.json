@@ -1,0 +1,94 @@
+{
+ "slug": "cheque-especial-como-funciona",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Cheque especial: como funciona, teto de juros e como sair da dívida",
+ "title": "Cheque especial: como funciona e qual o teto de juros",
+ "description": "Cheque especial: como funciona o limite da conta, o teto de 8% ao mês nos juros, a tarifa que deixou de existir e as saídas para quitar a dívida mais barato.",
+ "resumo": "O que o banco pode cobrar quando sua conta fica negativa, por que a tarifa de disponibilização caiu e como trocar a dívida do cheque especial por um crédito mais barato.",
+ "data": "2026-09-28",
+ "imagem": "/images/blog/cheque-especial-como-funciona.jpg",
+ "alt": "Pessoa consultando aplicativo de banco no celular sobre a mesa",
+ "resposta": "O cheque especial é um limite de crédito rotativo ligado à conta corrente, usado automaticamente quando o saldo fica negativo. Para pessoas físicas e microempreendedores individuais, os juros remuneratórios estão limitados a 8% ao mês pela Resolução CMN 4.765/2019. A tarifa pela simples disponibilização do limite foi derrubada pelo STF e revogada em 2021. Para sair da dívida, as opções são trocar o saldo por um empréstimo mais barato, renegociar ou fazer a portabilidade para outro banco.",
+ "intro": "<p>O cheque especial é prático porque não exige pedido: se a conta não tem saldo para um débito, o banco cobre a diferença com o limite. Essa facilidade é justamente o problema. Os juros correm todos os dias sobre o valor usado, e quem entra no negativo por vários meses seguidos acaba pagando juros sobre uma dívida que parecia pequena.</p><p>Desde 2020 existe um teto para esses juros, e a regra sobre tarifas mudou por decisão do Supremo Tribunal Federal. Entender o que é permitido ajuda a conferir o extrato e a escolher a saída mais barata.</p>",
+ "secoes": [
+  {
+   "h2": "Como o cheque especial funciona",
+   "html": "<p>A Resolução CMN 4.765/2019 define cheque especial como a concessão de limite de crédito rotativo vinculado à conta de depósitos à vista, a conta corrente comum. Ela se aplica às contas de pessoas naturais e de microempreendedores individuais (MEI). Contas de outras empresas seguem o que foi contratado, sem o mesmo teto.</p><p>Quando o saldo fica negativo, o banco passa a cobrar juros sobre o valor efetivamente utilizado, calculados pelos dias em que a conta ficou no vermelho. Não há parcelas nem data de vencimento fixa: o limite é recomposto à medida que entram depósitos, e os juros acumulados costumam ser debitados uma vez por mês.</p><p>Além dos juros, incide IOF sobre a operação, que é um tributo e não se confunde com os juros do banco. Por isso o extrato mostra lançamentos separados. Vale conferir as duas linhas para saber quanto do custo mensal é juro e quanto é imposto.</p><p>Um detalhe que engana muita gente: a Lei 15.252/2025 proíbe incluir o limite de crédito como saldo disponível da conta. O aplicativo precisa mostrar separadamente quanto é dinheiro seu e quanto é crédito do banco.</p>"
+  },
+  {
+   "h2": "O teto de 8% ao mês nos juros",
+   "html": "<p>O artigo 3º da Resolução CMN 4.765/2019 limita os juros remuneratórios do cheque especial a <strong>8% ao mês</strong>. O teto vale desde 6 de janeiro de 2020 e continua em vigor. Ele se aplica aos juros sobre o valor usado; não inclui o IOF.</p><h3>Exemplo</h3><p>Se você usa R$ 1.000 do limite durante um mês inteiro, o banco pode cobrar no máximo R$ 80 de juros remuneratórios nesse período. Parece pouco, mas a taxa se acumula: 8% ao mês, capitalizados por 12 meses, equivalem a pouco mais de 150% ao ano. Quem mantém R$ 1.000 no negativo o ano todo, sem amortizar, pode ver a dívida chegar perto de R$ 2.500.</p><p>O teto é um limite máximo, não a taxa obrigatória. Cada banco fixa a sua, e o Banco Central publica as taxas médias praticadas por instituição, o que permite comparar. Se a taxa informada no seu extrato for maior que 8% ao mês nos juros remuneratórios, há cobrança acima do permitido, e o excesso pode ser questionado.</p><p>A Lei 15.252/2025 acrescentou outra proteção: o banco precisa avisar com pelo menos 30 dias de antecedência antes de aumentar a taxa do cheque especial, e o aumento só vale para o saldo futuro. Junto com o aviso, deve oferecer o cancelamento simplificado do contrato.</p>"
+  },
+  {
+   "h2": "A tarifa do cheque especial deixou de existir",
+   "html": "<p>A versão original da Resolução 4.765/2019 permitia uma tarifa mensal pela simples disponibilização do limite, mesmo que ele não fosse usado: zero para limites de até R$ 500 e até 0,25% sobre o que passasse disso. Essa regra, prevista no artigo 2º, foi declarada inconstitucional pelo STF no julgamento da ADI 6.407 e revogada pela Resolução CMN 4.962/2021, com efeitos a partir de 1º de novembro de 2021.</p><p>Na prática, o banco não pode cobrar apenas por deixar o cheque especial à sua disposição. Se aparecer no extrato alguma tarifa cobrada só por manter o limite disponível, sem uso, peça por escrito a explicação e a base contratual da cobrança.</p><p>Outro ponto da regulamentação sobre tarifas ajuda quem está no negativo: a Resolução 3.919/2010 proíbe que o débito de tarifa em conta supere o saldo disponível, incluído o limite de crédito contratado. E toda tarifa precisa aparecer identificada de forma clara no extrato.</p><p>Os juros cobrados sobre o uso do limite continuam permitidos, dentro do teto de 8% ao mês.</p>"
+  },
+  {
+   "h2": "Quem decide o valor do limite",
+   "html": "<p>O artigo 4º da Resolução CMN 4.765/2019 exige que o banco conceda limites compatíveis com o perfil de risco do cliente. Algumas regras protegem quem quer controlar o próprio limite:</p><ul><li>Se você pedir um limite menor, o banco não pode impor um limite acima de R$ 500.</li><li>O aumento do limite por iniciativa do banco depende da sua autorização prévia, a cada oferta. A Lei 15.252/2025 reforçou essa regra ao prever que não haja aumento de limite de cheque especial sem anuência prévia e expressa.</li><li>A redução por iniciativa do banco precisa ser comunicada com pelo menos 30 dias de antecedência.</li><li>A redução imediata só é admitida se o perfil de risco do cliente piorou, e mesmo assim o aviso deve ocorrer até o momento da redução.</li></ul><p>Uma estratégia útil para quem entra no negativo com frequência é pedir a redução do limite, ou até a retirada, depois de quitar o saldo. Sem limite, o débito que não tiver saldo é recusado, o que evita que a dívida volte a crescer sem você perceber.</p>"
+  },
+  {
+   "h2": "Como sair da dívida do cheque especial",
+   "html": "<p>O caminho mais comum é trocar a dívida por uma modalidade com juros menores. Algumas opções:</p><ul><li><strong>Empréstimo pessoal ou consignado</strong> para quitar o saldo de uma vez. Compare o Custo Efetivo Total (CET) da proposta com o custo do cheque especial.</li><li>Parcelamento oferecido pelo próprio banco, com número de parcelas, taxa e CET informados por escrito.</li><li>Portabilidade do saldo devedor para outra instituição. A Resolução CMN 5.057/2022 prevê expressamente a portabilidade de cheque especial: o banco proponente informa um valor máximo de cobertura, e a operação nova não pode ser maior que o saldo devedor informado pelo banco original.</li></ul><p>Na portabilidade, os custos da troca de informações e da transferência entre os bancos não podem ser repassados a você. Se o saldo devedor, na data da transferência, superar o valor máximo de cobertura informado, o banco proponente pode desistir da operação, por isso é bom evitar novos débitos enquanto o pedido tramita.</p><p>Depois de quitar, reduza ou cancele o limite. Sem essa medida, a conta volta ao negativo no primeiro débito automático sem saldo, e o problema recomeça.</p>"
+  },
+  {
+   "h2": "Documentos e quando procurar orientação",
+   "html": "<p>Para conferir se a cobrança respeitou as regras, separe os extratos da conta dos meses em que ela ficou negativa, o contrato de abertura de conta e de limite de crédito e eventuais acordos de parcelamento. A Resolução 3.919/2010 obriga o banco a fornecer, até 28 de fevereiro de cada ano, um extrato consolidado com as tarifas, juros e encargos cobrados mês a mês no ano anterior. Esse documento facilita muito o cálculo.</p><p>Se os juros passaram de 8% ao mês ou apareceu tarifa de disponibilização, peça a correção ao banco e registre o protocolo. Sem solução, reclame na ouvidoria, no Banco Central e no consumidor.gov.br. A devolução do que foi cobrado a mais pode ser pedida judicialmente, inclusive em dobro, conforme o artigo 42 do Código de Defesa do Consumidor, salvo engano justificável.</p><p>Quando a dívida no cheque especial convive com outros empréstimos e parcelas, vale olhar o conjunto dos contratos, e não só a conta corrente. A página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> reúne outros temas sobre dívidas com bancos. A advogada Flávia Vaz Rabello atende essas questões em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O teto de 8% ao mês vale para conta de empresa?",
+   "a": "A Resolução CMN 4.765/2019 se aplica ao cheque especial de pessoas naturais e de microempreendedores individuais. Contas de outras pessoas jurídicas, como sociedades limitadas, não estão sujeitas a esse teto e seguem as taxas contratadas, que ainda podem ser questionadas se estiverem muito acima da média de mercado."
+  },
+  {
+   "q": "Usar o cheque especial por poucos dias também gera juros?",
+   "a": "Sim. Os juros são calculados sobre o valor utilizado e pelos dias em que a conta ficou negativa. Um uso curto gera juros proporcionais, mas eles são cobrados. Além dos juros, há incidência de IOF, que é tributo e aparece em lançamento separado no extrato."
+  },
+  {
+   "q": "Posso pedir para cancelar o cheque especial?",
+   "a": "Pode. O limite é um crédito que você não é obrigado a manter. Se houver saldo devedor, o banco vai exigir a quitação ou a renegociação, mas nada impede pedir a redução ou a retirada do limite a partir daí. Faça o pedido por escrito ou pelo aplicativo e guarde o protocolo."
+  },
+  {
+   "q": "O banco pode tirar meu limite sem avisar?",
+   "a": "Em regra, a redução por iniciativa do banco exige aviso com 30 dias de antecedência. A exceção é a piora do perfil de risco do cliente, caso em que o limite pode ser reduzido na hora, desde que a comunicação ocorra até o momento da redução, conforme a Resolução CMN 4.765/2019."
+  },
+  {
+   "q": "Juros do cheque especial acima de 8% podem ser devolvidos?",
+   "a": "Sim. O que exceder o teto de 8% ao mês nos juros remuneratórios é cobrança indevida para contas de pessoa física e MEI. Você pode pedir a restituição ao banco e, sem acordo, na Justiça, onde o artigo 42 do CDC permite a devolução em dobro quando não houver engano justificável."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Resolução CMN 4.765/2019: conceito de cheque especial, aplicação a pessoas naturais e MEI, teto de juros de 8% ao mês (art. 3º), regras de limite (art. 4º), vigência em 6/1/2020; art. 2º (tarifa) declarado inconstitucional na ADI 6.407",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4765",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.962/2021: revogação do art. 2º da Resolução 4.765/2019 a partir de 1º/11/2021",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4962",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 5.057/2022: portabilidade do saldo devedor de cheque especial, valor máximo de cobertura, custos não repassados ao devedor (arts. 2º, 6º, 7º, 8º e 15)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5057",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 15.252/2025, arts. 12 e 13: limite não pode aparecer como saldo disponível, sem aumento de limite não solicitado, aviso de 30 dias antes de aumento de juros",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15252.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Resolução CMN 3.919/2010, arts. 17 e 19: débito de tarifa limitado ao saldo disponível com limite, identificação no extrato, extrato consolidado anual até 28 de fevereiro",
+   "url": "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/49514/Res_3919_v6_L.pdf",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC, art. 42, parágrafo único: repetição do indébito em dobro",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
