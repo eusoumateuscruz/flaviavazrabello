@@ -1,0 +1,79 @@
+{
+ "slug": "juizado-especial-civel-consumidor",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Juizado Especial Cível: como funciona uma ação contra empresa",
+ "title": "Juizado Especial Cível: como processar uma empresa",
+ "description": "Juizado Especial Cível contra empresa: limite de 40 salários mínimos, quando dispensa advogado, custos, audiências, provas e como funciona o recurso em 2026.",
+ "resumo": "Entenda quem pode usar o Juizado Especial Cível, qual o valor máximo da causa em 2026, quando é preciso advogado e como são as etapas de uma ação de consumo.",
+ "data": "2026-10-04",
+ "imagem": "/images/blog/juizado-especial-civel-consumidor.jpg",
+ "alt": "Sala de audiências com bancos de madeira",
+ "resposta": "O Juizado Especial Cível julga causas de até 40 salários mínimos, o que em 2026 corresponde a R$ 64.840,00. Nas causas de até 20 salários mínimos (R$ 32.420,00), você pode entrar sem advogado. Em primeiro grau não há custas nem honorários de sucumbência. O processo começa com uma audiência de conciliação, que pode ser por vídeo, e segue para instrução e sentença. Para recorrer, porém, o advogado é obrigatório, e quem recorre paga as despesas.",
+ "intro": "<p>Quando a empresa não resolve pelo SAC nem pelo Procon, o passo seguinte costuma ser o Juizado Especial Cível, o antigo \"juizado de pequenas causas\". Ele foi criado pela Lei 9.099/1995 para julgar causas mais simples com menos formalidade, sem custas no primeiro grau e, dependendo do valor, sem necessidade de advogado.</p><p>Isso não significa que qualquer caso caiba ali, nem que o processo seja automático. Há limite de valor, regras sobre quem pode ser parte e armadilhas que levam à extinção da ação. A seguir, como o Juizado funciona para quem quer processar uma empresa por um problema de consumo.</p>",
+ "secoes": [
+  {
+   "h2": "Quando o Juizado é o caminho: valor e tipo de causa",
+   "html": "<p>O Juizado Especial Cível julga causas de menor complexidade cujo valor não passe de 40 vezes o salário mínimo (Lei 9.099/1995, art. 3º, I). Com o salário mínimo de R$ 1.621,00 fixado para 2026 pelo Decreto 12.797/2025, o teto é de <strong>R$ 64.840,00</strong>.</p><p>O valor da causa é a soma de tudo o que você pede: devolução de dinheiro, conserto, indenização por dano moral. Se o total passar do limite e você mesmo assim optar pelo Juizado, renuncia ao que exceder, salvo se houver acordo (art. 3º, § 3º). Por exemplo: quem pede R$ 70.000,00 no Juizado abre mão de R$ 5.160,00, a menos que a empresa aceite pagar mais numa conciliação.</p><h3>Quem pode entrar e contra quem</h3><p>Podem propor ação pessoas físicas capazes, maiores de 18 anos, além de microempreendedores individuais, microempresas e empresas de pequeno porte (art. 8º, § 1º). Não podem ser partes o incapaz, o preso, as pessoas jurídicas de direito público, as empresas públicas da União, a massa falida e o insolvente civil (art. 8º). Também ficam de fora causas de natureza alimentar, falimentar, fiscal, de interesse da Fazenda Pública, de acidente de trabalho e relativas ao estado e à capacidade das pessoas (art. 3º, § 2º). Uma ação contra banco privado, operadora de telefonia, loja ou companhia aérea, em regra, cabe no Juizado.</p>"
+  },
+  {
+   "h2": "Precisa de advogado? Depende do valor",
+   "html": "<p>Nas causas de até 20 salários mínimos, R$ 32.420,00 em 2026, as partes podem comparecer pessoalmente, com ou sem advogado. Acima disso, até o teto de 40 salários, a assistência de advogado é obrigatória (art. 9º).</p><p>Mesmo quando é facultativo, há dois pontos a considerar. Primeiro, se a outra parte comparecer com advogado, ou se a ré for pessoa jurídica, você tem direito, se quiser, a assistência judiciária prestada por órgão instituído junto ao Juizado, na forma da lei local (art. 9º, § 1º). Segundo, o juiz deve alertar as partes sobre a conveniência de ter advogado quando a causa recomendar (art. 9º, § 2º).</p><p>Na prática, a empresa quase sempre comparece representada por advogado e por um preposto, que é a pessoa credenciada para falar em nome dela e fazer acordo, sem precisar ser empregado (art. 9º, § 4º). Quem vai sozinho precisa conhecer bem os próprios documentos e saber explicar o pedido de forma objetiva.</p><p>Uma regra não tem exceção: para recorrer da sentença, ou para responder ao recurso da empresa, as partes precisam estar representadas por advogado (art. 41, § 2º).</p>"
+  },
+  {
+   "h2": "Quanto custa entrar no Juizado",
+   "html": "<p>Em primeiro grau, o acesso ao Juizado independe do pagamento de custas, taxas ou despesas (art. 54). E a sentença não condena quem perde a pagar custas e honorários de advogado da outra parte, salvo litigância de má-fé (art. 55). Na prática, perder a ação em primeiro grau não gera conta a pagar para o consumidor que agiu de boa-fé.</p><p>O cenário muda no recurso. Quem recorre precisa fazer o preparo, que inclui todas as despesas processuais, inclusive as que foram dispensadas em primeiro grau, salvo se tiver assistência judiciária gratuita (art. 54, parágrafo único). E o recorrente que perde o recurso paga custas e honorários de 10% a 20% do valor da condenação ou, se não houver condenação, do valor corrigido da causa (art. 55).</p><h3>A falta que custa caro</h3><p>Se o autor deixar de comparecer a qualquer audiência, o processo é extinto (art. 51, I). A lei só isenta de custas quem comprova que a ausência decorreu de força maior (art. 51, § 2º), o que indica que, fora dessa hipótese, as custas podem ser cobradas. Quem tem audiência marcada e não pode ir deve avisar o Juizado e justificar antes da data.</p>"
+  },
+  {
+   "h2": "Passo a passo da ação contra a empresa",
+   "html": "<ol><li>Onde entrar. Nas ações de reparação de dano, você pode escolher o Juizado do seu domicílio (Lei 9.099/1995, art. 4º, III). O CDC tem regra no mesmo sentido para ações de responsabilidade do fornecedor (art. 101, I).</li><li>O pedido. Pode ser escrito ou oral. Se for oral, a secretaria do Juizado o reduz a termo. O pedido deve trazer nome, qualificação e endereço das partes, os fatos e fundamentos de forma resumida, o que você quer e o valor (art. 14).</li><li>Citação. A empresa é citada por correspondência, entregue a um funcionário identificado da recepção, ou por oficial de justiça. Não existe citação por edital no Juizado (art. 18).</li><li>Conciliação. A primeira audiência busca acordo e pode ser feita por videoconferência (art. 22, § 2º). Se houver acordo, ele é homologado e vale como título executivo.</li><li>Instrução e julgamento. Sem acordo, segue-se a audiência em que as provas são produzidas e o juiz decide (arts. 27 e 33).</li></ol><p>Se a empresa não comparecer à conciliação ou à instrução, os fatos narrados no pedido são considerados verdadeiros, salvo se o contrário resultar da convicção do juiz (art. 20). É a chamada revelia, que costuma favorecer o consumidor.</p>"
+  },
+  {
+   "h2": "Provas e erros que derrubam a ação",
+   "html": "<p>No Juizado, todas as provas são produzidas na audiência de instrução, ainda que não tenham sido requeridas antes (art. 33). Chegue com os documentos organizados: contrato, notas fiscais, faturas, protocolos de atendimento, prints de conversas e a resposta dada no Procon ou no consumidor.gov.br. Cada parte pode levar até três testemunhas, sem necessidade de intimação; se preferir que o Juizado as intime, o pedido deve ser feito pelo menos cinco dias antes da audiência (art. 34).</p><p>Nas relações de consumo, o juiz pode inverter o ônus da prova a favor do consumidor quando a alegação for verossímil ou quando ele for hipossuficiente (CDC, art. 6º, VIII). Isso ajuda, mas não substitui um mínimo de documentação. Quem diz que foi cobrado indevidamente precisa ao menos mostrar a fatura.</p><h3>Erros comuns</h3><ul><li>Faltar à audiência, o que extingue o processo.</li><li>Pedir um valor de dano moral sem explicar o que aconteceu de concreto e por que isso passou do mero aborrecimento.</li><li>Processar a empresa errada, como a loja em vez da operadora do cartão, sem avaliar quem responde pelo problema.</li><li>Levar ao Juizado um caso que depende de perícia técnica complexa. O juiz pode ouvir técnicos de sua confiança (art. 35), mas, se entender que o procedimento é inadmissível, extingue o processo (art. 51, II), e a ação precisa ser refeita na Justiça comum.</li></ul>"
+  },
+  {
+   "h2": "Depois da sentença: recurso e cumprimento",
+   "html": "<p>Da sentença cabe recurso, chamado de recurso inominado, julgado por uma turma de três juízes de primeiro grau (art. 41, § 1º). O prazo é de 10 dias, contados da ciência da sentença, e o preparo deve ser pago nas 48 horas seguintes à interposição, sob pena de deserção, ou seja, de o recurso nem ser analisado (art. 42). A outra parte tem 10 dias para responder. A sentença que homologa acordo não admite recurso.</p><p>Se você ganhou e a empresa não paga voluntariamente, o próprio Juizado promove a execução dos seus julgados (art. 3º, § 1º, I). Na execução, em regra, não há custas, salvo nas hipóteses previstas no art. 55, parágrafo único, como a execução de sentença mantida depois de recurso do devedor.</p><h3>Documentos para ter em mãos antes de entrar</h3><ul><li>Documento de identidade, CPF e comprovante de endereço.</li><li>Nome completo, CNPJ e endereço da empresa, que aparecem na nota fiscal ou no contrato.</li><li>Todos os comprovantes do problema e das tentativas de solução.</li><li>Um cálculo simples do valor pedido, item por item.</li></ul><p>Para outros temas de consumo, veja a página de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a>. A advogada Flávia Vaz Rabello atende questões de consumo em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo demora um processo no Juizado Especial Cível?",
+   "a": "Não há prazo fixo. O tempo depende da quantidade de processos do Juizado da sua cidade e de haver ou não acordo na primeira audiência. Casos resolvidos na conciliação terminam bem mais rápido. Quando há instrução, recurso e execução, o processo pode se estender por bem mais tempo, por isso vale considerar propostas razoáveis de acordo."
+  },
+  {
+   "q": "Posso processar uma empresa que fica em outro estado?",
+   "a": "Sim. Nas ações de reparação de dano, a Lei 9.099/1995 permite escolher o Juizado do seu próprio domicílio, e o CDC tem regra semelhante para ações contra fornecedores. Assim, você não precisa se deslocar até a sede da empresa. Ela é citada por correspondência e costuma mandar preposto e advogado à audiência."
+  },
+  {
+   "q": "Se eu perder no Juizado, pago os honorários do advogado da empresa?",
+   "a": "Em primeiro grau, não. A sentença do Juizado não condena o vencido em custas e honorários, salvo se o juiz reconhecer litigância de má-fé, como mentir sobre os fatos. O risco aparece se você recorrer e perder o recurso: aí o recorrente vencido paga custas e honorários de 10% a 20%."
+  },
+  {
+   "q": "Preciso ir pessoalmente às audiências?",
+   "a": "Sim, a presença do autor é obrigatória, e a ausência em qualquer audiência leva à extinção do processo. A conciliação pode ser feita por videoconferência, o que evita deslocamento. Se surgir um imprevisto sério, comunique o Juizado antes da audiência e junte a prova do motivo, como um atestado médico."
+  },
+  {
+   "q": "Posso entrar no Juizado se já reclamei no Procon e não resolveu?",
+   "a": "Pode, e é até recomendável levar o histórico. A reclamação no Procon ou no consumidor.gov.br não é obrigatória para entrar no Juizado, mas a resposta da empresa, os protocolos e a manifestação técnica do Procon mostram ao juiz que você tentou resolver e que a empresa conhecia o problema."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 9.099/1995: art. 3º, I, §§ 1º, 2º e 3º (40 salários mínimos, execução, exclusões, renúncia ao excedente); art. 4º, III; art. 8º (partes); art. 9º (até 20 salários sem advogado, assistência, preposto); arts. 14, 18, 20, 22 § 2º, 27, 33, 35; art. 41 § 2º (advogado no recurso); art. 42 (10 dias, preparo em 48h); art. 51, I e II, § 2º; arts. 54 e 55",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Decreto 12.797/2025: salário mínimo de R$ 1.621,00 a partir de 1º/01/2026 (40 SM = R$ 64.840,00; 20 SM = R$ 32.420,00)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12797.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 6º, VIII (inversão do ônus da prova) e art. 101, I (ação no domicílio do autor)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

@@ -1,5 +1,55 @@
 [
  {
+  "slug": "cancelar-academia",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Como cancelar a academia: multa, aviso prévio e cobranças depois do pedido",
+  "resumo": "Veja como sair do plano da academia mesmo antes do fim do contrato, qual multa pode ser cobrada e como reagir a débitos lançados depois do pedido de cancelamento.",
+  "data": "2026-10-04",
+  "imagem": "/images/blog/cancelar-academia.jpg",
+  "alt": "Fileira de esteiras em uma academia vazia"
+ },
+ {
+  "slug": "juizado-especial-civel-consumidor",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Juizado Especial Cível: como funciona uma ação contra empresa",
+  "resumo": "Entenda quem pode usar o Juizado Especial Cível, qual o valor máximo da causa em 2026, quando é preciso advogado e como são as etapas de uma ação de consumo.",
+  "data": "2026-10-04",
+  "imagem": "/images/blog/juizado-especial-civel-consumidor.jpg",
+  "alt": "Sala de audiências com bancos de madeira"
+ },
+ {
+  "slug": "reajuste-mensalidade-escolar",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Reajuste da mensalidade escolar: o que a lei permite à escola",
+  "resumo": "Entenda como a escola particular pode reajustar a anuidade, por que não existe índice oficial, o que é a planilha de custos e quais punições são proibidas em caso de atraso.",
+  "data": "2026-10-04",
+  "imagem": "/images/blog/reajuste-mensalidade-escolar.jpg",
+  "alt": "Sala de aula com carteiras vazias"
+ },
+ {
+  "slug": "reclamacao-procon-consumidor-gov",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Reclamação no Procon ou no consumidor.gov.br: como fazer e o que esperar",
+  "resumo": "Veja a diferença entre reclamar no consumidor.gov.br e no Procon-SP, os prazos de cada etapa, como acompanhar o pedido e o que fazer quando a empresa não resolve.",
+  "data": "2026-10-04",
+  "imagem": "/images/blog/reclamacao-procon-consumidor-gov.jpg",
+  "alt": "Homem ao telefone com expressão preocupada diante do notebook"
+ },
+ {
+  "slug": "vicio-oculto-carro-usado",
+  "area": "direito-do-consumidor",
+  "categoria": "Consumidor",
+  "h1": "Vício oculto em carro usado: prazos e direitos de quem comprou",
+  "resumo": "Veja como os prazos para reclamar de defeito escondido em carro usado mudam se a compra foi feita em loja ou de um particular e o que pedir em cada situação.",
+  "data": "2026-10-04",
+  "imagem": "/images/blog/vicio-oculto-carro-usado.jpg",
+  "alt": "Mecânico examinando o motor de um carro com o capô aberto"
+ },
+ {
   "slug": "dano-moral-consumidor",
   "area": "direito-do-consumidor",
   "categoria": "Consumidor",

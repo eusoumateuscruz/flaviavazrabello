@@ -1,0 +1,94 @@
+{
+ "slug": "vicio-oculto-carro-usado",
+ "area": "direito-do-consumidor",
+ "categoria": "Consumidor",
+ "h1": "Vício oculto em carro usado: prazos e direitos de quem comprou",
+ "title": "Vício oculto em carro usado: prazos na loja e com particular",
+ "description": "Vício oculto em carro usado: prazo de 90 dias na loja, 30 e 180 dias na compra de particular, quando o prazo começa a contar e como provar o defeito.",
+ "resumo": "Veja como os prazos para reclamar de defeito escondido em carro usado mudam se a compra foi feita em loja ou de um particular e o que pedir em cada situação.",
+ "data": "2026-10-04",
+ "imagem": "/images/blog/vicio-oculto-carro-usado.jpg",
+ "alt": "Mecânico examinando o motor de um carro com o capô aberto",
+ "resposta": "Depende de quem vendeu. Se foi loja ou revenda, vale o CDC: você tem 90 dias para reclamar, e no vício oculto o prazo só começa quando o defeito aparece. Se foi um particular, vale o Código Civil: são 30 dias, e se o defeito só puder ser percebido depois, esses 30 dias contam da descoberta, desde que ela ocorra em até 180 dias da compra. Nos dois casos, é possível pedir abatimento do preço ou desfazer o negócio.",
+ "intro": "<p>O carro passou no test drive, a documentação estava em ordem e, semanas depois, o câmbio começa a patinar ou o motor passa a consumir óleo. O mecânico diz que o problema já existia e foi disfarçado. A pergunta imediata é se ainda dá tempo de reclamar e contra quem.</p><p>A resposta depende sobretudo de uma informação: quem vendeu o carro. Compra em loja, concessionária ou revenda segue o Código de Defesa do Consumidor (CDC). Compra de outra pessoa física, que vendeu o próprio carro, segue o Código Civil. Os prazos e os direitos são diferentes, e confundir os dois é o erro que mais faz as pessoas perderem o direito.</p>",
+ "secoes": [
+  {
+   "h2": "Loja ou particular: a primeira pergunta",
+   "html": "<p>O CDC se aplica quando há um fornecedor do outro lado, ou seja, quem desenvolve atividade de comercialização de produtos (art. 3º). Uma loja de seminovos, uma concessionária ou uma revenda estão claramente nesse grupo. Um vizinho que vendeu o carro que usava para ir ao trabalho, não.</p><p>Há casos intermediários. A pessoa física que compra e revende carros com frequência, anunciando vários veículos ao longo do ano, pode ser tratada como fornecedora, porque a atividade deixa de ser eventual. Nesses casos, anúncios, conversas e o histórico de vendas ajudam a demonstrar a habitualidade.</p><p>A distinção muda quase tudo:</p><table><thead><tr><th>Ponto</th><th>Compra em loja (CDC)</th><th>Compra de particular (Código Civil)</th></tr></thead><tbody><tr><td>Prazo para reclamar</td><td>90 dias</td><td>30 dias</td></tr><tr><td>Vício oculto</td><td>Prazo conta de quando o defeito aparece</td><td>Prazo conta da descoberta, se ela ocorrer em até 180 dias</td></tr><tr><td>Ignorância do vendedor</td><td>Não o isenta (art. 23)</td><td>Reduz a indenização (art. 443)</td></tr><tr><td>Reclamação administrativa</td><td>Procon e consumidor.gov.br</td><td>Não se aplica</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Comprou em loja: os prazos do CDC",
+   "html": "<p>Carro é produto durável. O direito de reclamar de vícios em produto durável caduca em 90 dias (CDC, art. 26, II). O que muda é o início da contagem:</p><ul><li>vício aparente ou de fácil constatação, como um risco na pintura ou um retrovisor quebrado, conta da entrega do carro (art. 26, § 1º);</li><li>vício oculto conta do momento em que o defeito ficar evidenciado (art. 26, § 3º).</li></ul><p>A reclamação comprovada feita à loja suspende o prazo até a resposta negativa, que deve ser inequívoca (art. 26, § 2º, I). Por isso, reclame por escrito, com data, e guarde a resposta.</p><p>E se o defeito aparecer um ano depois da compra? O Superior Tribunal de Justiça entende que, no vício oculto, o CDC adotou o <strong>critério da vida útil do bem</strong>: o fornecedor pode responder por defeito de fabricação que se manifeste mesmo depois do fim da garantia contratual, desde que a reclamação seja feita em até 90 dias depois de evidenciado o problema (REsp 984.106/SC e REsp 1.787.287). Em carro usado, porém, a discussão se concentra em separar o vício que já existia na venda do desgaste natural de peças como pastilhas, embreagem e pneus, que não é vício oculto. Quanto mais tempo passa, mais difícil fica essa prova.</p>"
+  },
+  {
+   "h2": "O que a loja deve fazer e a cláusula \"no estado\"",
+   "html": "<p>Constatado o vício, a loja tem até 30 dias para consertar. Se não resolver nesse prazo, você escolhe entre três alternativas (CDC, art. 18, § 1º):</p><ol><li>a troca por outro veículo equivalente em perfeitas condições;</li><li>a devolução imediata do valor pago, corrigido, sem prejuízo de perdas e danos;</li><li>o abatimento proporcional do preço.</li></ol><p>Você pode pular os 30 dias e exigir diretamente uma dessas opções quando o conserto puder comprometer a qualidade do carro ou diminuir seu valor, ou quando se tratar de produto essencial (art. 18, § 3º). Um motor que precisa ser retificado logo depois da compra é exemplo típico de discussão sobre essa regra.</p><h3>\"Vendido no estado em que se encontra\"</h3><p>É comum o contrato da revenda trazer essa frase, ou uma cláusula dizendo que o comprador aceita o carro sem garantia. Para defeitos escondidos, essa cláusula não tem efeito: a garantia legal independe de termo expresso e é vedada a exoneração contratual do fornecedor (art. 24), e são nulas as cláusulas que afastem ou atenuem a responsabilidade por vícios (art. 51, I). A garantia de três meses que muitas lojas oferecem é contratual e complementar à legal (art. 50), não a substitui.</p>"
+  },
+  {
+   "h2": "Comprou de particular: as regras do Código Civil",
+   "html": "<p>Entre particulares, o comprador pode rejeitar o carro que tenha vício oculto que o torne impróprio ao uso ou diminua seu valor (Código Civil, art. 441), desfazendo o negócio. Em vez disso, pode ficar com o carro e pedir abatimento no preço (art. 442).</p><p>O prazo é de 30 dias para coisa móvel, contado da entrega (art. 445). Quando o vício, por sua natureza, só puder ser conhecido mais tarde, o prazo conta da ciência do defeito, até o máximo de 180 dias para bens móveis (art. 445, § 1º). O STJ interpretou a regra assim: o defeito precisa se revelar em até 180 dias da compra e, a partir da descoberta, o comprador tem 30 dias para propor a ação (REsp 1.095.882/SP).</p><h3>Exemplo</h3><p>Você comprou o carro de um particular em 10 de março. Em 20 de julho, 132 dias depois, o câmbio automático apresenta falha que o mecânico atribui a um problema antigo. Como o defeito apareceu dentro dos 180 dias, você tem até 19 de agosto para entrar com a ação. Se a falha surgisse só no 200º dia, o Código Civil já não daria esse direito.</p><p>Se o vendedor sabia do defeito, devolve o que recebeu com perdas e danos; se não sabia, devolve o valor e as despesas do contrato (art. 443). Havendo cláusula de garantia no recibo, os prazos não correm durante ela, mas o defeito deve ser comunicado ao vendedor em 30 dias da descoberta (art. 446).</p>"
+  },
+  {
+   "h2": "Como provar que o defeito é oculto e anterior à compra",
+   "html": "<p>Em qualquer dos dois regimes, você precisa mostrar duas coisas: que o defeito não era perceptível numa avaliação normal no momento da compra e que ele já existia, ainda que em estágio inicial. O vendedor costuma alegar mau uso ou desgaste natural.</p><ul><li>Laudo ou relatório técnico de oficina, de preferência descrevendo a causa provável e há quanto tempo o problema se desenvolve.</li><li>Orçamentos de mais de uma oficina, com fotos e, se possível, as peças substituídas guardadas.</li><li>O laudo de vistoria cautelar, se foi feito na compra, e o histórico de manutenção do carro.</li><li>O anúncio original, com as fotos e a descrição que o vendedor fez do estado do carro.</li><li>Mensagens trocadas antes e depois da venda, principalmente se o vendedor garantiu que o carro não tinha problemas.</li></ul><p>Não desmonte nem conserte tudo antes de notificar o vendedor e registrar o estado do carro, salvo em situação de risco. Consertar primeiro e reclamar depois dificulta a prova e abre espaço para a alegação de que o defeito foi causado na oficina. Na compra em loja, o juiz ainda pode inverter o ônus da prova a favor do consumidor quando a alegação for verossímil (CDC, art. 6º, VIII).</p>"
+  },
+  {
+   "h2": "Passo a passo e erros que fazem perder o prazo",
+   "html": "<ol><li>Assim que o defeito aparecer, anote a data e leve o carro a uma oficina para o diagnóstico por escrito.</li><li>Notifique o vendedor por escrito, por e-mail, mensagem ou carta com aviso de recebimento, descrevendo o problema e o que você quer: conserto, abatimento ou desfazimento.</li><li>Na compra em loja, sem solução, registre reclamação no Procon. Não deixe o prazo de 90 dias correr à espera de promessas verbais.</li><li>Se não houver acordo, leve o caso ao Juizado Especial Cível, respeitando o limite de valor, ou à Justiça comum.</li></ol><p>Os erros mais frequentes são aplicar à compra de particular o prazo de 90 dias do CDC, esperar demais negociando só por telefone e deixar para reclamar depois de trocar a peça. Outro ponto de atenção: se o caso exigir perícia complexa, o Juizado pode entender que o procedimento não é adequado, e a ação precisa ir para a vara cível.</p><p>Para defeitos em outros produtos comprados em loja, veja também <a href=\"/blog/produto-com-defeito-quais-sao-meus-direitos\">produto com defeito: quais são meus direitos</a>. Mais informações sobre relações de consumo estão na página de <a href=\"/areas-de-atuacao/direito-do-consumidor\">direito do consumidor</a>. A advogada Flávia Vaz Rabello atende questões de consumo em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Comprei o carro sem fazer vistoria cautelar. Perdi o direito de reclamar?",
+   "a": "Não. A vistoria cautelar é recomendável, mas não é condição para reclamar de vício oculto. Justamente por ser oculto, o defeito não seria percebido numa avaliação comum. A falta de vistoria só torna mais importante reunir outras provas, como laudo de oficina, anúncio do carro e conversas com o vendedor sobre o estado do veículo."
+  },
+  {
+   "q": "O vendedor particular disse que não sabia do defeito. Ainda assim ele responde?",
+   "a": "Sim. O Código Civil garante o desfazimento do negócio ou o abatimento do preço mesmo que o vendedor ignorasse o vício. A diferença está na extensão: se ele não sabia, devolve o valor recebido e as despesas do contrato; se sabia e escondeu, responde também por perdas e danos, como gastos com guincho e aluguel de outro carro."
+  },
+  {
+   "q": "Quilometragem adulterada é vício oculto?",
+   "a": "A adulteração do hodômetro costuma ser tratada como informação falsa sobre o carro, e não só como defeito mecânico. Na compra em loja, viola o dever de informação correta e a proibição de publicidade enganosa do CDC (arts. 31 e 37). Entre particulares, pode levar à anulação do negócio por dolo (Código Civil, art. 145), com prazo próprio de quatro anos. A estratégia muda conforme o enquadramento."
+  },
+  {
+   "q": "A loja pode recusar o conserto porque o carro já passou dos três meses de garantia?",
+   "a": "Não necessariamente. Os três meses costumam ser a garantia contratual, que complementa a legal. No vício oculto, o prazo de 90 dias do CDC começa quando o defeito aparece, e o STJ aplica o critério da vida útil do bem. A loja pode discutir se o problema é desgaste natural, mas o fim da garantia contratual, por si só, não encerra a responsabilidade."
+  },
+  {
+   "q": "Comprei financiado. Se desfizer o negócio, o que acontece com o financiamento?",
+   "a": "Quando a compra é desfeita por vício, o contrato de financiamento usado para pagar o carro também costuma entrar na discussão, e muitas vezes o banco participa da negociação ou da ação. Não pare de pagar as parcelas por conta própria, porque isso pode levar à negativação e à busca e apreensão do veículo. A saída deve ser buscada de forma coordenada, com os contratos em mãos."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CDC art. 3º (fornecedor); art. 6º, VIII; art. 18, §§ 1º e 3º (30 dias para sanar e alternativas); art. 23; art. 24 (garantia legal independe de termo, vedada exoneração); art. 26, II, §§ 1º, 2º, I, e 3º (90 dias para produto durável, vício oculto a partir de evidenciado o defeito); art. 50 (garantia contratual complementar); art. 51, I",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Código Civil arts. 441 a 446: vício redibitório, abatimento, perdas e danos se o alienante conhecia o vício, 30 dias para móvel e até 180 dias para vício que só se conhece mais tarde, cláusula de garantia e denúncia em 30 dias",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 1.095.882/SP (4ª Turma, rel. Min. Isabel Gallotti): vício oculto em móvel deve se revelar em até 180 dias e o prazo de 30 dias conta da ciência",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2014/2014-12-30_08-00_Prazo-para-acao-redibitoria-de-coisa-movel-decai-em-30-dias-apos-constatacao-do-defeito-oculto.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 1.787.287 (3ª Turma, rel. Min. Villas Bôas Cueva) e REsp 984.106/SC: fornecedor responde por vício oculto durante a vida útil do bem, mesmo após a garantia contratual, com reclamação em 90 dias depois de evidenciado",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/11042022-Fornecedor-pode-ser-responsabilizado-por-defeito-oculto-apresentado-em-produto-fora-do-prazo-de-garantia.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 31 (informações corretas na oferta) e art. 37, § 1º (publicidade enganosa, inclusive por omissão)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Código Civil art. 145 (negócio anulável por dolo) e art. 178, II (quatro anos para anular, contados do negócio)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
