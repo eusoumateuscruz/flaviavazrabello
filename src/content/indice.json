@@ -1,5 +1,55 @@
 [
  {
+  "slug": "alvara-judicial-dinheiro-de-falecido",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Alvará judicial: como sacar valores de quem faleceu sem abrir inventário",
+  "resumo": "FGTS, PIS, verbas trabalhistas, restituição de IR e pequenos saldos em banco podem ser liberados sem inventário. Veja quem recebe, qual é o limite e como pedir o alvará.",
+  "data": "2026-09-23",
+  "imagem": "/images/blog/alvara-judicial-dinheiro-de-falecido.jpg",
+  "alt": "Documentos, extratos e calculadora sobre uma mesa escura"
+ },
+ {
+  "slug": "anulacao-de-casamento-civil",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Anulação de casamento civil: em quais casos cabe e qual é o prazo",
+  "resumo": "As hipóteses de casamento nulo e anulável no Código Civil, os prazos de cada uma e a diferença prática entre anular e se divorciar.",
+  "data": "2026-09-23",
+  "imagem": "/images/blog/anulacao-de-casamento-civil.jpg",
+  "alt": "Noivo assinando o livro de registro durante o casamento civil"
+ },
+ {
+  "slug": "investigacao-de-paternidade",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Investigação de paternidade: como funciona a ação e o exame de DNA",
+  "resumo": "A ação de investigação de paternidade não tem prazo e usa o DNA como prova central. Entenda a recusa ao exame, o caso do pai falecido, a pensão e a herança.",
+  "data": "2026-09-23",
+  "imagem": "/images/blog/investigacao-de-paternidade.jpg",
+  "alt": "Profissional de laboratório manuseando amostras com pipeta"
+ },
+ {
+  "slug": "regime-de-bens-no-casamento",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Regime de bens no casamento: como funciona cada um dos quatro regimes",
+  "resumo": "Comunhão parcial, universal, separação e participação final nos aquestos comparadas, com exemplo prático e a regra atual para quem casa depois dos 70.",
+  "data": "2026-09-23",
+  "imagem": "/images/blog/regime-de-bens-no-casamento.jpg",
+  "alt": "Casal de idosos analisando documentos juntos no sofá"
+ },
+ {
+  "slug": "uniao-estavel-como-formalizar",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "União estável: como formalizar em cartório e quais direitos ela garante",
+  "resumo": "Escritura no tabelionato, termo declaratório no registro civil e registro no Livro E: os caminhos para formalizar a união estável e o que cada um garante.",
+  "data": "2026-09-23",
+  "imagem": "/images/blog/uniao-estavel-como-formalizar.jpg",
+  "alt": "Casal assinando documentos acompanhado de uma profissional"
+ },
+ {
   "slug": "exoneracao-de-pensao-alimenticia",
   "area": "direito-de-familia",
   "categoria": "Família",
