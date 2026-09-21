@@ -1,0 +1,84 @@
+{
+ "slug": "banco-de-horas",
+ "area": "direito-do-trabalho",
+ "categoria": "Trabalhista",
+ "h1": "Banco de horas: regras, prazos de compensação e o que acontece na rescisão",
+ "title": "Banco de horas: regras da CLT, prazos e saldo na rescisão",
+ "description": "Banco de horas na CLT: prazos de compensação de 1 ano, 6 meses ou 1 mês, limite de 10 horas por dia e o que acontece com saldo positivo ou negativo na rescisão.",
+ "resumo": "Entenda quando o banco de horas é válido, quanto tempo a empresa tem para compensar as horas e o que acontece com o saldo quando o contrato termina.",
+ "data": "2026-10-09",
+ "imagem": "/images/blog/banco-de-horas.jpg",
+ "alt": "Relógio de ponto antigo fixado na parede",
+ "resposta": "O banco de horas é legal: a CLT permite trocar horas extras por folgas sem pagar o adicional, desde que a jornada não passe de 10 horas por dia e a compensação ocorra no prazo. O prazo é de até um ano quando o banco está em acordo ou convenção coletiva, de até seis meses quando há acordo individual escrito e dentro do mesmo mês quando o ajuste é tácito. Se o contrato termina com horas a seu favor, elas são pagas como extras. Descontar saldo negativo na rescisão não tem regra expressa na lei.",
+ "intro": "<p>Muita gente descobre que tem banco de horas só quando pede o espelho de ponto e vê um saldo acumulado de meses. Outras pessoas ouvem, na hora da demissão, que estão devendo horas à empresa e que isso vai sair da rescisão. As duas situações têm resposta na CLT, mas a resposta depende de como o banco foi criado e de quanto tempo as horas ficaram paradas.</p><p>A seguir, as regras de validade, os prazos de compensação, o cálculo do saldo positivo na saída e os limites para o desconto de saldo negativo. Se o problema for hora extra que nunca entrou em banco nenhum, o post sobre <a href=\"/blog/empresa-nao-pagou-horas-extras-o-que-fazer\">empresa que não pagou horas extras</a> trata desse caminho.</p>",
+ "secoes": [
+  {
+   "h2": "Os três formatos de banco de horas previstos na CLT",
+   "html": "<p>A Constituição fixa a jornada normal em até oito horas por dia e 44 por semana e admite a compensação de horários (art. 7º, XIII). A CLT, no art. 59, detalha como essa compensação pode ser feita, e o prazo muda conforme o instrumento que criou o banco.</p><table><thead><tr><th>Como foi criado</th><th>Prazo máximo para compensar</th><th>Base legal</th></tr></thead><tbody><tr><td>Acordo coletivo ou convenção coletiva (sindicato)</td><td>Até 1 ano</td><td>CLT, art. 59, § 2º, e art. 611-A, II</td></tr><tr><td>Acordo individual escrito entre você e a empresa</td><td>Até 6 meses</td><td>CLT, art. 59, § 5º</td></tr><tr><td>Acordo individual tácito ou escrito</td><td>Dentro do mesmo mês</td><td>CLT, art. 59, § 6º</td></tr></tbody></table><p>O modelo tácito é aquele em que nada foi assinado, mas a prática mostra que a empresa compensa as horas: você fica uma hora a mais na segunda e sai uma hora mais cedo na sexta da mesma semana ou do mesmo mês. Para o <strong>banco semestral</strong>, a lei exige documento escrito. Para o anual, só vale se estiver na norma coletiva da sua categoria, por isso vale pedir ao RH ou ao sindicato a cópia da convenção ou do acordo coletivo em vigor.</p>"
+  },
+  {
+   "h2": "Requisitos para o banco de horas ser válido",
+   "html": "<p>Além do prazo, alguns limites valem para qualquer formato. O primeiro é o teto diário: somando jornada normal e horas que vão para o banco, o dia de trabalho não pode passar de <strong>10 horas</strong> (art. 59, § 2º). O caput do mesmo artigo também limita as horas extras a duas por dia.</p><ul><li>Registro confiável: o saldo precisa aparecer no controle de ponto ou em relatório que você consiga conferir. Banco que só existe na planilha do gestor é difícil de defender.</li><li>Compensação dentro do prazo: hora lançada em janeiro num banco semestral precisa virar folga até julho. Passado o prazo, ela deixa de ser crédito de folga e passa a ser hora extra a pagar.</li><li>Atividade insalubre: o art. 60 da CLT exige licença prévia da autoridade de saúde do trabalho para prorrogar a jornada nesses ambientes. A exigência não vale para a escala 12x36, que o parágrafo único do mesmo artigo excluiu.</li></ul><p>Um ponto mudou com a Reforma Trabalhista: fazer horas extras com frequência não derruba, por si só, o acordo de compensação nem o banco de horas (art. 59-B, parágrafo único). O que costuma invalidar o banco é a falta de documento exigido, o estouro do limite diário de forma recorrente ou a compensação fora do prazo.</p>"
+  },
+  {
+   "h2": "Banco de horas irregular: o que você pode cobrar",
+   "html": "<p>Quando o banco não cumpre as exigências legais, a consequência não é receber todas as horas duas vezes. O art. 59-B da CLT diz que, se a duração máxima semanal não foi ultrapassada, a empresa deve apenas o adicional sobre as horas que passaram da jornada diária, porque a hora em si já foi paga dentro do salário.</p><p>O Tribunal Superior do Trabalho fixou tese em recurso repetitivo (IRR 19, certidão de julgamento de 24/2/2025) no mesmo sentido para o acordo de compensação descaracterizado: sobre as horas que passam da jornada normal até o limite de 44 horas semanais, é devido só o adicional; sobre as horas que passam de 44 na semana, é devida a hora cheia com o adicional. A mesma tese diz que a invalidade atinge o acordo inteiro, e não só as semanas em que houve falha.</p><h3>Exemplo</h3><p>Imagine uma jornada contratual de 8 horas de segunda a sexta e 4 horas no sábado. Numa semana, você trabalhou 9 horas de segunda a quinta e folgou no sábado para compensar, totalizando 44 horas. Se o banco for inválido, as 4 horas excedentes de segunda a quinta geram apenas o adicional (no mínimo 50%, pelo art. 59, § 1º), porque a semana não passou de 44 horas. Se na semana seguinte você fez 48 horas sem folga, as 4 horas acima de 44 são pagas integralmente, com adicional.</p>"
+  },
+  {
+   "h2": "Saldo positivo na rescisão: como as horas são pagas",
+   "html": "<p>Se o contrato termina antes de você compensar todas as horas do banco, a empresa precisa pagá-las. O art. 59, § 3º, da CLT diz que, na rescisão sem compensação integral, o trabalhador recebe as horas extras não compensadas calculadas sobre o valor da remuneração na data da rescisão. A regra vale para qualquer forma de saída: dispensa, pedido de demissão, acordo ou justa causa, porque se trata de trabalho já prestado.</p><h3>Exemplo de cálculo</h3><p>Salário de R$ 2.640,00 e jornada de 220 horas mensais dão uma hora normal de R$ 12,00. Com adicional de 50%, a hora extra vale R$ 18,00. Um saldo positivo de 30 horas no dia da rescisão representa R$ 540,00, que devem aparecer no termo de rescisão. Se a convenção coletiva da sua categoria prevê adicional maior, o cálculo usa o percentual da norma.</p><p>O cálculo é feito com o salário da data da saída, e não com o salário da época em que as horas foram feitas. Quem teve reajuste no meio do período recebe as horas antigas pelo valor atualizado. Confira também se as horas vencidas antes da rescisão (as que passaram do prazo de compensação) foram pagas no mês em que venceram, porque elas não precisam esperar o fim do contrato.</p>"
+  },
+  {
+   "h2": "Banco de horas negativo pode ser descontado na rescisão?",
+   "html": "<p>Saldo negativo aparece quando você trabalhou menos do que a jornada contratada, seja porque saiu mais cedo, seja porque a empresa dispensou a equipe em dias de pouco movimento. A CLT não tem artigo que autorize expressamente o desconto desse saldo na rescisão, e a resposta depende do caso.</p><p>Alguns limites legais ajudam. O art. 462 da CLT proíbe descontos no salário, salvo adiantamentos, previsão legal ou norma coletiva. O art. 477, § 5º, limita qualquer compensação feita no pagamento da rescisão ao equivalente a um mês de remuneração. E o art. 2º define o empregador como quem assume os riscos da atividade econômica, argumento usado quando foi a própria empresa que mandou o empregado para casa por falta de serviço.</p><p>Na prática, os tribunais olham para três perguntas, e há decisões nos dois sentidos:</p><ul><li>O acordo ou a convenção coletiva previa o desconto do saldo negativo na saída?</li><li>Quem deu causa às horas a menos: você, por atrasos e saídas pessoais, ou a empresa, por decisão de gestão?</li><li>O saldo está registrado de forma clara e você teve chance de compensá-lo dentro do prazo?</li></ul><p>Horas negativas geradas por ordem da empresa são o cenário em que o desconto é mais contestável. Se houve desconto que você considera indevido, guarde o termo de rescisão e o histórico do banco.</p>"
+  },
+  {
+   "h2": "Como conferir seu saldo e quanto tempo você tem para cobrar",
+   "html": "<p>Antes de assinar a rescisão ou de aceitar a informação de que as horas foram compensadas, reúna o que permite refazer a conta:</p><ul><li>Espelhos de ponto mensais, com entrada, saída e saldo acumulado.</li><li>O acordo individual escrito, se o banco for semestral, ou a convenção coletiva com a cláusula do banco anual.</li><li>Holerites, para ver se horas vencidas foram pagas como extras.</li><li>Mensagens em que o gestor pede para ficar além do horário ou comunica folgas compensatórias.</li></ul><p>O prazo para cobrar é o prazo trabalhista geral: com o contrato em andamento, você pode reclamar os últimos cinco anos; depois que ele termina, tem até dois anos para entrar com a ação, sempre limitada aos cinco anos anteriores ao ajuizamento (Constituição, art. 7º, XXIX, e CLT, art. 11). Hora que venceu há mais de cinco anos pode estar prescrita, então esperar tem custo.</p><p>Quando o saldo não bate ou a empresa se recusa a mostrar o histórico, uma conversa com advogado ajuda a medir o que é devido antes de qualquer acordo. A advogada Flávia Vaz Rabello atende questões de jornada e de <a href=\"/areas-de-atuacao/direito-do-trabalho\">direito do trabalho</a> em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "A empresa pode me obrigar a aderir ao banco de horas?",
+   "a": "Depende do formato. O banco anual previsto em convenção ou acordo coletivo vale para a categoria, sem assinatura individual. O banco semestral exige acordo individual escrito, ou seja, a sua concordância documentada. Se a empresa aplica banco semestral sem nenhum documento assinado, ele não cumpre a exigência do art. 59, § 5º, da CLT e as horas podem ser cobradas."
+  },
+  {
+   "q": "Quem decide o dia da folga compensatória?",
+   "a": "A CLT não define quem escolhe a data da folga. Em geral, a empresa organiza as compensações conforme a demanda, e o acordo ou a convenção coletiva pode trazer regras próprias, como aviso prévio da folga ou pedido do empregado. O limite é o prazo legal: se a folga não é concedida a tempo, a hora vira extra e precisa ser paga."
+  },
+  {
+   "q": "Uma hora extra no banco vale uma hora de folga ou mais?",
+   "a": "Pela CLT, a compensação é feita hora por hora, sem o adicional, desde que dentro do prazo e do limite de 10 horas diárias. Algumas normas coletivas estabelecem proporção diferente, por exemplo para horas feitas em domingos ou feriados. Por isso vale ler a convenção da sua categoria antes de conferir o saldo."
+  },
+  {
+   "q": "Posso pedir para receber as horas em dinheiro em vez de folgar?",
+   "a": "Enquanto o banco é válido e o prazo de compensação não venceu, a empresa pode optar por conceder folgas. Nada impede que as partes combinem o pagamento. Vencido o prazo sem compensação, ou encerrado o contrato com saldo positivo, o pagamento como hora extra passa a ser obrigação da empresa."
+  },
+  {
+   "q": "Pedi demissão e tenho horas negativas. A empresa vai descontar tudo?",
+   "a": "Não existe autorização expressa na CLT para esse desconto, e a solução depende do acordo que criou o banco e de quem gerou as horas a menos. Mesmo quando o desconto é aceito, o art. 477, § 5º, limita as compensações feitas na rescisão a um mês de remuneração. Confira o valor no termo antes de assinar."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CLT art. 59, caput e §§ 1º, 2º, 3º, 5º e 6º (limite de 2 horas extras, adicional mínimo de 50%, banco anual por norma coletiva com teto de 10 horas diárias, pagamento das horas não compensadas na rescisão pela remuneração da data da rescisão, banco semestral por acordo individual escrito, compensação mensal por acordo tácito ou escrito) e art. 59-B, caput e parágrafo único",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CLT art. 60 (licença prévia para prorrogação em atividade insalubre, exceção da 12x36), art. 611-A, II (banco de horas anual por norma coletiva), art. 462 (descontos), art. 477, § 5º (compensação na rescisão limitada a um mês de remuneração), art. 2º (riscos da atividade) e art. 11 (prescrição)",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Constituição, art. 7º, XIII (8 horas diárias e 44 semanais, compensação por acordo ou convenção) e XXIX (prescrição de 5 anos, até 2 anos após o fim do contrato)",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "TST, IRR 19 (tese certificada em 24/2/2025): descaracterização do acordo de compensação gera só o adicional até 44 horas semanais, hora cheia com adicional acima disso, e invalida todo o acordo; índice temático de precedentes qualificados atualizado em setembro de 2026",
+   "url": "https://www.tst.jus.br/indice-tematico-precedentes-qualificados-tst",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

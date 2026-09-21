@@ -1,5 +1,55 @@
 [
  {
+  "slug": "banco-de-horas",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Banco de horas: regras, prazos de compensação e o que acontece na rescisão",
+  "resumo": "Entenda quando o banco de horas é válido, quanto tempo a empresa tem para compensar as horas e o que acontece com o saldo quando o contrato termina.",
+  "data": "2026-10-09",
+  "imagem": "/images/blog/banco-de-horas.jpg",
+  "alt": "Relógio de ponto antigo fixado na parede"
+ },
+ {
+  "slug": "desvio-e-acumulo-de-funcao",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Desvio e acúmulo de função: quando dá direito a diferença salarial",
+  "resumo": "Fazer o trabalho de outro cargo, ou somar tarefas de duas funções, pode gerar diferenças salariais. Veja os critérios usados pela Justiça do Trabalho e como reunir provas.",
+  "data": "2026-10-09",
+  "imagem": "/images/blog/desvio-e-acumulo-de-funcao.jpg",
+  "alt": "Trabalhador operando uma empilhadeira em um depósito"
+ },
+ {
+  "slug": "equiparacao-salarial",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Equiparação salarial: requisitos para ganhar o mesmo que o colega",
+  "resumo": "Ganhar menos que um colega na mesma função pode dar direito a diferenças salariais. Veja os requisitos atuais da CLT, as exceções e as regras de igualdade entre mulheres e homens.",
+  "data": "2026-10-09",
+  "imagem": "/images/blog/equiparacao-salarial.jpg",
+  "alt": "Duas colegas de trabalho conversando diante do computador"
+ },
+ {
+  "slug": "pejotizacao-vinculo-empregaticio",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Contratado como PJ: quando existe vínculo de emprego",
+  "resumo": "Ser contratado como pessoa jurídica não impede, por si só, o reconhecimento de vínculo de emprego. Veja os critérios, o estado do julgamento no STF e como se preparar.",
+  "data": "2026-10-09",
+  "imagem": "/images/blog/pejotizacao-vinculo-empregaticio.jpg",
+  "alt": "Homem trabalhando no notebook e analisando um relatório"
+ },
+ {
+  "slug": "trabalho-sem-carteira-assinada",
+  "area": "direito-do-trabalho",
+  "categoria": "Trabalhista",
+  "h1": "Trabalho sem carteira assinada: seus direitos e como pedir o registro",
+  "resumo": "Quem trabalha sem registro tem os mesmos direitos de quem tem carteira assinada. Veja como provar o vínculo, pedir a anotação e cobrar férias, 13º e FGTS.",
+  "data": "2026-10-09",
+  "imagem": "/images/blog/trabalho-sem-carteira-assinada.jpg",
+  "alt": "Atendente de avental de braços cruzados atrás de um balcão"
+ },
+ {
   "slug": "adicional-de-insalubridade",
   "area": "direito-do-trabalho",
   "categoria": "Trabalhista",
