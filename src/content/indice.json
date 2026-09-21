@@ -1,1 +1,52 @@
-[]
+[
+ {
+  "slug": "casamento-homoafetivo-direitos",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Casamento homoafetivo no Brasil: requisitos, registro e efeitos legais",
+  "resumo": "Casais do mesmo sexo podem casar no civil ou converter a união estável em casamento direto no cartório. Veja o que diz a decisão do STF, como é a habilitação e quais direitos o casamento garante.",
+  "data": "2026-09-21",
+  "imagem": "/images/blog/casamento-homoafetivo-direitos.jpg",
+  "alt": "Dois homens de mãos dadas usando alianças de casamento"
+ },
+ {
+  "slug": "modificacao-de-guarda",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Modificação de guarda: quando é possível pedir e o que o juiz avalia",
+  "resumo": "A guarda definida em acordo ou sentença pode ser revista quando a situação da família muda. Veja os motivos aceitos, como funciona o processo e o que pesa na decisão do juiz.",
+  "data": "2026-09-21",
+  "imagem": "/images/blog/modificacao-de-guarda.jpg",
+  "alt": "Mão de adulto segurando a mão de uma criança"
+ },
+ {
+  "slug": "pacto-antenupcial-como-fazer",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Pacto antenupcial: como fazer, quanto custa e quando é obrigatório",
+  "resumo": "O passo a passo do pacto antenupcial em cartório, os casos em que a lei exige a escritura e o que muda para quem tem mais de 70 anos.",
+  "data": "2026-09-21",
+  "imagem": "/images/blog/pacto-antenupcial-como-fazer.jpg",
+  "alt": "Alianças de casamento apoiadas sobre um documento impresso"
+ },
+ {
+  "slug": "partilha-de-bens-no-divorcio",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Partilha de bens no divórcio: o que entra na divisão e o que fica de fora",
+  "resumo": "O regime de bens define o que será dividido quando o casamento ou a união estável acaba. Veja o que entra, o que fica de fora e como fazer a partilha no cartório ou na Justiça.",
+  "data": "2026-09-21",
+  "imagem": "/images/blog/partilha-de-bens-no-divorcio.jpg",
+  "alt": "Miniatura de casa e chaves sobre uma mesa de madeira"
+ },
+ {
+  "slug": "paternidade-socioafetiva-requisitos",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Paternidade socioafetiva: requisitos e como reconhecer em cartório",
+  "resumo": "Quem cria um filho como seu pode registrar esse vínculo em cartório se o filho tiver mais de 12 anos e todos concordarem. Veja os requisitos, os documentos e os efeitos do registro.",
+  "data": "2026-09-21",
+  "imagem": "/images/blog/paternidade-socioafetiva-requisitos.jpg",
+  "alt": "Homem abraçando uma criança ao ar livre"
+ }
+]
