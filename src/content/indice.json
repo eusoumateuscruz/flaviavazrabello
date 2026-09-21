@@ -1,5 +1,55 @@
 [
  {
+  "slug": "adocao-de-crianca-como-funciona",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Adoção de criança: como funciona o processo, do cadastro à sentença",
+  "resumo": "A adoção passa por habilitação na Vara da Infância, inscrição no cadastro nacional, estágio de convivência e sentença. Veja requisitos, prazos legais e os erros que atrasam o processo.",
+  "data": "2026-09-24",
+  "imagem": "/images/blog/adocao-de-crianca-como-funciona.jpg",
+  "alt": "Mão de criança apoiada sobre a mão de um adulto"
+ },
+ {
+  "slug": "autorizacao-de-viagem-para-menor",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Autorização de viagem para menor: quando é exigida e como fazer",
+  "resumo": "Viagem nacional exige autorização só para menores de 16 anos sem os pais; ao exterior, a regra vale até os 18. Veja quem assina, como fazer e quanto tempo vale.",
+  "data": "2026-09-24",
+  "imagem": "/images/blog/autorizacao-de-viagem-para-menor.jpg",
+  "alt": "Adultos e criança caminhando até um avião na pista"
+ },
+ {
+  "slug": "dissolucao-de-uniao-estavel",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Dissolução de união estável: como fazer em cartório ou na Justiça",
+  "resumo": "Os dois caminhos para encerrar a união estável, os requisitos da via extrajudicial, o que mudou para casais com filhos menores e como funciona o processo judicial.",
+  "data": "2026-09-24",
+  "imagem": "/images/blog/dissolucao-de-uniao-estavel.jpg",
+  "alt": "Mão assinando um documento sobre uma mesa de madeira"
+ },
+ {
+  "slug": "mudanca-de-nome-e-sobrenome",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Mudança de nome e sobrenome no cartório: o que a lei permite hoje",
+  "resumo": "Desde a Lei 14.382/2022, adultos podem trocar o prenome uma vez sem motivo e várias mudanças de sobrenome saem direto no cartório. Veja o que exige juiz.",
+  "data": "2026-09-24",
+  "imagem": "/images/blog/mudanca-de-nome-e-sobrenome.jpg",
+  "alt": "Assinatura em uma certidão com selo vermelho"
+ },
+ {
+  "slug": "mudar-de-cidade-com-filho",
+  "area": "direito-de-familia",
+  "categoria": "Família",
+  "h1": "Mudar de cidade com o filho: é preciso autorização do outro genitor?",
+  "resumo": "A mudança de cidade com o filho envolve o poder familiar dos dois pais. Veja quando o consentimento do outro genitor é exigido, como pedir autorização ao juiz e o que os tribunais consideram.",
+  "data": "2026-09-24",
+  "imagem": "/images/blog/mudar-de-cidade-com-filho.jpg",
+  "alt": "Mãe arrumando caixas de mudança enquanto a criança brinca no quarto"
+ },
+ {
   "slug": "alvara-judicial-dinheiro-de-falecido",
   "area": "direito-de-familia",
   "categoria": "Família",
