@@ -41,14 +41,18 @@ if (erros.length) {
   process.exit(1);
 }
 
+// Só entra no site o artigo cuja data já chegou (fuso de Brasília). Os de data futura
+// ficam guardados em src/content/artigos/ e são liberados pela automação diária do repo
+// do site publicado (flavia-vaz-rabello-site, .github/workflows/publicar-do-dia.yml).
+const hoje = new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
 const indice = artigos
+  .filter((a) => a.data <= hoje)
   .map(({ slug, area, categoria, h1, resumo, data, imagem, alt }) => ({ slug, area, categoria, h1, resumo, data, imagem, alt }))
   .sort((a, b) => b.data.localeCompare(a.data) || a.slug.localeCompare(b.slug));
 fs.writeFileSync(path.join(RAIZ, "src/content/indice.json"), JSON.stringify(indice, null, 1) + "\n", "utf8");
 
 // Sitemap: rotas fixas + posts antigos (src/data/blogPosts.tsx) + artigos em JSON.
 const antigos = [...fs.readFileSync(path.join(RAIZ, "src/data/blogPosts.tsx"), "utf8").matchAll(/^\s{4}slug: "([^"]+)"/gm)].map((m) => m[1]);
-const hoje = new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
 const fixas = [
   ["/", "1.0"], ["/sobre", "0.9"], ["/areas-de-atuacao", "0.9"],
   ...Object.keys(CATEGORIAS).map((a) => [`/areas-de-atuacao/${a}`, "0.8"]),
@@ -61,8 +65,7 @@ const xml = [
   '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
   ...fixas.map(([l, p]) => linha(l, p)),
   ...antigos.map((s) => linha(`/blog/${s}`, "0.8")),
-  // lastmod nunca no futuro: artigo com data a frente leva a data de hoje.
-  ...indice.map((a) => linha(`/blog/${a.slug}`, "0.8", a.data > hoje ? hoje : a.data)),
+  ...indice.map((a) => linha(`/blog/${a.slug}`, "0.8", a.data)),
   "</urlset>",
 ].join("\n") + "\n";
 fs.writeFileSync(path.join(RAIZ, "public/sitemap.xml"), xml, "utf8");
