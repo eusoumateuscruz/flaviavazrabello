@@ -1,0 +1,99 @@
+{
+ "slug": "clausula-penal-multa-contratual",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Cláusula penal: limites da multa contratual e quando o juiz pode reduzir",
+ "title": "Cláusula penal: limite da multa e quando o juiz reduz",
+ "description": "Cláusula penal no Código Civil: diferença entre multa moratória e compensatória, limite do art. 412, redução pelo juiz no art. 413 e o que o STJ já decidiu.",
+ "resumo": "A multa contratual não pode passar do valor da obrigação e pode ser reduzida quando é excessiva ou quando parte do contrato foi cumprida. Entenda as regras e os limites.",
+ "data": "2026-10-11",
+ "imagem": "/images/blog/clausula-penal-multa-contratual.jpg",
+ "alt": "Máquina de escrever com uma folha onde se lê contrato",
+ "resposta": "A cláusula penal é a multa prevista no contrato para o caso de descumprimento ou atraso. Pelo Código Civil, ela não pode exceder o valor da obrigação principal (art. 412) e deve ser reduzida de forma equitativa pelo juiz quando a obrigação foi cumprida em parte ou quando o valor é manifestamente excessivo (art. 413). O STJ entende que essa redução pode ser feita até sem pedido do devedor. Para cobrar a multa, o credor não precisa provar prejuízo.",
+ "intro": "<p>Quase todo contrato tem uma cláusula de multa: 10% sobre o valor em caso de rescisão, 2% por atraso, três aluguéis se o inquilino sair antes, o valor integral do contrato se o fornecedor desistir. A dúvida aparece quando a multa chega: ela vale mesmo? Dá para cobrar a multa e ainda pedir indenização? E se parecer desproporcional?</p><p>As respostas estão nos arts. 408 a 416 do Código Civil e em decisões do Superior Tribunal de Justiça. Entender essas regras é parte da <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica em contratos</a>, tanto para quem redige quanto para quem precisa contestar uma cobrança. Cada contrato, porém, tem redação e contexto próprios, e a análise abaixo não substitui a revisão do seu caso.</p>",
+ "secoes": [
+  {
+   "h2": "O que é cláusula penal e quando ela passa a valer",
+   "html": "<p>Cláusula penal, também chamada pena convencional ou multa contratual, é o valor que as partes combinam de antemão para o caso de descumprimento. Pelo art. 408, o devedor incorre na multa de pleno direito quando, <strong>culposamente</strong>, deixa de cumprir a obrigação ou se constitui em mora. Se o descumprimento decorreu de caso fortuito, força maior ou culpa da outra parte, em regra a multa não incide.</p><p>A multa pode ser estipulada junto com o contrato ou em ato posterior, e pode se referir à inexecução completa, ao descumprimento de uma cláusula específica ou simplesmente ao atraso (art. 409). A grande vantagem para o credor está no art. 416: para exigir a pena convencional, não é necessário alegar nem provar prejuízo. Basta demonstrar o descumprimento.</p><p>Por isso a cláusula penal cumpre duas funções ao mesmo tempo: pressiona o devedor a cumprir e já deixa pré-fixado o valor da indenização, poupando as partes de uma discussão longa sobre o tamanho do dano.</p>"
+  },
+  {
+   "h2": "Multa moratória e multa compensatória: a diferença que muda a conta",
+   "html": "<p>A multa compensatória é prevista para o inadimplemento total. Nesse caso, o art. 410 diz que ela se converte em alternativa a benefício do credor: ou ele cobra a multa, ou exige o cumprimento da obrigação, mas não as duas coisas, porque a multa já substitui a prestação.</p><p>A multa moratória é prevista para o atraso ou para garantir uma cláusula específica. Pelo art. 411, o credor pode exigir a multa junto com o cumprimento da obrigação principal. É o caso da multa de 2% sobre a parcela paga com atraso: o devedor paga a parcela e a multa.</p><h3>O que o STJ decidiu sobre atraso na entrega de imóvel</h3><p>Nos Temas 970 e 971, julgados em 2019 pela Segunda Seção, o STJ fixou que a cláusula penal moratória tem a finalidade de indenizar pelo atraso e, em regra, quando estabelecida em valor equivalente ao aluguel, não se cumula com lucros cessantes. Também decidiu que, em contrato de adesão com construtora que só prevê multa contra o comprador, essa multa deve ser considerada para indenizar o comprador quando é a vendedora quem descumpre. As teses foram fixadas para contratos anteriores à Lei 13.786/2018.</p>"
+  },
+  {
+   "h2": "O limite do art. 412 e os tetos das leis especiais",
+   "html": "<p>A regra geral está no art. 412: o valor da multa não pode exceder o da obrigação principal. Num contrato de R$ 50 mil, a cláusula penal não pode passar de R$ 50 mil. O excesso é ineficaz, e a multa fica limitada a esse teto.</p><p>Algumas leis fixam limites bem menores para situações específicas:</p><ul><li>nos contratos de consumo que envolvem crédito ou financiamento, a multa de mora não pode superar 2% do valor da prestação (CDC, art. 52, § 1º);</li><li>no condomínio edilício, o condômino inadimplente fica sujeito a multa de até 2% sobre o débito, além de correção e juros (art. 1.336, § 1º, do Código Civil, com redação dada pela Lei 14.905/2024).</li></ul><p>Estar abaixo do teto do art. 412 não significa que a multa está automaticamente correta. Uma multa igual a 100% do valor do contrato respeita o limite legal, mas ainda pode ser considerada manifestamente excessiva e reduzida, como mostra a seção seguinte.</p><p>Juros e correção sobre a multa também seguem regras novas. Se o contrato não definir índice, aplica-se o IPCA (art. 389, parágrafo único), e os juros legais correspondem à Selic deduzida da atualização monetária (art. 406), conforme a Lei 14.905/2024.</p>"
+  },
+  {
+   "h2": "Quando o juiz pode reduzir a multa contratual",
+   "html": "<p>O art. 413 determina que a penalidade deve ser reduzida equitativamente pelo juiz em duas situações: se a obrigação principal foi cumprida em parte, ou se o montante for manifestamente excessivo, considerando a natureza e a finalidade do negócio.</p><p>O STJ trata essa redução como norma de ordem pública. Em 2018, a Quarta Turma decidiu, no REsp 1.447.247, que, constatado o caráter manifestamente excessivo da multa, o juiz deve reduzi-la mesmo sem pedido do devedor. Em 2021, no REsp 1.898.738, a Terceira Turma afirmou que a redução por pagamento parcial é dever do juiz e direito do devedor, e que o cálculo não é uma simples proporção matemática: entram na conta o tempo de atraso, o montante já quitado, o grau de culpa, a situação econômica do devedor e eventual desequilíbrio de forças entre as partes.</p><h3>Quando a redução é mais difícil</h3><p>Em contratos empresariais entre partes de porte equivalente, o espaço para reduzir é menor. O art. 421-A, incluído pela Lei 13.874/2019, presume paridade nos contratos civis e empresariais e diz que a revisão deve ser excepcional. No REsp 1.803.803, de 2021, a Terceira Turma manteve integralmente a multa de um contrato de patrocínio rescindido antes do prazo, por entender que prevalecia a função coercitiva da cláusula e que não havia assimetria entre as empresas.</p>"
+  },
+  {
+   "h2": "Multa ou indenização: dá para cobrar as duas",
+   "html": "<p>Em regra, não. O parágrafo único do art. 416 diz que, mesmo que o prejuízo seja maior que a multa, o credor não pode exigir indenização suplementar se isso não foi convencionado. Se o contrato previu expressamente a indenização suplementar, a multa passa a valer como mínimo, e o credor precisa provar o prejuízo que excede esse valor.</p><p>Exemplo: um contrato de fornecimento de R$ 80 mil prevê multa compensatória de 20%, ou R$ 16 mil, para o caso de desistência. O fornecedor desiste e o comprador precisa contratar outro por R$ 110 mil, com prejuízo de R$ 30 mil. Se o contrato não tiver cláusula de indenização suplementar, o comprador recebe só os R$ 16 mil da multa, sem precisar provar nada. Se tiver, pode cobrar os R$ 30 mil, desde que prove o dano.</p><p>Nas obrigações de pagar dinheiro, o art. 404 prevê que as perdas e danos incluem atualização, juros, custas e honorários, sem prejuízo da pena convencional, e o seu parágrafo único só autoriza indenização suplementar ao credor, quando os juros não cobrem o prejuízo, se não houver pena convencional. Por isso a redação da cláusula é decisiva.</p>"
+  },
+  {
+   "h2": "Erros comuns ao redigir ou contestar uma cláusula penal",
+   "html": "<p>Boa parte dos litígios sobre multa nasce de cláusulas mal escritas. Os erros mais frequentes são:</p><ul><li>não dizer se a multa é moratória ou compensatória, o que abre discussão sobre a possibilidade de cumular multa e cumprimento;</li><li>fixar multa sobre o valor total do contrato mesmo para descumprimentos pequenos;</li><li>confundir cláusula penal com arras penitenciais, que têm regime próprio no art. 420 e excluem indenização suplementar;</li><li>esquecer de prever indenização suplementar quando o dano potencial é muito maior que a multa;</li><li>prever multa só para uma das partes em contrato que depois será discutido como de adesão.</li></ul><p>Quem recebeu uma cobrança de multa deve reunir o contrato, os comprovantes do que já foi cumprido ou pago, as mensagens sobre o motivo do descumprimento e qualquer prova de que a outra parte também falhou. Esses elementos sustentam um pedido de redução pelo art. 413 ou a alegação de que não houve culpa. A advogada Flávia Vaz Rabello analisa cláusulas penais e cobranças de multa contratual em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Multa de 50% na rescisão de contrato é abusiva?",
+   "a": "Depende do contrato. O percentual respeita o teto do art. 412, mas pode ser reduzido se for manifestamente excessivo diante da natureza do negócio ou se parte do contrato já foi cumprida. Em relação de consumo, o CDC permite anular cláusulas que coloquem o consumidor em desvantagem exagerada."
+  },
+  {
+   "q": "Posso me recusar a pagar a multa contratual?",
+   "a": "Recusar sem fundamento pode gerar cobrança judicial com juros e honorários. Há defesa quando o descumprimento não foi culposo, quando a outra parte também descumpriu ou quando a multa é excessiva. O caminho mais seguro é contestar por escrito e, se necessário, pedir a redução em juízo."
+  },
+  {
+   "q": "A multa contratual prescreve?",
+   "a": "Sim, a pretensão de cobrar a multa está sujeita a prazo prescricional, que varia conforme o tipo de contrato e a natureza da cobrança. Como há regras diferentes no Código Civil e interpretações distintas nos tribunais, confira o prazo aplicável ao seu caso antes de cobrar ou de se defender."
+  },
+  {
+   "q": "O juiz pode aumentar a multa se ela for pequena demais?",
+   "a": "Em regra, não. O art. 413 só autoriza reduzir. Se a multa não cobre o prejuízo, o credor só pode buscar indenização suplementar se o contrato tiver previsto essa possibilidade, e nesse caso precisa provar o dano que excede o valor da multa."
+  },
+  {
+   "q": "Cláusula penal e juros de mora podem ser cobrados juntos?",
+   "a": "Podem. A multa moratória pune o atraso, enquanto os juros remuneram o tempo em que o dinheiro ficou com o devedor. O art. 404 prevê juros, atualização, custas e honorários sem prejuízo da pena convencional. O que se discute é a cumulação de multa com outras indenizações pelo mesmo fato."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CC arts. 408 a 416 (cláusula penal; art. 412, limite do valor da obrigação principal; art. 413, redução equitativa; art. 416, dispensa de prova do prejuízo e indenização suplementar), arts. 389, 404, 406, 420, 421-A e 1.336, § 1º",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 1.447.247-SP, Quarta Turma, julgado em 19/4/2018: redução de ofício da cláusula penal manifestamente excessiva",
+   "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?aplicacao=informativo&acao=pesquisar&livre=%40CNOT%3D%27016696%27",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 1.898.738, Terceira Turma (2021): redução por pagamento parcial é dever do juiz; critérios de tempo de atraso, valor quitado e situação do devedor",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/24052021-Reducao-da-clausula-penal-por-pagamento-tardio-deve-ser-proporcional-e-equitativa-.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 1.803.803-RJ, Terceira Turma, julgado em 9/11/2021: multa mantida em contrato de patrocínio sem assimetria entre as partes",
+   "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?aplicacao=informativo&acao=pesquisar&livre=@CNOT%3D'018645'",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Temas 970 e 971, Segunda Seção, 24/5/2019: cláusula penal moratória e lucros cessantes; inversão da multa em contrato de adesão com construtora",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2019/Segunda-Secao-fixa-teses-sobre-penalidades-por-atraso-na-entrega-de-imovel.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CDC art. 51, IV (nulidade de cláusula que coloque o consumidor em desvantagem exagerada) e art. 52, § 1º (multa de mora limitada a 2% da prestação em crédito ao consumidor)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 14.905/2024 (IPCA supletivo, taxa legal pela Selic e nova redação do art. 1.336, § 1º, do CC)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14905.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

@@ -1,5 +1,55 @@
 [
  {
+  "slug": "clausula-penal-multa-contratual",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Cláusula penal: limites da multa contratual e quando o juiz pode reduzir",
+  "resumo": "A multa contratual não pode passar do valor da obrigação e pode ser reduzida quando é excessiva ou quando parte do contrato foi cumprida. Entenda as regras e os limites.",
+  "data": "2026-10-11",
+  "imagem": "/images/blog/clausula-penal-multa-contratual.jpg",
+  "alt": "Máquina de escrever com uma folha onde se lê contrato"
+ },
+ {
+  "slug": "contrato-de-compra-e-venda-de-imovel",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Contrato de compra e venda de imóvel: cláusulas que protegem as duas partes",
+  "resumo": "O contrato particular organiza o negócio, mas não transfere a propriedade. Veja quais cláusulas protegem comprador e vendedor, como funciona o sinal e o que conferir antes de assinar.",
+  "data": "2026-10-11",
+  "imagem": "/images/blog/contrato-de-compra-e-venda-de-imovel.jpg",
+  "alt": "Corretora mostrando um contrato a um casal dentro de casa"
+ },
+ {
+  "slug": "contrato-de-prestacao-de-servicos",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Contrato de prestação de serviços: o que não pode faltar",
+  "resumo": "Escopo vago e rescisão sem regra são as maiores fontes de briga entre quem contrata e quem presta serviço. Veja as cláusulas essenciais e os limites do Código Civil.",
+  "data": "2026-10-11",
+  "imagem": "/images/blog/contrato-de-prestacao-de-servicos.jpg",
+  "alt": "Duas profissionais apertando as mãos sobre uma mesa de reunião"
+ },
+ {
+  "slug": "notificacao-extrajudicial",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Notificação extrajudicial: para que serve e como enviar com validade",
+  "resumo": "A notificação extrajudicial formaliza uma cobrança, um aviso de rescisão ou um pedido de providência, e pode colocar o devedor em mora. Veja como redigir e qual meio de envio escolher.",
+  "data": "2026-10-11",
+  "imagem": "/images/blog/notificacao-extrajudicial.jpg",
+  "alt": "Envelopes de correspondência empilhados sobre a mesa"
+ },
+ {
+  "slug": "quebra-de-contrato-o-que-fazer",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Quebra de contrato: o que fazer quando a outra parte não cumpre",
+  "resumo": "Quando a outra parte descumpre, você pode exigir o cumprimento ou desfazer o contrato, sempre com direito a indenização. Veja a ordem certa dos passos e o que dá para cobrar.",
+  "data": "2026-10-11",
+  "imagem": "/images/blog/quebra-de-contrato-o-que-fazer.jpg",
+  "alt": "Dois empresários conversando seriamente diante de um notebook"
+ },
+ {
   "slug": "acidente-de-trabalho-direitos",
   "area": "direito-do-trabalho",
   "categoria": "Trabalhista",

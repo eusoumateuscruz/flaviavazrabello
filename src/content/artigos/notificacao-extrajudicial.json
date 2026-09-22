@@ -1,0 +1,99 @@
+{
+ "slug": "notificacao-extrajudicial",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Notificação extrajudicial: para que serve e como enviar com validade",
+ "title": "Notificação extrajudicial: para que serve e como enviar",
+ "description": "Notificação extrajudicial: quando usar, o que escrever, envio por cartório de títulos e documentos, e-mail ou WhatsApp, e o que o STJ decidiu sobre validade.",
+ "resumo": "A notificação extrajudicial formaliza uma cobrança, um aviso de rescisão ou um pedido de providência, e pode colocar o devedor em mora. Veja como redigir e qual meio de envio escolher.",
+ "data": "2026-10-11",
+ "imagem": "/images/blog/notificacao-extrajudicial.jpg",
+ "alt": "Envelopes de correspondência empilhados sobre a mesa",
+ "resposta": "A notificação extrajudicial é uma comunicação formal, feita fora do processo, para dar ciência de um fato ou exigir uma providência: cobrar uma dívida, avisar a rescisão de um contrato, constituir o devedor em mora ou dar prazo para cumprir uma obrigação. Pode ser enviada pelo cartório de títulos e documentos, que certifica a entrega, por carta com aviso de recebimento ou por meio eletrônico. O que dá validade é a prova de que o destinatário recebeu.",
+ "intro": "<p>Antes de entrar na Justiça, quase sempre vale formalizar o problema por escrito. Uma notificação bem feita pode resolver a cobrança sem processo e, se não resolver, vira prova de que a outra parte foi avisada e teve prazo para agir. Em muitos contratos ela é condição para rescindir, cobrar multa ou considerar alguém em atraso.</p><p>A dúvida mais comum é sobre o meio: cartório, carta, e-mail ou WhatsApp. A resposta depende da finalidade e do que o contrato ou a lei exigem no caso. As regras abaixo ajudam a escolher, dentro do trabalho de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica em contratos e cobranças</a>, mas não substituem a revisão do seu contrato, que pode prever forma e endereço específicos para notificações.</p>",
+ "secoes": [
+  {
+   "h2": "Para que serve a notificação extrajudicial",
+   "html": "<p>A notificação tem efeitos jurídicos concretos, previstos em lei:</p><ul><li><strong>constituir o devedor em mora</strong>: quando a obrigação não tem data certa de vencimento, a mora só começa com interpelação judicial ou extrajudicial (art. 397, parágrafo único, do Código Civil);</li><li>encerrar contratos por prazo indeterminado: a resilição unilateral, quando a lei permite, opera mediante denúncia notificada à outra parte (art. 473);</li><li>dar prazo para cumprir antes de pedir a resolução do contrato ou cobrar multa;</li><li>registrar reclamações, recusas e propostas de acordo, criando prova documental.</li></ul><p>Há um limite que muita gente desconhece. A notificação extrajudicial enviada pelo credor não interrompe a prescrição. O art. 202 do Código Civil lista as hipóteses de interrupção, e entre elas estão o despacho que ordena a citação, o protesto judicial, o protesto cambial e qualquer ato judicial que constitua o devedor em mora. A exceção extrajudicial é o ato inequívoco do próprio devedor que reconheça o direito (art. 202, VI): se ele responde admitindo a dívida, essa resposta interrompe o prazo. Quem está perto de perder o prazo precisa de outra medida.</p>"
+  },
+  {
+   "h2": "O que escrever na notificação",
+   "html": "<p>Uma notificação eficiente é objetiva e verificável. Ela deve conter:</p><ul><li>identificação completa de quem notifica e de quem é notificado, com CPF ou CNPJ e endereço;</li><li>a relação jurídica envolvida: número e data do contrato, pedido ou nota;</li><li>o fato: o que foi descumprido, desde quando e em qual valor, com memória de cálculo se houver cobrança;</li><li>o pedido: pagar, entregar, desocupar, corrigir, se manifestar;</li><li>prazo claro, contado do recebimento, e forma de cumprimento (conta para depósito, endereço para entrega);</li><li>a consequência do não atendimento, dentro do que o contrato e a lei permitem;</li><li>local, data e assinatura.</li></ul><p>Na notificação de cobrança, informe o valor atualizado e o critério usado. Se o contrato não fixar índice, a correção é pelo IPCA (art. 389, parágrafo único), e os juros legais seguem o art. 406, com a taxa Selic deduzida da atualização monetária, conforme a Lei 14.905/2024.</p><p>Evite ameaças que você não pode cumprir, exposição do devedor a terceiros e acusações sem prova. Tudo o que estiver escrito pode ser usado depois, inclusive contra quem notificou. Tom sóbrio e fatos documentados funcionam melhor que adjetivos.</p>"
+  },
+  {
+   "h2": "Notificação pelo cartório de títulos e documentos",
+   "html": "<p>O art. 160 da Lei de Registros Públicos (Lei 6.015/1973) autoriza o oficial de registro de títulos e documentos a fazer avisos, denúncias e notificações quando não for exigida intervenção judicial. O cartório registra o documento, envia ou entrega ao destinatário e certifica o resultado da diligência. O oficial também pode requisitar a outros cartórios as notificações a serem feitas em outros municípios.</p><p>A vantagem é a prova: o cartório atesta o conteúdo da notificação, a data e se ela foi entregue, e as certidões do registro têm o mesmo valor probante dos documentos originais registrados (art. 161, com redação da Lei 14.382/2022). Isso afasta a alegação de que a carta chegou vazia ou com outro texto.</p><p>Na prática, você leva o texto em vias impressas ou em formato eletrônico aceito pelo cartório, com os dados do destinatário. Se ele não for encontrado ou se recusar a receber, o cartório certifica isso, e a certidão negativa também serve de prova das tentativas. O custo segue a tabela oficial de emolumentos do estado, que muda todo ano: consulte o cartório de títulos e documentos antes de enviar.</p>"
+  },
+  {
+   "h2": "Carta com AR, e-mail e WhatsApp: valem como notificação",
+   "html": "<p>Quando a lei não exige uma forma específica, a declaração de vontade não depende de forma especial (art. 107 do Código Civil). Isso abre espaço para carta com aviso de recebimento, e-mail e aplicativos de mensagem. A questão é a prova: quem notifica precisa demonstrar que a mensagem chegou ao destinatário, e não apenas que foi enviada.</p><h3>O que o STJ decidiu sobre e-mail</h3><p>O tema foi discutido nas ações de busca e apreensão de bens financiados com alienação fiduciária. Em 2023, a Terceira Turma entendeu que a mora do devedor fiduciante não podia ser comprovada por notificação por e-mail (REsp 2.022.423). Em junho de 2025, a Segunda Seção, que uniformiza o entendimento das turmas de direito privado, decidiu que a notificação por e-mail é válida para comprovar a mora quando enviada ao endereço eletrônico indicado no contrato e confirmado o seu recebimento, independentemente de quem o tenha recebido (REsp 2.183.860).</p><p>Essa decisão trata de um tipo específico de contrato. Para outras situações, e para o WhatsApp, não há regra legal geral: a validade tende a ser examinada caso a caso, com base na prova do recebimento, como confirmação de leitura, resposta do destinatário ou uso de número informado no contrato. Por isso, em notificações importantes, vale combinar meios: e-mail ou mensagem para agilidade e cartório ou carta com AR para segurança. Se o contrato definir endereços para notificação, use exatamente esses.</p>"
+  },
+  {
+   "h2": "Quando a notificação precisa ser judicial",
+   "html": "<p>Algumas situações pedem intervenção do juiz. O CPC prevê, nos arts. 726 a 729, a notificação e a interpelação judiciais: quem tiver interesse em manifestar formalmente sua vontade sobre assunto juridicamente relevante pode notificar as pessoas da mesma relação jurídica, e pode ainda interpelar o requerido para que faça ou deixe de fazer algo. Depois de feita a notificação, os autos são entregues ao requerente (art. 729).</p><p>A via judicial é útil, por exemplo, quando:</p><ul><li>o contrato não tem cláusula resolutiva expressa e você quer desfazê-lo, já que a cláusula resolutiva tácita depende de interpelação judicial (art. 474 do Código Civil);</li><li>é preciso interromper a prescrição, o que a notificação extrajudicial do credor não faz;</li><li>se quer averbar a notificação em registro público, hipótese em que o requerido é ouvido antes (art. 728, II).</li></ul><p>O procedimento judicial é mais lento e tem custas, e exige advogado. Para a maioria das cobranças e avisos de rescisão, a notificação extrajudicial bem documentada é suficiente como primeiro passo.</p>"
+  },
+  {
+   "h2": "Erros comuns e o que fazer depois de notificar",
+   "html": "<p>Os erros que mais tiram a força de uma notificação são:</p><ul><li>enviar para endereço diferente do indicado no contrato;</li><li>não guardar prova do recebimento, confiando apenas no envio;</li><li>dar prazo incompatível com o contrato ou com a lei, como aviso menor que o previsto na cláusula de rescisão;</li><li>cobrar valor sem demonstrar como foi calculado;</li><li>tratar a notificação como garantia de que a prescrição parou de correr.</li></ul><p>Depois do prazo, há três cenários. Se a outra parte cumpriu, registre a quitação por escrito. Se respondeu com proposta, qualquer acordo deve ser formalizado com valores, datas e consequências do novo atraso. Se ficou em silêncio, a notificação passa a ser prova no processo, seja uma ação de cobrança, uma execução de título extrajudicial ou um pedido de resolução do contrato.</p><p>Guarde o comprovante, a certidão do cartório ou as capturas de tela com data e número, junto com o contrato. Notificação não precisa de advogado, mas uma revisão prévia evita pedir mais do que o contrato permite. A advogada Flávia Vaz Rabello redige notificações extrajudiciais em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Notificação extrajudicial pode ser enviada por WhatsApp?",
+   "a": "Pode ser usada, mas a validade depende da prova de que o destinatário recebeu, como confirmação de leitura, resposta ou número indicado no contrato. Não há regra legal geral sobre o aplicativo. Em notificações importantes, combine a mensagem com cartório ou carta com aviso de recebimento."
+  },
+  {
+   "q": "Notificação extrajudicial precisa de advogado?",
+   "a": "Não. Qualquer pessoa pode redigir e enviar a própria notificação, inclusive pelo cartório de títulos e documentos. A orientação jurídica ajuda a definir prazo, valor e consequências compatíveis com o contrato, evitando que o texto seja usado contra quem notificou."
+  },
+  {
+   "q": "E se a pessoa se recusar a receber a notificação?",
+   "a": "O cartório certifica a recusa ou a ausência, e essa certidão serve de prova da tentativa. Nos financiamentos com alienação fiduciária, o STJ fixou no Tema 1.132 que basta provar o envio ao endereço do contrato, mesmo se a carta voltar como ausente. Fora desse caso, não há regra geral: use o endereço do contrato e, se preciso, outros meios."
+  },
+  {
+   "q": "Quanto tempo de prazo devo dar na notificação?",
+   "a": "Primeiro, siga o contrato: se ele prevê aviso de 30 dias para rescisão, esse é o mínimo. Sem previsão, dê prazo razoável para a providência pedida, compatível com o tipo de obrigação. Prazos curtos demais podem ser questionados depois como falta de boa-fé."
+  },
+  {
+   "q": "A notificação de cobrança pode ser enviada para o trabalho do devedor?",
+   "a": "Pode, desde que não exponha o devedor a colegas ou terceiros de forma constrangedora. A cobrança não pode ridicularizar nem ameaçar. Prefira o endereço indicado no contrato, envelope fechado e texto dirigido apenas ao devedor, sem detalhes da dívida visíveis a outras pessoas."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 6.015/1973, art. 160 (notificações, avisos e denúncias pelo registro de títulos e documentos) e art. 161 (certidões com o mesmo valor probante, redação da Lei 14.382/2022)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CPC arts. 726 a 729 (notificação e interpelação judiciais)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CC arts. 107, 202 (hipóteses de interrupção da prescrição), 389, 397, parágrafo único (mora por interpelação), 406, 473 e 474",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 2.183.860, Segunda Seção, junho de 2025: notificação por e-mail válida para comprovar mora do devedor fiduciante se enviada ao endereço do contrato e confirmado o recebimento",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/25062025-Notificacao-extrajudicial-por-email-e-valida-para-comprovar-atraso-do-devedor-fiduciante--decide-Segunda-Secao.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, REsp 2.022.423, Terceira Turma, agosto de 2023: entendimento anterior que não admitia e-mail para comprovar a mora em alienação fiduciária",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/29082023-Em-acao-de-busca-e-apreensao--mora-do-devedor-nao-pode-ser-comprovada-pelo-envio-de-notificacao-por-e-mail.aspx",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Tema 1.132 (REsp 1.951.662 e 1.951.888, Segunda Seção, 9/8/2023): na alienação fiduciária basta comprovar o envio da notificação ao endereço do contrato, sem necessidade de recebimento pessoal, inclusive quando devolvida como ausente",
+   "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?aplicacao=informativo&acao=pesquisar&livre=%40CNOT%3D%27020141%27",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Lei 14.905/2024 (IPCA supletivo e taxa legal pela Selic menos atualização monetária)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14905.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}
