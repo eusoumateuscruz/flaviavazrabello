@@ -1,5 +1,55 @@
 [
  {
+  "slug": "adjudicacao-compulsoria",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Adjudicação compulsória: como obter a escritura quando o vendedor não assina",
+  "resumo": "Pagou o imóvel e o vendedor não assina a escritura, sumiu ou morreu? A adjudicação compulsória resolve, e desde 2022 pode correr no cartório. Veja requisitos, etapas e o que fazer se houver oposição.",
+  "data": "2026-10-12",
+  "imagem": "/images/blog/adjudicacao-compulsoria.jpg",
+  "alt": "Carimbo de madeira sobre documentos de cartório"
+ },
+ {
+  "slug": "contrato-de-gaveta",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Contrato de gaveta: tem validade e como proteger quem comprou",
+  "resumo": "O contrato de gaveta obriga quem assinou, mas não põe o imóvel no seu nome. Entenda o que muda quando o imóvel é financiado, o que o STJ já decidiu e como regularizar a compra.",
+  "data": "2026-10-12",
+  "imagem": "/images/blog/contrato-de-gaveta.jpg",
+  "alt": "Gaveta antiga de madeira entreaberta"
+ },
+ {
+  "slug": "imovel-sem-escritura-como-regularizar",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Imóvel sem escritura: como regularizar e quais os riscos de manter assim",
+  "resumo": "Contrato e recibo não fazem de você dono perante a lei. Veja o que pode dar errado com um imóvel sem escritura registrada e qual caminho de regularização serve para cada situação.",
+  "data": "2026-10-12",
+  "imagem": "/images/blog/imovel-sem-escritura-como-regularizar.jpg",
+  "alt": "Casa residencial de dois andares cercada por árvores"
+ },
+ {
+  "slug": "usucapiao-extrajudicial",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Usucapião extrajudicial: requisitos e passo a passo no cartório",
+  "resumo": "Dá para transformar anos de posse em propriedade registrada sem processo judicial. Veja quem pode pedir, que documentos reunir, como o cartório conduz o pedido e o que acontece se alguém se opuser.",
+  "data": "2026-10-12",
+  "imagem": "/images/blog/usucapiao-extrajudicial.jpg",
+  "alt": "Mapa antigo de loteamento urbano com ruas e quadras"
+ },
+ {
+  "slug": "usucapiao-tipos-e-prazos",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Usucapião: quais são os tipos e quantos anos de posse cada um exige",
+  "resumo": "O prazo da usucapião vai de 2 a 15 anos, conforme a modalidade. Entenda os requisitos de cada tipo, como somar a posse de quem morou antes e o que interrompe a contagem.",
+  "data": "2026-10-12",
+  "imagem": "/images/blog/usucapiao-tipos-e-prazos.jpg",
+  "alt": "Cerca de madeira delimitando um terreno de pasto verde"
+ },
+ {
   "slug": "clausula-penal-multa-contratual",
   "area": "assessoria-juridica",
   "categoria": "Assessoria",
