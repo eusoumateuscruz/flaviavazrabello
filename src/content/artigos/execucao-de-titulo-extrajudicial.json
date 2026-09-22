@@ -1,0 +1,99 @@
+{
+ "slug": "execucao-de-titulo-extrajudicial",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Execução de título extrajudicial: como cobrar cheque, nota promissória e contrato",
+ "title": "Execução de título extrajudicial: prazos, penhora e embargos",
+ "description": "Execução de título extrajudicial: quais documentos permitem cobrar direto, prazo de 3 dias para pagar, honorários de 10%, penhora e embargos em 15 dias.",
+ "resumo": "Saiba quais documentos dispensam o processo de conhecimento, quanto tempo o cheque e a nota promissória mantêm a força executiva e o que o devedor citado pode fazer.",
+ "data": "2026-10-15",
+ "imagem": "/images/blog/execucao-de-titulo-extrajudicial.jpg",
+ "alt": "Martelo de juiz ao lado de um livro aberto",
+ "resposta": "Execução de título extrajudicial é a cobrança judicial que começa direto pela ordem de pagamento, sem discutir antes se a dívida existe. Serve para documentos que a lei trata como títulos, como cheque, nota promissória, duplicata e contrato assinado pelo devedor e por duas testemunhas (CPC, art. 784). O devedor é citado para pagar em 3 dias; se não pagar, seus bens são penhorados. A defesa é feita por embargos, em 15 dias, sem necessidade de garantir a dívida.",
+ "intro": "<p>Quem tem nas mãos um cheque devolvido, uma nota promissória vencida ou um contrato de confissão de dívida bem feito não precisa pedir ao juiz que reconheça o crédito. O próprio documento já dá esse reconhecimento, e o processo começa na fase de cobrança. É a execução de título extrajudicial, regulada pelo Código de Processo Civil a partir do art. 771, com as regras de pagamento de quantia nos arts. 824 e seguintes.</p><p>Se você recebeu uma citação desse tipo, também precisa entender o rito: os prazos são curtos e a penhora pode vir logo. Os tópicos abaixo servem para os dois lados, credor e devedor.</p>",
+ "secoes": [
+  {
+   "h2": "Quais documentos são títulos executivos extrajudiciais",
+   "html": "<p>O art. 784 do CPC traz a lista. Entre os mais usados no dia a dia:</p><ul><li>letra de câmbio, nota promissória, duplicata, debênture e cheque (inciso I);</li><li>escritura pública ou outro documento público assinado pelo devedor (II);</li><li>documento particular assinado pelo devedor e por duas testemunhas (III);</li><li>acordo referendado pelos advogados das partes, pela Defensoria, pelo Ministério Público ou por conciliador ou mediador credenciado por tribunal (IV);</li><li>contrato com hipoteca, penhor, anticrese, outra garantia real ou caução (V);</li><li>crédito de aluguel e encargos, como condomínio, documentalmente comprovado (VIII);</li><li>contribuições de condomínio edilício aprovadas em convenção ou assembleia (X).</li></ul><p>Nos títulos assinados eletronicamente, a lei admite qualquer assinatura eletrônica prevista em lei e <strong>dispensa as testemunhas</strong> quando a integridade do documento for conferida por provedor de assinatura (art. 784, § 4º). Já o contrato de abertura de crédito, mesmo com extrato da conta, não é título executivo (Súmula 233 do STJ); a confissão de dívida originada dele, sim (Súmula 300).</p><p>Se o documento não se encaixa em nenhum inciso, o caminho é a ação monitória ou a ação de cobrança comum. Entrar com execução sem título leva à extinção do processo e à perda de tempo.</p>"
+  },
+  {
+   "h2": "Prazos do cheque, da nota promissória e do contrato",
+   "html": "<p>O título perde a força executiva quando prescreve, e cada um tem sua regra.</p><table><thead><tr><th>Título</th><th>Prazo para executar</th><th>Base legal</th></tr></thead><tbody><tr><td>Cheque</td><td>6 meses depois do fim do prazo de apresentação (30 dias na mesma praça, 60 dias em praça diferente)</td><td>Lei 7.357/1985, arts. 33 e 59</td></tr><tr><td>Nota promissória (contra o emitente)</td><td>3 anos a contar do vencimento</td><td>Lei Uniforme (Decreto 57.663/1966), arts. 70 e 77</td></tr><tr><td>Contrato ou confissão de dívida</td><td>5 anos para dívida líquida constante de instrumento</td><td>Código Civil, art. 206, § 5º, I</td></tr></tbody></table><h3>Exemplo com cheque</h3><p>Um cheque emitido em 5 de fevereiro, pagável em outra cidade, tem 60 dias para ser apresentado. Terminado esse prazo, começam a correr os seis meses para a execução. Na prática, o credor tem cerca de oito meses desde a emissão. Perdido esse prazo, ainda restam a ação de enriquecimento (dois anos, art. 61 da Lei do Cheque) e a monitória, que o STJ admite por cinco anos contados do dia seguinte à emissão (Súmula 503).</p><p>Com nota promissória, o mesmo raciocínio: vencida a execução em três anos, a monitória contra o emitente fica disponível por cinco anos, contados do dia seguinte ao vencimento (Súmula 504). Promissória vinculada a contrato de abertura de crédito não tem autonomia (Súmula 258).</p>"
+  },
+  {
+   "h2": "Como funciona a execução: citação, 3 dias e penhora",
+   "html": "<p>Ao receber a petição inicial, o juiz fixa de plano honorários de 10% a serem pagos pelo devedor. Se ele pagar tudo em três dias, os honorários caem pela metade (art. 827, § 1º). O devedor é citado para pagar nesses 3 dias, contados da citação (art. 829). No próprio mandado já vem a ordem de penhora e avaliação, cumprida pelo oficial de justiça se o pagamento não ocorrer (§ 1º). A penhora recai sobre os bens indicados pelo credor, salvo se o devedor oferecer outros que o juiz aceite por serem menos onerosos e sem prejuízo ao credor (§ 2º).</p><p>Se o oficial não encontrar o devedor, faz o arresto de bens suficientes para garantir a dívida e depois tenta a citação por hora certa ou, frustradas as tentativas, pede-se a citação por edital (art. 830). Aperfeiçoada a citação e vencido o prazo, o arresto vira penhora.</p><p>O credor ainda tem duas ferramentas logo no começo. Pode obter certidão de que a execução foi admitida e averbá-la no registro de imóveis ou de veículos; a venda de bens depois dessa averbação é presumida fraude à execução (art. 828, § 4º). E pode pedir ao juiz a inclusão do nome do devedor em cadastros de inadimplentes, que deve ser cancelada quando houver pagamento, garantia ou extinção (art. 782, §§ 3º e 4º).</p>"
+  },
+  {
+   "h2": "O que não pode ser penhorado",
+   "html": "<p>O art. 833 do CPC protege alguns bens para garantir a sobrevivência do devedor e de sua família. São impenhoráveis, entre outros:</p><ul><li>móveis e utilidades domésticas que guarnecem a casa, salvo os de elevado valor ou que passem das necessidades de um padrão médio de vida (II);</li><li>roupas e objetos pessoais, salvo os de elevado valor (III);</li><li>salários, aposentadorias, pensões, ganhos de autônomo e honorários de profissional liberal (IV);</li><li>livros, máquinas, ferramentas e instrumentos necessários ao exercício da profissão (V);</li><li>seguro de vida (VI);</li><li>pequena propriedade rural trabalhada pela família (VIII);</li><li>valores em caderneta de poupança até 40 salários mínimos (X).</li></ul><p>As proteções do salário e da poupança têm exceções: não valem para pagamento de pensão alimentícia, de qualquer origem, nem para a parte da remuneração que exceder 50 salários mínimos por mês (art. 833, § 2º). Além disso, nenhuma impenhorabilidade vale contra a dívida do próprio bem, inclusive a contraída para comprá-lo (§ 1º). O imóvel residencial da família tem proteção própria na Lei 8.009/1990, com exceções que dependem do tipo de dívida.</p><p>Se a penhora atingir um bem protegido, o devedor deve alegar isso rapidamente no processo, com documentos que comprovem a natureza do bem ou da verba.</p>"
+  },
+  {
+   "h2": "A defesa do devedor: embargos e parcelamento",
+   "html": "<p>O executado pode se opor por meio de embargos à execução, sem precisar de penhora, depósito ou caução (art. 914). O prazo é de 15 dias, contados conforme o art. 231, em regra da juntada do comprovante de citação (art. 915). Havendo mais de um executado, o prazo corre para cada um da juntada do respectivo comprovante, salvo cônjuges ou companheiros, quando conta do último (§ 1º). Os embargos são processados em autos separados, distribuídos por dependência.</p><p>Um ponto que surpreende: os embargos, em regra, não suspendem a execução (art. 919). O juiz só dá efeito suspensivo se houver os requisitos da tutela provisória e se a execução já estiver garantida por penhora, depósito ou caução suficientes (§ 1º). Nos embargos se discute, por exemplo, pagamento, prescrição, excesso de execução, falsidade de assinatura ou vício do título.</p><p>A alternativa é o parcelamento do art. 916. No prazo dos embargos, o devedor reconhece o crédito, deposita 30% do valor com custas e honorários e pede para pagar o restante em até seis parcelas mensais, com correção e juros de 1% ao mês. Quem opta pelo parcelamento renuncia aos embargos (§ 6º), e o atraso de uma parcela faz vencer as demais, com multa de 10% sobre as não pagas (§ 5º). Se o juiz rejeitar os embargos, os honorários do credor podem subir até 20% (art. 827, § 2º).</p>"
+  },
+  {
+   "h2": "Juizado Especial, documentos e erros comuns",
+   "html": "<p>Títulos extrajudiciais de até 40 salários mínimos podem ser executados no Juizado Especial Cível (Lei 9.099/1995, arts. 3º, § 1º, II, e 53). Nas causas de até 20 salários mínimos, a parte pode comparecer sem advogado (art. 9º). No Juizado, os embargos são apresentados na audiência de conciliação marcada depois da penhora, por escrito ou verbalmente (art. 53, § 1º), e o conciliador busca a forma mais rápida de pagamento, como parcelas ou adjudicação do bem.</p><p>Para propor a execução, o credor precisa de:</p><ul><li>o título original (cheque, promissória, contrato com testemunhas);</li><li>demonstrativo atualizado do débito, com índice de correção, juros e data-base;</li><li>dados do devedor e, se possível, indicação de bens penhoráveis;</li><li>comprovante de devolução do cheque, se for o caso.</li></ul><p>Erros frequentes: contar o prazo do cheque a partir da devolução, e não da emissão; executar contrato sem as duas testemunhas nem assinatura eletrônica válida; incluir encargos não previstos no título, o que abre espaço para embargos por excesso. Do lado do devedor, o erro mais comum é ignorar a citação e perder os 15 dias. Se precisar de ajuda para avaliar o título ou a defesa, a página de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica</a> explica o atendimento.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Execução de título extrajudicial pode tirar dinheiro da minha conta?",
+   "a": "Pode. Não havendo pagamento em 3 dias, o credor costuma pedir o bloqueio eletrônico de valores em contas. O dinheiro protegido, como salário e poupança até 40 salários mínimos, pode ser liberado se o devedor comprovar a origem rapidamente, salvo nas exceções previstas em lei, como dívida de alimentos."
+  },
+  {
+   "q": "O que significa ser citado em uma execução de título extrajudicial?",
+   "a": "Significa que alguém cobra judicialmente uma dívida baseada em documento que a lei considera título, como cheque ou contrato. A citação dá 3 dias para pagar e abre o prazo de 15 dias para embargos. Ignorar o documento permite que a penhora avance sem a sua defesa."
+  },
+  {
+   "q": "Preciso de testemunhas no contrato para poder executar?",
+   "a": "Se o contrato é particular em papel, sim: o CPC exige a assinatura do devedor e de duas testemunhas. Em contratos assinados eletronicamente, as testemunhas são dispensadas quando a integridade do documento é conferida por provedor de assinatura. Sem esses requisitos, o caminho é a monitória."
+  },
+  {
+   "q": "Quem paga os honorários na execução?",
+   "a": "O devedor. O juiz fixa 10% sobre a dívida já no início, reduzidos à metade se o pagamento integral ocorrer em 3 dias. Se os embargos forem rejeitados, o valor pode chegar a 20%. Esses honorários não se confundem com o que o credor combinou pagar ao próprio advogado."
+  },
+  {
+   "q": "A execução prescreve se ficar parada?",
+   "a": "Pode acontecer a prescrição intercorrente quando o credor não encontra bens e o processo fica suspenso e depois arquivado por longo período. As regras e prazos dependem do tipo de título e da data dos atos no processo, por isso cada caso precisa ser conferido nos autos antes de alegar essa defesa."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CPC arts. 782 §§ 3º e 4º, 784 (incluindo § 4º), 824, 827, 828, 829, 830, 833, 914, 915, 916 e 919: títulos extrajudiciais, honorários de 10%, 3 dias para pagar, penhora, arresto, impenhorabilidades, embargos em 15 dias sem efeito suspensivo, parcelamento",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Lei 7.357/1985 arts. 33, 59 e 61: apresentação em 30/60 dias, execução em 6 meses após o prazo de apresentação, ação de enriquecimento em 2 anos",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Lei Uniforme de Genebra (Anexo I do Decreto 57.663/1966), art. 70 (ações contra o aceitante prescrevem em três anos do vencimento) e art. 77 (aplicação às notas promissórias), conferidos no anexo digitalizado",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/1950-1969/anexo/an57663-66.pdf",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Súmulas STJ 233, 258, 300, 503 e 504",
+   "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ.pdf",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Lei 8.009/1990 arts. 1º e 3º: impenhorabilidade do imóvel residencial da família, com exceções previstas na lei",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8009.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Lei 9.099/1995 arts. 3º § 1º II, 9º e 53: execução de título extrajudicial até 40 salários mínimos no Juizado, dispensa de advogado até 20 salários mínimos, embargos na audiência",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Código Civil art. 206, § 5º, I: prescrição de 5 anos para dívida líquida constante de instrumento",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-22"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "protesto-de-titulo-em-cartorio",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Protesto em cartório: como o credor protesta e como o devedor cancela",
+ "title": "Protesto em cartório: o que significa, prazos e como cancelar",
+ "description": "Protesto em cartório: o que significa, prazo de 3 dias úteis, protesto de sentença e dívida ativa, negociação pela CENPROT e cancelamento com carta de anuência.",
+ "resumo": "Entenda como um título chega ao tabelionato de protesto, quanto tempo o devedor tem para pagar, se o protesto caduca em cinco anos e o passo a passo para cancelar o registro.",
+ "data": "2026-10-15",
+ "imagem": "/images/blog/protesto-de-titulo-em-cartorio.jpg",
+ "alt": "Envelope fechado com selo de cera vermelho",
+ "resposta": "Protesto é o ato formal do tabelião que prova a inadimplência de um título ou documento de dívida (Lei 9.492/1997, art. 1º). O credor apresenta o documento, o devedor é intimado e tem três dias úteis, contados da protocolização, para pagar no cartório. Sem pagamento, o protesto é registrado e passa a constar em certidões. Para cancelar, o interessado apresenta ao tabelionato o título original ou a carta de anuência do credor e paga os emolumentos.",
+ "intro": "<p>O protesto em cartório é uma das formas de cobrança mais usadas no Brasil porque é rápida, barata para o credor e tem efeito imediato no crédito de quem deve. Um nome protestado aparece nas certidões do tabelionato, e essa informação é repassada às entidades de proteção ao crédito. Por isso, quem recebe uma intimação costuma querer resolver logo, e quem cobra muitas vezes consegue receber sem processo judicial.</p><p>As regras estão na Lei 9.492/1997, alterada em pontos importantes pelas Leis 13.775/2018 e 14.711/2023, e no Código Nacional de Normas do CNJ. A seguir, você vê o caminho do credor, as opções do devedor e o passo a passo do cancelamento.</p>",
+ "secoes": [
+  {
+   "h2": "O que pode ser protestado",
+   "html": "<p>A lei fala em títulos e outros documentos de dívida (art. 1º). Isso inclui cheque, nota promissória, duplicata e letra de câmbio, mas também contratos, confissões de dívida e outros documentos que representem obrigação certa e vencida. Duas hipóteses merecem destaque:</p><ul><li><strong>Certidão de dívida ativa:</strong> União, estados, Distrito Federal, municípios e suas autarquias e fundações podem protestar CDA (art. 1º, parágrafo único, incluído pela Lei 12.767/2012). É assim que muitos contribuintes descobrem débito de IPTU ou de outro tributo.</li><li>Sentença: a decisão judicial transitada em julgado pode ser protestada depois de vencido o prazo de 15 dias para pagamento voluntário do cumprimento de sentença (CPC, arts. 517 e 523). O credor pede ao cartório judicial uma certidão de teor da decisão, que deve ser fornecida em três dias.</li></ul><p>O tabelião examina apenas os aspectos formais do documento. Ele não investiga prescrição nem caducidade (art. 9º). Isso significa que um título antigo pode chegar a protesto, e cabe ao devedor discutir a prescrição, se for o caso, pelas vias próprias. Qualquer irregularidade formal, porém, impede o registro (art. 9º, parágrafo único).</p>"
+  },
+  {
+   "h2": "Como o credor protesta, inclusive pela internet",
+   "html": "<p>O credor leva o título ao tabelionato de protesto competente ou envia pela central nacional dos tabeliães de protesto, a CENPROT, que a Lei 13.775/2018 tornou obrigatória para todos os cartórios do país (art. 41-A). Pela central é possível enviar títulos e documentos escriturais, consultar protestos gratuitamente e dar anuência eletrônica para cancelamento, e esses serviços são gratuitos por lei (art. 41-A, § 4º).</p><p>Protocolado o documento, o tabelião intima o devedor no endereço informado pelo credor (art. 14). Desde a Lei 14.711/2023, a intimação pode ser feita por meio eletrônico ou por aplicativo de mensagens, desde que haja confirmação de recebimento (art. 14, § 3º). Sem essa confirmação em três dias úteis, vai a intimação por correio ou portador; se o aviso de recebimento não voltar em sete dias úteis, a intimação é feita por edital (§§ 4º e 5º).</p><p>O protesto é registrado dentro de três dias úteis contados da protocolização (art. 12). Antes disso, o credor pode desistir e retirar o título, pagando os emolumentos (art. 16).</p><h3>Negociação antes do protesto</h3><p>A Lei 14.711/2023 criou uma etapa opcional: o credor pode pedir, pela central, que o cartório envie ao devedor uma proposta de acordo antes de protestar, com prazo de resposta de até 30 dias, desconto e condições de pagamento (art. 11-A). Se a negociação não der certo, o pedido se converte em protesto pelo valor original.</p>"
+  },
+  {
+   "h2": "O devedor foi intimado: quais são as opções",
+   "html": "<p>Quem recebe a intimação tem, na prática, três caminhos.</p><h3>Pagar no tabelionato</h3><p>O pagamento é feito diretamente no cartório, no valor declarado pelo credor, com os emolumentos e despesas (art. 19). O tabelionato não pode recusar o pagamento feito dentro do prazo e no horário de funcionamento (§ 1º). Pago o título, não há registro de protesto.</p><h3>Pedir a sustação judicial</h3><p>Se a cobrança for indevida (dívida já paga, valor errado, título falso, assinatura que não é sua), é possível pedir ao juiz a sustação do protesto antes do registro. Com a ordem judicial, o título fica no cartório à disposição do juízo e só pode ser pago, protestado ou retirado com autorização judicial (art. 17). O pedido precisa ser rápido, porque o prazo de três dias úteis corre contra você.</p><h3>Negociar com o credor</h3><p>O credor pode desistir do protesto antes do registro (art. 16). Um acordo com pagamento direto e pedido de desistência resolve, mas guarde por escrito a confirmação de que o credor retirou o título.</p><p>Exemplo: Mariana recebeu intimação de uma duplicata de R$ 2.400,00 que já havia pago por Pix. Ela reuniu o comprovante e pediu ao fornecedor a desistência; como ele não respondeu a tempo, entrou com pedido de sustação no Judiciário, juntando o comprovante do pagamento.</p>"
+  },
+  {
+   "h2": "Protesto pode ser parcelado?",
+   "html": "<p>Pode, desde que o credor concorde. A Lei 14.711/2023 incluiu o art. 26-A na Lei 9.492/1997, que permite ao credor, ao devedor e ao tabelião, a qualquer tempo e pela central eletrônica, propor medidas de renegociação de dívidas já protestadas e ainda não canceladas. O credor pode autorizar o cartório a receber o valor, indicar critério de atualização, conceder desconto ou parcelar, e o devedor pode fazer contrapropostas (art. 26-A, § 1º). Também é possível abatimento de emolumentos.</p><p>Nesse modelo, os emolumentos do registro e do cancelamento só são cobrados se a renegociação der certo, no momento da quitação (§§ 2º e 4º). Se não houver acordo pelo sistema, a negociação pode ser feita diretamente com o credor, e depois o devedor precisa providenciar o cancelamento com a carta de anuência.</p><p>Há um cuidado prático: parcelar não cancela o protesto automaticamente. Muitos credores só dão a carta de anuência depois da última parcela. Se o acordo prevê anuência já na assinatura, isso precisa estar escrito. O valor dos emolumentos muda conforme o estado e o valor do título; consulte a tabela afixada no tabelionato ou publicada pela corregedoria do seu estado antes de pagar.</p>"
+  },
+  {
+   "h2": "Como cancelar um protesto registrado",
+   "html": "<p>O cancelamento é pedido diretamente no tabelionato por qualquer interessado (art. 26), normalmente o próprio devedor. O documento exigido depende da situação:</p><ul><li><strong>Título original:</strong> quem pagou e ficou com o cheque ou a promissória apresenta o original, e uma cópia fica arquivada.</li><li>Carta de anuência: sem o original, é preciso declaração do credor que constou no protesto, com identificação e firma reconhecida (§ 1º). Se o protesto foi feito por um banco em endosso-mandato, basta a anuência do credor endossante (§ 2º). A anuência também pode ser dada eletronicamente pela central (art. 41-A, V).</li><li>Decisão judicial: se o motivo do cancelamento não for o pagamento (dívida inexistente, prescrição reconhecida, fraude), é preciso ordem do juiz (§ 3º). Quando a obrigação se extinguiu em processo, basta a certidão do juízo com menção ao trânsito em julgado (§ 4º).</li></ul><p>No protesto de sentença, provado o pagamento integral, o juiz manda ofício ao cartório em três dias para cancelar (CPC, art. 517, § 4º). Os emolumentos do cancelamento são pagos no ato. Em alguns estados, a lei estadual adia a cobrança dos emolumentos do protesto para o momento do pagamento ou do cancelamento, e o Código Nacional de Normas trata dessa situação.</p><p>Depois do cancelamento averbado, as certidões deixam de mostrar o registro, salvo pedido do próprio devedor ou ordem judicial (art. 27, § 2º), e as entidades de proteção ao crédito só podem informar protestos não cancelados (art. 29, § 2º).</p>"
+  },
+  {
+   "h2": "O protesto caduca depois de 5 anos?",
+   "html": "<p>Essa é uma das dúvidas mais buscadas, e a resposta exige cuidado. A Lei 9.492/1997 não prevê cancelamento automático do registro de protesto pela passagem do tempo. O que ela diz é que as certidões abrangem, no mínimo, os cinco anos anteriores ao pedido, salvo quando se referem a um protesto específico (art. 27). Já o Código de Defesa do Consumidor proíbe que cadastros de proteção ao crédito mantenham informação negativa por período superior a cinco anos e, consumada a prescrição da cobrança, impede que forneçam dados que dificultem novo crédito (art. 43, §§ 1º e 5º).</p><p>Na prática, um protesto antigo pode deixar de aparecer em certidões comuns e nos birôs, mas continua registrado no livro do cartório até ser cancelado. Para financiamentos, concursos, licitações ou uma venda de imóvel em que se exige certidão ampla ou específica, ele pode reaparecer. A forma segura de encerrar o assunto é o cancelamento, pelos caminhos da seção anterior.</p><p>Documentos para organizar antes de ir ao cartório ou buscar orientação: intimação recebida, comprovantes de pagamento, contrato ou título, conversas com o credor e certidão atualizada do tabelionato. Se houver dúvida sobre prescrição ou cobrança indevida, a análise do caso concreto evita pagar o que não deve; a página de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica</a> explica como é o atendimento. Quem teve o nome protestado sem dever nada pode ler também sobre <a href=\"/blog/nome-sujo-indevidamente-o-que-fazer\">nome sujo indevidamente</a>.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como saber se tenho algum protesto no meu CPF?",
+   "a": "A consulta pela central nacional dos tabeliães de protesto é gratuita por lei e mostra se há protestos e em quais cartórios. Para detalhes do título, valor e credor, peça certidão ao tabelionato indicado. Guarde a consulta com data, porque ela ajuda a comprovar a situação em negociações."
+  },
+  {
+   "q": "Protesto em cartório suja o nome igual ao SPC e Serasa?",
+   "a": "O protesto é um registro público no tabelionato, diferente dos cadastros privados. Mas os cartórios fornecem às entidades de proteção ao crédito a relação dos protestos e cancelamentos, e essas entidades podem informar os protestos não cancelados. Por isso, na prática, o efeito sobre o crédito é parecido."
+  },
+  {
+   "q": "Paguei a dívida direto ao credor. O protesto some sozinho?",
+   "a": "Não. Depois do registro, o cancelamento depende de pedido no tabelionato, com o título original ou a carta de anuência do credor com firma reconhecida, além do pagamento dos emolumentos. Peça a carta ao credor no momento da quitação para não depender dele depois."
+  },
+  {
+   "q": "Um cheque de mais de cinco anos pode ser protestado?",
+   "a": "O tabelião não examina prescrição, só a forma do documento, então o protesto pode acontecer. Se a dívida estiver prescrita, cabe ao devedor discutir isso, em regra com pedido de sustação ou cancelamento no Judiciário. O ideal é agir antes do registro, dentro do prazo de três dias úteis."
+  },
+  {
+   "q": "O cartório pode me intimar por WhatsApp?",
+   "a": "Pode. Desde a Lei 14.711/2023, o tabelião pode usar meio eletrônico ou aplicativo de mensagens, e a intimação vale quando há confirmação de recebimento. Se não houver confirmação em três dias úteis, o cartório deve intimar por correio ou portador e, se o aviso não voltar, por edital."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 9.492/1997 arts. 1º (inclusive CDA), 9º, 11-A, 12, 14 §§ 3º a 5º, 16, 17, 19, 26, 26-A, 27, 29 § 2º e 41-A: conceito, exame formal, solução negocial prévia, 3 dias úteis, intimação eletrônica, desistência, sustação, pagamento, cancelamento, renegociação, certidões de 5 anos, central nacional",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "CPC arts. 517 e 523: protesto de decisão transitada em julgado após 15 dias, certidão em 3 dias, cancelamento por ofício em 3 dias",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "CDC art. 43, §§ 1º e 5º: limite de cinco anos para informação negativa em cadastros e vedação após a prescrição",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Código Nacional de Normas (Provimento CNJ 149/2023), arts. 134, 207 e 394: CENPROT e estados com recolhimento diferido de emolumentos",
+   "url": "https://atos.cnj.jus.br/atos/detalhar/5243",
+   "conferido_em": "2026-09-22"
+  }
+ ]
+}

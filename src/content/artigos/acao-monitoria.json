@@ -1,0 +1,89 @@
+{
+ "slug": "acao-monitoria",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Ação monitória: como cobrar dívida com prova escrita sem título executivo",
+ "title": "Ação monitória: requisitos, prazo e como cobrar com prova escrita",
+ "description": "Ação monitória: quais documentos servem de prova escrita, prazo de 5 anos para cheque e promissória prescritos, embargos em 15 dias e honorários de 5%.",
+ "resumo": "Veja quando a ação monitória é o caminho para cobrar um cheque prescrito, uma confissão sem testemunhas ou uma troca de mensagens, e como o devedor pode se defender.",
+ "data": "2026-10-15",
+ "imagem": "/images/blog/acao-monitoria.jpg",
+ "alt": "Caneta preenchendo um cheque",
+ "resposta": "A ação monitória serve para cobrar dinheiro, entrega de coisa ou obrigação de fazer com base em prova escrita que não tem força de título executivo, como cheque ou nota promissória prescritos, contrato sem testemunhas ou mensagens reconhecendo a dívida. Se o juiz vê o direito evidente, manda o devedor pagar em 15 dias, com honorários de 5% e isenção de custas se pagar no prazo. Sem pagamento nem embargos, o mandado vira título executivo judicial.",
+ "intro": "<p>Muita dívida real fica sem cobrança porque o credor acha que, sem um título executivo, só resta uma ação longa e cara. Nem sempre. Quem tem um documento escrito que mostre a dívida, mesmo sem as formalidades exigidas para executar, pode usar a ação monitória, prevista nos arts. 700 a 702 do Código de Processo Civil. Ela fica no meio do caminho: exige menos que a execução e costuma andar mais rápido que a ação de cobrança comum.</p><p>O Superior Tribunal de Justiça tem súmulas importantes sobre o tema, principalmente para cheques e notas promissórias que perderam a força executiva. A seguir, você vê quais documentos servem, os prazos, como o processo anda e o que o devedor pode alegar.</p>",
+ "secoes": [
+  {
+   "h2": "O que conta como prova escrita sem eficácia de título executivo",
+   "html": "<p>O art. 700 do CPC permite a monitória a quem afirmar, com base em <strong>prova escrita sem eficácia de título executivo</strong>, ter direito de exigir de devedor capaz o pagamento de quantia, a entrega de coisa (fungível ou infungível, móvel ou imóvel) ou o cumprimento de obrigação de fazer ou não fazer. O documento não precisa ser assinado pelo devedor nem provar sozinho a dívida inteira: basta que, com os demais elementos, torne o direito provável.</p><p>Exemplos comuns:</p><ul><li>cheque prescrito (Súmula 299 do STJ);</li><li>nota promissória que perdeu a força executiva;</li><li>contrato ou confissão de dívida assinada só pelo devedor, sem as duas testemunhas exigidas pelo art. 784, III, do CPC;</li><li>contrato de abertura de crédito em conta-corrente acompanhado do demonstrativo de débito (Súmula 247 do STJ);</li><li>saldo que sobrou depois da venda extrajudicial de bem alienado fiduciariamente (Súmula 384 do STJ);</li><li>e-mails, mensagens de aplicativo, orçamentos aprovados e notas fiscais com comprovante de entrega.</li></ul><p>O § 1º do art. 700 ainda admite prova oral documentada, produzida antecipadamente. A monitória também cabe contra a Fazenda Pública (art. 700, § 6º, e Súmula 339 do STJ).</p>"
+  },
+  {
+   "h2": "Monitória, execução ou ação de cobrança: qual escolher",
+   "html": "<p>A escolha depende do documento que você tem nas mãos.</p><table><thead><tr><th>Situação</th><th>Caminho indicado</th></tr></thead><tbody><tr><td>Título executivo válido (cheque dentro do prazo, promissória, contrato com duas testemunhas)</td><td>Execução de título extrajudicial, que começa direto pela ordem de pagar em 3 dias e pela penhora</td></tr><tr><td>Prova escrita sem força executiva</td><td>Ação monitória</td></tr><tr><td>Nenhum documento escrito, só testemunhas</td><td>Ação de cobrança pelo procedimento comum</td></tr></tbody></table><p>A vantagem da monitória sobre a cobrança comum é que, se o devedor não se defender, o título judicial se forma de pleno direito, sem sentença de mérito e sem produção de provas (art. 701, § 2º). Já em relação à execução, a monitória dá mais espaço de defesa ao devedor, porque os embargos suspendem a ordem de pagamento até o julgamento em primeiro grau (art. 702, § 4º).</p><p>Nos Juizados Especiais Cíveis, que atendem causas de até 40 salários mínimos (Lei 9.099/1995, art. 3º), o cabimento da monitória é controvertido, já que ela segue um procedimento especial do CPC. Quando o credor prefere o Juizado, costuma propor ação de cobrança comum com o mesmo documento como prova.</p>"
+  },
+  {
+   "h2": "Prazo: quanto tempo você tem para entrar com a monitória",
+   "html": "<p>A regra geral para cobrar dívida líquida constante de instrumento público ou particular é de cinco anos (Código Civil, art. 206, § 5º, I). Para cheques e promissórias, o STJ fixou o termo inicial em súmulas:</p><ul><li><strong>cheque sem força executiva:</strong> cinco anos, contados do dia seguinte à data de emissão estampada no cheque (Súmula 503);</li><li>nota promissória sem força executiva: cinco anos, contados do dia seguinte ao vencimento (Súmula 504).</li></ul><p>É útil entender por que o cheque perde a força executiva. A Lei 7.357/1985 manda apresentá-lo ao banco em 30 dias, se emitido na mesma praça do pagamento, ou 60 dias, se em outra praça (art. 33). A execução prescreve seis meses depois de terminado esse prazo de apresentação (art. 59). Depois disso ainda há a ação de enriquecimento, com prazo de dois anos (art. 61), e a ação fundada no negócio que originou o cheque (art. 62).</p><h3>Exemplo</h3><p>Um cheque de R$ 3.000,00 foi emitido em 10 de março de 2024, na mesma cidade do banco, e voltou sem fundos. O prazo de apresentação terminou 30 dias depois, e a execução prescreveu seis meses após isso, ainda em 2024. A monitória, porém, pode ser proposta até março de 2029, pela Súmula 503. Se o juiz expedir o mandado e o emitente pagar em 15 dias, ele paga os R$ 3.000,00 corrigidos, mais R$ 150,00 de honorários (5%), sem custas.</p>"
+  },
+  {
+   "h2": "Como o processo anda depois de proposta a ação",
+   "html": "<p>Na petição inicial, o credor precisa explicitar a importância devida com memória de cálculo, o valor atual da coisa ou o proveito econômico pretendido (art. 700, § 2º). Sem isso, a inicial é indeferida (§ 4º). Se o juiz tiver dúvida sobre a idoneidade do documento, manda emendar e adaptar o pedido ao procedimento comum (§ 5º). A citação pode ser feita por qualquer meio admitido no procedimento comum (§ 7º), inclusive por edital (Súmula 282 do STJ).</p><p>Sendo evidente o direito, o juiz expede mandado de pagamento, entrega de coisa ou cumprimento de obrigação e dá ao réu 15 dias para cumprir e pagar honorários de 5% do valor da causa (art. 701). Se ele cumprir no prazo, fica isento de custas (art. 701, § 1º). Esse desconto é pensado justamente para estimular o pagamento rápido.</p><p>Se o réu não pagar nem apresentar embargos, o título executivo judicial se constitui automaticamente (art. 701, § 2º), e o processo passa ao cumprimento de sentença, com as regras de penhora e multa próprias dessa fase. O devedor também pode, no prazo, depositar 30% e pedir para pagar o resto em até seis parcelas mensais, porque o art. 916 do CPC se aplica à monitória no que couber (art. 701, § 5º).</p>"
+  },
+  {
+   "h2": "Como o devedor se defende: os embargos à monitória",
+   "html": "<p>Quem recebeu o mandado pode opor embargos nos próprios autos, no mesmo prazo de 15 dias, sem precisar garantir o juízo com depósito ou penhora (art. 702). Nos embargos cabe qualquer matéria de defesa do procedimento comum: pagamento, prescrição, falsidade do documento, inexistência do negócio, cobrança de juros indevidos.</p><p>Há um cuidado importante. Se a alegação for de que o valor cobrado é maior que o devido, o embargante precisa declarar de imediato o valor que entende correto e juntar demonstrativo discriminado e atualizado (art. 702, § 2º). Sem isso, os embargos são rejeitados liminarmente quando esse for o único argumento, ou o juiz simplesmente deixa de examinar o excesso (§ 3º).</p><p>Os embargos suspendem a eficácia do mandado até o julgamento em primeiro grau (§ 4º). O autor responde em 15 dias (§ 5º), e é admitida reconvenção (§ 6º). Contra a sentença cabe apelação (§ 9º). A lei pune abusos dos dois lados: multa de até 10% do valor da causa para o autor que propõe monitória indevida e de má-fé, e para o réu que embarga de má-fé (§§ 10 e 11).</p><p>Em monitória de cheque prescrito contra o emitente, o credor não precisa explicar o negócio que deu origem ao cheque (Súmula 531 do STJ). O devedor, porém, pode discutir essa causa nos embargos.</p>"
+  },
+  {
+   "h2": "Documentos a reunir e erros comuns",
+   "html": "<p>Antes de propor a ação, organize:</p><ul><li>o original do cheque, da promissória ou do contrato, além de cópias legíveis;</li><li>comprovante de devolução do cheque pelo banco, se houver;</li><li>mensagens, e-mails ou áudios transcritos em que o devedor reconhece a dívida ou pede prazo;</li><li>notas fiscais, comprovantes de entrega e orçamentos aprovados;</li><li>planilha de cálculo com valor original, correção, juros e data-base;</li><li>endereço atualizado do devedor e, se possível, CPF ou CNPJ.</li></ul><p>Erros que costumam atrasar ou derrubar a cobrança:</p><ul><li>deixar passar os cinco anos das Súmulas 503 e 504, contando o prazo errado;</li><li>ajuizar execução com documento que não é título executivo, o que leva à extinção;</li><li>apresentar valor sem memória de cálculo, motivo de indeferimento;</li><li>cobrar juros e encargos que não estavam previstos, abrindo espaço para embargos por excesso.</li></ul><p>Se você está do lado de quem recebeu o mandado, conte os 15 dias com atenção e avalie se pagar com isenção de custas não sai mais barato que discutir. Para uma análise do caso concreto, a página de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica</a> explica como funciona o atendimento.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Print de conversa de WhatsApp serve para ação monitória?",
+   "a": "Pode servir como prova escrita, desde que mostre a dívida de forma clara, identifique as pessoas e, de preferência, venha acompanhado de outros elementos, como comprovantes de transferência. Se houver dúvida sobre a autenticidade, o juiz pode pedir a adaptação ao procedimento comum, com produção de outras provas."
+  },
+  {
+   "q": "Depois de quanto tempo não dá mais para cobrar um cheque prescrito?",
+   "a": "Pela Súmula 503 do STJ, a monitória contra o emitente pode ser proposta em até cinco anos, contados do dia seguinte à data de emissão escrita no cheque. Passado esse prazo, a cobrança judicial fica comprometida, salvo situações de interrupção da prescrição que precisam ser analisadas no caso."
+  },
+  {
+   "q": "Quem perde a ação monitória paga quanto de honorários?",
+   "a": "Se o devedor paga no prazo do mandado, os honorários são de 5% do valor da causa e não há custas. Se ele embarga e perde, o juiz fixa honorários pelas regras gerais do CPC, que costumam ser maiores. Por isso a decisão de embargar deve considerar esse custo."
+  },
+  {
+   "q": "É possível parcelar a dívida cobrada na monitória?",
+   "a": "Sim. O CPC aplica à monitória, no que couber, o parcelamento do art. 916: no prazo de defesa, o devedor reconhece a dívida, deposita 30% do valor com custas e honorários e pede para pagar o restante em até seis parcelas mensais, com correção e juros de 1% ao mês."
+  },
+  {
+   "q": "Posso cobrar pela monitória alguém que mora em outro estado?",
+   "a": "Pode. Em regra a ação é proposta no domicílio do réu, mas o contrato pode ter cláusula de foro. O processo eletrônico permite acompanhar tudo à distância, e a citação pode ser feita por correio, oficial de justiça ou meio eletrônico, conforme as regras do procedimento comum."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CPC arts. 700 a 702: prova escrita sem eficácia executiva, memória de cálculo, prazo de 15 dias, honorários de 5%, isenção de custas, embargos sem garantia, excesso com demonstrativo, multas de até 10%, aplicação do art. 916",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Súmulas STJ 247, 282, 299, 339, 384, 503, 504 e 531 (monitória: abertura de crédito, edital, cheque prescrito, Fazenda, saldo de alienação fiduciária, prazos quinquenais, dispensa da causa do cheque)",
+   "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ.pdf",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Lei 7.357/1985 arts. 33, 59, 61 e 62: apresentação em 30/60 dias, prescrição da execução em 6 meses, ação de enriquecimento em 2 anos, ação causal",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Código Civil art. 206, § 5º, I: prescrição de 5 anos para cobrança de dívida líquida constante de instrumento",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Lei 9.099/1995 art. 3º: competência dos Juizados Especiais Cíveis até 40 salários mínimos",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+   "conferido_em": "2026-09-22"
+  }
+ ]
+}

@@ -1,5 +1,55 @@
 [
  {
+  "slug": "acao-monitoria",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Ação monitória: como cobrar dívida com prova escrita sem título executivo",
+  "resumo": "Veja quando a ação monitória é o caminho para cobrar um cheque prescrito, uma confissão sem testemunhas ou uma troca de mensagens, e como o devedor pode se defender.",
+  "data": "2026-10-15",
+  "imagem": "/images/blog/acao-monitoria.jpg",
+  "alt": "Caneta preenchendo um cheque"
+ },
+ {
+  "slug": "direito-de-vizinhanca",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Direito de vizinhança: barulho, muro, árvores e o que a lei permite",
+  "resumo": "Veja o que o Código Civil diz sobre barulho do vizinho, custo do muro divisório, árvores na divisa, janelas perto do terreno e passagem forçada, e como agir antes de ir à Justiça.",
+  "data": "2026-10-15",
+  "imagem": "/images/blog/direito-de-vizinhanca.jpg",
+  "alt": "Muro de tijolos dividindo casas vizinhas em uma rua residencial"
+ },
+ {
+  "slug": "execucao-de-titulo-extrajudicial",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Execução de título extrajudicial: como cobrar cheque, nota promissória e contrato",
+  "resumo": "Saiba quais documentos dispensam o processo de conhecimento, quanto tempo o cheque e a nota promissória mantêm a força executiva e o que o devedor citado pode fazer.",
+  "data": "2026-10-15",
+  "imagem": "/images/blog/execucao-de-titulo-extrajudicial.jpg",
+  "alt": "Martelo de juiz ao lado de um livro aberto"
+ },
+ {
+  "slug": "mediacao-e-conciliacao",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Mediação e conciliação: como resolver um conflito sem processo judicial",
+  "resumo": "Entenda a diferença entre mediação e conciliação, onde cada uma acontece e por que o acordo assinado pode ser cobrado como título executivo.",
+  "data": "2026-10-15",
+  "imagem": "/images/blog/mediacao-e-conciliacao.jpg",
+  "alt": "Duas mulheres conversando em uma mesa de reunião"
+ },
+ {
+  "slug": "protesto-de-titulo-em-cartorio",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Protesto em cartório: como o credor protesta e como o devedor cancela",
+  "resumo": "Entenda como um título chega ao tabelionato de protesto, quanto tempo o devedor tem para pagar, se o protesto caduca em cinco anos e o passo a passo para cancelar o registro.",
+  "data": "2026-10-15",
+  "imagem": "/images/blog/protesto-de-titulo-em-cartorio.jpg",
+  "alt": "Envelope fechado com selo de cera vermelho"
+ },
+ {
   "slug": "desmembramento-de-terreno",
   "area": "assessoria-juridica",
   "categoria": "Assessoria",
