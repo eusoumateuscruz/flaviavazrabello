@@ -1,5 +1,55 @@
 [
  {
+  "slug": "desmembramento-de-terreno",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Desmembramento de terreno: como dividir o lote e abrir matrículas novas",
+  "resumo": "Dividir um terreno e abrir matrículas separadas depende de aprovação municipal e de averbação na matrícula. Entenda desmembramento, loteamento e desdobro, o tamanho mínimo do lote e quando é preciso retificar a área antes.",
+  "data": "2026-10-14",
+  "imagem": "/images/blog/desmembramento-de-terreno.jpg",
+  "alt": "Equipamento de topografia sobre tripé em um terreno gramado"
+ },
+ {
+  "slug": "escritura-e-registro-de-imovel",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Escritura e registro do imóvel: por que só é dono quem registra",
+  "resumo": "A escritura formaliza o negócio, mas a propriedade só muda de mãos com o registro no Cartório de Registro de Imóveis. Entenda cada etapa, os prazos do cartório e os riscos de parar no meio do caminho.",
+  "data": "2026-10-14",
+  "imagem": "/images/blog/escritura-e-registro-de-imovel.jpg",
+  "alt": "Mão segurando a chave de um imóvel diante da porta"
+ },
+ {
+  "slug": "itbi-quem-paga-e-como-calcular",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "ITBI: quem paga, qual é a base de cálculo e quando contestar",
+  "resumo": "O ITBI incide na compra de imóvel e é cobrado pela prefeitura. Entenda quem paga, como se calcula, o que mudou no Código Tributário Nacional em 2026 e como discutir um valor venal inflado.",
+  "data": "2026-10-14",
+  "imagem": "/images/blog/itbi-quem-paga-e-como-calcular.jpg",
+  "alt": "Miniatura de casa e lupa sobre a planta de um imóvel"
+ },
+ {
+  "slug": "procuracao-publica-ou-particular",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Procuração pública ou particular: qual usar e quais poderes incluir",
+  "resumo": "A escolha entre procuração pública e particular depende do ato que o procurador vai praticar. Entenda a regra do Código Civil, o que significam plenos poderes e ad judicia, a procuração em causa própria e a versão eletrônica.",
+  "data": "2026-10-14",
+  "imagem": "/images/blog/procuracao-publica-ou-particular.jpg",
+  "alt": "Carimbo de cartório sobre um papel ao lado de uma caneta"
+ },
+ {
+  "slug": "regularizacao-fundiaria-reurb",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Reurb: como funciona a regularização fundiária de áreas urbanas",
+  "resumo": "A Reurb permite dar matrícula e título de propriedade a moradores de loteamentos clandestinos ou irregulares. Entenda as duas modalidades, quem pode pedir, as fases na prefeitura e no cartório e o que muda para quem mora lá.",
+  "data": "2026-10-14",
+  "imagem": "/images/blog/regularizacao-fundiaria-reurb.jpg",
+  "alt": "Vista aérea de um bairro urbano densamente ocupado"
+ },
+ {
   "slug": "condominio-atrasado-e-multa",
   "area": "assessoria-juridica",
   "categoria": "Assessoria",

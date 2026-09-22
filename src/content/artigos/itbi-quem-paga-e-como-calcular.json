@@ -1,0 +1,104 @@
+{
+ "slug": "itbi-quem-paga-e-como-calcular",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "ITBI: quem paga, qual é a base de cálculo e quando contestar",
+ "title": "ITBI: quem paga, base de cálculo e como contestar",
+ "description": "ITBI é o imposto municipal da compra de imóvel. Veja quem paga, como a base de cálculo mudou com a LC 227/2026, o que diz o STJ e quando contestar o valor.",
+ "resumo": "O ITBI incide na compra de imóvel e é cobrado pela prefeitura. Entenda quem paga, como se calcula, o que mudou no Código Tributário Nacional em 2026 e como discutir um valor venal inflado.",
+ "data": "2026-10-14",
+ "imagem": "/images/blog/itbi-quem-paga-e-como-calcular.jpg",
+ "alt": "Miniatura de casa e lupa sobre a planta de um imóvel",
+ "resposta": "O ITBI é o imposto municipal cobrado na transmissão onerosa de imóveis entre vivos, como a compra e venda. Quem paga é a parte que a lei do município indicar, em geral o comprador. A base de cálculo é o valor venal, que o Código Tributário Nacional, alterado pela Lei Complementar 227/2026, define como o valor de venda à vista em condições normais de mercado. Se a prefeitura cobrar sobre um valor acima do real, o contribuinte pode contestar em processo administrativo, com avaliação contraditória, ou na Justiça.",
+ "intro": "<p>O ITBI costuma ser a maior despesa extra na compra de um imóvel, e também a que mais gera discussão. A prefeitura muitas vezes calcula o imposto sobre um valor de referência próprio, maior do que o preço pago, e o comprador só descobre ao emitir a guia. Em 2026, a Lei Complementar 227 reescreveu parte das regras do imposto no Código Tributário Nacional, e o tema está em julgamento no STF.</p><p>A seguir, as regras gerais que valem para qualquer cidade. A alíquota e os procedimentos de cada município, inclusive de cidades como Campinas, estão na lei municipal e devem ser conferidos lá. Os temas de imóveis e contratos ficam na página de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica</a>.</p>",
+ "secoes": [
+  {
+   "h2": "O que é o ITBI e em quais negócios ele incide",
+   "html": "<p>O ITBI está previsto no art. 156, II, da Constituição. Ele é de competência do município onde o imóvel está e incide sobre a transmissão entre vivos, por ato oneroso, de imóveis e de direitos reais sobre imóveis, exceto os de garantia, além da cessão de direitos à sua aquisição. Com a redação dada pela LC 227/2026, o art. 35 do CTN repete essa lista: transmissão da propriedade ou do domínio útil, de direitos reais (menos os de garantia) e a cessão onerosa desses direitos.</p><p>Na prática, o ITBI aparece na compra e venda, na permuta, na dação em pagamento e na cessão de um compromisso de compra e venda. Ficam fora:</p><ul><li>herança e doação, que pagam o ITCMD, imposto estadual (Constituição, art. 155, I);</li><li>hipoteca e alienação fiduciária, por serem direitos de garantia;</li><li>a incorporação do imóvel ao capital de uma empresa, salvo se a atividade preponderante dela for comprar, vender ou alugar imóveis (Constituição, art. 156, § 2º, I, e CTN, arts. 36 e 37).</li></ul><p>A <strong>alíquota</strong> é fixada por lei de cada município. Não existe tabela nacional, e por isso o percentual deve ser conferido na lei municipal ou no site da prefeitura.</p>"
+  },
+  {
+   "h2": "Quem paga o ITBI: comprador ou vendedor",
+   "html": "<p>O CTN deixa a escolha para o município: contribuinte é qualquer das partes na operação, como dispuser a lei (art. 42). As leis municipais costumam eleger o adquirente, mas é a lei da sua cidade que define.</p><p>Entre comprador e vendedor, vale o que o contrato disser. O art. 490 do Código Civil coloca as despesas de escritura e registro com o comprador, salvo cláusula em contrário, e é comum as partes negociarem a divisão do ITBI. Esse acordo, porém, só vale entre elas. O art. 123 do CTN impede que convenções particulares sobre quem paga um tributo sejam opostas à prefeitura. Se o vendedor prometeu pagar e não pagou, a prefeitura continua cobrando de quem a lei indica, e resta a este cobrar o vendedor pelo contrato.</p><p>Não é só o preço que pesa. Sem a guia quitada, o tabelião em regra não lavra a escritura, e o Registro de Imóveis não registra a transferência. O imposto, portanto, trava o caminho até a matrícula em seu nome.</p>"
+  },
+  {
+   "h2": "Base de cálculo: o que diz a lei desde 2026 e o que decidiu o STJ",
+   "html": "<p>A base de cálculo é o valor venal dos bens ou direitos transmitidos (CTN, art. 38). A LC 227/2026, em vigor desde a publicação em janeiro de 2026, acrescentou parágrafos a esse artigo:</p><ul><li>valor venal é o valor pelo qual o bem seria negociado à vista, em condições normais de mercado;</li><li>ele é estimado por critérios técnicos, como preços praticados no mercado, informações de cartórios e bancos, localização, padrão e área do imóvel;</li><li>a prefeitura deve divulgar os critérios usados, e o contribuinte pode contestar o valor com avaliação contraditória, em procedimento previsto na lei municipal.</li></ul><p>Antes disso, em 2022, o STJ julgou o Tema 1.113 dos recursos repetitivos e fixou três pontos: a base do ITBI é o valor do imóvel em condições normais de mercado, sem vínculo com a base do IPTU; o valor declarado pelo contribuinte presume-se condizente com o mercado, e o fisco só pode afastá-lo em processo administrativo próprio (CTN, art. 148); e o município não pode arbitrar previamente a base com valor de referência fixado unilateralmente.</p><p>A lei nova e a tese do STJ ainda vão conviver, e há um recurso extraordinário sobre o Tema 1.113 pendente no STF (RE 1.412.419). Enquanto não houver definição, a leitura mais segura é que a prefeitura pode usar critérios técnicos, mas precisa divulgá-los e abrir espaço para contestação.</p>"
+  },
+  {
+   "h2": "Quando o ITBI é devido: na escritura ou no registro",
+   "html": "<p>Pelo Código Civil, a propriedade só se transfere com o registro no Registro de Imóveis (art. 1.245). Com base nisso, muitos contribuintes sustentam que o ITBI só pode ser cobrado no registro. Na prática, porém, muitas leis municipais exigem o pagamento antes da escritura.</p><p>O STF chegou a fixar, em 2021, no Tema 1.124 da repercussão geral, a tese de que o fato gerador só ocorre com a transferência efetiva pelo registro. Em agosto de 2022, o Plenário acolheu embargos de declaração para reconhecer a repercussão geral sem reafirmar aquela jurisprudência, o que reabriu a discussão, centrada na cessão de direitos de compromissos de compra e venda. O mérito do Tema 1.124 aguarda novo julgamento, sob relatoria do ministro André Mendonça. Não há, hoje, tese vinculante do STF sobre o momento da cobrança.</p><p>A reforma tributária tentou tratar do assunto. O projeto que virou a LC 227/2026 incluía um art. 35-A no CTN, permitindo ao município oferecer antecipação opcional do ITBI na escritura, com alíquota menor. O dispositivo foi vetado, e o texto compilado do CTN no Planalto o mantém como vetado. Também vale saber que a LC 214/2025, que criou o IBS e a CBS, afirma que a incidência desses novos tributos não altera a base de cálculo do ITBI (art. 4º, § 5º).</p>"
+  },
+  {
+   "h2": "Como contestar um ITBI calculado acima do preço",
+   "html": "<h3>Exemplo hipotético</h3><p>Uma pessoa compra um apartamento por R$ 400.000, preço compatível com imóveis semelhantes na mesma rua. A prefeitura emite a guia sobre um valor de referência de R$ 520.000. Supondo, só para o exemplo, uma alíquota municipal de 2%, a diferença é de R$ 2.400 de imposto (R$ 10.400 contra R$ 8.000). A alíquota real deve ser conferida na lei do município.</p><h3>Caminhos possíveis</h3><ol><li>Pedido administrativo de revisão, com avaliação contraditória: junte o contrato, anúncios e laudos de imóveis parecidos, e, se possível, um laudo de avaliação feito por profissional habilitado. A LC 227/2026 exige que o município tenha esse procedimento.</li><li>Pagar para não travar o negócio e depois pedir a restituição do que foi pago a mais, administrativamente ou na Justiça.</li><li>Mandado de segurança ou ação judicial antes do pagamento, quando o município impõe o valor de referência sem processo e sem critérios divulgados.</li></ol><p>A escolha depende do prazo da escritura, do valor em jogo e da lei municipal.</p>"
+  },
+  {
+   "h2": "Erros comuns e documentos para ter em mãos",
+   "html": "<ul><li>Declarar preço abaixo do real para pagar menos: a presunção de veracidade do valor declarado cai se o fisco provar a diferença em processo regular (CTN, art. 148), e a declaração falsa pode gerar multa e outras consequências.</li><li>Confiar só no acordo com o vendedor: como visto, o contrato não obriga a prefeitura.</li><li>Achar que doação paga ITBI: doação e herança pagam ITCMD, ao estado.</li><li>Não guardar a guia e o comprovante: o Registro de Imóveis e futuros compradores vão pedir.</li><li>Pagar sobre valor inflado sem registrar a discordância: isso dificulta pedir a diferença depois.</li></ul><h3>Documentos úteis</h3><p>Contrato ou minuta da escritura, certidão de matrícula atualizada, carnê do IPTU (com a inscrição imobiliária), guia de ITBI emitida pela prefeitura, anúncios e laudos de imóveis comparáveis e, no financiamento, o contrato do banco, que costuma trazer o valor de avaliação.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O ITBI pode ser cobrado sobre o valor venal do IPTU?",
+   "a": "Não como regra fixa. O STJ, no Tema 1.113, decidiu que a base do ITBI não está vinculada à do IPTU, que não pode nem servir de piso. A base é o valor de mercado do imóvel. Se a prefeitura usar o valor do IPTU, que costuma ser menor, não há prejuízo ao comprador; o problema aparece quando usa valor de referência maior que o preço."
+  },
+  {
+   "q": "Quem compra imóvel financiado paga ITBI sobre o valor total?",
+   "a": "Sim. O ITBI incide sobre a transmissão do imóvel, e não importa se o pagamento foi à vista ou financiado. A alienação fiduciária em favor do banco, por ser garantia, não gera ITBI próprio. A lei municipal pode prever alíquota diferente para a parte financiada pelo sistema habitacional, o que deve ser conferido caso a caso."
+  },
+  {
+   "q": "Existe isenção de ITBI para o primeiro imóvel?",
+   "a": "Não há isenção nacional. Isenções e reduções dependem da lei de cada município, que pode prever benefícios para programas habitacionais, imóveis de baixo valor ou primeira aquisição. Consulte o código tributário do município ou a secretaria de finanças antes de fechar o negócio, porque a isenção costuma exigir pedido formal e documentos."
+  },
+  {
+   "q": "Paguei ITBI a mais. Consigo o dinheiro de volta?",
+   "a": "É possível pedir a restituição do valor pago a mais, primeiro à própria prefeitura e, se negado, na Justiça. O CTN prevê prazo de cinco anos para esse pedido, contado em regra do pagamento (art. 168). Guarde a guia, o comprovante e provas de que o preço era compatível com o mercado, como laudo de avaliação e anúncios de imóveis semelhantes."
+  },
+  {
+   "q": "O ITBI da cessão de direitos do contrato de gaveta é devido?",
+   "a": "A Constituição e o CTN incluem a cessão onerosa de direitos à aquisição de imóvel entre as hipóteses do ITBI. A dúvida é se o município pode cobrar antes do registro. Essa discussão é justamente o objeto do Tema 1.124 no STF, ainda sem julgamento de mérito. Por ora, a cobrança segue a lei municipal e pode ser questionada caso a caso."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CF art. 156, II e § 2º (competência municipal, imunidade na integralização de capital) e art. 155, I (ITCMD sobre herança e doação)",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "CTN arts. 35 (nova redação da LC 227/2026), 36, 37, 38 e §§ 1º a 4º (valor venal de mercado, critérios técnicos, avaliação contraditória), 39 revogado, 41, 42, 123, 148 e 168 (restituição em 5 anos); art. 35-A vetado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "LC 227/2026, art. 165 (altera CTN), art. 182 (vigência na publicação) e mensagem de veto do art. 35-A (antecipação opcional do ITBI na escritura)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Mensagem de veto 36/2026: texto e razões do veto ao art. 35-A do CTN",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Msg/Vep/VEP-36-26.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "LC 214/2025, art. 4º, § 5º: IBS e CBS não alteram a base de cálculo do ITBI",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "STJ Tema 1.113 (REsp 1.937.821/SP): tese firmada sobre base de cálculo do ITBI; RE 1.412.419 pendente no STF",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1113&cod_tema_final=1113",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "STF Tema 1.124 (ARE 1.294.969): embargos acolhidos em 26/08/2022, repercussão geral reconhecida sem reafirmar jurisprudência; mérito pendente, relator André Mendonça, concluso em 22/04/2026",
+   "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=1124",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "CC art. 490 (despesas de escritura e registro) e art. 1.245 (propriedade com o registro)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-22"
+  }
+ ]
+}

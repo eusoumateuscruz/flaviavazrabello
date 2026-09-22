@@ -1,0 +1,79 @@
+{
+ "slug": "procuracao-publica-ou-particular",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Procuração pública ou particular: qual usar e quais poderes incluir",
+ "title": "Procuração pública ou particular: qual usar e poderes",
+ "description": "Procuração pública ou particular? A forma segue a do ato: venda de imóvel acima de 30 salários mínimos pede procuração pública. Veja os poderes e cuidados.",
+ "resumo": "A escolha entre procuração pública e particular depende do ato que o procurador vai praticar. Entenda a regra do Código Civil, o que significam plenos poderes e ad judicia, a procuração em causa própria e a versão eletrônica.",
+ "data": "2026-10-14",
+ "imagem": "/images/blog/procuracao-publica-ou-particular.jpg",
+ "alt": "Carimbo de cartório sobre um papel ao lado de uma caneta",
+ "resposta": "Pelo Código Civil (art. 657), a procuração segue a forma exigida para o ato que o procurador vai praticar. Se o ato exige escritura pública, como vender um imóvel de valor acima de trinta salários mínimos, a procuração também precisa ser pública, lavrada em tabelionato. Para atos que admitem documento particular, basta a procuração particular assinada pelo outorgante, e quem for tratar com o procurador pode exigir firma reconhecida. Em qualquer caso, poderes para vender, hipotecar ou fazer acordo precisam estar escritos de forma expressa e específica.",
+ "intro": "<p>A procuração é o documento pelo qual uma pessoa, o outorgante, dá a outra, o procurador, poderes para agir em seu nome. O Código Civil chama a relação de mandato e diz que a procuração é o seu instrumento (art. 653). Ela resolve situações do dia a dia, como vender um imóvel morando em outra cidade, representar os pais idosos no banco ou contratar advogado para um processo.</p><p>O problema é que uma procuração mal feita não serve para nada no momento em que é apresentada, ou pior, dá poderes demais a quem não deveria tê-los. Os temas de contratos e documentos ficam na página de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica</a>.</p>",
+ "secoes": [
+  {
+   "h2": "Procuração particular: requisitos e limites",
+   "html": "<p>Toda pessoa capaz pode dar procuração por instrumento particular, que vale desde que tenha a assinatura do outorgante (Código Civil, art. 654). O documento deve indicar:</p><ul><li>o lugar onde foi assinado;</li><li>a qualificação completa do outorgante e do procurador;</li><li>a data;</li><li>o objetivo da outorga, com a designação e a extensão dos poderes.</li></ul><p>O terceiro com quem o procurador tratar pode exigir firma reconhecida (art. 654, § 2º). Na prática, bancos, órgãos públicos e cartórios quase sempre pedem o reconhecimento, e é mais simples já fazê-lo no tabelionato.</p><p>A procuração particular serve para a maioria dos atos que também podem ser feitos por documento particular: representar em assembleia de condomínio, retirar documentos, assinar contrato de locação, vender um veículo (com as exigências próprias do Detran) ou constituir advogado. Ela é mais barata e rápida, mas deixa mais espaço para discussão sobre falsificação, porque não há original arquivado em cartório.</p>"
+  },
+  {
+   "h2": "Quando a procuração precisa ser pública",
+   "html": "<p>A regra-chave está no art. 657 do Código Civil: a outorga do mandato está sujeita à forma exigida por lei para o ato a ser praticado. Como o art. 108 exige escritura pública para negócios sobre direitos reais em imóveis de valor superior a trinta salários mínimos, a procuração para vender, comprar, hipotecar ou doar esses imóveis também deve ser pública.</p><p>A procuração pública é lavrada pelo tabelião de notas, fica registrada no livro do cartório e pode ter certidões emitidas a qualquer tempo. O tabelião verifica identidade e capacidade do outorgante, o que reduz o risco de fraude. O ato também é informado à Central de Escrituras e Procurações (CEP), da CENSEC, mantida pelo Colégio Notarial (Código Nacional de Normas do CNJ, art. 272).</p><p>Um detalhe útil: mesmo quando a procuração é pública, o procurador pode substabelecer, isto é, repassar os poderes a outra pessoa, por instrumento particular (art. 655). Quando o ato final exigir escritura, confirme antes com o tabelião se ele aceitará o substabelecimento particular.</p><p>Os emolumentos seguem a tabela estadual, reajustada todo ano; consulte o cartório.</p>"
+  },
+  {
+   "h2": "Poderes gerais, especiais e o que é ad judicia et extra",
+   "html": "<p>O mandato pode ser especial, para um ou mais negócios determinados, ou geral, para todos os negócios do outorgante (art. 660). Aqui mora o erro mais comum: a procuração com <strong>plenos poderes</strong> em termos gerais só confere poderes de administração (art. 661). Para alienar, hipotecar, transigir ou praticar outros atos que ultrapassem a administração ordinária, a procuração precisa de poderes especiais e expressos (art. 661, § 1º). E o poder de transigir não inclui o de firmar compromisso de arbitragem (§ 2º).</p><h3>Exemplo</h3><p>Uma filha recebe do pai procuração pública com \"amplos, gerais e ilimitados poderes\". Ela consegue pagar contas e renovar o aluguel da casa do pai, mas o tabelião recusará a escritura de venda do apartamento dele, porque a procuração não diz expressamente \"vender o apartamento da matrícula X\", nem fixa preço ou condições.</p><h3>Procuração para advogado</h3><p>A procuração ad judicia (\"para o foro\") habilita o advogado a praticar os atos do processo. O CPC exige cláusula específica para receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica (art. 105). A expressão ad judicia et extra acrescenta poderes para atuar fora do processo, como em cartórios e repartições. Ela pode ser particular e assinada digitalmente.</p>"
+  },
+  {
+   "h2": "Procuração em causa própria e cláusula de irrevogabilidade",
+   "html": "<p>Em regra, o mandato é revogável a qualquer momento e termina pela revogação ou renúncia, pela morte ou interdição de uma das partes, pela mudança de estado que inabilite o mandante ou o procurador, e pelo fim do prazo ou conclusão do negócio (art. 682).</p><p>Há exceções:</p><ul><li>Cláusula de irrevogabilidade simples: se o outorgante revogar mesmo assim, paga perdas e danos (art. 683).</li><li>Irrevogabilidade ligada a negócio bilateral ou no interesse exclusivo do procurador: a revogação é ineficaz (art. 684).</li><li>Procuração em causa própria: a revogação não tem efeito, o mandato não se extingue com a morte de qualquer das partes, o procurador fica dispensado de prestar contas e pode transferir para si os bens objeto do mandato, observadas as formalidades legais (art. 685).</li></ul><p>A procuração em causa própria é usada quando o preço já foi pago e o comprador quer poder assinar a escritura em nome do vendedor. Ela funciona quase como uma venda, e por isso deve ser pública quando o imóvel ultrapassar o limite do art. 108, e deixa o outorgante praticamente sem controle sobre o bem. Pelo Código Nacional de Normas do CNJ, pode ser considerada operação suspeita, com comunicação à Unidade de Inteligência Financeira, a procuração que dê plenos poderes de gestão empresarial em caráter irrevogável ou sem prestação de contas (art. 171).</p>"
+  },
+  {
+   "h2": "Procuração eletrônica pelo e-Notariado",
+   "html": "<p>Desde que os atos notariais eletrônicos foram regulamentados pelo CNJ, hoje no Código Nacional de Normas (Provimento 149/2023), é possível fazer procuração pública sem ir ao cartório. O ato é feito pela plataforma e-Notariado e exige (art. 286):</p><ol><li>videoconferência com o tabelião, para captar a vontade do outorgante;</li><li>concordância expressa com o texto;</li><li>assinatura digital da parte pelo próprio e-Notariado;</li><li>assinatura do tabelião com certificado ICP-Brasil.</li></ol><p>A procuração pública eletrônica deve ser lavrada pelo tabelião do domicílio do outorgante ou do local do imóvel, se for o caso (art. 303, parágrafo único). O domicílio da pessoa física é comprovado pelo título de eleitor ou outro meio (art. 304). Para quem mora no exterior ou em outra cidade, a versão eletrônica evita viagem, e o documento tem o mesmo valor da procuração pública feita no balcão.</p><p>Antes de usar qualquer procuração, o tabelião do ato seguinte deve verificar se os poderes continuam atuais e recusar a prática se souber que foram revogados (art. 150). Por isso cartórios costumam pedir certidão recente da procuração, emitida há poucos dias.</p>"
+  },
+  {
+   "h2": "Erros comuns e como revogar uma procuração",
+   "html": "<ul><li>Esquecer o cônjuge: para vender imóvel, a pessoa casada precisa de autorização do cônjuge, salvo no regime da separação absoluta (art. 1.647, I). Se ambos vão ser representados, os dois outorgam a procuração.</li><li>Poderes genéricos demais ou de menos: descreva o imóvel pela matrícula, diga se o procurador pode receber o preço e dar quitação e se pode assinar a escritura com cláusulas específicas.</li><li>Prazo indefinido: fixar prazo de validade limita o risco de uso tardio.</li><li>Usar procuração de quem já morreu: a morte extingue o mandato comum, embora os atos com terceiros de boa-fé que ignoravam o fato sejam válidos (arts. 682, II, e 689).</li></ul><h3>Como revogar</h3><p>A revogação de procuração pública é feita por escritura pública de revogação, em qualquer tabelionato; o notário comunica o cartório que lavrou a procuração original, que faz a anotação (Código Nacional de Normas, art. 272, § 4º). Não basta avisar o procurador: a revogação notificada só a ele não pode ser oposta a terceiros de boa-fé que trataram com ele (Código Civil, art. 686). Por isso, avise também bancos, imobiliárias e quem mais possa receber o documento.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Procuração particular precisa de firma reconhecida?",
+   "a": "A lei considera válida a procuração particular com a assinatura do outorgante, mas permite que o terceiro com quem o procurador vai tratar exija firma reconhecida. Como bancos, cartórios e órgãos públicos costumam exigir, o mais prático é reconhecer a firma no tabelionato logo depois de assinar, evitando que o documento seja recusado na hora de usar."
+  },
+  {
+   "q": "Qual a validade de uma procuração pública?",
+   "a": "O Código Civil não fixa validade geral. A procuração vale pelo prazo que constar nela ou até a conclusão do negócio, a revogação, a renúncia ou a morte de uma das partes. Na prática, cartórios e bancos pedem certidão atualizada da procuração pública, emitida há pouco tempo, para confirmar que ela não foi revogada."
+  },
+  {
+   "q": "Procuração de plenos poderes permite vender imóvel?",
+   "a": "Não. Pelo art. 661 do Código Civil, a procuração em termos gerais só dá poderes de administração. Para vender, hipotecar ou doar, a procuração precisa conter poderes especiais e expressos, de preferência identificando o imóvel pela matrícula. E, se o imóvel valer mais de trinta salários mínimos, a procuração deve ser pública."
+  },
+  {
+   "q": "Posso fazer procuração morando no exterior?",
+   "a": "Sim. Uma opção é a procuração pública eletrônica pelo e-Notariado, com videoconferência e assinatura digital, lavrada pelo tabelião do seu domicílio no Brasil ou do local do imóvel. Outra é fazer a procuração no consulado brasileiro. Documento feito por notário estrangeiro tem exigências próprias de validação e tradução, que convém confirmar antes com o cartório onde ele será usado."
+  },
+  {
+   "q": "O procurador pode passar os poderes para outra pessoa?",
+   "a": "Pode, por meio do substabelecimento, que a lei admite por instrumento particular mesmo quando a procuração é pública. O substabelecimento pode ser com reserva, quando o procurador continua com os poderes, ou sem reserva. Se a procuração proibir expressamente o substabelecimento, o procurador responde pelos prejuízos causados pelo substituto."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CC arts. 653 a 692 (mandato): 654 (procuração particular e firma reconhecida), 655 (substabelecimento particular), 657 (forma segue a do ato), 660 e 661 (poderes gerais e especiais), 682 a 686 (extinção, irrevogabilidade, causa própria, revogação), 689 (boa-fé), 667, § 1º (substabelecimento proibido); art. 108 (escritura acima de 30 salários mínimos); art. 1.647, I (outorga do cônjuge)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "CPC art. 105: procuração geral para o foro, poderes que exigem cláusula específica e assinatura digital",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "conferido_em": "2026-09-22"
+  },
+  {
+   "afirmacao": "Código Nacional de Normas do CNJ (Provimento 149/2023): art. 150 (verificar atualidade dos poderes), art. 171 (procuração irrevogável com plenos poderes de gestão como operação suspeita), art. 272 e § 4º (CEP/CENSEC e comunicação da revogação), arts. 286, 303, parágrafo único, e 304 (procuração pública eletrônica pelo e-Notariado e competência)",
+   "url": "https://atos.cnj.jus.br/atos/detalhar/5243",
+   "conferido_em": "2026-09-22"
+  }
+ ]
+}
