@@ -1,0 +1,94 @@
+{
+ "slug": "condominio-atrasado-e-multa",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Condomínio atrasado e multas do condomínio: limites e riscos para o morador",
+ "title": "Condomínio atrasado: multa, juros e cobrança judicial",
+ "description": "Condomínio atrasado: multa de até 2%, juros, execução rápida, penhora do próprio apartamento, prescrição de 5 anos e limites das multas por conduta.",
+ "resumo": "Quanto o condomínio pode cobrar de multa e juros pela cota atrasada, por que a cobrança judicial é rápida, quando o próprio imóvel pode ser penhorado e quais são os tetos das multas por comportamento.",
+ "data": "2026-10-13",
+ "imagem": "/images/blog/condominio-atrasado-e-multa.jpg",
+ "alt": "Fachada de prédio residencial ao anoitecer",
+ "resposta": "A cota de condomínio paga em atraso sofre correção monetária, juros previstos na convenção (ou, se ela não previr, a taxa legal do Código Civil) e multa de no máximo 2% sobre o débito (CC, art. 1.336, § 1º). A cota é título executivo (CPC, art. 784, X), e o próprio apartamento pode ser penhorado, mesmo sendo bem de família. O prazo para cobrar é de cinco anos (STJ, Tema 949). Multas por conduta têm tetos de cinco e dez vezes a contribuição mensal.",
+ "intro": "<p>Atrasar a cota de condomínio parece uma dívida pequena até virar processo. Diferente de outras contas, ela tem regras próprias: a multa tem teto baixo, mas a cobrança judicial é rápida e pode chegar ao leilão do próprio imóvel, inclusive quando é a única moradia da família. Do outro lado, o condomínio também aplica multas por barulho, obras e outras condutas, e elas têm limites e exigências de aprovação que muitos síndicos desconhecem.</p><p>As regras estão no Código Civil (arts. 1.331 a 1.358), no Código de Processo Civil e na Lei 8.009/1990. Algumas mudaram recentemente, como a dos juros de mora.</p>",
+ "secoes": [
+  {
+   "h2": "Quanto o condomínio pode cobrar pela cota atrasada",
+   "html": "<p>Cada condômino deve contribuir para as despesas na proporção da sua fração ideal, salvo regra diferente na convenção (CC, art. 1.336, I). Quem não paga fica sujeito, pelo § 1º do mesmo artigo, a três acréscimos:</p><ul><li>correção monetária;</li><li>juros moratórios previstos na convenção ou, se ela não os previr, os juros da taxa legal do art. 406 do Código Civil;</li><li>multa de até 2% sobre o débito.</li></ul><p>A redação atual veio da Lei 14.905/2024. Antes, na falta de previsão na convenção, os juros eram de 1% ao mês. Hoje, a <strong>taxa legal</strong> corresponde à Selic deduzida do índice de atualização monetária (em regra o IPCA), conforme o art. 406, § 1º. Por isso, cálculos feitos com 1% ao mês fixo precisam ser conferidos contra a convenção do prédio e a data de cada parcela.</p><p>O teto de 2% é para a multa por atraso. Convenção que preveja 10% ou 20% não pode ser aplicada nesse ponto. Cláusulas de \"desconto por pontualidade\", que na prática funcionam como multa maior disfarçada, são alvo de discussão nos tribunais, sem resposta única.</p><h3>Exemplo</h3><p>Cota de R$ 800 vencida e paga dois meses depois: R$ 16 de multa (2%), mais a correção e os juros do período. Honorários de advogado só entram se houver cobrança por advogado, conforme a convenção ou o processo.</p>"
+  },
+  {
+   "h2": "Cobrança judicial: por que é rápida",
+   "html": "<p>Desde o CPC de 2015, o crédito de contribuições ordinárias ou extraordinárias de condomínio, previstas na convenção ou aprovadas em assembleia e documentalmente comprovadas, é <strong>título executivo extrajudicial</strong> (CPC, art. 784, X). Na prática, o condomínio não precisa primeiro de uma ação para provar a dívida: entra direto com a execução, juntando convenção, ata da assembleia que aprovou o orçamento e demonstrativo do débito.</p><p>Citado, o devedor tem três dias para pagar (CPC, art. 829). Se não paga, o oficial de justiça penhora bens, e o condomínio pode pedir bloqueio de contas e a penhora da própria unidade. As parcelas que vencerem durante o processo entram na cobrança sem necessidade de novo pedido (CPC, art. 323).</p><p>A defesa se faz por embargos à execução, e ela é limitada a pontos como pagamento já feito, excesso de cobrança, prescrição ou falta de aprovação da despesa em assembleia. Discordar da gestão do síndico, por si só, não afasta a dívida.</p><p>A cota acompanha o imóvel: quem compra a unidade responde pelos débitos do vendedor com o condomínio, inclusive multas e juros (CC, art. 1.345). Por isso a certidão negativa de débitos condominiais é documento obrigatório de qualquer compra de apartamento.</p>"
+  },
+  {
+   "h2": "O apartamento pode ser penhorado mesmo sendo a única moradia",
+   "html": "<p>Pode. A Lei 8.009/1990 protege o imóvel residencial da família contra penhora, mas afasta essa proteção na cobrança de impostos, taxas e contribuições devidas em função do próprio imóvel (art. 3º, IV). A cota de condomínio é uma contribuição gerada pelo próprio imóvel, e é com base nesse inciso que os tribunais admitem a penhora da unidade por dívida condominial, ainda que seja o único bem da família.</p><p>O crédito de condomínio também passa na frente do banco que tem hipoteca sobre o apartamento: pela Súmula 478 do STJ, na execução de cotas condominiais, o crédito do condomínio tem preferência sobre o hipotecário. Na prática, se a unidade for a leilão, o condomínio recebe antes do credor da hipoteca.</p><p>O caminho até o leilão leva tempo: penhora, avaliação, intimações e hasta pública. Durante todo esse período ainda é possível pagar ou fazer acordo e encerrar a execução. Quanto mais cedo, menor o custo, porque custas, honorários e juros continuam correndo.</p>"
+  },
+  {
+   "h2": "Prescrição: até quando a dívida pode ser cobrada",
+   "html": "<p>O STJ fixou, em recurso repetitivo (Tema 949), que na vigência do Código Civil de 2002 é de cinco anos o prazo para o condomínio cobrar a taxa condominial, ordinária ou extraordinária, contado a partir do dia seguinte ao vencimento de cada prestação. A base é o art. 206, § 5º, I, do Código Civil, que trata de dívidas líquidas constantes de instrumento público ou particular.</p><p>Como cada mês tem vencimento próprio, a prescrição corre parcela por parcela. Em um processo ajuizado hoje, as cotas vencidas há mais de cinco anos podem ser questionadas, enquanto as mais recentes continuam exigíveis. A prescrição pode ser interrompida, por exemplo, pela citação em ação de cobrança ou por ato inequívoco do devedor reconhecendo a dívida, como um acordo assinado, e aí o prazo recomeça.</p><p>Por isso, confessar a dívida em acordo de parcelamento tem consequência: se o acordo não for cumprido, parcelas antigas que estavam perto de prescrever podem voltar a ser cobradas integralmente. Leia o termo antes de assinar e confira quais meses estão incluídos.</p>"
+  },
+  {
+   "h2": "Multas por conduta: barulho, obras e comportamento antissocial",
+   "html": "<p>Além do atraso, o Código Civil prevê multas por descumprimento de deveres, com tetos diferentes:</p><table><thead><tr><th>Situação</th><th>Limite</th><th>Base legal</th></tr></thead><tbody><tr><td>Obra que comprometa a segurança, alteração de fachada, uso prejudicial ao sossego, à saúde ou à segurança</td><td>Até 5 vezes a contribuição mensal, conforme a convenção; sem previsão, a assembleia decide por dois terços dos demais condôminos</td><td>CC, art. 1.336, § 2º</td></tr><tr><td>Descumprimento reiterado de deveres</td><td>Até 5 vezes a contribuição, por deliberação de três quartos dos demais condôminos, conforme gravidade e reiteração</td><td>CC, art. 1.337, caput</td></tr><tr><td>Comportamento antissocial reiterado que gere incompatibilidade de convivência</td><td>Até 10 vezes a contribuição, até ulterior deliberação da assembleia</td><td>CC, art. 1.337, parágrafo único</td></tr></tbody></table><p>A convenção deve prever as sanções e a forma de aplicação (CC, art. 1.334, IV). Multa aplicada pelo síndico sozinho, acima desses tetos ou sem o quórum exigido, pode ser contestada. Quem mora de aluguel também responde: o art. 1.337 fala em condômino ou possuidor.</p><h3>Multa sem notificação</h3><p>A multa de 2% por atraso incide automaticamente com o vencimento. Já as multas por conduta dependem do que a convenção e o regimento interno preveem. Se eles exigem advertência prévia ou prazo de defesa, a multa aplicada sem esse passo fica frágil, e o morador pode pedir o cancelamento na assembleia ou em juízo.</p>"
+  },
+  {
+   "h2": "O que fazer ao receber a cobrança",
+   "html": "<p>Peça por escrito ao síndico ou à administradora o demonstrativo do débito, mês a mês, com o índice de correção, a taxa de juros, a multa aplicada e eventuais honorários. Compare com a convenção e com a ata que aprovou o orçamento. Confira também se não há parcelas com mais de cinco anos e se a multa por atraso respeita os 2%.</p><p>Se você é inquilino, lembre que as despesas ordinárias são do locatário e as extraordinárias, como obras estruturais, pintura de fachada e fundo de reserva, são do locador (Lei 8.245/1991, arts. 22, X, e 23, XII). O condomínio cobra o proprietário, mas quem paga no fim depende dessa divisão.</p><p>Negociar costuma ser o caminho mais barato antes da execução. Um bom acordo discrimina as parcelas incluídas, o valor de cada uma, a data de vencimento e o que acontece em caso de atraso. Guarde todos os comprovantes, já que o pagamento é a defesa mais simples na execução. Questões de imóveis e contratos estão reunidas na página de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica</a>, e a advogada Flávia Vaz Rabello atende moradores e condomínios em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "A multa de condomínio pode passar de 2%?",
+   "a": "A multa por atraso da cota não pode. O Código Civil fixa o teto de 2% sobre o débito, e convenção que preveja percentual maior não vale nesse ponto. As multas por conduta, como barulho ou obra irregular, seguem outras regras e podem chegar a cinco ou dez vezes a contribuição mensal."
+  },
+  {
+   "q": "Com quantos meses de atraso o condomínio pode entrar na Justiça?",
+   "a": "A lei não fixa número mínimo de meses. Vencida a cota e comprovada a dívida com a convenção, a ata do orçamento e o demonstrativo, o condomínio já pode executar. Muitos prédios fazem cobrança amigável antes, mas isso depende da política de cada condomínio."
+  },
+  {
+   "q": "Comprei um apartamento com condomínio atrasado. Tenho de pagar?",
+   "a": "Sim, perante o condomínio. O adquirente responde pelos débitos do vendedor, inclusive multas e juros. Se o débito não foi informado na compra, você pode cobrar o valor do vendedor depois, mas o condomínio pode exigir de você. Peça sempre a certidão de débitos antes de assinar."
+  },
+  {
+   "q": "Dívida de condomínio caduca depois de quantos anos?",
+   "a": "A cobrança prescreve em cinco anos, contados do dia seguinte ao vencimento de cada cota, segundo o STJ no Tema 949. A contagem é mês a mês, e um acordo assinado reconhecendo a dívida interrompe o prazo, que recomeça do zero."
+  },
+  {
+   "q": "O inquilino pode ser multado pelo condomínio?",
+   "a": "Pode, porque o Código Civil alcança o condômino ou possuidor que descumpre deveres de forma reiterada ou tem comportamento antissocial. A multa costuma ser lançada na unidade, cobrada do proprietário, que depois a repassa ao inquilino conforme o contrato de locação."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Código Civil art. 1.336, I, § 1º (correção, juros convencionados ou taxa legal do art. 406, multa de até 2%, redação da Lei 14.905/2024) e § 2º (até cinco vezes a contribuição; assembleia por dois terços); art. 1.337 e parágrafo único (cinco e dez vezes; três quartos); arts. 1.334, IV, e 1.345; art. 406, § 1º (Selic menos IPCA); art. 206, § 5º, I",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "CPC art. 784, X (cota condominial como título executivo extrajudicial), art. 829 (três dias para pagar) e art. 323 (prestações vincendas incluídas)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 8.009/1990, art. 3º, IV: impenhorabilidade não oponível na cobrança de impostos, taxas e contribuições devidas em função do imóvel familiar",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8009.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "STJ, Tema 949 (repetitivo): prescrição quinquenal da taxa condominial, a contar do dia seguinte ao vencimento",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=949&cod_tema_final=949",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmula 478 do STJ: crédito de cotas condominiais tem preferência sobre o hipotecário",
+   "url": "https://arquivocidadao.stj.jus.br/index.php/sumula-478",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 8.245/1991, arts. 22, X, e 23, XII: despesas extraordinárias do locador e ordinárias do locatário",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245.htm",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

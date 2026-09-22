@@ -1,0 +1,84 @@
+{
+ "slug": "reajuste-de-aluguel",
+ "area": "assessoria-juridica",
+ "categoria": "Assessoria",
+ "h1": "Reajuste de aluguel: índice, periodicidade e revisão do valor",
+ "title": "Reajuste de aluguel: índice, cálculo e revisão",
+ "description": "Reajuste de aluguel: por que é anual, quem escolhe entre IGP-M e IPCA, como calcular o novo valor e quando cabe a ação revisional após 3 anos.",
+ "resumo": "Como funciona o reajuste anual do aluguel, o que a lei deixa as partes escolherem, como fazer a conta e o que fazer quando o valor fica muito acima ou abaixo do mercado.",
+ "data": "2026-10-13",
+ "imagem": "/images/blog/reajuste-de-aluguel.jpg",
+ "alt": "Calculadora e caneta sobre um caderno vermelho",
+ "resposta": "O reajuste do aluguel só pode acontecer uma vez por ano: cláusula com periodicidade menor é nula (Lei 10.192/2001, art. 2º, § 1º). O índice é o que as partes combinaram no contrato, como IGP-M ou IPCA; a lei não impõe um índice, só proíbe vincular o aluguel a moeda estrangeira, câmbio ou salário mínimo (Lei 8.245/1991, art. 17). Se o valor ficar fora do preço de mercado, sem acordo, locador ou inquilino pode pedir revisão judicial depois de três anos de contrato ou do último acordo (art. 19).",
+ "intro": "<p>Todo ano, no aniversário do contrato, chega o aviso de reajuste, e com ele as dúvidas: se o índice escolhido é obrigatório, se o locador pode trocar o IGP-M pelo IPCA, se o aumento pode vir antes de 12 meses e o que fazer quando a correção deixa o aluguel fora da realidade do bairro. A resposta está em duas leis: a Lei do Inquilinato (Lei 8.245/1991) e a Lei 10.192/2001, do Plano Real.</p><p>Reajuste e revisão são coisas diferentes. O reajuste só atualiza o valor pela inflação medida por um índice. A revisão muda o próprio valor para aproximá-lo do mercado, por acordo ou por ação judicial.</p>",
+ "secoes": [
+  {
+   "h2": "Periodicidade: o reajuste é anual",
+   "html": "<p>A Lei 10.192/2001 só admite correção por índice de preços em contratos com prazo igual ou superior a um ano (art. 2º) e declara nula de pleno direito qualquer cláusula de reajuste com <strong>periodicidade inferior a um ano</strong> (art. 2º, § 1º). Também são nulos expedientes que, na prática, produzam o mesmo efeito de um reajuste mais frequente (art. 2º, § 3º), como aplicar o índice em parcelas ou antecipar a data-base.</p><p>A contagem dos 12 meses começa na data prevista no contrato, normalmente a da assinatura ou do início da locação. Se houve revisão do valor, por acordo ou por sentença, o período de reajuste recomeça da data dessa revisão (art. 2º, § 2º). Isso evita que o aluguel seja revisto e, poucos meses depois, reajustado de novo pelo índice cheio do período anterior.</p><p>Se o contrato de 30 meses terminou e a locação seguiu por prazo indeterminado, as cláusulas continuam valendo, inclusive a de reajuste (Lei 8.245, art. 46, § 1º). O aumento segue anual, na mesma data-base.</p>"
+  },
+  {
+   "h2": "Índice: IGP-M, IPCA ou outro, conforme o contrato",
+   "html": "<p>A Lei do Inquilinato diz que é livre a convenção do aluguel, com três proibições: estipulá-lo em moeda estrangeira, vinculá-lo à variação cambial ou ao salário mínimo (art. 17). Para as locações residenciais, manda observar a legislação específica de reajuste (art. 17, parágrafo único), que é a Lei 10.192. Nenhuma das duas fixa um índice obrigatório. Vale o que foi escrito no contrato: IGP-M (calculado pela FGV), IPCA (calculado pelo IBGE) ou outro índice de preços.</p><p>Por isso, o locador não pode trocar o índice sozinho no meio do contrato, nem para cima, nem para baixo. A troca exige acordo das partes, porque a lei permite que elas, de comum acordo, fixem novo valor e insiram ou modifiquem a cláusula de reajuste (art. 18). O acordo deve ser escrito e, se houver fiador, é prudente que ele também assine, já que o fiador não responde por aditamento ao qual não anuiu (Súmula 214 do STJ).</p><h3>E se o contrato não tiver cláusula de reajuste?</h3><p>Sem índice combinado, o locador não tem base para impor um percentual por conta própria. O caminho é negociar um novo valor (art. 18) ou, passados três anos, pedir a revisão judicial (art. 19).</p>"
+  },
+  {
+   "h2": "Como calcular o reajuste do aluguel",
+   "html": "<p>A conta usa a variação acumulada do índice nos 12 meses anteriores ao mês do reajuste, conforme a regra do contrato (alguns usam o mês anterior ao aniversário, outros dois meses antes, por causa da data de divulgação). A fórmula é simples: novo aluguel = aluguel atual × (1 + variação acumulada ÷ 100).</p><h3>Exemplo</h3><p>Aluguel de R$ 2.000, contrato assinado em outubro, índice do contrato com variação acumulada hipotética de 4,5% nos 12 meses de referência. O novo aluguel fica em R$ 2.000 × 1,045 = R$ 2.090. Se a variação acumulada fosse de 12%, o aluguel iria a R$ 2.240, e aí começa a discussão sobre mercado, tratada mais abaixo.</p><p>Para conferir o percentual sem depender da imobiliária, use a Calculadora do Cidadão do Banco Central, que corrige valores pelo IGP-M e pelo IPCA entre duas datas. Informe o valor atual, as datas de início e fim do período de referência e o índice do contrato. Diferenças de centavos são normais por arredondamento; diferenças maiores costumam vir de período errado ou índice trocado.</p><p>Quando o índice acumulado fica negativo, a solução depende da redação da cláusula. Há contratos que preveem que deflação não reduz o aluguel. Sem previsão expressa, a questão não tem resposta única nos tribunais, e o caminho mais seguro costuma ser o acordo por escrito.</p>"
+  },
+  {
+   "h2": "Revisão do aluguel: acordo ou ação depois de três anos",
+   "html": "<p>O reajuste pelo índice pode, com o tempo, afastar o aluguel do preço de mercado, para cima ou para baixo. A lei dá duas saídas. A primeira é o acordo: as partes podem fixar novo valor a qualquer momento (art. 18). A segunda, sem acordo, é a <strong>ação revisional</strong>: locador ou inquilino pode pedir ao juiz que ajuste o aluguel ao preço de mercado depois de três anos de vigência do contrato ou do último acordo sobre o valor (art. 19).</p><p>Na ação, o autor indica o valor pretendido. O juiz pode fixar um aluguel provisório, devido desde a citação: se quem pede é o locador, até 80% do valor pedido; se é o inquilino, não menos que 80% do aluguel vigente (art. 68, II). Em geral há perícia para apurar o valor de mercado, com comparação de imóveis semelhantes na região. O aluguel definido na sentença retroage à citação, e as diferenças são pagas corrigidas, descontado o provisório (art. 69).</p><p>A pedido do locador, a sentença pode até adotar outro indexador ou outra periodicidade de reajuste (art. 69, § 1º). Não cabe revisional enquanto corre prazo para desocupação já fixado, por denúncia do contrato ou por acordo (art. 68, § 1º).</p>"
+  },
+  {
+   "h2": "Aumentos que o inquilino pode recusar",
+   "html": "<p>Nem todo aumento comunicado precisa ser aceito. Alguns exemplos de cobrança que pode ser contestada:</p><ul><li>reajuste antes de completar 12 meses da data-base ou da última revisão;</li><li>troca de índice sem acordo escrito;</li><li>aplicação de índice e, ao mesmo tempo, de um \"aumento de mercado\" sem negociação;</li><li>percentual diferente da variação oficial do índice no período do contrato;</li><li>aluguel vinculado ao dólar ou ao salário mínimo, que a lei proíbe (art. 17).</li></ul><p>Se o locador se recusa a receber o valor correto, o inquilino pode consignar o aluguel em juízo para não ficar em atraso. Pagar a mais sem contestar por muitos meses dificulta a recuperação, então vale questionar por escrito logo no primeiro boleto.</p><p>Do outro lado, o locador que viu o aluguel ficar muito abaixo do mercado não precisa esperar o fim do contrato: pode propor acordo com o inquilino a qualquer momento e, se não houver entendimento, usar a revisional após os três anos.</p>"
+  },
+  {
+   "h2": "Como agir na data do reajuste",
+   "html": "<p>Tenha à mão o contrato e os aditamentos, a data-base, o índice escolhido e o histórico de reajustes já aplicados. Recalcule o percentual na Calculadora do Cidadão e compare com o boleto. Se houver diferença, envie questionamento por escrito à imobiliária ou ao locador, com a conta anexada, e guarde a resposta.</p><p>Se a ideia é negociar um índice menor ou um valor fixo, formalize por aditamento assinado por locador, inquilino e fiador, com a nova data-base. Quem pretende propor revisional deve reunir anúncios de imóveis parecidos na mesma região, com metragem, padrão e vagas semelhantes, porque o preço de mercado é o centro da discussão.</p><p>Os erros mais comuns são aceitar reajuste verbal sem aditamento, esquecer que o fiador precisa anuir e deixar a revisional para depois de receber notificação para desocupar, quando ela já não cabe. Dúvidas sobre contratos de locação e outros instrumentos estão reunidas na página de <a href=\"/areas-de-atuacao/assessoria-juridica\">assessoria jurídica</a>, e a advogada Flávia Vaz Rabello atende locadores e inquilinos de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O locador pode trocar o IGP-M pelo IPCA sem minha concordância?",
+   "a": "Não. O índice é o que está no contrato, e a Lei do Inquilinato só permite modificar a cláusula de reajuste por acordo entre as partes. A troca deve ser feita por aditamento escrito, de preferência também assinado pelo fiador, se houver."
+  },
+  {
+   "q": "Qual é o reajuste de aluguel de 2026?",
+   "a": "Não existe um percentual único para todos os contratos. Cada um é reajustado pelo índice que escolheu, acumulado nos 12 meses anteriores à sua data-base. A forma segura de saber é aplicar o índice do seu contrato no período correto pela Calculadora do Cidadão do Banco Central."
+  },
+  {
+   "q": "O aluguel pode ser reajustado duas vezes no mesmo ano?",
+   "a": "Não pelo índice. A Lei 10.192/2001 considera nula qualquer cláusula de reajuste com periodicidade inferior a um ano. O que pode ocorrer é um novo valor fixado por acordo ou por ação revisional, e nesse caso o próximo reajuste passa a contar da data da revisão."
+  },
+  {
+   "q": "O inquilino pode pedir redução do aluguel?",
+   "a": "Pode. A ação revisional está aberta ao locador e ao locatário depois de três anos de contrato ou do último acordo. Se o aluguel ficou acima do mercado, o inquilino pede a redução, e o aluguel provisório fixado pelo juiz não pode ser inferior a 80% do valor vigente."
+  },
+  {
+   "q": "O reajuste precisa ser avisado com antecedência?",
+   "a": "A lei não fixa prazo de aviso para o reajuste previsto no contrato, porque ele decorre da cláusula já assinada. Na prática, a imobiliária ou o locador informa o novo valor no boleto do mês da data-base. Confira o cálculo antes de pagar e questione por escrito se houver erro."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Lei 10.192/2001, art. 2º, caput e §§ 1º, 2º e 3º: reajuste por índice só em contratos de um ano ou mais; nula periodicidade inferior a um ano; revisão reinicia o período",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Lei 8.245/1991: art. 17 (livre convenção, vedados moeda estrangeira, câmbio e salário mínimo), 18 (acordo), 19 (revisional após três anos), 46, § 1º, 68 (aluguel provisório de 80%, § 1º) e 69 (retroage à citação; § 1º outro indexador)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245.htm",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Calculadora do Cidadão do Banco Central: correção de valores por IGP-M (FGV) e IPCA (IBGE)",
+   "url": "https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice",
+   "conferido_em": "2026-09-21"
+  },
+  {
+   "afirmacao": "Súmula 214 do STJ: fiador não responde por aditamento ao qual não anuiu",
+   "url": "https://arquivocidadao.stj.jus.br/index.php/sumula-214",
+   "conferido_em": "2026-09-21"
+  }
+ ]
+}

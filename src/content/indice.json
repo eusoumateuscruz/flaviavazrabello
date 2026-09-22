@@ -1,5 +1,55 @@
 [
  {
+  "slug": "condominio-atrasado-e-multa",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Condomínio atrasado e multas do condomínio: limites e riscos para o morador",
+  "resumo": "Quanto o condomínio pode cobrar de multa e juros pela cota atrasada, por que a cobrança judicial é rápida, quando o próprio imóvel pode ser penhorado e quais são os tetos das multas por comportamento.",
+  "data": "2026-10-13",
+  "imagem": "/images/blog/condominio-atrasado-e-multa.jpg",
+  "alt": "Fachada de prédio residencial ao anoitecer"
+ },
+ {
+  "slug": "despejo-por-falta-de-pagamento",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Despejo por falta de pagamento: prazos, liminar e como o processo funciona",
+  "resumo": "Como funciona a ação de despejo por aluguel atrasado, quando o juiz pode mandar desocupar em 15 dias e como o inquilino ainda pode evitar a rescisão pagando a dívida.",
+  "data": "2026-10-13",
+  "imagem": "/images/blog/despejo-por-falta-de-pagamento.jpg",
+  "alt": "Apartamento vazio com piso de madeira e janelas grandes"
+ },
+ {
+  "slug": "devolucao-de-imovel-alugado-multa",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Devolver o imóvel alugado antes do prazo: multa proporcional e vistoria",
+  "resumo": "Quanto custa sair do imóvel alugado antes do fim do contrato, como se calcula a multa proporcional e o que observar na vistoria e na entrega das chaves.",
+  "data": "2026-10-13",
+  "imagem": "/images/blog/devolucao-de-imovel-alugado-multa.jpg",
+  "alt": "Sala vazia e iluminada de um imóvel pronto para vistoria"
+ },
+ {
+  "slug": "fiador-de-aluguel",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Fiador de aluguel: o que responde, bem de família e como deixar a fiança",
+  "resumo": "O que o fiador de um contrato de locação pode ter de pagar, por que o único imóvel dele pode ser penhorado e qual é o caminho para sair da fiança.",
+  "data": "2026-10-13",
+  "imagem": "/images/blog/fiador-de-aluguel.jpg",
+  "alt": "Mão com caneta sobre um contrato em uma prancheta"
+ },
+ {
+  "slug": "reajuste-de-aluguel",
+  "area": "assessoria-juridica",
+  "categoria": "Assessoria",
+  "h1": "Reajuste de aluguel: índice, periodicidade e revisão do valor",
+  "resumo": "Como funciona o reajuste anual do aluguel, o que a lei deixa as partes escolherem, como fazer a conta e o que fazer quando o valor fica muito acima ou abaixo do mercado.",
+  "data": "2026-10-13",
+  "imagem": "/images/blog/reajuste-de-aluguel.jpg",
+  "alt": "Calculadora e caneta sobre um caderno vermelho"
+ },
+ {
   "slug": "adjudicacao-compulsoria",
   "area": "assessoria-juridica",
   "categoria": "Assessoria",
