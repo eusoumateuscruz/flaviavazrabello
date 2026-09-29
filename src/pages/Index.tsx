@@ -26,6 +26,13 @@ const heroBanner = { url: "/images/hero-desktop.jpeg" };
 const heroMobileClean = { url: "/images/hero-mobile.jpeg" };
 const sobreAsset = { url: "/images/sobre-desktop.jpeg" };
 const sobreMobileClean = { url: "/images/sobre-mobile.jpeg" };
+/* Hero e "Sobre" têm uma versão para até 1180px e outra para 1181px+, alternadas por CSS.
+   display:none não impede o download de <img>, então cada versão fica num <picture> cujo
+   <source> entrega um pixel transparente na faixa em que ela está oculta. O src real
+   continua no <img> (rastreadores e fallback). */
+const PIXEL = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+const ATE_1180 = "(max-width: 1180.98px)";
+const DESDE_1181 = "(min-width: 1181px)";
 import Seo from "@/components/Seo";
 import { BLOG_POSTS } from "@/data/blogPosts";
 
@@ -124,11 +131,14 @@ const Index = () => {
         {/* HERO MOBILE + TABLET — imagem no topo, conteúdo abaixo em coluna única (até 1180px) */}
         <div className="min-[1181px]:hidden bg-secondary">
           <div className="w-full h-[440px] min-[390px]:h-[480px] min-[480px]:h-[520px] min-[768px]:h-[620px] min-[1024px]:h-[680px] overflow-hidden">
-            <img
-              src={heroMobileClean.url}
-              alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[82%_center]"
-            />
+            <picture className="contents">
+              <source media={DESDE_1181} srcSet={PIXEL} />
+              <img
+                src={heroMobileClean.url}
+                alt="Dra. Flávia Vaz Rabello"
+                className="block w-full h-full object-cover object-[82%_center]"
+              />
+            </picture>
           </div>
           <div
             className="px-6 pt-9 pb-11 min-[768px]:px-12 min-[768px]:pt-14 min-[768px]:pb-16 min-[1024px]:px-20 flex flex-col min-[768px]:max-w-[760px] min-[768px]:mx-auto"
@@ -159,11 +169,14 @@ const Index = () => {
             </div>
           </div>
         </div>
-        <img
-          src={heroBanner.url}
-          alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
-          className="hidden min-[1181px]:block w-full h-auto"
-        />
+        <picture className="contents">
+          <source media={ATE_1180} srcSet={PIXEL} />
+          <img
+            src={heroBanner.url}
+            alt="Flávia Vaz Rabello Advocacia — Seu direito defendido com experiência, estratégia e dedicação. Atendimento presencial e online em todo o Brasil · OAB 262057/SP"
+            className="hidden min-[1181px]:block w-full h-auto"
+          />
+        </picture>
         {/* CTA desktop — posicionado sobre a imagem */}
         <a
           href={WHATSAPP_URL}
@@ -367,11 +380,14 @@ const Index = () => {
       <section className="relative w-full bg-background">
         <div className="min-[1181px]:hidden">
           <div className="w-full h-[420px] min-[768px]:h-[560px] min-[1024px]:h-[640px] overflow-hidden">
-            <img
-              src={sobreMobileClean.url}
-              alt="Dra. Flávia Vaz Rabello"
-              className="block w-full h-full object-cover object-[18%_center]"
-            />
+            <picture className="contents">
+              <source media={DESDE_1181} srcSet={PIXEL} />
+              <img
+                src={sobreMobileClean.url}
+                alt="Dra. Flávia Vaz Rabello"
+                className="block w-full h-full object-cover object-[18%_center]"
+              />
+            </picture>
           </div>
           <div className="px-5 py-12 min-[768px]:px-12 min-[768px]:py-16 min-[1024px]:px-20 min-[1024px]:py-20 bg-card border-y border-border min-[768px]:max-w-[760px] min-[768px]:mx-auto">
             <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-accent">
@@ -396,11 +412,14 @@ const Index = () => {
             </Link>
           </div>
         </div>
-        <img
-          src={sobreAsset.url}
-          alt="Sobre a Dra. Flávia Vaz Rabello"
-          className="hidden min-[1181px]:block w-full h-auto object-cover"
-        />
+        <picture className="contents">
+          <source media={ATE_1180} srcSet={PIXEL} />
+          <img
+            src={sobreAsset.url}
+            alt="Sobre a Dra. Flávia Vaz Rabello"
+            className="hidden min-[1181px]:block w-full h-auto object-cover"
+          />
+        </picture>
         {/* CTA desktop sobreposto */}
         <div className="hidden min-[1181px]:grid pointer-events-none absolute inset-0 grid-cols-[56%_1fr]">
           <div aria-hidden="true" />
