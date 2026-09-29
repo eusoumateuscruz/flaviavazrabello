@@ -42,14 +42,16 @@ export const ARTIGOS: ArtigoMeta[] = [...(indice as ArtigoMeta[])].sort(
 
 export const artigoMeta = (slug: string) => ARTIGOS.find((a) => a.slug === slug);
 
-const carregadores = import.meta.glob<Artigo>("../content/artigos/*.json", { import: "default" });
+// Só os artigos com data já chegada (plugin "artigos-publicados" em vite.config.ts).
+// Não voltar a usar import.meta.glob aqui: ele empacota também os de data futura.
+import carregadores from "virtual:artigos-publicados";
 const cache = new Map<string, Artigo>();
 
 export const artigoEmCache = (slug: string) => cache.get(slug);
 
 export async function carregarArtigo(slug: string): Promise<Artigo | undefined> {
   if (cache.has(slug)) return cache.get(slug);
-  const carregar = carregadores[`../content/artigos/${slug}.json`];
+  const carregar = carregadores[slug];
   if (!carregar) return undefined;
   const artigo = await carregar();
   cache.set(slug, artigo);

@@ -5,6 +5,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { hojeBrasilia } from "./publicacao.mjs";
 
 const RAIZ = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const SITE = "https://www.flaviavazrabello.com.br";
@@ -44,7 +45,7 @@ if (erros.length) {
 // Só entra no site o artigo cuja data já chegou (fuso de Brasília). Os de data futura
 // ficam guardados em src/content/artigos/ e são liberados pela automação diária do repo
 // do site publicado (flavia-vaz-rabello-site, .github/workflows/publicar-do-dia.yml).
-const hoje = new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
+const hoje = hojeBrasilia();
 const indice = artigos
   .filter((a) => a.data <= hoje)
   .map(({ slug, area, categoria, h1, resumo, data, imagem, alt }) => ({ slug, area, categoria, h1, resumo, data, imagem, alt }))
