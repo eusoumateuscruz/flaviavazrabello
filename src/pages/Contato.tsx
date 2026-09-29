@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
  import { Mail, MapPin, Clock, MessageCircle, Phone } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
@@ -7,22 +7,19 @@ import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Monogram } from "@/components/Logo";
  import { EMAIL, LOCATION, WHATSAPP_URL, PHONES, HOURS } from "@/lib/site";
-import { toast } from "@/hooks/use-toast";
 
 const Contato = () => {
-  const [submitting, setSubmitting] = useState(false);
+  // O site ainda não tem serviço de envio: o formulário NÃO envia nada. Antes ele simulava
+  // sucesso; agora avisa, sem apagar o que foi digitado, que o contato deve ser feito pelo
+  // WhatsApp ou telefone. Não gera form_submit nem qualquer evento de conversão.
+  const [indisponivel, setIndisponivel] = useState(false);
+  const avisoRef = useRef<HTMLDivElement>(null);
+  const telPrincipal = `+55${PHONES[0].replace(/\D/g, "")}`;
 
   const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    setSubmitting(true);
-    setTimeout(() => {
-      setSubmitting(false);
-      (e.target as HTMLFormElement).reset();
-      toast({
-        title: "Mensagem enviada com sucesso",
-        description: "Entrarei em contato em breve. Obrigada!",
-      });
-    }, 700);
+    setIndisponivel(true);
+    requestAnimationFrame(() => avisoRef.current?.focus());
   };
 
   return (
@@ -109,11 +106,42 @@ const Contato = () => {
 
               <button
                 type="submit"
-                disabled={submitting}
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-accent px-10 py-4 text-xs font-bold uppercase tracking-[0.22em] text-accent-foreground hover:bg-accent/90 transition-colors disabled:opacity-60"
               >
-                {submitting ? "ENVIANDO..." : "ENVIAR"}
+                ENVIAR
               </button>
+
+              {indisponivel && (
+                <div
+                  ref={avisoRef}
+                  role="alert"
+                  tabIndex={-1}
+                  data-cta-origem="formulario-indisponivel"
+                  data-formulario-indisponivel
+                  className="border border-accent bg-background p-5 focus:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                >
+                  <p className="font-serif text-lg text-primary">Sua mensagem não foi enviada.</p>
+                  <p className="mt-2 text-sm text-foreground/80">
+                    O envio por este formulário está indisponível no momento. Para falar com o escritório, use o WhatsApp ou o telefone.
+                  </p>
+                  <div className="mt-4 flex flex-col gap-3 sm:flex-row">
+                    <a
+                      href={WHATSAPP_URL}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex min-h-[44px] items-center justify-center gap-2 bg-primary px-6 py-3 text-xs font-bold uppercase tracking-[0.18em] text-primary-foreground hover:bg-primary/90 transition-colors"
+                    >
+                      <MessageCircle className="h-4 w-4" aria-hidden="true" /> Abrir o WhatsApp
+                    </a>
+                    <a
+                      href={`tel:${telPrincipal}`}
+                      className="inline-flex min-h-[44px] items-center justify-center gap-2 border border-primary px-6 py-3 text-xs font-bold uppercase tracking-[0.18em] text-primary hover:bg-primary/5 transition-colors"
+                    >
+                      <Phone className="h-4 w-4" aria-hidden="true" /> Ligar: {PHONES[0]}
+                    </a>
+                  </div>
+                </div>
+              )}
             </form>
           </div>
 
