@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Instagram, Linkedin, MessageCircle, Mail, MapPin } from "lucide-react";
 import Logo from "./Logo";
-import { EMAIL, LOCATION, NAV_LINKS, PRACTICE_AREAS, WHATSAPP_URL, SOCIAL_LINKS } from "@/lib/site";
+import { EMAIL, LOCATION, NAV_LINKS, PRACTICE_AREAS, WHATSAPP_URL, SOCIAL_LINKS, urlDaArea } from "@/lib/site";
 
 const Footer = () => {
   return (
@@ -33,7 +33,7 @@ const Footer = () => {
             <ul className="mt-5 space-y-3">
               {PRACTICE_AREAS.map((a) => (
                 <li key={a.id}>
-                  <Link to={`/servicos/${a.id}`} className="text-sm text-primary-foreground/80 hover:text-accent transition-colors">
+                  <Link to={urlDaArea(a.id)} className="text-sm text-primary-foreground/80 hover:text-accent transition-colors">
                     {a.title}
                   </Link>
                 </li>

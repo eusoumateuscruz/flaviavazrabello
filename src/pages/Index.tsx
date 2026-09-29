@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 import SectionHeader from "@/components/SectionHeader";
 import { Monogram } from "@/components/Logo";
-import { PRACTICE_AREAS, WHATSAPP_URL } from "@/lib/site";
+import { PRACTICE_AREAS, WHATSAPP_URL, urlDaArea } from "@/lib/site";
 import { TestimonialStack } from "@/components/ui/glass-testimonial-swiper";
 
 const heroBanner = { url: "/images/hero-desktop.jpeg" };
@@ -284,7 +284,7 @@ const Index = () => {
                         {area.description}
                       </p>
                       <Link
-                        to={`/servicos/${area.id}`}
+                        to={urlDaArea(area.id)}
                         className="mt-8 inline-flex items-center gap-2 uppercase"
                         style={{
                           fontSize: "12px",

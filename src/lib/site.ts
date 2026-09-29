@@ -21,7 +21,7 @@ export const SOCIAL_LINKS = {
 export const NAV_LINKS = [
   { label: "Início", to: "/" },
   { label: "Sobre", to: "/sobre" },
-  { label: "Áreas de Atuação", to: "/areas" },
+  { label: "Áreas de Atuação", to: "/areas-de-atuacao" },
   { label: "Blog", to: "/blog" },
   { label: "Perguntas Frequentes", to: "/perguntas-frequentes" },
   { label: "Contato", to: "/contato" },
@@ -100,3 +100,13 @@ export const PRACTICE_AREAS = [
      ],
    },
 ];
+
+/** URL canônica de cada área (as rotas /servicos/:id e /areas são só caminhos alternativos com canonical). */
+export const AREA_SLUG_POR_ID: Record<string, string> = {
+  familia: "direito-de-familia",
+  bancario: "direito-bancario",
+  consumidor: "direito-do-consumidor",
+  trabalhista: "direito-do-trabalho",
+  extrajudicial: "assessoria-juridica",
+};
+export const urlDaArea = (id: string) => `/areas-de-atuacao/${AREA_SLUG_POR_ID[id]}`;

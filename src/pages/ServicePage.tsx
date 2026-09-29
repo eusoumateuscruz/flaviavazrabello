@@ -163,7 +163,7 @@ const ServicePage = () => {
     return (
       <div className="container-narrow py-32 text-center">
         <h1 className="text-4xl font-serif text-primary">Serviço não encontrado</h1>
-        <Link to="/areas" className="mt-8 inline-block text-accent underline">Voltar para áreas de atuação</Link>
+        <Link to="/areas-de-atuacao" className="mt-8 inline-block text-accent underline">Voltar para áreas de atuação</Link>
       </div>
     );
   }
