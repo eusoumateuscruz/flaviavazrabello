@@ -1,7 +1,8 @@
 /**
- * Rastreamento de conversão — cliques em WhatsApp.
+ * Rastreamento de intenção de contato — cliques em WhatsApp, telefone e e-mail.
  *
- * Empurra o evento `clique_whatsapp` para o dataLayer, consumido pelo
+ * Empurra `clique_whatsapp`, `clique_telefone` ou `clique_email` para o dataLayer
+ * (um push por clique, com cta_origem e cta_pagina), consumido pelo
  * container GTM-524W4WZR, que o encaminha para a propriedade GA4
  * G-CWZT5XCLWB. (O container GTM-N3LZP5GV, citado aqui antes, e de outra
  * propriedade e nunca teve relacao com este site.)
@@ -18,6 +19,15 @@ declare global {
 }
 
 const SELETOR_WHATSAPP = 'a[href*="wa.me"], a[href*="api.whatsapp.com"]';
+const SELETOR_CONTATO = `${SELETOR_WHATSAPP}, a[href^="tel:"], a[href^="mailto:"]`;
+
+/** Nome do evento conforme o tipo de link. Um clique gera exatamente um evento. */
+function eventoDoLink(el: Element): string {
+  const href = el.getAttribute("href") || "";
+  if (href.startsWith("tel:")) return "clique_telefone";
+  if (href.startsWith("mailto:")) return "clique_email";
+  return "clique_whatsapp";
+}
 
 function slug(texto: string): string {
   return texto
@@ -52,12 +62,12 @@ export function iniciarRastreamentoWhatsapp(): void {
   document.addEventListener(
     "click",
     (evento) => {
-      const alvo = (evento.target as Element | null)?.closest?.(SELETOR_WHATSAPP);
+      const alvo = (evento.target as Element | null)?.closest?.(SELETOR_CONTATO);
       if (!alvo) return;
 
       window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({
-        event: "clique_whatsapp",
+        event: eventoDoLink(alvo),
         cta_origem: origemDoClique(alvo),
         cta_pagina: window.location.pathname,
       });
