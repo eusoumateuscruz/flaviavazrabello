@@ -24,6 +24,7 @@ Resumo do caso: `)}`;
       name: "Flávia Vaz Rabello Advocacia",
       url,
       telephone: "+55-19-99743-9157",
+      image: `${SITE}/images/hero-desktop.webp`,
       areaServed: { "@type": "City", name: "Indaiatuba" },
       address: {
         "@type": "PostalAddress",
