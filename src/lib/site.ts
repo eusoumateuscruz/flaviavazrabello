@@ -1,5 +1,5 @@
 export const WHATSAPP_NUMBER = "5519997439157";
-export const WHATSAPP_DEFAULT_MESSAGE = "Olá, vim pelo site e gostaria de mais informações...";
+export const WHATSAPP_DEFAULT_MESSAGE = "Olá, Dra. Flávia. Vim pelo site e quero agendar uma consulta.\nMinha cidade: \nAssunto: ";
 export const WHATSAPP_BASE_URL = `https://wa.me/${WHATSAPP_NUMBER}`;
 export const WHATSAPP_URL = `${WHATSAPP_BASE_URL}?text=${encodeURIComponent(WHATSAPP_DEFAULT_MESSAGE)}`;
  export const EMAIL = "advogada@flaviavazrabello.com.br";

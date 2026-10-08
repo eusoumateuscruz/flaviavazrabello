@@ -51,7 +51,7 @@ const Sobre = () => {
             "Pensão Alimentícia",
           ],
           sameAs: [
-            "https://www.instagram.com/flavia.vaz.rabello",
+            "https://www.instagram.com/flaviavazrabello.adv/",
             "https://www.jusbrasil.com.br/advogados/flavia-vaz-rabello",
           ],
           worksFor: {

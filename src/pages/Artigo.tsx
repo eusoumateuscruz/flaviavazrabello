@@ -97,7 +97,9 @@ const Artigo = ({ meta }: { meta: ArtigoMeta }) => {
 
   const area = AREA_POR_CATEGORIA[meta.categoria];
   const whatsapp = `${WHATSAPP_BASE_URL}?text=${encodeURIComponent(
-    `Olá, Dra. Flávia. Li o artigo "${meta.h1}" e gostaria de orientação.`,
+    `Olá, Dra. Flávia. Li o artigo "${meta.h1}" e quero agendar uma consulta para analisar o meu caso.
+Minha cidade: 
+Resumo do caso: `,
   )}`;
 
   return (
@@ -177,13 +179,16 @@ const Artigo = ({ meta }: { meta: ArtigoMeta }) => {
                   </Link>{" "}
                   com escritório em Indaiatuba/SP e atendimento online.
                 </p>
+                <p className="mt-3 text-foreground/85 leading-relaxed">
+                  Para analisar o seu caso, o atendimento é feito em consulta agendada, presencial em Indaiatuba ou online.
+                </p>
                 <a
                   href={whatsapp}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-5 inline-flex min-h-[44px] items-center gap-2 px-6 py-3 bg-primary text-primary-foreground text-xs uppercase tracking-[0.2em] hover:bg-accent transition-colors"
                 >
-                  Conversar pelo WhatsApp
+                  Agendar consulta pelo WhatsApp
                 </a>
               </div>
 

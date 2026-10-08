@@ -14,7 +14,9 @@ const PaginaLocalPage = ({ slugFixo }: { slugFixo?: string }) => {
   if (!p) return <NotFound />;
 
   const url = `${SITE}/${p.slug}`;
-  const whatsapp = `${WHATSAPP_BASE_URL}?text=${encodeURIComponent(`Olá, vim pela página de ${p.servico.toLowerCase()} em Indaiatuba e gostaria de mais informações.`)}`;
+  const whatsapp = `${WHATSAPP_BASE_URL}?text=${encodeURIComponent(`Olá, Dra. Flávia. Vim pela página de ${p.servico.toLowerCase()} em Indaiatuba e quero agendar uma consulta.
+Minha cidade: 
+Resumo do caso: `)}`;
   const jsonLd = [
     {
       "@context": "https://schema.org",
@@ -63,7 +65,7 @@ const PaginaLocalPage = ({ slugFixo }: { slugFixo?: string }) => {
             rel="noopener noreferrer"
             className="mt-7 inline-flex min-h-[52px] items-center gap-3 rounded-sm bg-primary px-6 text-[12px] font-semibold uppercase tracking-[0.16em] text-primary-foreground hover:bg-primary/90"
           >
-            Conversar pelo WhatsApp <ArrowRight className="h-4 w-4" />
+            Agendar consulta pelo WhatsApp <ArrowRight className="h-4 w-4" />
           </a>
         </div>
       </section>
