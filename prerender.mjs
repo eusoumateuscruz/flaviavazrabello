@@ -170,7 +170,7 @@ servidor.close();
    "images" precisa estar aqui: as fotos de Hero e Sobre sao referenciadas por
    caminho literal (/images/...), nao por import do Vite, entao nao entram no
    bundle com hash. Sem esta linha elas ficam de fora do export e dao 404. */
-for (const item of ["assets", "images", "favicon.ico", "robots.txt", "sitemap.xml", "placeholder.svg"]) {
+for (const item of ["assets", "images", "favicon.ico", "robots.txt", "sitemap.xml", "placeholder.svg", "llms.txt"]) {
   const de = join(dist, item);
   if (existsSync(de)) await cp(de, join(saida, item), { recursive: true });
 }
