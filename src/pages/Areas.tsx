@@ -21,7 +21,7 @@ const Areas = () => {
     <>
       <Seo
         title="Áreas de Atuação | Advogada Flávia Vaz Rabello — Indaiatuba"
-        description="Direito de Família, Direito Bancário, Direito do Consumidor e Direito do Trabalho. Advocacia especializada em Indaiatuba SP. Agende sua consulta."
+        description="Direito de Família, Direito Bancário, Direito do Consumidor e Direito do Trabalho. Advocacia em Indaiatuba SP. Agende sua consulta."
         canonical="https://www.flaviavazrabello.com.br/areas-de-atuacao"
       />
       <PageHero

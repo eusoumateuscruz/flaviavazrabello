@@ -58,6 +58,10 @@ const fixas = [
   ["/", "1.0"], ["/sobre", "0.9"], ["/areas-de-atuacao", "0.9"],
   ...Object.keys(CATEGORIAS).map((a) => [`/areas-de-atuacao/${a}`, "0.8"]),
   ["/blog", "0.9"], ["/perguntas-frequentes", "0.9"], ["/contato", "0.9"],
+  // páginas locais (src/lib/paginasLocais.ts)
+  ["/advogada-de-divorcio-em-indaiatuba", "0.9"],
+  ["/advogada-de-inventario-em-indaiatuba", "0.9"],
+  ["/advogada-de-pensao-alimenticia-em-indaiatuba", "0.9"],
 ];
 const linha = (loc, prio, lastmod) =>
   `  <url><loc>${SITE}${loc}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}<changefreq>monthly</changefreq><priority>${prio}</priority></url>`;

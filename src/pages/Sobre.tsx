@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { Mail, ArrowRight, GraduationCap } from "lucide-react";
 import Seo from "@/components/Seo";
 import { EMAIL, WHATSAPP_URL } from "@/lib/site";
-const sobreAsset = { url: "/images/sobre-desktop.jpeg" };
+const sobreAsset = { url: "/images/sobre-desktop.webp" };
 
  const formation = [
    { year: "OAB/SP 262057", title: "Graduada em Direito", subtitle: "FADITU" },
@@ -18,7 +18,7 @@ const Sobre = () => {
     <>
       <Seo
         title="Sobre a Dra. Flávia Vaz Rabello | Advogada em Indaiatuba"
-        description="Conheça a Dra. Flávia Vaz Rabello, advogada OAB 262057/SP especializada em Direito de Família, Bancário e Trabalhista em Indaiatuba e região."
+        description="Conheça a Dra. Flávia Vaz Rabello, advogada OAB 262057/SP com atuação em Direito de Família, Bancário e Trabalhista em Indaiatuba e região."
         canonical="https://www.flaviavazrabello.com.br/sobre"
         jsonLd={{
           "@context": "https://schema.org",
@@ -26,7 +26,7 @@ const Sobre = () => {
           name: "Flávia Vaz Rabello",
           jobTitle: "Advogada",
           description:
-            "Advogada especializada em Direito de Família, Direito Bancário e Direito do Trabalho. OAB 262057/SP. Atendimento em Indaiatuba e em todo o Brasil.",
+            "Advogada com atuação em Direito de Família, Direito Bancário e Direito do Trabalho. OAB 262057/SP. Atendimento em Indaiatuba e em todo o Brasil.",
           url: "https://www.flaviavazrabello.com.br/sobre",
           image: "https://www.flaviavazrabello.com.br/assets/flavia_sobre_v2-BI3a59NW.png",
           telephone: "+55-19-99743-9157",

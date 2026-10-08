@@ -90,7 +90,7 @@ const SECTIONS: Section[] = [
       },
       {
         q: "Como saber se estou pagando juros abusivos?",
-        a: "Compare a taxa do seu contrato com a taxa média do Banco Central para aquela modalidade de crédito. Se a diferença for expressiva, consulte uma advogada especializada.",
+        a: "Compare a taxa do seu contrato com a taxa média do Banco Central para aquela modalidade de crédito. Se a diferença for expressiva, consulte uma advogada.",
       },
       {
         q: "Posso revisar um contrato bancário já assinado?",

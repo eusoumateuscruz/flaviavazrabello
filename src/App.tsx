@@ -13,6 +13,8 @@ import NotFound from "./pages/NotFound";
 import ServicePage from "./pages/ServicePage";
 import BlogPost from "./pages/BlogPost";
 import FAQ from "./pages/FAQ";
+import PaginaLocal from "./pages/PaginaLocal";
+import { PAGINAS_LOCAIS } from "./lib/paginasLocais";
 
 const queryClient = new QueryClient();
 
@@ -34,6 +36,9 @@ const App = () => (
             <Route path="/blog/:slug" element={<BlogPost />} />
             <Route path="/perguntas-frequentes" element={<FAQ />} />
             <Route path="/contato" element={<Contato />} />
+            {PAGINAS_LOCAIS.map((p) => (
+              <Route key={p.slug} path={`/${p.slug}`} element={<PaginaLocal slugFixo={p.slug} />} />
+            ))}
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>

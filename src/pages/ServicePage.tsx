@@ -7,6 +7,7 @@ import SectionHeader from "@/components/SectionHeader";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 import { ARTIGOS, type Categoria } from "@/lib/artigos";
 import { BLOG_POSTS } from "@/data/blogPosts";
+import { PAGINAS_LOCAIS } from "@/lib/paginasLocais";
 
 const CATEGORIA_POR_ID: Record<string, Categoria> = {
   familia: "Família",
@@ -39,7 +40,7 @@ const ID_TO_SLUG: Record<string, string> = Object.fromEntries(
 const SEO_BY_SLUG: Record<string, { title: string; description: string }> = {
   "direito-de-familia": {
     title: "Advogada de Família em Indaiatuba | Divórcio, Pensão, Guarda — Flávia Vaz Rabello",
-    description: "Especialista em Direito de Família em Indaiatuba. Divórcio consensual e litigioso, guarda de filhos, pensão alimentícia, inventário e partilha. Atendimento humanizado.",
+    description: "Atuação em Direito de Família em Indaiatuba. Divórcio consensual e litigioso, guarda de filhos, pensão alimentícia, inventário e partilha. Atendimento humanizado.",
   },
   "direito-bancario": {
     title: "Advogada Direito Bancário em Indaiatuba | Juros Abusivos — Flávia Vaz Rabello",
@@ -117,7 +118,7 @@ const FAQ_BY_SLUG: Record<string, { name: string; text: string }[]> = {
     },
     {
       name: "O que é alienação parental e o que posso fazer?",
-      text: "Alienação parental é quando um dos pais interfere na relação da criança com o outro genitor, dificultando ou impedindo o contato. É crime previsto em lei. A parte prejudicada pode ingressar com ação judicial para reconhecimento e cessação da alienação, podendo resultar em inversão da guarda.",
+      text: "Alienação parental é quando um dos pais interfere na relação da criança com o outro genitor, dificultando ou impedindo o contato. Está prevista na Lei 12.318/2010. A parte prejudicada pode ingressar com ação judicial para reconhecimento e cessação da alienação, podendo resultar em inversão da guarda.",
     },
     {
       name: "Preciso de advogado para fazer inventário em Indaiatuba?",
@@ -226,7 +227,7 @@ const ServicePage = () => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-accent px-8 py-4 text-xs font-medium uppercase tracking-widest text-accent-foreground transition-all hover:bg-accent/90 hover:shadow-xl group"
               >
-                Falar com Especialista
+                Falar com a advogada
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </a>
             </div>
@@ -247,6 +248,40 @@ const ServicePage = () => {
           </div>
         </div>
       </section>
+
+      {/* FAQ visível: o mesmo conteúdo do FAQPage dos dados estruturados */}
+      {seoSlug && FAQ_BY_SLUG[seoSlug] && (
+        <section className="pb-16">
+          <div className="container-narrow max-w-3xl">
+            <SectionHeader eyebrow="Dúvidas" title="Perguntas frequentes" />
+            <div className="mt-10 space-y-6">
+              {FAQ_BY_SLUG[seoSlug].map((q) => (
+                <div key={q.name}>
+                  <h3 className="font-semibold text-foreground">{q.name}</h3>
+                  <p className="mt-1 text-foreground/80 leading-relaxed">{q.text}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {service.id === "familia" && (
+        <section className="pb-16">
+          <div className="container-narrow">
+            <SectionHeader eyebrow="Indaiatuba" title="Atendimento em Indaiatuba" />
+            <ul className="mt-8 flex flex-wrap gap-4">
+              {PAGINAS_LOCAIS.map((l) => (
+                <li key={l.slug}>
+                  <Link to={`/${l.slug}`} className="inline-flex items-center gap-2 rounded-sm border border-border px-4 py-3 text-sm hover:border-accent">
+                    {l.h1} <ArrowRight className="h-4 w-4" />
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      )}
 
       {artigosDaArea(service.id).length > 0 && (
         <section className="pb-24">
@@ -273,7 +308,7 @@ const ServicePage = () => {
 
       <section className="py-24 bg-primary text-primary-foreground text-center">
         <div className="container-narrow">
-          <h2 className="font-serif text-3xl md:text-5xl mb-8">Precisa de assistência especializada?</h2>
+          <h2 className="font-serif text-3xl md:text-5xl mb-8">Precisa de orientação jurídica?</h2>
           <p className="text-primary-foreground/80 mb-12 max-w-2xl mx-auto text-lg">
             Estamos prontos para analisar seu caso e oferecer a melhor solução jurídica.
           </p>

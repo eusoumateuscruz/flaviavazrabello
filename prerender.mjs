@@ -59,6 +59,10 @@ const ROTAS_PADRAO = [
   ...SERVICOS.map((s) => `/servicos/${s}`), // botoes "Saber mais" da home
   "/blog", ...BLOG.map((s) => `/blog/${s}`),
   "/perguntas-frequentes", "/contato",
+  // páginas locais "serviço + Indaiatuba" (src/lib/paginasLocais.ts)
+  "/advogada-de-divorcio-em-indaiatuba",
+  "/advogada-de-inventario-em-indaiatuba",
+  "/advogada-de-pensao-alimenticia-em-indaiatuba",
 ];
 
 const raiz = val("--raiz");

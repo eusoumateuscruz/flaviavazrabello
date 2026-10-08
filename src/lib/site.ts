@@ -73,7 +73,7 @@ export const PRACTICE_AREAS = [
      id: "consumidor",
      title: "Direito do Consumidor",
      description:
-       "Garantia de que seus direitos sejam respeitados em relações de consumo e transações digitais.",
+       "Defesa dos seus direitos nas relações de consumo e nas transações digitais.",
      services: [
        "Indenizações por Danos Morais e Materiais",
        "Proteção contra Golpes e Fraudes",
