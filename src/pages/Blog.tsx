@@ -4,12 +4,11 @@ import { Link } from "react-router-dom";
 import PageHero from "@/components/PageHero";
 import Seo from "@/components/Seo";
 import { Input } from "@/components/ui/input";
-import { BLOG_POSTS } from "@/data/blogPosts";
 import { ARTIGOS, formatarData } from "@/lib/artigos";
 
 const CATEGORIES = ["Todos", "Família", "Bancário", "Trabalhista", "Consumidor", "Assessoria"] as const;
 
-/* Artigos em JSON (com data, mais recentes primeiro) seguidos dos posts antigos. */
+/* Artigos em JSON, mais recentes primeiro (os posts antigos foram convertidos para JSON em 2026-10-08). */
 const POSTS: { slug: string; category: string; title: string; excerpt: string; cover: string; alt: string; data?: string }[] = [
   ...ARTIGOS.map((a) => ({
     slug: a.slug,
@@ -19,14 +18,6 @@ const POSTS: { slug: string; category: string; title: string; excerpt: string; c
     cover: a.imagem,
     alt: a.alt,
     data: a.data,
-  })),
-  ...BLOG_POSTS.map((p) => ({
-    slug: p.slug,
-    category: p.category,
-    title: p.title,
-    excerpt: p.excerpt,
-    cover: p.cover,
-    alt: p.title,
   })),
 ];
 

@@ -1,0 +1,103 @@
+{
+ "slug": "revisao-contrato-financiamento-veiculo",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Posso revisar o contrato de financiamento de veículo? O que a lei permite",
+ "title": "Revisão de financiamento de veículo: quando é possível",
+ "description": "Revisão do financiamento de veículo: juros, tarifas, seguro, quitação antecipada, busca e apreensão e prazos para pedir, segundo o STJ e o CDC.",
+ "resumo": "Saiba quais cobranças de um financiamento de carro ou moto podem ser questionadas, o que o STJ já decidiu sobre tarifas e seguro e quais cuidados tomar para não perder o veículo.",
+ "data": "2026-08-17",
+ "atualizado": "2026-10-08",
+ "imagem": "/images/blog/revisao-contrato-financiamento-veiculo.jpg",
+ "alt": "Capa verde com o título sobre revisão de contrato de financiamento de veículo",
+ "resposta": "Sim. O contrato de financiamento de veículo pode ser revisto quando há juros muito acima da média de mercado da época, tarifas que o STJ considera indevidas ou seguro imposto como condição do crédito. A ação revisional, porém, não suspende as parcelas por si só (Súmula 380 do STJ). Quem quita antes tem direito à redução proporcional dos juros (CDC, art. 52, § 2º).",
+ "intro": "<p>O financiamento de carro ou moto costuma ser assinado com pressa, na loja, com o vendedor ao lado e o veículo esperando. É comum que só depois, olhando o carnê ou o aplicativo do banco, a pessoa perceba que o valor total ficou muito acima do que imaginava. Nem toda diferença é ilegal, mas várias cobranças frequentes nesses contratos já foram analisadas pelo STJ.</p><p>Neste texto você vai ver o que pode ser revisto, quais tarifas são válidas e quais não são, o que muda por causa da alienação fiduciária e da busca e apreensão, como funciona a quitação antecipada e quais prazos valem. A advogada Flávia Vaz Rabello atua nesses casos em Indaiatuba e de forma online.</p>",
+ "secoes": [
+  {
+   "h2": "O que pode ser questionado em um financiamento de veículo?",
+   "html": "<p>Os pontos que mais aparecem em uma revisão são:</p><ul><li><strong>Juros remuneratórios</strong> muito acima da taxa média de mercado divulgada pelo Banco Central para aquisição de veículos, na época da assinatura. O passo a passo da comparação está no post sobre <a href=\"/blog/como-identificar-juros-abusivos\">como identificar juros abusivos</a>.</li><li><strong>Capitalização de juros</strong> sem previsão clara. Ela é permitida com periodicidade inferior à anual se estiver expressamente pactuada (Súmula 539 do STJ), e basta que a taxa anual seja maior que doze vezes a mensal (Súmula 541).</li><li><strong>Tarifas e despesas</strong> cobradas sem previsão, sem serviço prestado ou em valor excessivo.</li><li><strong>Seguro imposto</strong> como condição para liberar o crédito.</li><li><strong>Encargos de atraso</strong> acumulados de forma indevida.</li></ul><p>A revisão pode ser feita com o contrato em andamento ou depois de quitado, dentro do prazo de prescrição. O pedido costuma incluir o recálculo da dívida, a exclusão das cobranças indevidas e a devolução do que foi pago a mais.</p>"
+  },
+  {
+   "h2": "Quais tarifas o STJ considera válidas e quais são abusivas?",
+   "html": "<p>O STJ julgou o tema em recursos repetitivos, que orientam todos os tribunais do país. Um resumo:</p><table><thead><tr><th>Cobrança</th><th>O que diz o STJ</th></tr></thead><tbody><tr><td>Tarifa de cadastro</td><td>Pode ser cobrada no início do relacionamento entre o consumidor e o banco, nos contratos posteriores a 30/4/2008 (Súmula 566)</td></tr><tr><td>Tarifa de abertura de crédito (TAC) e de emissão de carnê (TEC)</td><td>Válidas só em contratos celebrados até 30/4/2008 (Súmula 565)</td></tr><tr><td>Tarifa de avaliação do bem</td><td>Válida, salvo se o serviço não foi prestado ou se houver onerosidade excessiva no caso (Tema 958)</td></tr><tr><td>Ressarcimento do registro do contrato</td><td>Válido, com as mesmas ressalvas: serviço efetivamente prestado e valor não excessivo (Tema 958)</td></tr><tr><td>Serviços de terceiros sem especificar o serviço</td><td>Abusivo (Tema 958)</td></tr><tr><td>Comissão do correspondente bancário</td><td>Abusiva em contratos a partir de 25/2/2011 (Tema 958)</td></tr><tr><td>Registro de pré-gravame</td><td>Abusivo em contratos a partir de 25/2/2011 (Tema 972)</td></tr></tbody></table><p>Ou seja: a tarifa de avaliação e o registro do contrato não são proibidos, mas o banco precisa ter feito o serviço. Se o carro era zero quilômetro e não houve vistoria, ou se o registro não aparece no órgão de trânsito, há espaço para discutir. Outras tarifas de conta e pacote estão no post sobre <a href=\"/blog/tarifas-bancarias-indevidas\">tarifas bancárias indevidas</a>.</p>"
+  },
+  {
+   "h2": "O seguro prestamista no financiamento é venda casada?",
+   "html": "<p>Pode ser. O Código de Defesa do Consumidor proíbe condicionar o fornecimento de um produto ou serviço à compra de outro (art. 39, I). Aplicando essa regra, o STJ firmou no Tema 972 que, nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada.</p><p>O seguro em si não é ilegal. O problema é a falta de escolha: quando o contrato já vem com o seguro embutido, sem opção de recusar ou de contratar outra seguradora, a cobrança pode ser questionada e o valor pago pode ser pedido de volta. Se houve cobrança indevida sem engano justificável, o CDC prevê a devolução em dobro (art. 42, parágrafo único).</p><p>O mesmo Tema 972 trouxe um alerta: a abusividade de encargos acessórios, como tarifas e seguro, não descaracteriza a mora. Em outras palavras, encontrar uma tarifa indevida não autoriza parar de pagar as parcelas. O tema completo está no post sobre <a href=\"/blog/seguro-prestamista-obrigatorio\">seguro prestamista</a>.</p>"
+  },
+  {
+   "h2": "O que muda por causa da alienação fiduciária e da busca e apreensão?",
+   "html": "<p>Quase todo financiamento de veículo é feito com alienação fiduciária: o carro fica em nome do banco como garantia até a quitação. Isso dá ao credor um caminho rápido para retomar o bem em caso de atraso, regulado pelo Decreto-Lei 911/1969.</p><ul><li><strong>Comprovação do atraso.</strong> A mora decorre do simples vencimento e pode ser comprovada por carta registrada com aviso de recebimento (art. 2º, § 2º).</li><li><strong>Busca e apreensão judicial.</strong> Comprovada a mora, o juiz pode conceder liminar para apreender o veículo (art. 3º). Cinco dias depois de cumprida a liminar, a propriedade se consolida no banco; nesse prazo, o devedor pode pagar a integralidade da dívida pendente e ter o bem de volta (art. 3º, §§ 1º e 2º). A defesa pode ser apresentada em quinze dias da execução da liminar (art. 3º, § 3º).</li><li><strong>Via extrajudicial.</strong> A Lei 14.711/2023 incluiu no Decreto-Lei o art. 8º-B, que permite ao credor, se houver cláusula expressa e em destaque no contrato, pedir a consolidação da propriedade no cartório de registro de títulos e documentos. O devedor é notificado para pagar em 20 dias ou apresentar documentos que mostrem que a cobrança é total ou parcialmente indevida.</li><li><strong>Multa por apreensão indevida.</strong> Se a ação de busca e apreensão for julgada improcedente e o carro já tiver sido vendido, o banco paga multa de cinquenta por cento do valor financiado, atualizado (art. 3º, § 6º).</li></ul><p>Por isso, a revisão deve ser pensada antes de o atraso virar processo. Os detalhes estão nos posts sobre <a href=\"/blog/busca-e-apreensao-de-veiculo\">busca e apreensão de veículo</a> e <a href=\"/blog/busca-e-apreensao-extrajudicial\">busca e apreensão extrajudicial</a>.</p>"
+  },
+  {
+   "h2": "Quem quita o financiamento antes tem direito a pagar menos juros?",
+   "html": "<p>Sim. O art. 52, § 2º, do CDC assegura ao consumidor a liquidação antecipada do débito, total ou parcial, mediante redução proporcional dos juros e demais acréscimos. Isso vale para quem quer quitar tudo e também para quem quer adiantar algumas parcelas.</p><p>Na prática, ao adiantar parcelas, o valor pago deve ser menor do que a soma das parcelas futuras, porque os juros que seriam cobrados pelo tempo restante saem da conta. Peça ao banco, por escrito, o cálculo do saldo para quitação e confira se a redução aparece. Se o valor oferecido for igual à soma das parcelas, há algo errado. Adiantar as últimas parcelas costuma gerar redução maior, porque são as que carregam mais tempo de juros.</p>"
+  },
+  {
+   "h2": "Exemplo prático: como uma revisão costuma ser analisada?",
+   "html": "<p>Exemplo ilustrativo. Uma pessoa financiou um carro usado e, ao reler o contrato, encontra: tarifa de cadastro, tarifa de avaliação do bem, ressarcimento de registro, um item genérico chamado serviços de terceiros e um seguro prestamista que ninguém ofereceu como opcional.</p><p>Na análise, a tarifa de cadastro tende a ser mantida se foi o primeiro contrato com aquele banco. A avaliação do bem e o registro dependem de prova de que os serviços foram feitos. O item de serviços de terceiros sem descrição tende a ser considerado abusivo. O seguro depende de mostrar que não houve escolha. Juros só entram na discussão se a taxa estiver muito acima da média de mercado da época para aquisição de veículos.</p><p>Enquanto isso, as parcelas continuam devidas. O resultado possível é o recálculo da dívida com a exclusão do que for indevido, e não o cancelamento do contrato.</p>"
+  },
+  {
+   "h2": "Quais são os prazos, os documentos e os erros mais comuns?",
+   "html": "<h3>Prazos</h3><ul><li><strong>Ação revisional:</strong> o STJ tem aplicado o prazo de prescrição de dez anos do Código Civil, contado da assinatura do contrato; havendo renegociações sucessivas, conta-se da assinatura do último contrato (REsp 1.996.052).</li><li><strong>Busca e apreensão judicial:</strong> cinco dias após a liminar para pagar a integralidade da dívida e quinze dias para a defesa (Decreto-Lei 911/1969, art. 3º).</li><li><strong>Via extrajudicial:</strong> vinte dias para pagar ou apresentar documentos ao cartório (art. 8º-B).</li></ul><h3>Documentos</h3><ul><li>contrato completo e a ficha de proposta assinada na loja;</li><li>carnê ou demonstrativo das parcelas pagas;</li><li>apólice do seguro e comprovante de que ele veio embutido no financiamento;</li><li>documento do veículo (CRLV) e registro do gravame;</li><li>notificações de atraso recebidas.</li></ul><h3>Erros comuns</h3><ul><li>parar de pagar logo depois de entrar com a ação, achando que a revisão suspende as parcelas;</li><li>esconder o veículo para evitar a busca e apreensão, o que pode piorar a situação;</li><li>aceitar renegociação sem conferir a nova taxa;</li><li>quitar antecipadamente sem pedir o cálculo da redução dos juros.</li></ul>"
+  },
+  {
+   "h2": "Quando faz sentido procurar um advogado?",
+   "html": "<p>Vale buscar orientação quando a diferença de juros em relação à média da época é grande, quando o contrato tem várias tarifas e seguro embutidos, quando já chegou notificação de atraso ou do cartório, ou quando o veículo foi apreendido. Nesse último caso, os prazos são curtos, e o post sobre <a href=\"/blog/purgacao-da-mora-recuperar-carro-apreendido\">como recuperar o carro apreendido</a> explica o que ainda é possível.</p><p>Em muitos casos, uma conversa com o banco, com o cálculo em mãos, resolve sem processo. Quando não resolve, a ação revisional pode ser um caminho. A página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> resume os temas atendidos.</p><p>Conteúdo informativo. Cada caso precisa de análise individual do contrato. A advogada Flávia Vaz Rabello atua em direito bancário em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entrar com ação revisional impede o banco de tomar o carro?",
+   "a": "Não por si só. A Súmula 380 do STJ diz que a simples propositura da ação de revisão não inibe a caracterização da mora. Para evitar a retomada, é preciso continuar pagando ou obter uma decisão judicial específica, que depende do caso."
+  },
+  {
+   "q": "Posso pedir a revisão de um financiamento que já quitei?",
+   "a": "Em geral, sim, desde que dentro do prazo de prescrição, que o STJ tem contado em dez anos a partir da assinatura do contrato. Nesse caso, o pedido é de devolução do que foi pago a mais, e os comprovantes de pagamento ficam ainda mais importantes."
+  },
+  {
+   "q": "A tarifa de avaliação do bem é sempre ilegal?",
+   "a": "Não. O STJ, no Tema 958, considerou válida a tarifa de avaliação do bem dado em garantia. Ela só pode ser afastada se o serviço não foi efetivamente prestado ou se o valor for excessivo no caso concreto."
+  },
+  {
+   "q": "O banco pode cobrar multa por atraso acima de 2%?",
+   "a": "Nos contratos de consumo com concessão de crédito, a multa de mora não pode passar de dois por cento do valor da prestação, conforme o art. 52, § 1º, do CDC. Juros de mora e outros encargos são analisados à parte."
+  },
+  {
+   "q": "Se o banco vender o carro apreendido, ainda posso dever alguma coisa?",
+   "a": "Pode. Pelo Decreto-Lei 911/1969, art. 2º, o banco vende o bem, usa o valor para pagar o crédito e as despesas e deve entregar ao devedor o saldo que sobrar, com prestação de contas. Se a venda não cobrir a dívida, o banco pode cobrar a diferença, e a Súmula 384 do STJ admite ação monitória para isso."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Súmulas 380, 384, 539, 541, 565 e 566 do STJ (texto integral na compilação oficial de enunciados)",
+   "url": "https://www.stj.jus.br/docs_internet/jurisprudencia/tematica/download/SU/Verbetes/VerbetesSTJ.pdf",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "STJ, Tema Repetitivo 958 (REsp 1.578.553/SP): abusividade de serviços de terceiros sem especificação e da comissão do correspondente após 25/2/2011; validade da tarifa de avaliação do bem e do ressarcimento do registro do contrato, ressalvados serviço não prestado e onerosidade excessiva",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=958&cod_tema_final=958",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "STJ, Tema Repetitivo 972 (REsp 1.639.320/SP e REsp 1.639.259/SP): abusividade do pré-gravame após 25/2/2011; consumidor não pode ser compelido a contratar seguro com o banco ou seguradora indicada; abusividade de encargos acessórios não descaracteriza a mora",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=972&cod_tema_final=972",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Decreto-Lei 911/1969: art. 2º (venda do bem, saldo ao devedor, mora por carta registrada com AR), art. 3º, §§ 1º, 2º, 3º e 6º (liminar, 5 dias para pagar a integralidade, 15 dias de resposta, multa de 50%) e art. 8º-B incluído pela Lei 14.711/2023 (via extrajudicial no cartório, cláusula em destaque, 20 dias)",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "CDC, art. 39, I (venda casada), art. 42, parágrafo único (repetição em dobro), art. 52, § 1º (multa de mora de até 2%) e § 2º (liquidação antecipada com redução proporcional dos juros)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 1.996.052 (notícia de 20/9/2022): prazo de dez anos para a revisão de contrato bancário, contado da assinatura, ou da assinatura do último contrato em caso de renovações",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2022/20092022-Prazo-prescricional-em-contratos-com-sucessao-negocial-e-contado-do-ultimo-deles--reafirma-Terceira-Turma.aspx",
+   "conferido_em": "2026-10-08"
+  }
+ ]
+}

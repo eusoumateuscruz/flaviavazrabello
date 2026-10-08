@@ -6,7 +6,6 @@ import { WHATSAPP_BASE_URL, PRACTICE_AREAS } from "@/lib/site";
 import SectionHeader from "@/components/SectionHeader";
 import flaviaFoto from "@/assets/flavia_sobre_branco.png";
 import { ARTIGOS, type Categoria } from "@/lib/artigos";
-import { BLOG_POSTS } from "@/data/blogPosts";
 import { PAGINAS_LOCAIS } from "@/lib/paginasLocais";
 
 const CATEGORIA_POR_ID: Record<string, Categoria> = {
@@ -21,8 +20,7 @@ const CATEGORIA_POR_ID: Record<string, Categoria> = {
 function artigosDaArea(id: string, n = 6) {
   const cat = CATEGORIA_POR_ID[id];
   const novos = ARTIGOS.filter((a) => a.categoria === cat).map((a) => ({ slug: a.slug, titulo: a.h1, resumo: a.resumo }));
-  const antigos = BLOG_POSTS.filter((p) => p.category === cat).map((p) => ({ slug: p.slug, titulo: p.title, resumo: p.excerpt }));
-  return [...novos, ...antigos].slice(0, n);
+  return novos.slice(0, n);
 }
 
 const SLUG_TO_ID: Record<string, string> = {

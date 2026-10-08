@@ -38,20 +38,12 @@ const AREAS = [
   "direito-do-trabalho", "assessoria-juridica",
 ];
 const SERVICOS = ["familia", "bancario", "consumidor", "trabalhista", "extrajudicial"];
-const ANTIGOS = [
-  "golpe-do-pix-o-que-fazer", "guarda-compartilhada-como-funciona",
-  "demissao-sem-justa-causa-direitos", "como-identificar-juros-abusivos",
-  "divorcio-consensual-indaiatuba", "pensao-alimenticia-como-e-calculado-o-valor",
-  "alienacao-parental-o-que-e-como-provar", "nome-sujo-indevidamente-o-que-fazer",
-  "revisao-contrato-financiamento-veiculo", "assedio-moral-no-trabalho-o-que-fazer",
-  "empresa-nao-pagou-horas-extras-o-que-fazer", "produto-com-defeito-quais-sao-meus-direitos",
-  "compra-cancelada-loja-nao-devolveu-dinheiro",
-];
-/* Artigos em JSON (src/content/indice.json, gerado por scripts/blog/indice.mjs). */
+/* Artigos do blog, todos em JSON (src/content/indice.json, gerado por scripts/blog/indice.mjs).
+   Os 13 posts antigos de src/data/blogPosts.tsx foram convertidos em 2026-10-08 com a mesma URL. */
 const ARTIGOS_JSON = JSON.parse(
   await readFile(new URL("./src/content/indice.json", import.meta.url), "utf-8"),
 ).map((a) => a.slug);
-const BLOG = [...ANTIGOS, ...ARTIGOS_JSON];
+const BLOG = ARTIGOS_JSON;
 const ROTAS_PADRAO = [
   "/", "/sobre",
   "/areas", // rota do menu principal; sem ela o item "Áreas de Atuação" da 404

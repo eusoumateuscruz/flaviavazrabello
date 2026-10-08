@@ -1,0 +1,103 @@
+{
+ "slug": "golpe-do-pix-o-que-fazer",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Caí no golpe do Pix: o que fazer agora e como tentar recuperar o dinheiro",
+ "title": "Golpe do Pix: o que fazer e como pedir o MED no banco",
+ "description": "Caiu no golpe do Pix? Veja como acionar o MED em até 80 dias, o que mudou no Banco Central em 2025 e 2026 e quando o banco pode responder pelo prejuízo.",
+ "resumo": "O passo a passo das primeiras horas depois de um golpe do Pix, como funciona o MED com o rastreamento do dinheiro e em que situações o banco pode ser responsabilizado.",
+ "data": "2026-06-16",
+ "atualizado": "2026-10-08",
+ "imagem": "/images/blog/golpe-do-pix-o-que-fazer.jpg",
+ "alt": "Mão segurando celular com alerta na tela, sobre mesa com documentos e caneta",
+ "resposta": "Avise o seu banco na hora e peça a contestação pelo MED, o Mecanismo Especial de Devolução do Pix, que vale para golpes em até 80 dias da transação. Guarde comprovantes e conversas e registre boletim de ocorrência. O dinheiro só volta se ainda houver saldo nas contas usadas no golpe. Se não voltar, o banco pode responder quando houver falha de segurança (CDC, art. 14).",
+ "intro": "<p>O golpe do Pix costuma acontecer em minutos: uma ligação de uma falsa central, uma mensagem de um parente que trocou de número, um anúncio com valor baixo demais. Quando a pessoa percebe, o dinheiro já saiu da conta. A boa notícia é que o Banco Central criou um caminho próprio para tentar recuperar valores enviados em golpes, e esse caminho ficou mais forte em 2025 e 2026.</p><p>Neste texto você vai ver o que fazer nas primeiras horas, como funciona o MED hoje, quais prazos valem, o que não entra no mecanismo e quando o banco pode ser chamado a responder pelo prejuízo. Se o golpe envolveu cartão, e não Pix, o post sobre <a href=\"/blog/cartao-clonado-o-que-fazer\">cartão clonado</a> trata desse cenário.</p>",
+ "secoes": [
+  {
+   "h2": "O que fazer nas primeiras horas depois do golpe do Pix?",
+   "html": "<p>A velocidade é o que mais pesa. O MED só devolve dinheiro que ainda estiver nas contas usadas no golpe, e o golpista costuma movimentar os valores rapidamente. Siga esta ordem:</p><ol><li><strong>Avise o seu banco imediatamente.</strong> Use a opção de contestação dentro da área Pix do aplicativo ou ligue para a central oficial (o número que está no verso do cartão ou no site do banco, nunca um número recebido por mensagem). Diga com clareza que foi um golpe e peça a abertura do MED.</li><li><strong>Anote o protocolo</strong>, com data e hora. Se a contestação foi feita pelo aplicativo, tire print da tela de confirmação.</li><li><strong>Junte as provas</strong>: comprovante do Pix, nome e chave do recebedor, prints das conversas, número de telefone usado, links e anúncios.</li><li><strong>Registre boletim de ocorrência</strong>, que em São Paulo e em vários estados pode ser feito pela delegacia eletrônica da Polícia Civil.</li><li><strong>Proteja suas contas</strong>: troque senhas do aplicativo do banco e do e-mail e confira se há aparelhos desconhecidos conectados.</li><li><strong>Acompanhe a contestação</strong> pelo próprio aplicativo, onde o banco deve mostrar a situação do pedido.</li></ol><p>Não espere o boletim de ocorrência ficar pronto para avisar o banco. Pelo guia oficial do Banco Central, o banco não pode exigir boletim de ocorrência nem analisar o mérito antes de abrir a recuperação de valores. Ele pode pedir documentos depois, já com o pedido aberto.</p>"
+  },
+  {
+   "h2": "Como funciona o MED, o Mecanismo Especial de Devolução do Pix?",
+   "html": "<p>O MED é um procedimento previsto no Regulamento do Pix (anexo à Resolução BCB 1/2020) e detalhado no Guia de implementação do MED, publicado pelo Banco Central. Em resumo, ele permite que o banco da vítima peça o bloqueio e a devolução de valores que estejam na conta do golpista.</p><h3>O que mudou recentemente</h3><ul><li><strong>Botão de contestação no aplicativo.</strong> Os bancos passaram a ser obrigados a oferecer, dentro da área Pix do aplicativo, uma funcionalidade para a pessoa física contestar a transação por golpe, fraude ou crime e acompanhar o andamento. A exigência vale desde 1º de outubro de 2025, conforme a Instrução Normativa BCB nº 589/2025.</li><li><strong>Rastreamento do dinheiro (recuperação de valores).</strong> A Resolução BCB nº 493/2025 criou a recuperação de valores, que permite rastrear o dinheiro e bloquear recursos não só na conta que recebeu o Pix, mas também em contas para as quais ele foi repassado. A funcionalidade passou a ser obrigatória para os bancos em 2 de fevereiro de 2026. É o que muita gente chama de MED 2.0.</li></ul><h3>As etapas e seus prazos</h3><ol><li>A vítima contesta, e o banco dela abre a recuperação de valores no sistema do Banco Central.</li><li>Os bancos que receberam o dinheiro bloqueiam o valor pedido ou o saldo disponível, se for menor.</li><li>Cada banco recebedor tem até 7 dias corridos para analisar se houve fraude.</li><li>Concluída a análise, o banco da vítima tem até 72 horas para iniciar a devolução.</li><li>Os bancos recebedores devolvem o que estiver bloqueado, em geral em poucas horas.</li></ol><p>A devolução pode ser total, parcial ou nenhuma, conforme o saldo encontrado. Se as contas já estiverem vazias, o MED termina sem devolução, mas isso não encerra os outros caminhos explicados abaixo.</p>"
+  },
+  {
+   "h2": "Qual é o prazo para pedir o MED e quais outros prazos importam?",
+   "html": "<p>Pelo guia do Banco Central, a contestação pelo MED pode ser feita para transações de até <strong>80 dias</strong>. Passado esse prazo, o próprio aplicativo deve informar que a contestação não é mais possível pelo mecanismo. Mesmo assim, quanto antes melhor: o prazo longo não muda o fato de que o dinheiro some rápido.</p><table><thead><tr><th>Etapa</th><th>Prazo</th><th>Base</th></tr></thead><tbody><tr><td>Contestar pelo MED</td><td>até 80 dias da transação</td><td>Guia do MED, Banco Central</td></tr><tr><td>Análise pelo banco recebedor</td><td>até 7 dias corridos</td><td>Guia do MED, Banco Central</td></tr><tr><td>Início da devolução</td><td>até 72 horas após a análise</td><td>Guia do MED, Banco Central</td></tr><tr><td>Pedir indenização por defeito do serviço</td><td>5 anos, contados do conhecimento do dano e de sua autoria</td><td>CDC, art. 27</td></tr></tbody></table><p>O prazo de cinco anos do art. 27 do Código de Defesa do Consumidor (CDC) vale para a ação de reparação contra o fornecedor do serviço, como o banco, quando se discute falha na segurança. Ele não substitui a urgência do MED.</p>"
+  },
+  {
+   "h2": "Quando o MED não pode ser usado?",
+   "html": "<p>O MED serve para fraude, golpe ou crime. Ele vale inclusive quando a própria vítima fez o Pix com senha ou biometria, porque foi enganada. Mas o guia do Banco Central exclui algumas situações:</p><ul><li><strong>Pix enviado por engano</strong> para a pessoa errada, sem golpe. Nesse caso, o caminho é pedir a devolução ao banco e ao recebedor e, se não houver acordo, buscar a Justiça.</li><li><strong>Desacordo comercial</strong>: produto entregue com atraso, diferente do esperado ou com defeito, quando o vendedor existe e não houve fraude. Esses casos se resolvem pelas regras do consumidor, não pelo MED.</li><li><strong>Dinheiro usado para pagar um terceiro de boa-fé</strong>, como uma loja que vendeu algo ao golpista sem saber do golpe.</li></ul><p>Por isso, ao contestar, descreva o golpe com detalhes: quem fez contato, por qual meio, o que foi prometido e por que você transferiu. Esse relato ajuda o banco a enquadrar o caso corretamente. Se a compra foi feita em loja virtual falsa, veja também o post sobre <a href=\"/blog/golpe-do-site-falso\">compra em site falso</a>, e, se o contato veio por aplicativo de mensagens, o texto sobre <a href=\"/blog/golpe-no-whatsapp\">golpe pelo WhatsApp</a>.</p>"
+  },
+  {
+   "h2": "O banco é responsável pelo dinheiro perdido no golpe do Pix?",
+   "html": "<p>Pode ser, mas não de forma automática. O ponto de partida é o art. 14 do CDC: o fornecedor de serviços responde, independentemente de culpa, pelos danos causados por defeito na prestação do serviço, e o serviço é defeituoso quando não oferece a segurança que o consumidor pode esperar. O STJ aplicou essa lógica aos bancos na <strong>Súmula 479</strong>: as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.</p><p>O mesmo art. 14, no § 3º, permite que o banco se livre da responsabilidade se provar que o defeito não existe ou que houve culpa exclusiva do consumidor ou de terceiro. Em julho de 2026, a Terceira Turma do STJ, no REsp 2.209.868, afirmou que a responsabilidade do banco por golpe da falsa central depende da demonstração de falha no serviço, como não identificar operações incompatíveis com o perfil do cliente ou ter mecanismos de segurança insuficientes. Naquele caso, os Pix eram compatíveis com o histórico da conta e a maior transferência foi feita pela cliente na agência, e o tribunal entendeu que houve culpa exclusiva da vítima e dos golpistas.</p><h3>Situações que costumam pesar a favor da vítima</h3><ul><li>vários Pix seguidos, de valores altos, fora do padrão da conta e sem nenhum bloqueio ou alerta;</li><li>aumento de limite ou contratação de empréstimo feita na mesma sequência do golpe;</li><li>transações feitas por terceiro que invadiu a conta, sem participação da vítima;</li><li>demora do banco em abrir o MED depois do aviso.</li></ul><h3>Situações que costumam pesar contra</h3><ul><li>transferências compatíveis com o histórico de uso da conta;</li><li>senha ou código de segurança entregue ao golpista;</li><li>alertas do aplicativo ignorados antes de confirmar o Pix.</li></ul><p>No processo, o juiz pode inverter o ônus da prova a favor do consumidor quando a alegação for verossímil ou ele for hipossuficiente (CDC, art. 6º, VIII). Assim, o banco passa a ter de mostrar os registros das operações e os alertas que o sistema gerou.</p>"
+  },
+  {
+   "h2": "Exemplo prático: como a análise costuma acontecer?",
+   "html": "<p>Exemplo ilustrativo. Uma aposentada que só usa a conta para receber o benefício e pagar contas pequenas recebe uma ligação de alguém que se diz do setor de segurança do banco. Em vinte minutos, faz quatro Pix que somam um valor várias vezes maior do que tudo o que movimentou nos últimos meses, para contas de pessoas que ela nunca pagou antes. O banco não bloqueia nem pede confirmação adicional.</p><p>Ela contesta pelo aplicativo uma hora depois. O MED rastreia o dinheiro, encontra parte dele em uma segunda conta e devolve o que estava bloqueado. Sobre a diferença, a discussão passa a ser se o sistema do banco deveria ter identificado operações tão diferentes do perfil dela. Em outro cenário, com transferências de valor parecido com as que a pessoa costuma fazer, essa discussão fica bem mais difícil.</p>"
+  },
+  {
+   "h2": "Que documentos reunir e quais erros evitar?",
+   "html": "<p>Monte uma pasta com:</p><ul><li>comprovantes de cada Pix, com nome do recebedor, instituição e chave usada;</li><li>prints das conversas, ligações recebidas (registro de chamadas), mensagens, anúncios e links;</li><li>protocolo da contestação no MED e respostas do banco;</li><li>boletim de ocorrência;</li><li>extratos dos três a seis meses anteriores, que mostram o seu padrão de uso da conta;</li><li>registro de qualquer empréstimo ou aumento de limite feito durante o golpe.</li></ul><p>Erros comuns que atrapalham:</p><ul><li>esperar o dia seguinte para avisar o banco;</li><li>contestar só por telefone, sem anotar o protocolo;</li><li>apagar a conversa com o golpista por vergonha ou raiva;</li><li>acreditar em quem promete recuperar o dinheiro mediante pagamento antecipado, que costuma ser um segundo golpe;</li><li>pagar um Pix de devolução para alguém que diz ter enviado dinheiro por engano, sem confirmar no extrato e no banco.</li></ul>"
+  },
+  {
+   "h2": "Se o MED não devolver o dinheiro, quais são os caminhos e quando procurar advogado?",
+   "html": "<p>Quando o MED termina sem devolução ou com devolução parcial, ainda há alternativas:</p><ol><li><strong>Ouvidoria do banco</strong>, depois do atendimento comum, com pedido por escrito de ressarcimento.</li><li><strong>Reclamação no Banco Central e no consumidor.gov.br</strong>, que cria registro oficial e costuma gerar nova análise.</li><li><strong>Ação judicial</strong> contra o banco, quando houver indícios de falha de segurança, e contra os titulares das contas que receberam o dinheiro, que podem ser identificados no processo.</li></ol><p>Também vale avaliar o caso com um advogado quando o valor é alto, quando houve empréstimo contratado durante o golpe, quando a conta foi invadida sem a sua participação ou quando o banco cobra parcelas de uma operação que você não fez. Se o golpe resultou em cobrança indevida ou negativação, o post sobre <a href=\"/blog/nome-sujo-indevidamente-o-que-fazer\">nome sujo indevidamente</a> mostra os próximos passos, e a página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> resume os temas atendidos.</p><p>Conteúdo informativo. Cada caso precisa de análise individual dos documentos. A advogada Flávia Vaz Rabello atua em direito bancário em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "O banco pode recusar a abertura do MED porque eu mesmo fiz o Pix?",
+   "a": "Não por esse motivo. O guia do Banco Central diz que o MED pode ser pedido em qualquer caso de golpe ou fraude, inclusive quando a vítima autorizou a transação com senha ou biometria. O que pode acontecer é o banco recebedor concluir, depois da análise, que não houve fraude, ou não haver saldo para devolver."
+  },
+  {
+   "q": "O dinheiro volta mesmo se o golpista já transferiu para outra conta?",
+   "a": "Pode voltar. Desde 2 de fevereiro de 2026, a recuperação de valores permite rastrear o dinheiro e bloquear recursos também nas contas para onde ele foi repassado. A devolução, porém, depende de ainda existir saldo nessas contas no momento do bloqueio."
+  },
+  {
+   "q": "Preciso fazer boletim de ocorrência antes de falar com o banco?",
+   "a": "Não. Avise o banco primeiro, porque cada minuto conta. O guia do MED proíbe o banco de exigir boletim de ocorrência para abrir a recuperação de valores. Registre o boletim logo em seguida, porque ele é útil se o caso for para a Justiça."
+  },
+  {
+   "q": "Fiz um Pix para a chave errada. Posso usar o MED?",
+   "a": "Não. Envio por engano, sem golpe, não está entre as hipóteses do MED. O caminho é pedir ao banco que contate o recebedor e, se a pessoa não devolver, buscar a devolução na Justiça."
+  },
+  {
+   "q": "Fui vítima de golpe e o banco também liberou um empréstimo em meu nome. O que muda?",
+   "a": "Conteste o empréstimo por escrito junto com o Pix e guarde o protocolo. Um crédito liberado na mesma sequência do golpe, fora do seu padrão de uso, é um ponto que pode indicar falha no sistema de segurança do banco, e as parcelas podem ser discutidas."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "Guia de implementação do MED, versão 4.3 (Banco Central): MED cabe para golpe mesmo com senha ou biometria; não cabe para envio por engano, desacordo comercial ou terceiro de boa-fé; contestação para transações de até 80 dias; banco não pode exigir boletim de ocorrência para abrir a recuperação de valores; 7 dias corridos de análise, 72 horas para iniciar a devolução; autoatendimento obrigatório no aplicativo",
+   "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Guia_MED.pdf",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Resolução BCB nº 493, de 28/8/2025: altera o Regulamento do Pix (Resolução BCB 1/2020), cria a recuperação de valores com rastreamento e bloqueio em transações subsequentes (arts. 41-D, 41-E, 54, XII, e 78-N) e torna a funcionalidade obrigatória a partir de 2/2/2026 (art. 121)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=493",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Instrução Normativa BCB nº 589/2025, art. 3º, II (redação da IN BCB nº 605/2025): capítulo 16 dos Requisitos Mínimos para a Experiência do Usuário, que trata do autoatendimento do MED, vigente desde 1º/10/2025",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=589",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "CDC, art. 14, caput, § 1º e § 3º (responsabilidade objetiva do fornecedor de serviços e excludentes), art. 6º, VIII (inversão do ônus da prova) e art. 27 (prescrição de 5 anos da reparação por fato do serviço)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Súmula 479 do STJ: instituições financeiras respondem objetivamente por fortuito interno relativo a fraudes e delitos de terceiros no âmbito de operações bancárias",
+   "url": "https://www.stj.jus.br/docs_internet/jurisprudencia/tematica/download/SU/Verbetes/VerbetesSTJ.pdf",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "STJ, Terceira Turma, REsp 2.209.868 (rel. Min. Humberto Martins, notícia de 15/7/2026): responsabilidade do banco por golpe da falsa central não é automática e depende de falha, como não identificar operações incompatíveis com o perfil; culpa exclusiva da vítima e de terceiros rompe o nexo",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Sem-transacoes-incompativeis-com-perfil-de-cliente--banco-nao-responde-por-golpe-da-falsa-central.aspx",
+   "conferido_em": "2026-10-08"
+  }
+ ]
+}

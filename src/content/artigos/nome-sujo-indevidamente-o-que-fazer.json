@@ -1,0 +1,99 @@
+{
+ "slug": "nome-sujo-indevidamente-o-que-fazer",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Nome sujo indevidamente: o que fazer para limpar o nome e quando cabe indenização",
+ "title": "Nome sujo indevidamente: o que fazer e seus direitos",
+ "description": "Nome sujo indevidamente: como descobrir quem negativou, o prazo de 5 dias úteis para a baixa, quando cabe dano moral e como usar o Registrato do BC.",
+ "resumo": "Negativação por dívida que não é sua, já paga ou sem aviso prévio: veja como descobrir a origem, os prazos da lei e do STJ e quando é possível pedir indenização.",
+ "data": "2026-08-17",
+ "atualizado": "2026-10-08",
+ "imagem": "/images/blog/nome-sujo-indevidamente-o-que-fazer.jpg",
+ "alt": "Capa verde com o título sobre nome sujo indevidamente",
+ "resposta": "Descubra quem fez a negativação, peça por escrito a retirada ao credor e ao cadastro e guarde as provas. Se a dívida não existe, já foi paga ou você não foi avisado antes, o registro pode ser cancelado. Depois do pagamento, o credor tem cinco dias úteis para pedir a baixa (Súmula 548 do STJ). A negativação indevida costuma gerar dano moral, salvo se já havia outra negativação legítima.",
+ "intro": "<p>Descobrir que o nome está negativado costuma acontecer na pior hora: um crediário recusado, um cartão negado, um financiamento que não sai. Quando a dívida não é sua, já foi paga ou nunca foi avisada, a sensação de injustiça é grande. A lei e o STJ têm regras claras para essas situações, e saber a ordem certa das providências ajuda a resolver mais rápido.</p><p>Neste texto você vai ver como descobrir a origem da negativação, quais são os prazos legais, como consultar o Registrato do Banco Central, quando cabe indenização por dano moral e quais erros evitar.</p>",
+ "secoes": [
+  {
+   "h2": "Quando a negativação é indevida?",
+   "html": "<p>A inclusão do nome em cadastro de inadimplentes é um direito do credor quando existe uma dívida vencida e não paga. Ela passa a ser indevida, em geral, nestas situações:</p><ul><li><strong>dívida inexistente</strong>, como contrato feito por terceiro com os seus dados, cobrança de serviço não contratado ou valor já cancelado;</li><li><strong>dívida já paga</strong>, com o nome mantido depois do prazo de baixa;</li><li><strong>falta de comunicação prévia</strong>: o art. 43, § 2º, do Código de Defesa do Consumidor (CDC) exige que a abertura do registro seja comunicada por escrito ao consumidor, e a Súmula 359 do STJ diz que essa notificação cabe ao órgão mantenedor do cadastro, antes da inscrição;</li><li><strong>prazo vencido</strong>: informações negativas não podem ficar no cadastro por mais de cinco anos (CDC, art. 43, § 1º, e Súmula 323 do STJ);</li><li><strong>valor errado</strong>, como dívida registrada por quantia maior do que a devida.</li></ul><p>Um detalhe sobre a comunicação: o STJ entende que é dispensável o aviso de recebimento na carta que comunica a negativação (Súmula 404). Basta o envio ao endereço do consumidor; não é preciso provar que ele recebeu.</p>"
+  },
+  {
+   "h2": "Como descobrir quem negativou o seu nome?",
+   "html": "<ol><li><strong>Consulte os birôs de crédito</strong> (Serasa, SPC, Boa Vista e outros) pelos canais oficiais de cada um. A consulta mostra o credor, o valor, a data e o contrato que deu origem ao registro.</li><li><strong>Consulte o Registrato do Banco Central.</strong> Ele mostra as dívidas registradas no Sistema de Informações de Crédito (SCR) por bancos e financeiras, com saldo, tipo de operação e se os pagamentos estão em dia. O STJ já reconheceu que o SCR tem natureza semelhante à dos cadastros de inadimplentes e pode restringir o crédito.</li><li><strong>Tire print ou baixe o relatório</strong> de cada consulta, com data.</li><li><strong>Confira seus comprovantes</strong>: contrato, pagamentos, protocolos de cancelamento.</li></ol><h3>Como acessar o Registrato</h3><p>O relatório de empréstimos e financiamentos (SCR) é emitido sem custo pelo Meu BC, no site do Banco Central. A pessoa física entra com conta gov.br nível prata ou ouro, com a verificação em duas etapas ativada, escolhe o tipo de relatório e clica em consultar. O relatório é sigiloso e só o titular ou alguém autorizado por ele pode pedir. Se aparecer um empréstimo que você não fez, veja também o post sobre <a href=\"/blog/emprestimo-consignado-nao-reconhecido\">empréstimo que você não contratou</a>.</p>"
+  },
+  {
+   "h2": "Passo a passo: o que fazer para limpar o nome?",
+   "html": "<ol><li><strong>Reúna as provas</strong> de que a negativação é indevida: comprovante de pagamento, protocolo de cancelamento, boletim de ocorrência em caso de fraude, ou a prova de que você nunca teve relação com aquele credor.</li><li><strong>Fale com o credor por escrito</strong> (SAC, e-mail, aplicativo) e peça a retirada do registro. Anote o protocolo.</li><li><strong>Fale com o cadastro.</strong> O art. 43, § 3º, do CDC dá ao consumidor o direito de exigir a correção imediata de dados inexatos, e o arquivista deve comunicar a alteração, em cinco dias úteis, a quem recebeu a informação errada.</li><li><strong>Se for dívida paga</strong>, cobre do credor a baixa no prazo de cinco dias úteis (Súmula 548 do STJ).</li><li><strong>Registre reclamação</strong> no Procon, no consumidor.gov.br ou, se o credor for banco, no Banco Central.</li><li><strong>Se nada resolver</strong>, a Justiça pode determinar a retirada do nome e, conforme o caso, fixar indenização. Em causas de menor valor, o <a href=\"/blog/juizado-especial-civel-consumidor\">Juizado Especial Cível</a> é uma opção.</li></ol><p>Se a negativação veio de uma fraude, como conta aberta ou compra feita com seus dados, registre o boletim de ocorrência logo. Ele ajuda a mostrar que você não participou da contratação. Golpes com cartão e Pix são tratados nos posts sobre <a href=\"/blog/cartao-clonado-o-que-fazer\">cartão clonado</a> e <a href=\"/blog/golpe-do-pix-o-que-fazer\">golpe do Pix</a>.</p>"
+  },
+  {
+   "h2": "Quais são os prazos da lei e do STJ?",
+   "html": "<table><thead><tr><th>Situação</th><th>Prazo</th><th>Base</th></tr></thead><tbody><tr><td>Baixa da negativação após o pagamento</td><td>5 dias úteis, a cargo do credor</td><td>Súmula 548 e Tema 735 do STJ</td></tr><tr><td>Comunicação da correção de dados a quem recebeu a informação errada</td><td>5 dias úteis</td><td>CDC, art. 43, § 3º</td></tr><tr><td>Tempo máximo de permanência da informação negativa</td><td>5 anos</td><td>CDC, art. 43, § 1º, e Súmula 323 do STJ</td></tr><tr><td>Depois da prescrição da cobrança</td><td>o cadastro não pode fornecer informação que impeça novo crédito</td><td>CDC, art. 43, § 5º</td></tr><tr><td>Pedir indenização por dano moral</td><td>em geral, 3 anos, contados da ciência do registro</td><td>Código Civil, art. 206, § 3º, V, conforme entendimento reunido pelo STJ</td></tr></tbody></table><p>Sobre a baixa depois do pagamento: no Tema 735, o STJ detalhou que os cinco dias úteis contam a partir do primeiro dia útil seguinte à completa disponibilização do dinheiro que quitou a dívida. Ou seja, se você pagou por boleto, o prazo começa depois que o pagamento é efetivamente compensado.</p><p>Sobre o prazo para a ação de indenização: na edição 59 da Jurisprudência em Teses, o STJ reuniu decisões aplicando o prazo de três anos do Código Civil, e não o de cinco anos do CDC, contado da data em que o consumidor teve ciência do registro. Como o tema pode ter nuances conforme o caso, o mais seguro é não deixar o tempo passar. Para dívidas antigas, veja também o post sobre <a href=\"/blog/divida-prescrita-pode-ser-cobrada\">dívida prescrita</a>.</p>"
+  },
+  {
+   "h2": "Negativação indevida dá direito a dano moral?",
+   "html": "<p>Em regra, sim. O STJ reúne precedentes no sentido de que a inscrição indevida em cadastro de inadimplentes configura dano moral in re ipsa, isto é, presumido: não é preciso provar o constrangimento, basta provar que a negativação foi indevida.</p><p>A principal exceção é a <strong>Súmula 385</strong>: da anotação irregular em cadastro de proteção ao crédito não cabe indenização por dano moral quando preexistente legítima inscrição, ressalvado o direito ao cancelamento. No Tema 922, o STJ estendeu esse entendimento às ações contra o próprio credor que fez a inscrição indevida. Assim, quem já tinha outra negativação correta pode pedir a retirada da indevida, mas em geral não recebe indenização por ela.</p><p>Outras situações que costumam reduzir ou afastar a indenização:</p><ul><li>a dívida existia e só o valor estava um pouco diferente;</li><li>o registro reproduz um protesto ou um processo público, de forma fiel e atualizada;</li><li>houve só cobrança indevida, sem negativação, caso em que o dano moral não é presumido.</li></ul><p>Se você chegou a pagar algo que não devia, o post sobre <a href=\"/blog/cobranca-indevida-devolucao-em-dobro\">cobrança indevida e devolução em dobro</a> explica quando o valor volta em dobro (CDC, art. 42, parágrafo único).</p>"
+  },
+  {
+   "h2": "Exemplo prático: como a situação costuma ser analisada?",
+   "html": "<p>Exemplo ilustrativo. Uma pessoa quitou um acordo com a operadora de telefonia por boleto numa segunda-feira. Três semanas depois, tem um crediário recusado numa loja e descobre que o nome continua negativado pela mesma dívida.</p><p>O pagamento compensou na terça. Pelos critérios do Tema 735, a contagem dos cinco dias úteis começou na quarta e terminou na terça seguinte. Como o registro continuava ativo semanas depois, a manutenção passou a ser indevida. Se essa era a única negativação no nome dela, a situação se encaixa no entendimento do STJ sobre dano moral presumido. Se havia outra negativação legítima, de outra dívida, a Súmula 385 tende a afastar a indenização, mas não o direito de retirar o registro.</p>"
+  },
+  {
+   "h2": "Que documentos reunir e quais erros evitar?",
+   "html": "<p>Documentos úteis:</p><ul><li>prints ou relatórios das consultas aos birôs de crédito e do Registrato, com data;</li><li>comprovantes de pagamento e de compensação;</li><li>contrato, acordo ou protocolo de cancelamento;</li><li>boletim de ocorrência, em caso de fraude;</li><li>prova da recusa de crédito, como mensagem da loja ou do banco;</li><li>protocolos das reclamações ao credor e aos órgãos de defesa do consumidor.</li></ul><p>Erros comuns:</p><ul><li>pagar uma dívida que você não reconhece só para limpar o nome, sem registrar que contesta a cobrança;</li><li>reclamar só por telefone, sem protocolo;</li><li>apagar e-mails e mensagens de cobrança;</li><li>esperar anos para agir, perdendo o prazo da indenização;</li><li>contratar serviços de limpeza de nome que prometem resultados sem analisar a origem do registro.</li></ul>"
+  },
+  {
+   "h2": "Quando vale procurar um advogado?",
+   "html": "<p>Muitos casos se resolvem com o pedido por escrito ao credor e ao cadastro. Vale buscar orientação quando o credor não retira o registro, quando a negativação vem de fraude com seus dados, quando você perdeu um negócio por causa dela ou quando há dúvida sobre a existência de outras anotações que possam afetar o pedido de indenização. Na Justiça, é possível pedir que o nome seja retirado logo no início do processo, mas o STJ exige requisitos para isso, como questionar a dívida e demonstrar que a cobrança é indevida.</p><p>A página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> resume os temas atendidos, e o post sobre <a href=\"/blog/dano-moral-consumidor\">dano moral nas relações de consumo</a> aprofunda o tema da indenização.</p><p>Conteúdo informativo. Cada caso precisa de análise individual dos documentos. A advogada Flávia Vaz Rabello atua nesses casos em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quem deve me avisar antes de negativar o meu nome?",
+   "a": "Pela Súmula 359 do STJ, a notificação prévia cabe ao órgão que mantém o cadastro, como o birô de crédito. O aviso precisa ser enviado por escrito antes da inscrição, mas não é necessário aviso de recebimento (Súmula 404)."
+  },
+  {
+   "q": "Pagar a dívida tira o nome do cadastro na hora?",
+   "a": "Não na hora. O credor tem cinco dias úteis, contados a partir do primeiro dia útil seguinte à compensação do pagamento, para pedir a baixa. Se o registro continuar depois disso, a manutenção passa a ser indevida."
+  },
+  {
+   "q": "Depois de cinco anos o nome fica limpo mesmo sem pagar?",
+   "a": "A informação negativa não pode ficar no cadastro por mais de cinco anos (CDC, art. 43, § 1º, e Súmula 323 do STJ). Isso não significa que a dívida deixou de existir. A possibilidade de cobrança depende do prazo de prescrição, que é outra questão."
+  },
+  {
+   "q": "Uma dívida que aparece só no Registrato também conta como nome sujo?",
+   "a": "O Registrato mostra as informações do SCR, que não é um birô privado. Mesmo assim, o STJ reconhece que o SCR tem natureza semelhante à dos cadastros de inadimplentes e pode restringir o crédito. Se houver informação errada ali, peça a correção à instituição que a enviou e, se não resolver, reclame no Banco Central."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "CDC, art. 43, §§ 1º, 2º, 3º e 5º (limite de 5 anos, comunicação por escrito, correção imediata e comunicação em 5 dias úteis, vedação após a prescrição) e art. 42, parágrafo único (repetição em dobro)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Súmulas 323, 359, 385, 404 e 548 do STJ (texto integral na compilação oficial de enunciados)",
+   "url": "https://www.stj.jus.br/docs_internet/jurisprudencia/tematica/download/SU/Verbetes/VerbetesSTJ.pdf",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "STJ, Tema Repetitivo 735 (REsp 1.424.792/BA): credor deve pedir a exclusão do registro em 5 dias úteis, contados do primeiro dia útil seguinte à completa disponibilização do numerário que quitou o débito",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=735&cod_tema_final=735",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "STJ, Jurisprudência em Teses, edição 59 (Cadastro de Inadimplentes, 2016): dano moral in re ipsa (tese 1), Súmula 385 e Tema 922 (teses 7 e 8), reprodução de registros públicos (tese 11), requisitos da tutela para abstenção (tese 12), SCR com natureza semelhante (tese 16), termo inicial na ciência (tese 17) e prazo de 3 anos do art. 206, § 3º, V, do CC (tese 18), cobrança sem negativação sem dano presumido (tese 19)",
+   "url": "https://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20teses%2059%20-%20Cadastro%20de%20Inadimplentes.pdf",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Serviço oficial Emitir Relatório de Empréstimos e Financiamentos (SCR): sem custo, pelo Meu BC, conta gov.br prata ou ouro com verificação em duas etapas, relatório sigiloso (página atualizada em 27/1/2026)",
+   "url": "https://www.gov.br/pt-br/servicos/obter-relatorio-do-sistema-de-informacoes-de-credito-scr",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Código Civil, art. 206, § 3º, V: prescrição de três anos da pretensão de reparação civil",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "conferido_em": "2026-10-08"
+  }
+ ]
+}

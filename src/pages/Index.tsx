@@ -33,7 +33,7 @@ const PIXEL = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAA
 const ATE_1180 = "(max-width: 1180.98px)";
 const DESDE_1181 = "(min-width: 1181px)";
 import Seo from "@/components/Seo";
-import { BLOG_POSTS } from "@/data/blogPosts";
+import { artigoMeta } from "@/lib/artigos";
 
 const trustItems = [
   { icon: Award, label: "OAB 262057/SP" },
@@ -66,7 +66,11 @@ const differentials = [
   },
 ];
 
-const blogPosts = BLOG_POSTS.slice(0, 3);
+/* Os tres artigos da home (um por area principal), reescritos e ampliados em 2026-10-08. */
+const blogPosts = ["golpe-do-pix-o-que-fazer", "guarda-compartilhada-como-funciona", "demissao-sem-justa-causa-direitos"]
+  .map(artigoMeta)
+  .filter((a) => a !== undefined)
+  .map((a) => ({ slug: a.slug, category: a.categoria, title: a.h1, excerpt: a.resumo, cover: a.imagem, alt: a.alt }));
 
 const Index = () => {
   return (
@@ -596,7 +600,7 @@ const Index = () => {
                 <div className="aspect-[16/10] overflow-hidden bg-secondary/40">
                   <img
                     src={p.cover}
-                    alt={p.title}
+                    alt={p.alt}
                     loading="lazy"
                     width={1280}
                     height={800}

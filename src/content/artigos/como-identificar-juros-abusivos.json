@@ -1,0 +1,99 @@
+{
+ "slug": "como-identificar-juros-abusivos",
+ "area": "direito-bancario",
+ "categoria": "Bancário",
+ "h1": "Como identificar juros abusivos no seu contrato e o que fazer",
+ "title": "Juros abusivos: como identificar e o que fazer no contrato",
+ "description": "Como saber se os juros do seu empréstimo, cartão ou financiamento são abusivos: a taxa média do Banco Central, o que diz o STJ e o passo a passo para agir.",
+ "resumo": "Juros altos nem sempre são ilegais. Veja como comparar a sua taxa com a média do Banco Central, o que o STJ considera abusivo e quais regras valem para o rotativo do cartão.",
+ "data": "2026-06-16",
+ "atualizado": "2026-10-08",
+ "imagem": "/images/blog/como-identificar-juros-abusivos.jpg",
+ "alt": "Contrato impresso sobre mesa de madeira, com calculadora e canetas ao lado",
+ "resposta": "Juros só são considerados abusivos quando ficam muito acima da taxa média de mercado divulgada pelo Banco Central para a mesma modalidade e época, a ponto de colocar o consumidor em desvantagem exagerada. Juros acima de 12% ao ano, sozinhos, não bastam (Súmula 382 do STJ). Compare a taxa efetiva do contrato com a média do Banco Central e confira capitalização, tarifas e o CET.",
+ "intro": "<p>Quem olha a parcela de um empréstimo e sente que paga demais quase sempre tem razão em desconfiar, mas a lei brasileira não fixa um teto geral de juros para bancos. Por isso, a pergunta certa não é se os juros são altos, e sim se estão fora do que o mercado cobrava, na mesma época, pela mesma modalidade de crédito.</p><p>Neste texto você vai ver qual é o parâmetro usado pelos tribunais, como consultar a taxa média no site do Banco Central, o que as súmulas do STJ dizem sobre capitalização e juros, quais regras especiais valem para o rotativo do cartão e o passo a passo para agir se encontrar abuso.</p>",
+ "secoes": [
+  {
+   "h2": "O que são juros abusivos, segundo o STJ?",
+   "html": "<p>A referência principal é o julgamento do <strong>REsp 1.061.530</strong>, feito pela Segunda Seção do STJ em 2008 como recurso repetitivo (Tema 27). A tese firmada diz que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade, capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, do Código de Defesa do Consumidor), fique cabalmente demonstrada diante das peculiaridades do caso.</p><p>No mesmo julgamento, o STJ firmou outras teses que continuam valendo:</p><ul><li>os bancos não se sujeitam ao limite de juros da Lei de Usura (Tema 24);</li><li>juros acima de 12% ao ano, por si só, não indicam abusividade (Tema 25, que deu origem à <strong>Súmula 382</strong>).</li></ul><p>Na prática, isso quer dizer duas coisas. Primeiro, não existe um percentual fixo a partir do qual os juros viram ilegais. Segundo, a comparação com a taxa média de mercado é o ponto de partida da análise, mas a decisão depende do caso concreto: o tipo de crédito, a garantia, o prazo e o perfil de quem contratou.</p>"
+  },
+  {
+   "h2": "Como consultar a taxa média de juros no site do Banco Central?",
+   "html": "<p>O Banco Central publica as taxas de juros das operações de crédito por instituição financeira e por modalidade, na página de estatísticas de taxas de juros (bcb.gov.br/estatisticas/txjuros). Segundo a descrição oficial, cada taxa é a média das taxas pactuadas nas operações feitas em cinco dias úteis, ponderada pelos valores contratados, e inclui encargos fiscais e operacionais.</p><ol><li>Pegue o seu contrato e anote a <strong>data da contratação</strong>, a <strong>modalidade</strong> (crédito pessoal, consignado, aquisição de veículo, cheque especial, cartão) e a <strong>taxa de juros mensal e anual</strong>.</li><li>Acesse a página de taxas de juros do Banco Central e escolha a modalidade que corresponde ao seu contrato, separando pessoa física de pessoa jurídica e taxa prefixada de pós-fixada.</li><li>Selecione o período mais próximo da data em que você assinou. Não adianta comparar com a taxa de hoje.</li><li>Veja a média do mercado e a taxa do próprio banco naquele período.</li><li>Compare com a taxa do contrato, sempre na mesma unidade (mensal com mensal, anual com anual).</li></ol><p>Se a taxa contratada estiver bem acima da média e também acima da que o próprio banco praticava na época, vale guardar os prints e levar a comparação para uma análise mais detalhada.</p>"
+  },
+  {
+   "h2": "Que outras cobranças podem tornar o contrato abusivo?",
+   "html": "<p>Os juros remuneratórios não são o único ponto. Vale conferir:</p><ul><li><strong>Capitalização de juros (juros sobre juros).</strong> É permitida com periodicidade inferior à anual nos contratos com bancos firmados a partir de 31/3/2000, desde que expressamente pactuada (<strong>Súmula 539</strong>). E basta o contrato trazer taxa anual maior que doze vezes a mensal para permitir a cobrança da taxa efetiva anual (<strong>Súmula 541</strong>). O tema é explicado no post sobre <a href=\"/blog/capitalizacao-de-juros\">capitalização de juros</a>.</li><li><strong>Contrato sem taxa informada.</strong> Se não for possível comprovar a taxa contratada, por falta de pactuação ou porque o contrato não foi apresentado, aplica-se a taxa média de mercado divulgada pelo Banco Central, salvo se a cobrada for mais vantajosa para o devedor (<strong>Súmula 530</strong>).</li><li><strong>Encargos do atraso.</strong> A comissão de permanência não pode ser somada a juros remuneratórios, juros de mora e multa (<strong>Súmula 472</strong>). Em geral, os juros moratórios em contratos bancários sem lei específica podem ser convencionados até 1% ao mês (<strong>Súmula 379</strong>).</li><li><strong>Custo Efetivo Total (CET).</strong> É a taxa que reúne juros, tarifas, tributos, seguros e outras despesas da operação (Resolução CMN 4.881/2020, arts. 2º e 3º). Um contrato com juros razoáveis pode ficar caro por causa do que vem embutido. Veja como ler o CET no post sobre <a href=\"/blog/custo-efetivo-total-cet\">Custo Efetivo Total</a>.</li></ul>"
+  },
+  {
+   "h2": "Quais regras valem para os juros do rotativo do cartão de crédito?",
+   "html": "<p>O cartão tem regras próprias, mais rígidas que as dos outros créditos:</p><ul><li><strong>Rotativo só até a próxima fatura.</strong> O saldo não pago no vencimento só pode ficar no crédito rotativo até o vencimento da fatura seguinte. Depois disso, o banco deve oferecer outra forma de financiamento em condições mais vantajosas (Resolução CMN 4.549/2017, art. 1º).</li><li><strong>Teto de juros e encargos.</strong> A Lei 14.690/2023, art. 28, § 1º, determinou que, se a autorregulação dos limites não fosse aprovada em 90 dias da publicação da lei, o total cobrado de juros e encargos financeiros no rotativo e no financiamento do saldo da fatura não poderia passar do valor original da dívida. A Resolução CMN 5.112/2023 regulamentou a regra, que se aplica às operações feitas depois desse prazo de 90 dias, ou seja, desde o início de 2024.</li><li><strong>Transparência.</strong> O valor original da dívida e o total cobrado de juros e encargos devem aparecer detalhados nas faturas (Resolução CMN 4.549/2017, art. 2º-B).</li></ul><p>Na prática, se uma dívida de cartão de R$ 1.000 entrou no rotativo depois de janeiro de 2024, juros e encargos somados não podem ultrapassar R$ 1.000. Se a fatura mostra mais do que isso, há um ponto concreto para contestar. O post sobre <a href=\"/blog/rotativo-do-cartao-de-credito\">rotativo do cartão de crédito</a> detalha a regra.</p>"
+  },
+  {
+   "h2": "Exemplo prático: como fazer a comparação?",
+   "html": "<p>Exemplo ilustrativo, com números hipotéticos. Uma pessoa contratou crédito pessoal em março com taxa de 9% ao mês. Ao consultar a página do Banco Central, encontra para crédito pessoal não consignado, naquele mês, uma média de mercado bem menor, e vê que o próprio banco cobrava, em média, menos da metade da taxa dela.</p><p>Esse descompasso, por si só, não garante a revisão, mas é o tipo de dado que justifica uma análise do caso: o contrato tinha alguma garantia? A pessoa tinha restrição de crédito? A operação foi feita por correspondente? A taxa informada antes da assinatura era a mesma que aparece no contrato? Se as respostas não explicam a diferença, a tese do STJ sobre desvantagem exagerada passa a ter espaço.</p><p>Agora o cenário oposto: taxa de 3% ao mês num crédito pessoal cuja média de mercado na época era próxima disso. Mesmo parecendo alto para quem paga, dificilmente será considerado abusivo.</p>"
+  },
+  {
+   "h2": "Passo a passo: o que fazer se os juros parecerem abusivos?",
+   "html": "<ol><li><strong>Peça ao banco a cópia do contrato</strong> e o demonstrativo do saldo devedor, com a evolução da dívida, a taxa de juros e o valor de cada parcela. Faça o pedido por escrito e guarde o protocolo.</li><li><strong>Faça a comparação com a taxa média</strong> do Banco Central da época, como explicado acima, e guarde os prints.</li><li><strong>Confira capitalização, tarifas, seguros e o CET.</strong> Muitas vezes o problema está nas cobranças agregadas, e não na taxa principal.</li><li><strong>Reclame formalmente</strong> no SAC e depois na ouvidoria do banco, pedindo o recálculo por escrito.</li><li><strong>Registre reclamação</strong> no Banco Central ou no consumidor.gov.br, se não houver resposta adequada.</li><li><strong>Avalie a ação revisional</strong>, em que se pede ao juiz o recálculo da dívida e a devolução do que foi pago a mais.</li></ol><p>Um cuidado importante: entrar com ação revisional não impede, por si só, que o banco considere você em atraso (<strong>Súmula 380</strong>). Parar de pagar por conta própria pode levar a negativação e, em créditos com garantia, à retomada do bem. A suspensão de cobranças só ocorre se o juiz determinar.</p>"
+  },
+  {
+   "h2": "Quais documentos reunir e quais erros evitar?",
+   "html": "<p>Documentos úteis:</p><ul><li>contrato completo, com a página que mostra taxa mensal, taxa anual e CET;</li><li>demonstrativo de evolução da dívida e comprovantes das parcelas pagas;</li><li>faturas do cartão, se o problema for rotativo;</li><li>prints da taxa média do Banco Central para a modalidade e a data do contrato;</li><li>propostas, simulações e mensagens trocadas antes da assinatura.</li></ul><p>Erros comuns:</p><ul><li>comparar com a taxa média de hoje, e não com a da data da contratação;</li><li>comparar taxa mensal com anual;</li><li>confundir modalidades, como usar a média do consignado para avaliar um crédito pessoal comum;</li><li>contratar empresas que prometem reduzir dívidas e pedem pagamento antecipado, sem análise do contrato;</li><li>assinar renegociação sem ler a nova taxa, o que pode trocar uma dívida cara por outra mais cara.</li></ul><p>Se as dívidas já comprometem o mínimo para viver, o caminho pode ser outro: a <a href=\"/blog/lei-do-superendividamento\">Lei do Superendividamento</a> prevê a repactuação conjunta das dívidas.</p>"
+  },
+  {
+   "h2": "Quando vale procurar um advogado para revisar os juros?",
+   "html": "<p>A análise jurídica costuma fazer sentido quando a diferença em relação à taxa média é grande, quando o contrato é longo ou de valor alto, quando há cobranças que você não entende no CET ou quando o banco não entrega o contrato nem o demonstrativo. Em financiamento de carro, o post sobre <a href=\"/blog/revisao-contrato-financiamento-veiculo\">revisão de contrato de financiamento de veículo</a> mostra os pontos que mais aparecem.</p><p>Na revisão, o juiz não analisa cláusulas por conta própria: nos contratos bancários, é vedado ao julgador conhecer de ofício da abusividade das cláusulas (Súmula 381 do STJ). Por isso o pedido precisa apontar com precisão o que se questiona. A página de <a href=\"/areas-de-atuacao/direito-bancario\">direito bancário</a> resume os temas atendidos.</p><p>Conteúdo informativo. Cada caso precisa de análise individual do contrato. A advogada Flávia Vaz Rabello atua em direito bancário em Indaiatuba e de forma online.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Existe um limite legal de juros para empréstimo pessoal?",
+   "a": "Não existe um teto geral para os juros remuneratórios cobrados por bancos. O STJ firmou que eles não se sujeitam à Lei de Usura e que juros acima de 12% ao ano, sozinhos, não indicam abuso. Há limites específicos para algumas modalidades, como o teto de juros e encargos do rotativo do cartão."
+  },
+  {
+   "q": "Quanto acima da média a taxa precisa estar para ser abusiva?",
+   "a": "O STJ não fixou um percentual. A tese do REsp 1.061.530 exige que a abusividade fique cabalmente demonstrada diante das particularidades do caso. A distância em relação à média é o principal indicativo, mas o juiz também considera garantia, prazo e risco da operação."
+  },
+  {
+   "q": "Posso revisar um contrato que já terminei de pagar?",
+   "a": "Em geral, sim, enquanto não passar o prazo de prescrição, que é contado de forma diferente conforme o pedido. Os detalhes estão no post sobre revisão de contrato de financiamento de veículo. Guarde os comprovantes de pagamento, porque o pedido de devolução depende deles."
+  },
+  {
+   "q": "A taxa média do Banco Central inclui tarifas e seguros?",
+   "a": "Segundo a descrição oficial, as taxas divulgadas representam o custo efetivo médio para o cliente, com os juros acrescidos de encargos fiscais e operacionais. Ainda assim, para a sua comparação, olhe tanto a taxa de juros quanto o CET do contrato, porque seguros e tarifas pesam de forma diferente em cada operação."
+  }
+ ],
+ "fontes": [
+  {
+   "afirmacao": "STJ, Tema Repetitivo 27 (REsp 1.061.530/RS, Segunda Seção): revisão dos juros remuneratórios em situações excepcionais, com relação de consumo e abusividade cabalmente demonstrada (CDC, art. 51, § 1º); Temas 24 e 25 do mesmo julgamento",
+   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=27&cod_tema_final=27",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Súmulas 379, 380, 381, 382, 472, 530, 539 e 541 do STJ (texto integral na compilação oficial de enunciados)",
+   "url": "https://www.stj.jus.br/docs_internet/jurisprudencia/tematica/download/SU/Verbetes/VerbetesSTJ.pdf",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Banco Central: taxas de juros por instituição e modalidade, média das operações de cinco dias úteis ponderada pelos valores, com encargos fiscais e operacionais; consulta em bcb.gov.br/estatisticas/txjuros",
+   "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-juros-de-operacoes-de-credito",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Lei 14.690/2023, art. 28, §§ 1º e 2º: sem aprovação da autorregulação em 90 dias, juros e encargos do rotativo e do financiamento do saldo da fatura não podem exceder o valor original da dívida",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14690.htm",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.549/2017, art. 1º (rotativo só até o vencimento da fatura seguinte) e arts. 2º-A a 2º-D incluídos pela Resolução CMN 5.112/2023 (conceitos, detalhamento na fatura e aplicação às operações após os 90 dias da Lei 14.690/2023)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4549",
+   "conferido_em": "2026-10-08"
+  },
+  {
+   "afirmacao": "Resolução CMN 4.881/2020, arts. 2º e 3º: o CET consolida encargos e despesas da operação, incluindo juros, tarifas, tributos e seguros",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4881",
+   "conferido_em": "2026-10-08"
+  }
+ ]
+}

@@ -35,7 +35,7 @@ function schemas(a: TArtigo) {
       description: a.description,
       image: [`${SITE}${a.imagem}`],
       datePublished: `${a.data}T08:00:00-03:00`,
-      dateModified: `${a.data}T08:00:00-03:00`,
+      dateModified: `${a.atualizado || a.data}T08:00:00-03:00`,
       inLanguage: "pt-BR",
       articleSection: area.nome,
       wordCount: (texto.match(/\S+/g) || []).length,
@@ -129,6 +129,12 @@ Resumo do caso: `,
             Por <Link to="/sobre" className="text-primary hover:text-accent">Dra. Flávia Vaz Rabello</Link>, advogada (OAB/SP 262.057)
             <span className="mx-2">·</span>
             <time dateTime={meta.data}>{formatarData(meta.data)}</time>
+            {meta.atualizado && meta.atualizado !== meta.data && (
+              <>
+                <span className="mx-2">·</span>
+                atualizado em <time dateTime={meta.atualizado}>{formatarData(meta.atualizado)}</time>
+              </>
+            )}
           </p>
 
           <div className="mb-10 aspect-[16/10] overflow-hidden bg-secondary/40 border border-border">

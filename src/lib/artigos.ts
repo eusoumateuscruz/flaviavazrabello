@@ -13,6 +13,7 @@ export type ArtigoMeta = {
   h1: string;
   resumo: string;
   data: string; // AAAA-MM-DD
+  atualizado?: string; // AAAA-MM-DD, quando o artigo foi revisto depois de publicado
   imagem: string;
   alt: string;
 };
