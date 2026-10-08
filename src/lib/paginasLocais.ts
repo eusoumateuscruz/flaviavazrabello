@@ -5,6 +5,9 @@
 export type PaginaLocal = {
   slug: string;
   servico: string;
+  /** id da área em PRACTICE_AREAS (familia, trabalhista...); padrão: familia */
+  area?: string;
+  areaNome?: string;
   title: string;
   description: string;
   h1: string;
@@ -171,6 +174,66 @@ export const PAGINAS_LOCAIS: PaginaLocal[] = [
       { nome: "Código Civil, arts. 1.694 a 1.699", url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm" },
       { nome: "Lei de Alimentos (Lei 5.478/1968)", url: "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm" },
       { nome: "Código de Processo Civil, art. 528", url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm" },
+    ],
+  },
+  {
+    slug: "advogada-trabalhista-em-indaiatuba",
+    servico: "Direito do Trabalho",
+    area: "trabalhista",
+    areaNome: "Direito do Trabalho",
+    title: "Advogada Trabalhista em Indaiatuba | Flávia Vaz Rabello",
+    description:
+      "Rescisão, verbas não pagas, horas extras, FGTS e rescisão indireta em Indaiatuba: prazos para entrar com a ação e documentos para separar. Dra. Flávia Vaz Rabello, OAB 262057/SP.",
+    h1: "Advogada trabalhista em Indaiatuba",
+    intro:
+      "Foi demitido, saiu da empresa ou está com algum direito em atraso? Veja os prazos que a lei dá para cobrar, os direitos mais comuns e o que separar antes da primeira conversa.",
+    secoes: [
+      {
+        titulo: "Qual é o prazo para entrar com a ação trabalhista?",
+        texto: [
+          "A ação deve ser proposta em até 2 anos depois do fim do contrato de trabalho, e nela é possível cobrar os direitos dos últimos 5 anos (Constituição Federal, art. 7º, XXIX).",
+          "Passados os 2 anos, o direito de cobrar se perde. Por isso, vale procurar orientação logo depois da saída da empresa.",
+        ],
+      },
+      {
+        titulo: "Em quanto tempo a empresa deve pagar a rescisão?",
+        texto: [
+          "As verbas rescisórias devem ser pagas em até 10 dias contados do fim do contrato (CLT, art. 477, § 6º). O atraso gera multa de um salário a favor do trabalhador (CLT, art. 477, § 8º).",
+          "Na demissão sem justa causa, a empresa também deposita a indenização de 40% sobre o saldo do FGTS (Lei 8.036/1990, art. 18, § 1º).",
+        ],
+      },
+      {
+        titulo: "Quais são os direitos que mais aparecem?",
+        texto: [
+          "Horas extras não pagas, intervalo de almoço não concedido, verbas rescisórias em atraso, FGTS não depositado, adicional de insalubridade ou periculosidade e reconhecimento de vínculo de quem trabalhou sem carteira assinada.",
+          "Quando a empresa descumpre obrigações graves, como atrasar salários ou deixar de depositar o FGTS, o trabalhador pode pedir a rescisão indireta, que funciona como uma demissão sem justa causa (CLT, art. 483).",
+        ],
+      },
+      {
+        titulo: "O que separar para a primeira conversa",
+        texto: [
+          "Carteira de trabalho (física ou digital), contrato, holerites, termo de rescisão (TRCT), extrato do FGTS (aplicativo FGTS), controles de ponto, se tiver, e mensagens ou e-mails sobre jornada e pagamentos.",
+        ],
+      },
+    ],
+    faq: [
+      {
+        pergunta: "Posso entrar com ação trabalhista ainda trabalhando na empresa?",
+        resposta: "Sim. A ação pode ser proposta durante o contrato. Os 2 anos de prazo só começam a contar depois que o contrato termina (Constituição Federal, art. 7º, XXIX).",
+      },
+      {
+        pergunta: "Como vejo se o FGTS foi depositado?",
+        resposta: "Pelo aplicativo FGTS, da Caixa, que mostra o extrato de cada depósito feito pela empresa.",
+      },
+      {
+        pergunta: "Quem trabalhou sem carteira assinada tem direitos?",
+        resposta: "Sim. Comprovado o vínculo de emprego, é possível pedir o registro na carteira e os direitos do período, como férias, 13º salário e FGTS.",
+      },
+    ],
+    fontes: [
+      { nome: "Constituição Federal, art. 7º", url: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" },
+      { nome: "CLT, arts. 477 e 483", url: "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm" },
+      { nome: "Lei do FGTS (Lei 8.036/1990), art. 18", url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm" },
     ],
   },
 ];

@@ -264,12 +264,12 @@ const ServicePage = () => {
         </section>
       )}
 
-      {service.id === "familia" && (
+      {PAGINAS_LOCAIS.some((l) => (l.area ?? "familia") === service.id) && (
         <section className="pb-16">
           <div className="container-narrow">
             <SectionHeader eyebrow="Indaiatuba" title="Atendimento em Indaiatuba" />
             <ul className="mt-8 flex flex-wrap gap-4">
-              {PAGINAS_LOCAIS.map((l) => (
+              {PAGINAS_LOCAIS.filter((l) => (l.area ?? "familia") === service.id).map((l) => (
                 <li key={l.slug}>
                   <Link to={`/${l.slug}`} className="inline-flex items-center gap-2 rounded-sm border border-border px-4 py-3 text-sm hover:border-accent">
                     {l.h1} <ArrowRight className="h-4 w-4" />

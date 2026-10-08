@@ -65,6 +65,7 @@ const fixas = [
   ["/advogada-de-divorcio-em-indaiatuba", "0.9"],
   ["/advogada-de-inventario-em-indaiatuba", "0.9"],
   ["/advogada-de-pensao-alimenticia-em-indaiatuba", "0.9"],
+  ["/advogada-trabalhista-em-indaiatuba", "0.9"],
 ];
 const linha = (loc, prio, lastmod) =>
   `  <url><loc>${SITE}${loc}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}<changefreq>monthly</changefreq><priority>${prio}</priority></url>`;

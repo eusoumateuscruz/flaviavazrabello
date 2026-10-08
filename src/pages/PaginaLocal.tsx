@@ -14,6 +14,8 @@ const PaginaLocalPage = ({ slugFixo }: { slugFixo?: string }) => {
   if (!p) return <NotFound />;
 
   const url = `${SITE}/${p.slug}`;
+  const areaId = p.area ?? "familia";
+  const areaNome = p.areaNome ?? "Direito de Família";
   const whatsapp = `${WHATSAPP_BASE_URL}?text=${encodeURIComponent(`Olá, Dra. Flávia. Vim pela página de ${p.servico.toLowerCase()} em Indaiatuba e quero agendar uma consulta.
 Minha cidade: 
 Resumo do caso: `)}`;
@@ -46,7 +48,7 @@ Resumo do caso: `)}`;
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Início", item: SITE },
-        { "@type": "ListItem", position: 2, name: "Direito de Família", item: `${SITE}${urlDaArea("familia")}` },
+        { "@type": "ListItem", position: 2, name: areaNome, item: `${SITE}${urlDaArea(areaId)}` },
         { "@type": "ListItem", position: 3, name: p.h1, item: url },
       ],
     },
@@ -57,7 +59,7 @@ Resumo do caso: `)}`;
       <Seo title={p.title} description={p.description} canonical={url} jsonLd={jsonLd} />
       <section className="py-14 md:py-20 bg-secondary/40 border-b border-border">
         <div className="container-narrow">
-          <p className="text-[13px] font-semibold uppercase tracking-[0.18em] text-accent">Direito de Família · Indaiatuba/SP</p>
+          <p className="text-[13px] font-semibold uppercase tracking-[0.18em] text-accent">{areaNome} · Indaiatuba/SP</p>
           <h1 className="mt-3 font-serif text-[34px] leading-[1.1] text-primary md:text-[48px]">{p.h1}</h1>
           <p className="mt-5 max-w-2xl text-foreground/80 leading-relaxed">{p.intro}</p>
           <a
@@ -101,8 +103,8 @@ Resumo do caso: `)}`;
             </p>
             <p className="mt-2 text-sm text-foreground/70">Dra. Flávia Vaz Rabello, {OAB}.</p>
             <div className="mt-4 flex flex-wrap gap-4 text-sm">
-              <Link to={urlDaArea("familia")} className="text-accent underline-offset-4 hover:underline">Direito de Família</Link>
-              {PAGINAS_LOCAIS.filter((x) => x.slug !== p.slug).map((x) => (
+              <Link to={urlDaArea(areaId)} className="text-accent underline-offset-4 hover:underline">{areaNome}</Link>
+              {PAGINAS_LOCAIS.filter((x) => x.slug !== p.slug && (x.area ?? "familia") === areaId).map((x) => (
                 <Link key={x.slug} to={`/${x.slug}`} className="text-accent underline-offset-4 hover:underline">{x.h1}</Link>
               ))}
             </div>
