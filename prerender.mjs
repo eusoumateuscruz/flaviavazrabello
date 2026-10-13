@@ -56,6 +56,11 @@ const ROTAS_PADRAO = [
   "/advogada-de-inventario-em-indaiatuba",
   "/advogada-de-pensao-alimenticia-em-indaiatuba",
   "/advogada-trabalhista-em-indaiatuba",
+  "/advogada-de-familia-em-indaiatuba",
+  "/advogada-de-guarda-de-filhos-em-indaiatuba",
+  "/advogada-de-direito-bancario-em-indaiatuba",
+  "/advogada-do-consumidor-em-indaiatuba",
+  "/advogada-civel-em-indaiatuba",
 ];
 
 const raiz = val("--raiz");

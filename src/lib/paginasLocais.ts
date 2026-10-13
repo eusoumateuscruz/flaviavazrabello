@@ -236,4 +236,269 @@ export const PAGINAS_LOCAIS: PaginaLocal[] = [
       { nome: "Lei do FGTS (Lei 8.036/1990), art. 18", url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm" },
     ],
   },
+  {
+    slug: "advogada-de-familia-em-indaiatuba",
+    servico: "Direito de Família",
+    title: "Advogada de Família em Indaiatuba | Flávia Vaz Rabello",
+    description:
+      "Divórcio, guarda, pensão, união estável e inventário em Indaiatuba: como cada caso funciona, em cartório ou na Justiça. Dra. Flávia Vaz Rabello, OAB 262057/SP.",
+    h1: "Advogada de família em Indaiatuba",
+    intro:
+      "Questões de família mexem com a vida inteira: filhos, casa, patrimônio. Aqui você vê os assuntos que a advocacia de família resolve em Indaiatuba e o caminho de cada um.",
+    secoes: [
+      {
+        titulo: "O que a advocacia de família resolve",
+        texto: [
+          "Divórcio consensual e litigioso, guarda e convivência dos filhos, pensão alimentícia (fixação, revisão, execução e exoneração), reconhecimento e dissolução de união estável, partilha de bens, pacto antenupcial, inventário e testamento.",
+          "Também casos como investigação e reconhecimento de paternidade, filiação socioafetiva, alienação parental, autorização de viagem de menor e mudança de nome no registro civil.",
+        ],
+      },
+      {
+        titulo: "Acordo primeiro, sempre que possível",
+        texto: [
+          "Nas ações de família, a lei manda buscar primeiro a solução por acordo, com apoio de mediação e conciliação (Código de Processo Civil, art. 694).",
+          "Com acordo entre as partes, divórcio, dissolução de união estável e inventário podem ser feitos em cartório, por escritura, com advogado (Código de Processo Civil, arts. 610 e 733). Quando há filhos menores ou incapazes, o caminho depende do caso.",
+        ],
+      },
+      {
+        titulo: "União estável: precisa de papel?",
+        texto: [
+          "A união estável existe quando a convivência é pública, contínua, duradoura e com objetivo de constituir família, mesmo sem contrato (Código Civil, art. 1.723).",
+          "Formalizar por escritura em cartório ou por contrato ajuda a provar a data de início e a definir o regime de bens. Sem contrato escrito, vale a comunhão parcial de bens (Código Civil, art. 1.725).",
+        ],
+      },
+    ],
+    faq: [
+      {
+        pergunta: "O atendimento é só presencial?",
+        resposta: "Não. O atendimento é presencial em Indaiatuba, no Itaici Office, ou online, com consulta agendada.",
+      },
+      {
+        pergunta: "Dá para resolver sem processo na Justiça?",
+        resposta: "Em muitos casos, sim. Com acordo entre as partes, divórcio, dissolução de união estável e inventário podem ser feitos em cartório, sempre com advogado.",
+      },
+      {
+        pergunta: "Quem não casou no papel tem direito à partilha?",
+        resposta: "Sim, se a união estável for reconhecida. Sem contrato escrito, aplica-se a comunhão parcial de bens (Código Civil, art. 1.725).",
+      },
+    ],
+    fontes: [
+      { nome: "Código de Processo Civil, arts. 610, 694 e 733", url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm" },
+      { nome: "Código Civil, arts. 1.723 e 1.725", url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm" },
+    ],
+  },
+  {
+    slug: "advogada-de-guarda-de-filhos-em-indaiatuba",
+    servico: "Guarda de filhos",
+    title: "Advogada de Guarda de Filhos em Indaiatuba | Flávia Vaz Rabello",
+    description:
+      "Guarda compartilhada ou unilateral, convivência, mudança de guarda e viagem com filhos em Indaiatuba: o que diz a lei. Dra. Flávia Vaz Rabello, OAB 262057/SP.",
+    h1: "Advogada de guarda de filhos em Indaiatuba",
+    intro:
+      "Depois da separação, a pergunta mais importante é como fica a rotina dos filhos. Veja como a lei trata a guarda, a convivência e as mudanças que podem ser pedidas depois.",
+    secoes: [
+      {
+        titulo: "Guarda compartilhada ou unilateral?",
+        texto: [
+          "Na guarda compartilhada, pai e mãe dividem as decisões sobre a vida dos filhos. Quando os dois estão aptos e não há acordo, ela é a regra (Código Civil, art. 1.584, § 2º).",
+          "Na guarda unilateral, um dos pais fica com a guarda e o outro mantém a convivência e o dever de acompanhar os interesses dos filhos (Código Civil, art. 1.583, § 5º, e art. 1.589).",
+        ],
+      },
+      {
+        titulo: "Dá para mudar a guarda depois?",
+        texto: [
+          "Sim. Se a situação da criança mudar, a guarda e a convivência podem ser revistas, sempre olhando o melhor interesse do filho.",
+          "Atos que dificultam o contato da criança com o outro genitor podem caracterizar alienação parental, que a Justiça pode reconhecer e corrigir (Lei 12.318/2010).",
+        ],
+      },
+      {
+        titulo: "Viagem com filhos",
+        texto: [
+          "Criança ou adolescente com menos de 16 anos não pode viajar para fora da comarca onde mora sem os pais ou responsáveis, salvo autorização (Estatuto da Criança e do Adolescente, art. 83).",
+          "Para o exterior, a viagem com só um dos pais exige autorização expressa do outro, com firma reconhecida, ou autorização judicial (Estatuto da Criança e do Adolescente, art. 84).",
+        ],
+      },
+    ],
+    faq: [
+      {
+        pergunta: "Guarda compartilhada quer dizer que a criança mora metade do tempo em cada casa?",
+        resposta: "Não necessariamente. Guarda compartilhada é dividir as decisões. A casa de referência e o tempo de convivência são definidos conforme o interesse da criança.",
+      },
+      {
+        pergunta: "Quem tem a guarda compartilhada deixa de pagar pensão?",
+        resposta: "Não. Guarda e pensão são assuntos diferentes. A pensão continua a ser definida pela necessidade do filho e pela possibilidade de quem paga.",
+      },
+      {
+        pergunta: "Posso pedir a regulamentação das visitas?",
+        resposta: "Sim. A convivência pode ser fixada por acordo ou pela Justiça, com dias, horários, férias e datas especiais.",
+      },
+    ],
+    fontes: [
+      { nome: "Código Civil, arts. 1.583, 1.584 e 1.589", url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm" },
+      { nome: "Lei da Alienação Parental (Lei 12.318/2010)", url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm" },
+      { nome: "Estatuto da Criança e do Adolescente, arts. 83 e 84", url: "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm" },
+    ],
+  },
+  {
+    slug: "advogada-de-direito-bancario-em-indaiatuba",
+    servico: "Direito Bancário",
+    area: "bancario",
+    areaNome: "Direito Bancário",
+    title: "Advogada de Direito Bancário em Indaiatuba | Flávia Vaz Rabello",
+    description:
+      "Revisão de contrato, juros abusivos, busca e apreensão de veículo, conta bloqueada e salário penhorado em Indaiatuba. Dra. Flávia Vaz Rabello, OAB 262057/SP.",
+    h1: "Advogada de direito bancário em Indaiatuba",
+    intro:
+      "Financiamento atrasado, juros que não param de crescer, conta bloqueada. Veja o que a lei diz sobre os problemas com banco que mais aparecem e o que separar antes da conversa.",
+    secoes: [
+      {
+        titulo: "Contrato com banco segue o Código do Consumidor",
+        texto: [
+          "O Código de Defesa do Consumidor se aplica às instituições financeiras (Súmula 297 do Superior Tribunal de Justiça).",
+          "Por isso, cláusulas abusivas, cobranças que não estavam no contrato e juros muito acima da média do mercado podem ser discutidos na revisão do contrato.",
+        ],
+      },
+      {
+        titulo: "Busca e apreensão do veículo financiado",
+        texto: [
+          "No financiamento com alienação fiduciária, depois da apreensão o devedor tem 5 dias para pagar a dívida pendente e receber o veículo de volta (Decreto-Lei 911/1969, art. 3º, § 2º).",
+          "O prazo para apresentar a defesa no processo é de 15 dias depois da apreensão (Decreto-Lei 911/1969, art. 3º, § 3º). Por isso, vale procurar orientação logo.",
+        ],
+      },
+      {
+        titulo: "Salário e poupança bloqueados",
+        texto: [
+          "Em regra, salário e aposentadoria não podem ser penhorados, e a poupança é protegida até 40 salários mínimos (Código de Processo Civil, art. 833, IV e X).",
+          "Quando valores protegidos são bloqueados por ordem judicial, é possível pedir o desbloqueio no processo.",
+        ],
+      },
+    ],
+    faq: [
+      {
+        pergunta: "Revisar o contrato suspende as parcelas?",
+        resposta: "Não automaticamente. Cada caso precisa ser analisado, inclusive para não piorar a situação com o atraso.",
+      },
+      {
+        pergunta: "O que levar para a primeira conversa?",
+        resposta: "Contrato, extratos, boletos, notificações recebidas do banco e, se houver processo, o número dele.",
+      },
+      {
+        pergunta: "O banco pode bloquear todo o dinheiro da conta?",
+        resposta: "O bloqueio judicial pode atingir a conta, mas salário e poupança até 40 salários mínimos são protegidos por lei e podem ser liberados.",
+      },
+    ],
+    fontes: [
+      { nome: "Súmula 297 do STJ", url: "https://scon.stj.jus.br/SCON/sumanot/toc.jsp" },
+      { nome: "Decreto-Lei 911/1969, art. 3º", url: "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0911.htm" },
+      { nome: "Código de Processo Civil, art. 833", url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm" },
+    ],
+  },
+  {
+    slug: "advogada-do-consumidor-em-indaiatuba",
+    servico: "Direito do Consumidor",
+    area: "consumidor",
+    areaNome: "Direito do Consumidor",
+    title: "Advogada do Consumidor em Indaiatuba | Flávia Vaz Rabello",
+    description:
+      "Golpe do Pix, fraude bancária, negativação indevida, voo cancelado e plano de saúde em Indaiatuba: o que diz a lei. Dra. Flávia Vaz Rabello, OAB 262057/SP.",
+    h1: "Advogada do consumidor em Indaiatuba",
+    intro:
+      "Caiu em golpe, teve o nome negativado sem dever ou ficou sem o serviço que contratou? Veja os direitos que mais aparecem e o que guardar desde o primeiro momento.",
+    secoes: [
+      {
+        titulo: "Golpe do Pix e fraude bancária",
+        texto: [
+          "O banco responde pelos danos causados por fraudes ligadas à sua própria operação, mesmo quando praticadas por terceiros (Súmula 479 do Superior Tribunal de Justiça).",
+          "Comunique o banco assim que perceber o golpe e peça a devolução pelo Mecanismo Especial de Devolução (MED) do Pix. Guarde o boletim de ocorrência, os comprovantes e as conversas.",
+        ],
+      },
+      {
+        titulo: "Voo cancelado, atrasado ou overbooking",
+        texto: [
+          "A companhia aérea deve dar assistência conforme a espera: comunicação a partir de 1 hora, alimentação a partir de 2 horas e hospedagem a partir de 4 horas, quando for preciso pernoitar (Resolução ANAC 400/2016, art. 27).",
+          "Prejuízos e transtornos podem gerar indenização, conforme o caso.",
+        ],
+      },
+      {
+        titulo: "Plano de saúde e compras",
+        texto: [
+          "Negativa de cobertura de tratamento, exame ou medicamento pode ser discutida com base no contrato e na Lei dos Planos de Saúde (Lei 9.656/1998).",
+          "Em compras fora da loja física, como internet e telefone, o consumidor pode desistir em até 7 dias do recebimento (Código de Defesa do Consumidor, art. 49).",
+        ],
+      },
+    ],
+    faq: [
+      {
+        pergunta: "Meu nome foi negativado por uma dívida que não é minha. O que fazer?",
+        resposta: "Guarde a consulta do cadastro e os comprovantes. A negativação indevida pode ser cancelada e, conforme o caso, gerar indenização.",
+      },
+      {
+        pergunta: "Qual o prazo para reclamar de produto com defeito?",
+        resposta: "30 dias para produtos não duráveis e 90 dias para duráveis (Código de Defesa do Consumidor, art. 26).",
+      },
+      {
+        pergunta: "O que guardar depois de um golpe?",
+        resposta: "Comprovantes de transferência, prints das conversas, protocolo do banco e boletim de ocorrência.",
+      },
+    ],
+    fontes: [
+      { nome: "Código de Defesa do Consumidor, arts. 26 e 49", url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm" },
+      { nome: "Súmula 479 do STJ", url: "https://scon.stj.jus.br/SCON/sumanot/toc.jsp" },
+      { nome: "Resolução ANAC 400/2016", url: "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2016/resolucao-no-400-13-12-2016" },
+      { nome: "Lei dos Planos de Saúde (Lei 9.656/1998)", url: "https://www.planalto.gov.br/ccivil_03/leis/l9656.htm" },
+    ],
+  },
+  {
+    slug: "advogada-civel-em-indaiatuba",
+    servico: "Direito Civil e Contratos",
+    area: "extrajudicial",
+    areaNome: "Assessoria Jurídica",
+    title: "Advogada Cível em Indaiatuba | Flávia Vaz Rabello",
+    description:
+      "Contratos, regularização de imóveis, usucapião, cobranças e cumprimento de sentença em Indaiatuba. Dra. Flávia Vaz Rabello, OAB 262057/SP.",
+    h1: "Advogada cível em Indaiatuba",
+    intro:
+      "Contrato que vai ser assinado, imóvel sem escritura, uma dívida que ninguém paga. Veja como a assessoria jurídica atua antes do problema e quando ele já chegou à Justiça.",
+    secoes: [
+      {
+        titulo: "Contratos: revisar antes de assinar",
+        texto: [
+          "Compra e venda, locação, prestação de serviço e sociedade: a leitura antes da assinatura evita cláusulas que geram prejuízo depois.",
+          "Quando o contrato já foi descumprido, é possível notificar a outra parte, negociar ou levar o caso à Justiça.",
+        ],
+      },
+      {
+        titulo: "Regularização de imóveis e usucapião",
+        texto: [
+          "Quem tem a posse de um imóvel por longo tempo, sem oposição, pode pedir a usucapião. O prazo geral é de 15 anos e cai para 10 se o imóvel for a moradia (Código Civil, art. 1.238).",
+          "A usucapião também pode ser feita em cartório, sem processo, com advogado (Lei de Registros Públicos, art. 216-A).",
+        ],
+      },
+      {
+        titulo: "Cobranças e cumprimento de sentença",
+        texto: [
+          "Depois de uma condenação a pagar, o devedor é intimado para pagar em 15 dias. Sem pagamento, o valor recebe multa de 10% e honorários de 10% (Código de Processo Civil, art. 523).",
+        ],
+      },
+    ],
+    faq: [
+      {
+        pergunta: "A usucapião em cartório é mais rápida?",
+        resposta: "Costuma ser, quando a documentação está completa e não há oposição de vizinhos ou do antigo dono. Cada caso precisa ser avaliado.",
+      },
+      {
+        pergunta: "Vale a pena revisar um contrato simples?",
+        resposta: "Sim, principalmente quando envolve imóvel, valores altos ou prazos longos.",
+      },
+      {
+        pergunta: "Ganhei a ação, mas a outra parte não paga. E agora?",
+        resposta: "Pede-se o cumprimento de sentença, que pode levar à penhora de bens e valores do devedor (Código de Processo Civil, arts. 523 e 831).",
+      },
+    ],
+    fontes: [
+      { nome: "Código Civil, art. 1.238", url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm" },
+      { nome: "Lei de Registros Públicos, art. 216-A", url: "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm" },
+      { nome: "Código de Processo Civil, arts. 523 e 831", url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm" },
+    ],
+  },
 ];
