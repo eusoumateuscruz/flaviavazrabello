@@ -50,7 +50,7 @@ const ROTAS_PADRAO = [
   "/areas-de-atuacao", ...AREAS.map((a) => `/areas-de-atuacao/${a}`),
   ...SERVICOS.map((s) => `/servicos/${s}`), // botoes "Saber mais" da home
   "/blog", ...BLOG.map((s) => `/blog/${s}`),
-  "/perguntas-frequentes", "/contato",
+  "/perguntas-frequentes", "/contato", "/politica-de-privacidade",
   // páginas locais "serviço + Indaiatuba" (src/lib/paginasLocais.ts)
   "/advogada-de-divorcio-em-indaiatuba",
   "/advogada-de-inventario-em-indaiatuba",
