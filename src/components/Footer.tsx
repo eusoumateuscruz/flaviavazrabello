@@ -74,7 +74,10 @@ const Footer = () => {
         <div className="mt-14 pt-8 border-t border-primary-foreground/15 flex flex-col md:flex-row gap-4 items-center justify-between text-xs text-primary-foreground/60">
           <p>OAB 262057/SP — {EMAIL}</p>
           <p>© {new Date().getFullYear()} Flávia Vaz Rabello Advocacia. Todos os direitos reservados.</p>
-          <Link to="/politica-de-privacidade" className="hover:text-accent transition-colors">Política de privacidade</Link>
+          <div className="flex items-center gap-4">
+            <Link to="/politica-de-privacidade" className="hover:text-accent transition-colors">Política de privacidade</Link>
+            <a href="/politica-de-privacidade#cookies" data-abrir-cookies="" className="hover:text-accent transition-colors">Cookies</a>
+          </div>
         </div>
       </div>
     </footer>

@@ -153,6 +153,10 @@
          pre-renderizadas, colidindo com a trilha correta que os posts declaram.
          Cada pagina que precisar de trilha declara a sua via Seo jsonLd. -->
 
+    <!-- Consentimento de cookies (LGPD, Consent Mode v2): tudo negado até a escolha no aviso. Kit ferramentas/cookies. Deve ser o primeiro script do <head>, antes do GTM. -->
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',personalization_storage:'denied',functionality_storage:'granted',security_storage:'granted',wait_for_update:500});(function(w){var V='fr-2026-10-30',c=null,f={analise:[],anuncios:[]};try{c=JSON.parse(localStorage.getItem('consentimento'));var v=new Date(c.data);v.setMonth(v.getMonth()+6);if(!c||c.versao!==V||!(v>new Date()))c=null}catch(e){c=null}w.consentimento=c?{analise:!!c.analise,anuncios:!!c.anuncios}:null;if(c){var a=c.analise?'granted':'denied',n=c.anuncios?'granted':'denied';gtag('consent','update',{analytics_storage:a,ad_storage:n,ad_user_data:n,ad_personalization:n})}w.comConsentimento=function(k,fn){if(w.consentimento&&w.consentimento[k])fn();else f[k].push(fn)};w.liberarConsentimento=function(a,n){w.consentimento={analise:a,anuncios:n};if(a)f.analise.splice(0).forEach(function(g){g()});if(n)f.anuncios.splice(0).forEach(function(g){g()})}})(window);</script>
+    <style>:root{--ck-fundo:hsl(36 21% 95%);--ck-tinta:hsl(92 22% 24%);--ck-tinta-2:hsl(0 0% 30%);--ck-linha:hsl(36 14% 80%);--ck-destaque:hsl(92 22% 24%);--ck-destaque-tinta:hsl(36 21% 95%);--ck-fonte:"Jost",system-ui,sans-serif;--ck-raio:0.25rem}</style>
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -175,7 +179,7 @@
        pagina e sem duplicata. twitter:card e twitter:image continuam abaixo:
        definem o formato do card e a imagem padrao, que nao variam por pagina. -->
 <!-- Microsoft Clarity (projeto yuoiw5ucfb): gravação de sessões e mapa de cliques -->
-    <script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "yuoiw5ucfb");</script>
+    <script type="text/javascript">comConsentimento('analise',function(){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "yuoiw5ucfb");});</script>
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -184,5 +188,6 @@
     <!-- End Google Tag Manager (noscript) -->
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    <script src="/assets/aviso-cookies.js" defer data-versao="fr-2026-10-30" data-politica="/politica-de-privacidade#cookies" data-analise="Google Analytics e Microsoft Clarity" data-anuncios="Google Ads e Meta, se forem ativados"></script>
   </body>
 </html>

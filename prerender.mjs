@@ -139,6 +139,14 @@ for (const rota of rotas) {
   const html = await pagina.evaluate((chunks) => {
     // Marca que este HTML foi pre-renderizado, para diagnostico futuro.
     document.documentElement.setAttribute("data-prerendered", "true");
+    // O aviso de cookies e as ferramentas de medição só entram no navegador de quem visita,
+    // depois da escolha. O que ficou no DOM durante a renderização não pode ir para o HTML gravado.
+    document.getElementById("aviso-cookies")?.remove();
+    document.querySelectorAll("style").forEach((e) => { if ((e.textContent || "").startsWith("#aviso-cookies{")) e.remove(); });
+    document.querySelectorAll("script[src]").forEach((e) => {
+      const u = e.getAttribute("src") || "";
+      if (u.includes("clarity.ms") || u.includes("googletagmanager.com/gtm.js")) e.remove();
+    });
     for (const href of chunks) {
       const l = document.createElement("link");
       l.rel = "modulepreload";
